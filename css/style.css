@@ -1,0 +1,48 @@
+#adzerk_by {display:none}
+
+	/* vert */
+	.carbonad {background-color:#FBFBFB;border:2px solid #E8E8E8;height:215px;line-height:1.2;width:150px;}
+	.carbonad-img {float:left;height:100px;margin-left:11px;margin-top:11px;width:130px;}
+	.carbonad-text {color:#545454;float:left;font-family:Arial,Helvetica,sans-serif;font-size:11px;font-weight:normal;height:50px;margin-left:15px;margin-top:9px;width:119px;}
+	.carbonad-text a {color: #545454;text-decoration: none;font-weight: bold;}
+	.carbonad-tag {color:#999999;float:left;font-family:Arial,Helvetica,sans-serif;font-size:11px;font-weight:normal;margin-left:17px;margin-top:15px;padding-top:5px;}
+	.carbonad-tag a {color: #999999;text-align: center;text-decoration: none;font-weight: bold;}
+
+
+.sidebar li {
+	margin: 0 0px 10px;
+	padding: 0;
+	line-height: 18px; 
+	color: rgb(68, 68, 68); 
+	text-indent: 0;
+	display: block;
+
+}
+
+.sidebar a {
+	margin: 0;
+	padding: 0;
+	 border: 0 none;
+	 font-family: inherit; 
+	 font-size: 14px; 
+	 font-weight: bold;
+	 color: rgb(85, 85, 85); 
+	 text-decoration: none; 
+}
+
+.columns {
+
+	min-height: 1px;
+}
+
+.logos {
+	text-align: right;
+}
+
+#logohacklab {
+	text-align: right;
+}
+
+#logohacklab img {
+	width: 120px;
+}

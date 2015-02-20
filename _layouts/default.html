@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<!-- hecho con Skeleton -->
+<html lang="es">
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <!-- Basic Page Needs
+	================================================== -->
+    <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.name }}</title>
+    <meta name="description" content="">
+    <!-- Diseño original de Manolo Ruiz @manoloruiz -->
+    <meta name="author" content="Ismael Olea">
+    <!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>		<![endif]-->
+    <!-- Mobile Specific Metas
+	================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <!-- CSS
+	================================================== -->
+    <link rel="stylesheet" href="{{ site.url }}/css/base.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/skeleton.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/layout.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/docs.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/style.css">
+    <!-- Favicon
+	================================================== -->
+    <link rel="shortcut icon" href="{{ site.url }}/css/favicon.ico">
+  </head>
+  <body>
+    <div class="container">
+      <div class="three columns sidebar">
+        <nav>
+          <ul>
+            <li><a href="#descripcion">Descripción </a></li>
+            <li><a href="#programa" >Programa </a></li>
+            <li><a href="#localizacion">Localización </a></li>
+          </ul>
+          <div class="logos">&nbsp; <a href="#logotipos"> </a> <br>
+            <a href="http://hacklabalmeria.net"><img
+              alt="HackLab Almería" src="{{ site.url }}/recursos/logo-hl-96x96.png">
+            </a>
+
+            <a href=""><img 
+                alt="#GenteQueHaceCosas" src="{{ site.url }}/recursos/GenteQueHaceCosas-160x40.png">
+            </a>
+
+          </div>
+        </nav>
+        </div>
+      <div class="twelve columns offset-by-one content">
+        <header>
+          <h1>HackLab Almería</h1>
+        </header>
+        <section>
+        {{ content }}
+        </section>        
+        <hr class="large">
+      </div>
+      <hr>
+      <div id="logohacklab"><a href="http://hacklabalmeria.net/">
+          <img   alt="logotipo del HackLab Almería" src="{{ site.url }}/recursos/logo-225x225.png"></a></div>
+      <p> </p>
+      <!-- content -->
+      <!-- container -->
+      <!-- JS
+		================================================== -->
+
+      <!-- Google Analytics -->
+      <script type="text/javascript">
+
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-33397759-1']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+
+		</script>
+      <script type="text/javascript">
+		var _gauges = _gauges || [];
+		(function() {
+			var t   = document.createElement('script');
+			t.type  = 'text/javascript';
+			t.async = true;
+			t.id    = 'gauges-tracker';
+			t.setAttribute('data-site-id', '4d806d7410cafd7fa4000011');
+			t.src = '//secure.gaug.es/track.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(t, s);
+		})();
+		</script> </div>
+  </body>
+</html>
