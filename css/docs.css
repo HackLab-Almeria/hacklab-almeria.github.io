@@ -220,7 +220,7 @@
 		nav { position: relative; }
 		nav ul,
 		.carbonad {
-				display: none;
+			/*	display: none; // No queremos que desaparezca el menú en móvil, ya pondremos algo para esconder / mostrar */
 		}
 		#logo { text-align: left; }
 		#examples .four.columns {
