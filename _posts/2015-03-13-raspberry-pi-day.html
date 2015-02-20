@@ -1,0 +1,80 @@
+---
+layout: default
+title: Raspberry Pi Day
+category: evento
+time: 19:00 a 21:30
+program:
+  - time: '19:00-19:15'
+    title: 'Presentaciones'
+
+  - time: '19:15-19:30'
+    title: '¿Qué es la Raspberry Pi?'
+    author: 'Rubén'
+
+  - time: '19:30-19:45'
+    title: 'Conectando un mando de SNES a la Pi'
+    author: 'Miguel Ángel López'
+    twitter: 'MiguelAngel_LV'
+---
+
+<h1>{{ page.title }}</h1>
+<h2>{{ page.date | date_to_long_string }} / Almería </a></h2>
+
+
+<hr class="large">
+<div class="doc-section" id="descripcion">
+    <h3>DESCRIPCIÓN</h3>
+
+
+
+
+    <hr>
+
+    <div class="doc-section clearfix" id="programa">
+        <h3>¿DE QUÉ HABLAREMOS?</h3>
+
+    </div>
+    <hr>
+    <div class="doc-section clearfix" id="programa">
+        <h3>PROGRAMA</h3>
+
+        <table class="charla">
+           {%for a in page.program %}
+            <tr>
+                <td>{{a.time}}</td>
+                <td>
+                    {{a.title}}
+                    {% if a.author %}
+                        <strong> -
+                            {% if a.twitter %}
+                                <a href="http://twitter.com/{{a.twitter}}}">{{a.author}}</a>
+                            {% else %}
+                                {{a.author}}
+                            {% endif %}
+
+                        </strong>
+                    {% endif %}
+                </td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+    <hr>
+    <h3>DESPUÉS DEL EVENTO</h3>
+
+    <p>Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cercanías, perfecto para ir
+        conociéndonos más entre nosotros</p>
+    <hr>
+    <div class="doc-section clearfix" id="localizacion">
+        <h3>LOCALIZACIÓN</h3>
+        <ul class="square">
+            <li>Lugar:
+                <strong><a href="http://bit.ly/RealTrackSystems">Realtrack Systems, Calle Guinea Nº 2</a></strong>,
+                Almería capital.
+            </li>
+            <li>Fecha: <strong>{{page.date | date_to_long_string}}</strong></li>
+            <li>Hora: <strong>de {{page.time}}</strong></li>
+        </ul>
+    </div>
+</div>
+</div>
