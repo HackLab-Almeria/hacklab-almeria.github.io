@@ -1,0 +1,22 @@
+---
+layout: default
+title: Foro
+---
+
+
+<div id="discourse"></div>
+
+<script type="text/javascript">
+
+
+    var iframe = document.createElement('iframe');
+    iframe.src = "http://discourse.hacklabalmeria.bitnamiapp.com/";
+    iframe.id = 'discourse-embed-frame';
+    iframe.width = "100%";
+    iframe.frameBorder = "0";
+    iframe.scrolling = "no";
+
+    var discourse = document.getElementById("discourse")
+    discourse.appendChild(iframe);
+
+</script>
