@@ -275,3 +275,11 @@
 	}
 
 
+
+.imgLeft {
+    float: left;
+    border-right: solid 1px darkgray;
+    padding-right: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+}
