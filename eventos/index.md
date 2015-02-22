@@ -3,10 +3,7 @@ layout: default
 title: Eventos
 ---
 
-## Eventos
-
-
-### Próximos eventos
+## Próximos eventos
 
 {% assign curDate = site.time | date: '%s' %}
 
@@ -19,7 +16,7 @@ title: Eventos
 {% endfor %}
 </ul>
 
-### Eventos pasados
+## Eventos pasados
 
 <ul>
 {% for post in site.posts %}
