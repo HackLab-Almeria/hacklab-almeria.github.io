@@ -116,6 +116,9 @@
 	ul.large li { line-height: 21px; }
 	li p { line-height: 21px; }
 
+    article li {list-style: square outside; }
+    article ul {padding-left: 40px; }
+
 /* #Images
 ================================================== */
 
