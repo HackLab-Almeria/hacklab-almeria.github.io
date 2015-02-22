@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Evento de prueba
-date: Febrero 2, 2015
+subtitle: 2 de Febrero de 2015 / Almería
 category: evento
 ---
 
@@ -38,7 +38,7 @@ Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cer
 ### LOCALIZACIÓN
 
 * Lugar: [Realtrack Systems, Calle Guinea Nº 2][2], Almería capital.
-* Fecha: **13 March 2015**
+* Fecha: **13 Marzo 2015**
 * Hora: **de 19:00 a 21:30**
 
 [1]: http://twitter.com/MiguelAngel_LV
