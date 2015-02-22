@@ -2,8 +2,9 @@
 layout: default
 ---
 <article>
-<h2>{{page.title}}</h2>
-<p>{{page.date | date: "%B %e, %Y"}}</p>
-<hr/>
-{{content}}
+<h2 style="text-transform: uppercase">{{ page.title }}</h2>
+<br>
+<h4>{{ page.subtitle }}</h4>
+<hr class="large">
+{{ content }}
 </article>
