@@ -12,8 +12,8 @@
 .sidebar li {
 	margin: 0 0px 10px;
 	padding: 0;
-	line-height: 18px; 
-	color: rgb(68, 68, 68); 
+	line-height: 18px;
+	color: rgb(68, 68, 68);
 	text-indent: 0;
 	display: block;
 
@@ -23,11 +23,11 @@
 	margin: 0;
 	padding: 0;
 	 border: 0 none;
-	 font-family: inherit; 
-	 font-size: 14px; 
+	 font-family: inherit;
+	 font-size: 14px;
 	 font-weight: bold;
-	 color: rgb(85, 85, 85); 
-	 text-decoration: none; 
+	 color: rgb(85, 85, 85);
+	 text-decoration: none;
 }
 
 .columns {
@@ -39,6 +39,11 @@
 	text-align: right;
 }
 
+.logo {
+	width: 180px;
+	margin-bottom: 50px;
+}
+
 #logohacklab {
 	text-align: right;
 }
@@ -46,3 +51,13 @@
 #logohacklab img {
 	width: 120px;
 }
+footer .container{padding:20px 0 10px 0;}
+footer{
+	background:#f05a28;
+	color:#fff;
+}
+.columns.right{text-align:right;}
+
+ul.horizontal{text-align:center;}
+ul.horizontal li{display:inline;padding:0 5px;}
+header h2{margin-bottom:40px;}

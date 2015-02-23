@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<!-- hecho con Skeleton -->
+<html lang="es">
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+
+    <!-- Atom / RSS-->
+    <link rel="alternate" type="application/atom+xml" title="Eventos" href="{{site.url}}/atom.xml" />
+
+      <!-- Basic Page Needs
+      ================================================== -->
+    <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.name }}</title>
+    <meta name="description" content="">
+    <!-- Diseño original de Manolo Ruiz @manoloruiz -->
+    <meta name="author" content="Ismael Olea">
+    <!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>		<![endif]-->
+    <!-- Mobile Specific Metas
+	================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <!-- CSS
+	================================================== -->
+    <link rel="stylesheet" href="{{ site.url }}/css/base.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/skeleton.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/layout.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/docs.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/style.css">
+
+    <!-- Favicon
+	================================================== -->
+      <link rel="apple-touch-icon" sizes="57x57" href="{{site.url}}/recursos/favicons/apple-icon-57x57.png">
+      <link rel="apple-touch-icon" sizes="60x60" href="{{site.url}}/recursos/favicons/apple-icon-60x60.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="{{site.url}}/recursos/favicons/apple-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="76x76" href="{{site.url}}/recursos/favicons/apple-icon-76x76.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="{{site.url}}/recursos/favicons/apple-icon-114x114.png">
+      <link rel="apple-touch-icon" sizes="120x120" href="{{site.url}}/recursos/favicons/apple-icon-120x120.png">
+      <link rel="apple-touch-icon" sizes="144x144" href="{{site.url}}/recursos/favicons/apple-icon-144x144.png">
+      <link rel="apple-touch-icon" sizes="152x152" href="{{site.url}}/recursos/favicons/apple-icon-152x152.png">
+      <link rel="apple-touch-icon" sizes="180x180" href="{{site.url}}/recursos/favicons/apple-icon-180x180.png">
+      <link rel="icon" type="image/png" sizes="192x192"  href="{{site.url}}/recursos/favicons/android-icon-192x192.png">
+      <link rel="icon" type="image/png" sizes="32x32" href="{{site.url}}/recursos/favicons/favicon-32x32.png">
+      <link rel="icon" type="image/png" sizes="96x96" href="{{site.url}}/recursos/favicons/favicon-96x96.png">
+      <link rel="icon" type="image/png" sizes="16x16" href="{{site.url}}/recursos/favicons/favicon-16x16.png">
+      <link rel="manifest" href="{{site.url}}/recursos/favicons/manifest.json">
+      <meta name="msapplication-TileColor" content="#ffffff">
+      <meta name="msapplication-TileImage" content="{{site.url}}/recursos/favicons/ms-icon-144x144.png">
+      <meta name="theme-color" content="#ffffff">
+
+
+
+
+
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <img src="{{ site.url }}/recursos/logo-225x225.png" alt="hacklab_almería" class="logo" />
+        <h1>#GenteQueHaceCosas</h1>
+        <h2>Somos un colectivo de diferentes disciplinas (desarrolladores, CEO, diseñadores, periodistas...) unidos por la pasión a las nuevas tecnologías. Nos gusta experimentar con ellas aplicándolas al arte, la ciencia y la cultura contemporánea.</h2>
+      </header>
+
+          <ul class="horizontal">
+            <li><a href="http://discourse.hacklabalmeria.bitnamiapp.com/" class="button">Foro de trabajo</a></li>
+            <li><a href="{{ site.url }}/calendario" class="button">Calendario</a></li>
+            <li><a href="{{ site.url }}/eventos" class="button">Eventos</a></li>
+            <li><a href="{{ site.url }}/eventosespeciales" class="button">Eventos especiales</a></li>
+            <li><a href="{{ site.url }}/gruposdetrabajo" class="button">Grupos de trabajo</a></li>
+            <li><a href="{{ site.url }}/entidades" class="button">Entidades colaboradoras</a></li>
+            <li><a href="http://redmine.hacklabalmeria.net" class="button">Redmine</a></li>
+          </ul>
+        <hr class="large">
+    </div>
+    <div class="container">
+      <div class="three columns offset-by-one sidebar">
+        <a href="{{ site.url }}/gruposdetrabajo" title="Grupos de trabajo"><img src="{{ site.url }}/recursos/comunidades.png" title="Comunidades" /></a>
+      </div>
+      <div class="ten columns offset-by-one">
+        <h3>Hacklab Almería</h3>
+        <p>En HackLab todos nos nutrimos de todos, compartiendo información e ideas. Es el lugar perfecto donde experimentar y hacer realidad proyectos nuevos por medio de grupos de trabajo, poniendo en contacto a expertos en diferentes materias.</p>
+        <p><a href="{{ site.url }}/gruposdetrabajo" class="button" title="Grupos de trabajo">Grupos de trabajo</a></p>
+        <p>Organizamos con frecuencia talleres y reuniones sobre diversos temas, como Arduino, drones, agrotecnología, periodismo de datos o realidad aumentada.</p>
+        <p><a href="{{ site.url }}/calendario" class="button">Ver calendario de actividades</a></p>
+      </div>
+    </div>
+    <div class="container">
+      <div class="three columns offset-by-one sidebar">
+        <a href="http://discourse.hacklabalmeria.bitnamiapp.com/" title="Entrar al foro"><img src="{{ site.url }}/recursos/foro.png" title="Foro" /></a>
+      </div>
+      <div class="ten columns offset-by-one">
+        <h3>Únete</h3>
+        <p>Estamos abiertos a colaborar con entidades que compartan las mismas inquietudes e invitamos a todas las personas entusiastas y activas a unirse a HackLab, aportando proyectos, recursos, información y formación.</p>
+        <p>Encuentra en el foro un grupo de trabajo que te interese o créalo. Estamos deseando escucharte.</p>
+        <p><a href="http://discourse.hacklabalmeria.bitnamiapp.com/" class="button" title="Entrar al foro">Entrar al foro</a></p>
+      </div>
+    </div>
+    <div class="container">
+      <div class="three columns offset-by-one sidebar">
+        <a href="{{ site.url }}/eventos" title="Agenda de actividades"><img src="{{ site.url }}/recursos/agenda.png" /></a>
+      </div>
+      <div class="ten columns offset-by-one">
+        <h3>Eventos</h3>
+        <p>Estamos abiertos a colaborar con entidades que compartan las mismas inquietudes e invitamos a todas las personas entusiastas y activas a unirse a HackLab, aportando proyectos, recursos, información y formación.</p>
+        <h5><strong>Próximos eventos</strong></h5>
+{% assign curDate = site.time | date: '%s' %}
+<ul>
+{% for post in site.posts %}
+    {% assign date = post.date | date: '%s' %}
+    {% if date >= curDate %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+        <p><a href="{{ site.url }}/eventos" class="button">Ver todos los eventos</a></p>
+      </div>
+    </div>
+
+    <footer>
+      <div class="container">
+        <div class="eight columns">
+          HackLab Almería 2015 ¿¿Licencia??
+        </div>
+        <div class="eight columns right">
+                <a href="https://es-es.facebook.com/HackLabAlmeria" title="Facebook de HackLab Almería">
+                <img src="{{ site.url }}/recursos/facebook.png" width="30" alt="Facebook de HackLab Almería"></a>
+                <a href="https://twitter.com/HackLabAl" title="Twitter de HackLab Almería">
+                <img src="{{ site.url }}/recursos/twitter.png" width="30" alt="Twitter de HackLab Almería"></a>
+                <a href="https://plus.google.com/+HacklabalmeriaNet" rel="publisher" title="G+ de HackLab Almería">
+                <img src="{{ site.url }}/recursos/google.png" width="30" alt="G+ de HackLab Almería"></a>
+                <a href="https://github.com/HackLab-Almeria" title="GitHub de HackLab Almería">
+                <img src="{{ site.url }}/recursos/git.png" width="30" alt="GitHub de HackLab Almería"></a>
+        </div>
+      </div>
+    </footer>
+
+
+      <!-- Google Analytics -->
+      <script type="text/javascript">
+
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-33397759-1']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+
+		</script>
+      <script type="text/javascript">
+		var _gauges = _gauges || [];
+		(function() {
+			var t   = document.createElement('script');
+			t.type  = 'text/javascript';
+			t.async = true;
+			t.id    = 'gauges-tracker';
+			t.setAttribute('data-site-id', '4d806d7410cafd7fa4000011');
+			t.src = '//secure.gaug.es/track.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(t, s);
+		})();
+		</script> </div>
+  </body>
+</html>
