@@ -1,4 +1,6 @@
-name: HackLab Almería
+name: HackLab Almería 
+domain: hacklab-almeria.github.io
+email: contact@hacklabalmeria.net
 
 # Conversion
 highlighter: pygments
