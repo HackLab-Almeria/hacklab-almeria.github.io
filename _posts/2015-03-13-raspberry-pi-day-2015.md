@@ -16,13 +16,13 @@ nosotros queremos poner nuestro granito de arena desde Almería.
 
 Mostramos las posibilidades que ofrece el pequeño PC de 35$, en especial el nuevo modelo lanzado recientemente.
 También explicaremos como realizar instalación de un SO en el PC así como las distintas distribuciones que hay
-listas para instalar, como _centros multimedia_ o _estaciones de juego_.
+listas para instalar, como _centros multimedia_ o _estaciones de juego_. Se recomienda traer tu Propia _Raspberry Pi_ Ya que haremos una sesión práctica.
 
 ---
 
 ### PROGRAMA
 
-| 19:00-19:15   | Presentaciones  |
+| 19:00-19:15   | Presentaciones - Ruben  |
 | 19:15-19:30   | ¿Qué es la Raspberry Pi? - [Víctor Suárez][3] |
 | 19:30-20:00   | Primeros pasos con Raspberry Pi Raspbian con NOOBS - [Víctor Suárez][3] |
 | 20:00-20:15   | Internet de las cosas: Raspberry Pi con Arduino -  [Víctor Suárez][3] |
