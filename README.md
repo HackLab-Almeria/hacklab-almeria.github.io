@@ -1,3 +1,5 @@
+![Build Status](https://travis-ci.org/HackLab-Almeria/hacklab-almeria.github.io.svg?branch=master)
+
 # Web del Hacklab Almería
 
 
