@@ -3,8 +3,12 @@
 <html lang="es">
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
-    <!-- Basic Page Needs
-	================================================== -->
+
+    <!-- Atom / RSS-->
+    <link rel="alternate" type="application/atom+xml" title="Eventos" href="{{site.url}}/atom.xml" />
+
+      <!-- Basic Page Needs
+      ================================================== -->
     <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.name }}</title>
     <meta name="description" content="">
     <!-- Diseño original de Manolo Ruiz @manoloruiz -->
@@ -21,6 +25,7 @@
     <link rel="stylesheet" href="{{ site.url }}/css/layout.css">
     <link rel="stylesheet" href="{{ site.url }}/css/docs.css">
     <link rel="stylesheet" href="{{ site.url }}/css/style.css">
+
     <!-- Favicon
 	================================================== -->
     <link rel="shortcut icon" href="{{ site.url }}/css/favicon.ico">
