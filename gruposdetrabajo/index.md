@@ -16,5 +16,5 @@ title: Grupos de trabajo
 * Grupo de estudio de OpenERP / Odoo
 * GeoinquietosALM
 
-[1]: http://aldato.hacklabalmeria.net
+[1]: http://www.aldato.es/
 [2]: https://plus.google.com/u/0/communities/105420979515011141876
