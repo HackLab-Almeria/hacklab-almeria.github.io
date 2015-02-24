@@ -9,4 +9,21 @@ layout: portada
         <hr class="large">
         {{ content }}
     </article>
+
+    <hr class="large" />
+
+    <div id="discourse-comments"></div>
 </div>
+
+
+
+<script type="text/javascript">
+    var discourseUrl = "http://discourse.hacklabalmeria.bitnamiapp.com/",
+            discourseEmbedUrl = 'http://{{site.domain}}{{page.url}}';
+
+    (function() {
+        var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+        d.src = discourseUrl + 'javascripts/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+    })();
+</script>
