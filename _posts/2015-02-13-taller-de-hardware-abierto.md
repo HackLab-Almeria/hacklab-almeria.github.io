@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taller de Hardware Abierto
+title: Taller de Hardware Abierto, 13/02/2015
 subtitle: 13 de Febrero del 2015 / Almería
 category: evento
 ---
