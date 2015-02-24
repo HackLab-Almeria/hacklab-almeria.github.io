@@ -13,11 +13,11 @@
 	@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 	
 	body{
-
+        padding-top: 60px;
 	}
 	
 	div.container {
-		padding-top: 60px; 
+		/*padding-top: 60px;*/
 		font-family: 'Montserrat', sans-serif;
 }
 
