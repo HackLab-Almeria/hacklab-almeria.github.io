@@ -23,10 +23,9 @@ listas para instalar, como _centros multimedia_ o _estaciones de juego_. Se reco
 ### PROGRAMA
 
 | 19:00-19:15   | Presentaciones - Ruben  |
-| 19:15-19:30   | ¿Qué es la Raspberry Pi? - [Víctor Suárez][3] |
-| 19:30-20:00   | Primeros pasos con Raspberry Pi Raspbian con NOOBS - [Víctor Suárez][3] |
-| 20:00-20:15   | Internet de las cosas: Raspberry Pi con Arduino -  [Víctor Suárez][3] |
-| 20:15-20:30 	| Conectando un mando de SNES a la Pi - [Miguel Ángel López][1] |
+| 19:15-19:30   | ¿Qué es la Raspberry Pi? - [Víctor Suárez][2] |
+| 19:30-20:00   | Primeros pasos con Raspberry Pi Raspbian con NOOBS - [Víctor Suárez][2] |
+| 20:00-20:15   | Internet de las cosas: Raspberry Pi con Arduino -  [Víctor Suárez][2] |
 
 ---
 
@@ -38,10 +37,9 @@ Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cer
 
 ### LOCALIZACIÓN
 
-* Lugar: [Escuela de Artes de Almería][2], Almería capital.
+* Lugar: [Escuela de Artes de Almería][1], Almería capital.
 * Fecha: **14 Marzo 2015**
 * Hora: **de 19:00 a 21:30**
 
-[1]: http://twitter.com/MiguelAngel_LV
-[2]: http://bit.ly/escuelaartesalmeria
-[3]: http://twitter.com/zerasul
+[1]: http://bit.ly/escuelaartesalmeria
+[2]: http://twitter.com/zerasul
