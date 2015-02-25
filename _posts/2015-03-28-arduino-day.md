@@ -2,7 +2,7 @@
 layout: post
 title: Arduino Day 2015
 subtitle: 28 de Marzo de 2015 / Almería
-category: evento
+category: actividades
 ---
 
 ### DESCRIPCIÓN

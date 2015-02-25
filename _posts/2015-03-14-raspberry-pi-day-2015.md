@@ -2,7 +2,7 @@
 layout: post
 title: Raspberry Pi Day 2015
 subtitle: 14 de Marzo de 2015 / Almería
-category: evento
+category: actividades
 ---
 
 ### DESCRIPCIÓN
