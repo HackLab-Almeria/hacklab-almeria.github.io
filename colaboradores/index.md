@@ -4,8 +4,9 @@ title: Colaboradores
 ---
 
 Nuestras actividades no serían posibles sin el apoyo de estas organizaciones:
+
 ---
-   
+
 * [Escuela de Arte de Almería][1]
 * [RealTrack Systems][2]
 * [La Oficina Cultural][3]
