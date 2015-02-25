@@ -76,6 +76,15 @@
 		}
 
 
+    article ul {
+        padding-left: 20px;
+        list-style: square outside none;
+    }
+
+    article ul li {
+        padding-left: 10px;
+    }
+
 	hr.large {
 		border: none;
 		height: 8px;
@@ -188,7 +197,7 @@
 		right: 0;
 		height: 80px;
 		width: 80px;
-		background: url(images/resize.png); }
+		/*background: url(images/resize.png);*/ }
 
 
 	img {
