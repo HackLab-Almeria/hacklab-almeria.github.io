@@ -22,7 +22,7 @@ Para instalar [Jekyll][1] en el sistema de Microsoft puedes seguir [este tutoria
 
 #### Mac OS X
 
-_Próximamente_
+Puede instalarse usando las _gems_ de _ruby_, `gems install jekyll`. Requiere las [Command Line Tools de XCode][4].
 
 ### ¿Cómo usar Jekyll?
 
@@ -55,3 +55,4 @@ Si necesitan modificar el CSS:  `Administrar -> Personalizar -> CSS/HTML -> Esti
 [1]: http://jekyllrb.com
 [2]: http://es.wikipedia.org/wiki/Markdown
 [3]: http://jekyll-windows.juthilo.com
+[4]: http://railsapps.github.io/xcode-command-line-tools.html
