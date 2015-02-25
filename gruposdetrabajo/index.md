@@ -1,9 +1,14 @@
 ---
-layout: default
+layout: section
 title: Grupos de trabajo
 ---
 
-## Grupos de trabajo
+En HackLab todos nos nutrimos de todos, compartiendo información e ideas. Es
+el lugar perfecto donde experimentar y hacer realidad proyectos nuevos por
+medio de grupos de trabajo, poniendo en contacto a expertos en diferentes
+materias.
+
+---
 
 * [Periodismo de datos: Al-Dato][1]
 * Taller de hardware abierto
