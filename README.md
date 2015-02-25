@@ -16,7 +16,7 @@ Para las tareas de construcción, el encargado será **[Jekyll][1]**.
 
 #### GNU/Linux
 
-En distribuciones basadas en _Debian_ bastará un `apt-get install jekyll`. Como normal general, siempre se puede instalar usando las _gems_ de _Ruby_, `gems install jekyll`.
+En distribuciones basadas en _Debian_ bastará un `apt-get install jekyll`. Como norma general siempre se puede instalar usando las _gems_ de _Ruby_, `gem install jekyll`.
 
 #### Windows
 
