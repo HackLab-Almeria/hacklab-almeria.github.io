@@ -36,6 +36,8 @@ Para crear un nuevo evento, debes copiar unas de las plantillas del directorio `
 2014-03-29-dia-arduino.md
 ```
 
+Para poder ver los borradores, deberás ejecutar Jekyll en modo draft con `jekyll serve --drafts`
+
 Una vez hayas terminado el evento y quieras _publicarlo_, símplemente debes moverlo a la carpeta `_posts`. 
 
 ```
