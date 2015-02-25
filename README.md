@@ -1,4 +1,4 @@
-![Build Status](https://travis-ci.org/HackLab-Almeria/hacklab-almeria.github.io.svg?branch=master)
+[![Build Status](https://travis-ci.org/HackLab-Almeria/hacklab-almeria.github.io.svg?branch=master)](https://travis-ci.org/HackLab-Almeria/hacklab-almeria.github.io)
 
 # Web del Hacklab Almería
 
