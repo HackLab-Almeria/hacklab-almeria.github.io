@@ -2,7 +2,7 @@
 
 # Web del Hacklab Almería
 
-© HackLab Almería y respectivos autores 2015, licencia [Attribution 4.0 International (CC BY 4.0)][5]  ![Attribution 4.0 International (CC BY 4.0)](http://i.creativecommons.org/l/by/4.0/88x31.png "Attribution 4.0 International (CC BY 4.0)")[5]
+© HackLab Almería y respectivos autores 2015, licencia [Attribution 4.0 International (CC BY 4.0)][5]  [![Attribution 4.0 International (CC BY 4.0)](http://i.creativecommons.org/l/by/4.0/88x31.png "Attribution 4.0 International (CC BY 4.0)")][5]
 
 Este es el repositorio de la nueva web del Hacklab Almería, creada mediante [Jekyll][1], [Markdown][2] y `HTML/CSS`.
 
