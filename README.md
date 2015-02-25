@@ -43,6 +43,15 @@ Una vez hayas terminado el evento y quieras _publicarlo_, símplemente debes mov
 │   ├── 2014-03-29-dia-arduino.md
 ```
 
+### ¿Cómo se modifica el menú del foro?
+
+Sólo podrán hacerlos aquellos con permisos de **Administración**.
+
+Deberán ir a: `Administrar -> Personalizar -> Contenido de Texto -> Encabezado de página`
+
+Si necesitan modificar el CSS:  `Administrar -> Personalizar -> CSS/HTML -> Estilo Hacklab`
+
+
 [1]: http://jekyllrb.com
 [2]: http://es.wikipedia.org/wiki/Markdown
 [3]: http://jekyll-windows.juthilo.com
