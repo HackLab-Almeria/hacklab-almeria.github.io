@@ -2,8 +2,6 @@
 
 # Web del Hacklab Almería
 
-© HackLab Almería y respectivos autores 2015, licencia [Attribution 4.0 International (CC BY 4.0)][5]  [![Attribution 4.0 International (CC BY 4.0)](http://i.creativecommons.org/l/by/4.0/88x31.png "Attribution 4.0 International (CC BY 4.0)")][5]
-
 Este es el repositorio de la nueva web del Hacklab Almería, creada mediante [Jekyll][1], [Markdown][2] y `HTML/CSS`.
 
 ### ¿Cómo está construida?
@@ -38,6 +36,8 @@ Para crear un nuevo evento, debes copiar unas de las plantillas del directorio `
 2014-03-29-dia-arduino.md
 ```
 
+Para poder ver los borradores, deberás ejecutar Jekyll en modo draft con `jekyll serve --drafts`
+
 Una vez hayas terminado el evento y quieras _publicarlo_, símplemente debes moverlo a la carpeta `_posts`. 
 
 ```
@@ -52,6 +52,12 @@ Sólo podrán hacerlos aquellos con permisos de **Administración**.
 Deberán ir a: `Administrar -> Personalizar -> Contenido de Texto -> Encabezado de página`
 
 Si necesitan modificar el CSS:  `Administrar -> Personalizar -> CSS/HTML -> Estilo Hacklab`
+
+### Licencia
+
+© HackLab Almería y respectivos autores 2015.  
+Licencia [Attribution 4.0 International (CC BY 4.0)][5]  
+[![Attribution 4.0 International (CC BY 4.0)](http://i.creativecommons.org/l/by/4.0/88x31.png "Attribution 4.0 International (CC BY 4.0)")][5]
 
 
 [1]: http://jekyllrb.com

@@ -76,12 +76,12 @@
 		}
 
 
-    article ul {
+    .container ul {
         padding-left: 20px;
         list-style: square outside none;
     }
 
-    article ul li {
+    .container ul li {
         padding-left: 10px;
     }
 
