@@ -48,30 +48,33 @@ title: HackLab Almería
         <p>Encuentra en el foro un grupo de trabajo que te interese o créalo. Estamos deseando oir tus propuestas.</p>
         <p>
         <h5><strong>Últimos Mensajes</strong></h5>
-         <div id="prueba">
+         <div id="ultimosmensajes">
         </div><p>
         <p><a href="http://discourse.hacklabalmeria.bitnamiapp.com/" class="button" title="Entrar al foro">Entrar al foro</a></p>
     </div>
    
 </div>
 <script type="text/javascript">
+    var discourseUrl = "http://discourse.hacklabalmeria.bitnamiapp.com/"
+
     function readForoRss(e){
-        $.ajax({url:'http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=5&q=http://discourse.hacklabalmeria.bitnamiapp.com/latest.rss',
+        $.ajax({url:'http://json2jsonp.com/?url='+discourseUrl+'latest.json?max_posts=1',
             dataType: 'jsonp',
             success:function(data){
                 console.log(data);
             var elemento='<ul>'
-            $.each(data.responseData.feed.entries,function(index,element){
-                elemento += '<li><a href='+element.link+'>'+element.title+'</a> - '+element.author+'</li>';
+            $.each(data.topic_list.topics,function(index,element){
+                elemento += '<li><a href='+discourseUrl + 't/'+ element.slug +'/'+element.id+'>'+element.title+'</a> - '+element.last_poster_username+'</li>';
                 
             });
             elemento+='</ul>';
             $(e).append(elemento);
         }});
     }
-</script>
-<script type="text/javascript">
+
     document.addEventListener('DOMContentLoaded', function(event) {
-        readForoRss('#prueba');
+        readForoRss('#ultimosmensajes');
     });
+
 </script>
+
