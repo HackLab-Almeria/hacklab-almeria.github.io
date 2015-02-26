@@ -185,7 +185,7 @@
 	}
 
 	table a {
-		display: block;
+
 	}
 
 	.charla{
@@ -215,6 +215,15 @@
 	img {
 		max-width: 100%;
 		height: auto; }
+		
+	pre {
+    	margin: 0 0 20px; padding: 9px 20px 0 19px;  }
+	
+    .center { 
+		display: block;
+		margin-left: auto;
+		margin-right: auto
+		text-align: center}
 
 	.gist-meta { display: none !important;}
 
