@@ -62,18 +62,19 @@ title: HackLab Almería
             dataType: 'jsonp',
             success:function(data){
                 console.log(data);
-            var elemento='<ul>'
-            $.each(data.topic_list.topics,function(index,element){
-                elemento += '<li><a href='+discourseUrl + 't/'+ element.slug +'/'+element.id+'>'+element.title+'</a> - '+element.last_poster_username+'</li>';
-                
-            });
-            elemento+='</ul>';
-            $(e).append(elemento);
+
+                var elemento='<ul>'
+                $.each(data.topic_list.topics,function(index,element){
+                    elemento += '<li><a href='+discourseUrl + 't/'+ element.slug +'/'+element.id+'>'+element.title+'</a> - '+element.last_poster_username+'</li>';
+
+                });
+                elemento+='</ul>';
+                $(e).html(elemento);
         }});
     }
 
     document.addEventListener('DOMContentLoaded', function(event) {
-        readForoRss('#ultimosmensajes');
+        setInterval(readForoRss('#ultimosmensajes'),10000);
     });
 
 </script>
