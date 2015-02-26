@@ -63,7 +63,7 @@ title: HackLab Almería
             var elemento='<ul>'
             $.each(data.responseData.feed.entries,function(index,element){
                 var fecha = new Date(element.publishedDate);
-                elemento += '<li><a href='+element.link+'>'+element.title+'</a> - '+element.author.replace('no-reply@example.com (','').replace(')','')+' a las '+fecha+'</li>';
+                elemento += '<li><a href='+element.link+'>'+element.title+'</a> - '+element.author.replace('no-reply@example.com (','').replace(')','')/*+' a las '+fecha*/+'</li>';
                 
             });
             elemento+='</ul>';
