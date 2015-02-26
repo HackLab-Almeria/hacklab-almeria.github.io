@@ -65,7 +65,7 @@ title: HackLab Almería
 
                 var elemento='<ul>'
                 $.each(data.topic_list.topics,function(index,element){
-                    elemento += '<li><a href='+discourseUrl + 't/'+ element.slug +'/'+element.id+'>'+element.title+'</a> - '+element.last_poster_username+'</li>';
+                    elemento += '<li><a target=_blank href='+discourseUrl + 't/'+ element.slug +'/'+element.id+'>'+element.title+'</a> - '+element.last_poster_username+'</li>';
 
                 });
                 elemento+='</ul>';
