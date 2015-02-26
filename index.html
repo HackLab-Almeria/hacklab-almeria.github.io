@@ -58,23 +58,23 @@ title: HackLab Almería
     var discourseUrl = "http://discourse.hacklabalmeria.bitnamiapp.com/"
 
     function readForoRss(e){
-        $.ajax({url:'http://json2jsonp.com/?url='+discourseUrl+'latest.json?max_posts=1',
+        $.ajax({url:'http://json2jsonp.com/?url='+discourseUrl+'latest.json',
             dataType: 'jsonp',
             success:function(data){
-                console.log(data);
+                data = data.topic_list.topics.slice(0, 10);
 
                 var elemento='<ul>'
-                $.each(data.topic_list.topics,function(index,element){
+                $.each(data,function(index,element){
                     elemento += '<li><a href='+discourseUrl + 't/'+ element.slug +'/'+element.id+'>'+element.title+'</a> - '+element.last_poster_username+'</li>';
-
                 });
+
                 elemento+='</ul>';
                 $(e).html(elemento);
         }});
     }
 
     document.addEventListener('DOMContentLoaded', function(event) {
-        setInterval(readForoRss('#ultimosmensajes'),10000);
+        setInterval(readForoRss('#ultimosmensajes'),30*1000);
     });
 
 </script>
