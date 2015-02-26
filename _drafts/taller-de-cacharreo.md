@@ -2,7 +2,7 @@
 layout: post
 title: Taller de Cacharreo
 subtitle: X de X del 201X / Almería
-category: evento
+category: actividades
 ---
 
 ### DESCRIPCIÓN
