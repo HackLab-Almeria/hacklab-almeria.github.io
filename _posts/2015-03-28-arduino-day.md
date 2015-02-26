@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Arduino Day 2015
-subtitle: 28 de Marzo de 2015 / Almería
+subtitle: 28 de marzo de 2015 / Almería
 category: actividades
 ---
 
 ### DESCRIPCIÓN
 
-El día 29 de Marzo se celebra el **Arduino Day**, un evento que se celebra internacionalmente y
+El día 29 de marzo se celebra el **Arduino Day**, un evento que se celebra internacionalmente y
 nosotros queremos poner nuestro granito de arena desde Almería.
 
 ---
@@ -37,7 +37,7 @@ Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cer
 ### LOCALIZACIÓN
 
 * Lugar: [Escuela de Artes de Almería][1], Almería capital.
-* Fecha: **14 Marzo 2015**
+* Fecha: **14 marzo 2015**
 * Hora: **de 19:00 a 21:30**
 
 [1]: http://bit.ly/escuelaartesalmeria

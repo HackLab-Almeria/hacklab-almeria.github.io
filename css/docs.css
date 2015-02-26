@@ -154,25 +154,37 @@
 		width: 100%;
 	}
 
-	td {
-		background:#f05a28;
-		padding:20px;
-		color:#ffffff;
-		width: 100px;
-		text-align: center;
+	td, th {
+        background: #f05a28;
+        padding: 20px;
+        color: #ffffff;
+        text-align: center;
+    }
+
+    th + th {
+        border-left: solid 1px #efefef;
+    }
+
+
+
+    td {
+        width: 100px;
 		vertical-align: middle;
-	}
+        border-right: solid 1px #efefef;
+        border-bottom:solid 1px #fff;
+
+    }
 
 	td + td {
 		width: auto;
 		background:#efefef;
 		padding:20px;
-		border-bottom:solid 1px #fff;
 		color: #444;
 		text-align: left;
+        border-right: 0;
 	}
 
-	table strong {
+	table a {
 		display: block;
 	}
 
