@@ -2,7 +2,7 @@
 layout: post
 title: Taller de Hardware Abierto
 subtitle: XX de XX del 2015 / Almería
-category: evento
+category: actividades
 ---
 
 ### DESCRIPCIÓN
