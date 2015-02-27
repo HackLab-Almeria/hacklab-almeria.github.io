@@ -14,9 +14,8 @@ layout: null
 
 {% for post in site.posts %}
 <entry>
-    <title type="html">
-        {{ post.title | replace: 'Á', '&Aacute;' | replace: 'É','&Eacute;' | replace: 'Í', '&Iacute;' | replace: 'Ó','&Oacute;'  | replace: 'Ú','&Uacute;' | replace: 'á', '&aacute;' | replace: 'é','&eacute;' | replace: 'í', '&iacute;' | replace: 'ó','&oacute;'  | replace: 'ú','&uacute;' | xml_scape}}
-        ({{post.date | date: "%d-%m-%Y"}})
+    <title>
+        {{ post.title }} ({{post.date | date: "%d-%m-%Y"}})
     </title>
     <link href="http://{{ site.domain }}{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
