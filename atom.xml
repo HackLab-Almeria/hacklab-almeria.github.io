@@ -15,8 +15,7 @@ layout: null
 {% for post in site.posts %}
 <entry>
     <title>
-        {{ post.title   | replace: 'Á', '&Aacute;' | replace: 'É','&Eacute;' | replace: 'Í', '&Iacute;' | replace: 'Ó','&Oacute;'  | replace: 'Ú','&Uacute;'
-        | replace: 'á', '&aacute;' | replace: 'é','&eacute;' | replace: 'í', '&iacute;' | replace: 'ó','&oacute;'  | replace: 'ú','&uacute;' }}
+        {{ post.title | replace: 'Á', '&Aacute;' | replace: 'É','&Eacute;' | replace: 'Í', '&Iacute;' | replace: 'Ó','&Oacute;'  | replace: 'Ú','&Uacute;' | replace: 'á', '&aacute;' | replace: 'é','&eacute;' | replace: 'í', '&iacute;' | replace: 'ó','&oacute;'  | replace: 'ú','&uacute;' }}
         ({{post.date | date: "%d-%m-%Y"}})
     </title>
     <link href="http://{{ site.domain }}{{ post.url }}"/>
