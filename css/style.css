@@ -343,6 +343,6 @@ header h2{
     }
 }
 
-a:hover {
+a:hover, a:visited, a {
     text-decoration: none;
 }
