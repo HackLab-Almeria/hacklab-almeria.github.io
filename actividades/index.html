@@ -3,8 +3,8 @@ layout: default
 title: Eventos
 ---
 
-<div class="container">
-    <div class="eight columns">
+<div class="row">
+    <div class="col-md-6">
 
         <h2>Próximos eventos</h2>
         {% assign curDate = site.time | date: '%s' %}
@@ -29,7 +29,7 @@ title: Eventos
         </ul>
     </div>
 
-    <div class="eight columns">
+    <div class="col-md-6">
         <h2>Calendario de Actividades</h2>
         <iframe src="https://www.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=eohual6srvr2l4oqa1ujevad9s%40group.calendar.google.com&amp;color=%23444444&amp;ctz=Europe%2FMadrid" style=" border-width:0 " width="100%" height="400" frameborder="0" scrolling="no"></iframe>
     </div>
