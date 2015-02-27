@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: prueba
 title: Arduino Day 2015
 subtitle: 28 de marzo de 2015 / Almería
 category: actividades

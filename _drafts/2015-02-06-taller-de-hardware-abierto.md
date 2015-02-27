@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: prueba
 title: Taller de Cacharreo
 subtitle: 6 de Febrero del 2015 / Almería
 category: actividades
@@ -18,7 +18,7 @@ que saben como para los que quieren ir a ver
 
 ### ALGUNOS PROYECTOS
 
-| #1 | Secador de uñas mediante LEDs ultravioleta y piezas impresas en 3D. <br><br> [@MiguelAngel_LV][1] |
+| #1 |	Secador de uñas mediante LEDs ultravioleta y piezas impresas en 3D. <br><br> [@MiguelAngel_LV][1] |
 | #2 | Construcción de un entrenador lógico mediante Arduino. <br><br> [@Zerasul][2] |
 | #3 | Primeras pruebas con el [Robot QBO][4]. <br><br> [@Equiszeta81][3] |
 
