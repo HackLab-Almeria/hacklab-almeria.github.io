@@ -28,9 +28,9 @@ Puede instalarse usando las _gems_ de _ruby_, `gems install jekyll`. Requiere la
 
 Bastará con ir a la carpeta raíz de la web y ejecutar `jekyll serve`.
 
-### ¿Cómo crear un nuevo evento?
+### ¿Cómo crear un nueva actividad?
 
-Para crear un nuevo evento, debes copiar unas de las plantillas del directorio `_drafts` y nombrar el fichero siguiendo el esquema de fecha+nombre, como en el resto. Por ejemplo:
+Para crear una nueva actividad, debes copiar unas de las plantillas del directorio `_drafts` y nombrar el fichero siguiendo el esquema de fecha+nombre, como en el resto. Por ejemplo:
 
 ```
 2014-03-29-dia-arduino.md
@@ -38,12 +38,14 @@ Para crear un nuevo evento, debes copiar unas de las plantillas del directorio `
 
 Para poder ver los borradores, deberás ejecutar Jekyll en modo draft con `jekyll serve --drafts`
 
-Una vez hayas terminado el evento y quieras _publicarlo_, símplemente debes moverlo a la carpeta `_posts`. 
+Una vez hayas terminado la actividad y quieras _publicarla_, símplemente debes moverla a la carpeta `_posts`.
 
 ```
 ├── _posts
 │   ├── 2014-03-29-dia-arduino.md
 ```
+
+Una vez esté en publicada en actividades, el sistema **creará automáticamente un post en los foros.**
 
 ### ¿Cómo se modifica el menú del foro?
 
