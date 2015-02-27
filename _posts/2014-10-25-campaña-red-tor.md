@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: prueba
 title: Campaña Red Tor 2014 
 subtitle: 25 de octubre al 20 de diciembre de 2014 / Almería
 category: actividades
