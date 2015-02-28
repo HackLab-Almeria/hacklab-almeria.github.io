@@ -57,10 +57,11 @@ Si tienes una impresora reprap ya montada y quieres exponerla avísanos en el fo
 
 ### LOCALIZACIÓN
 
-- Lugar: [Realtrack Systems, Calle Guinea Nº 2][6], Almería capital.
+- Lugar: [Realtrack Systems, Calle Guinea Nº 2][1], Almería capital.
 - Fecha: **29 de de marzo del 2014**
 - Hora: **de 12:30 a 21:00**
 - Fecha: **30 de de marzo del 2014**
 - Hora: **de 10:00 a 17:30**
 
+[1]: http://bit.ly/RealTrackSystems
 
