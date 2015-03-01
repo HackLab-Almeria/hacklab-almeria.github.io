@@ -325,7 +325,7 @@ footer{
 	color:#fff;
 }
 
-footer a, a:hover, a:visited{
+footer a, footer a:hover, footer a:visited{
     color: #fff;
     text-decoration: underline;
 }
