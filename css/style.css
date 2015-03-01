@@ -274,6 +274,9 @@ article h2 {
     text-transform: uppercase;
 }
 
+article a, article a:hover, article a:visited{
+    text-decoration: underline;
+}
 
 
 img {
