@@ -325,6 +325,11 @@ footer{
 	color:#fff;
 }
 
+footer a, a:hover, a:visited{
+    color: #fff;
+    text-decoration: underline;
+}
+
 ul.horizontal{
     text-align:center;
 }
