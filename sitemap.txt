@@ -1,8 +1,19 @@
-http://antigua.hacklabalmeria.net/
-http://hacklabalmeria.net/foro/
-http://hacklabalmeria.net/foro-nabble/
 http://redmine.hacklabalmeria.net
 http://foro.hacklabalmeria.net
+http://hacklabalmeria.net/foro/
 
 
+URIs legadas:
+
+http://antigua.hacklabalmeria.net/
+http://hacklabalmeria.net/foro-nabble/
+http://hacklabalmeria.net/evento/20140329
+http://hacklabalmeria.net/evento/20140426 
+http://hacklabalmeria.net/evento/201410 
+http://hacklabalmeria.net/evento/20141024 
+http://hacklabalmeria.net/evento/20141107 
+http://hacklabalmeria.net/evento/20141115 
+http://hacklabalmeria.net/evento/20141119 
+http://hacklabalmeria.net/evento/20150206 
+http://hacklabalmeria.net/evento/20151302
 
