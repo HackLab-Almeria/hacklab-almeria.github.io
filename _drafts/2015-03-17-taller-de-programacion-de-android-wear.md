@@ -16,19 +16,20 @@ todo de forma muy práctica y con demostraciones de todo tipo.
 ### ¿A QUIÉN VA DIRIGIDO?
 
 Este taller va dirigido en especial a la comunidad de programadores Android, pero cualquiera con pequeños conocimientos de programación en Java
-podrá seguir sin problema.
+podrá seguirlo sin problemas.
 
-Aún así, todo el mundo es bienvenido si solo quiere conocer y probar los dispositivos _weareables_.
+Los que no tengan conocimientos de programación seguramente se aburran durante las partes más técnicas, pero serán bienvenidos y tendrán la oportunidad de conocer estos
+nuevos dispositivos que cada vez serán más populares.
 
 ---
 
 ### PROGRAMA
 
 | 17:30-17:45   | Presentaciones - [Víctor Suárez][2]  |
-| ?   | Creación de una App para Android Wear - [José Juan Sánchez][3] |
-| ?   | Comunicación de Android con Android Wear - [Víctor Suárez][2] |
-| ?   | Creando una App para Google Glass -  [Miguel Ángel López][4] |
-| ?   | Demostraciones
+| 17:45-18:45   | Creación de una App para Android Wear - [José Juan Sánchez][3] |
+| 18:45-19:30   | Demostraciones |
+| 19:45-20:45   | Creando una App para Google Glass -  [Miguel Ángel López][4] |
+| 20:45-21:45   | Comunicación de Android con Android Wear - [Víctor Suárez][2] |
 
 ---
 
