@@ -25,7 +25,7 @@ Modificar su configuración. Podrá obtener más información sobre qué son las
 
 ####Modificar su Configuración de Cookies
 
-Usted puede restringir, bloquear o borrar las cookies de las páginas web de booleanbite.com, utilizando su navegador. La configuración en cada tipo de navegador de Internet es diferente, la función de ‘Ayuda” del navegador que usted está usando le mostrará cómo hacerlo. Puede obtener más información en los siguientes enlaces:
+Usted puede restringir, bloquear o borrar las cookies de las páginas web de HackLab Almeria, utilizando su navegador. La configuración en cada tipo de navegador de Internet es diferente, la función de ‘Ayuda” del navegador que usted está usando le mostrará cómo hacerlo. Puede obtener más información en los siguientes enlaces:
 
 - [Internet Explorer][1]
 - [FireFox][2]
