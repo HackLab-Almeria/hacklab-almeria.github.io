@@ -35,7 +35,7 @@ La charla en sí es gratuita, pero la entrada al _salón_ tiene un coste de **4�
 
 ### LOCALIZACIÓN
 
-* Lugar: [Expotaku Almería][1], [Deportivo Rafael Florido][3], Almería capital.
+* Lugar: [Expotaku Almería][1], [Deportivo Rafael Florido][4], Almería capital.
 * Fecha: **20 de marzo de 2015**
 * Hora: **de 18:00 a 19:00**
 
