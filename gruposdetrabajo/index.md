@@ -10,23 +10,20 @@ materias.
 
 ---
 
-### [Periodismo de datos: Al-Dato][1]
-
-
----
-
 ### Taller de Hardware Abierto y Cacharreo
 
 Grupo encargado de trabajar con las distintas herramientas de hardware y software abierto, realizando distintas
 charlas en los _Talleres de Hardware Abierto_ y realizando distintos proyectos de forma conjunta en los _Talleres de Cacharreo_.
 
-Nuestra especialidad son **Arduino** y **Raspberry Pi**, pero siempre estamos dispuestos a conocer nuevos dispositivos y tecnologías.
+Nuestra especialidad son **[Arduino][1]** y **[Raspberry Pi][2]**, pero siempre estamos dispuestos a conocer nuevos dispositivos y tecnologías.
 
 ---
 
-### [Comunidad de desarrolladores Android de Almería][2]
+### Comunidad de desarrolladores Android de Almería
 
-Lo que comenzó como una comunidad de G+ para conocernos todos los desarrolladores Android de Almería ha crecido a una gran colectivo
+* [Web en G+][3]
+
+Lo que comenzó como una [comunidad de G+][3] para conocernos todos los desarrolladores Android de Almería ha crecido a una gran colectivo
 de desarrolladores que buscan **aprender y compartir conocimiento**.
 
 Para ello, realizamos distintas actividades sobre el desarrollo Android con distintos niveles y enfoques, desde charlas
@@ -34,22 +31,36 @@ magistrales hasta talleres puramente prácticos.
 
 ---
 
-### Mujeres y Tecnología
-
---
-
-### Club de Python de Almería
-
---
-
-### Abre tu Aula
-
----
-
 ### Grupo de estudio de seguridad informática
+
+* Twitter: [@GESI_AL][4]
 
 Colectivo enfocado en la seguridad informática con charlas regulares dónde encontrarás formación sobre como
 detectar vulnerabilidades en sistemas informáticos y como evitar ser víctima de los distintos ataques.
+
+---
+
+### Periodismo de datos: Al-Dato
+
+* Web: [aldato.es][5]
+
+---
+
+### GeoinquietosALM
+
+* Twitter: [@GeoinquietosALM][6]
+
+---
+
+### Mujeres y Tecnología
+
+---
+
+### Club de Python de Almería
+
+---
+
+### Abre tu Aula
 
 ---
 
@@ -59,11 +70,10 @@ detectar vulnerabilidades en sistemas informáticos y como evitar ser víctima d
 
 ### Grupo de estudio de OpenERP / Odoo
 
----
 
-### GeoinquietosALM
-
----
-
-[1]: http://www.aldato.es/
-[2]: https://plus.google.com/u/0/communities/105420979515011141876
+[1]: http://www.arduino.cc
+[2]: http://www.raspberrypi.org
+[3]: https://plus.google.com/u/0/communities/105420979515011141876
+[4]: https://twitter.com/GESI_AL
+[5]: http://www.aldato.es
+[6]: https://twitter.com/GeoinquietosALM
