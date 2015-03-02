@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Charla de Impresoras 3D en el Expotaku Almería
-subtitle: X de X del 201X / Almería
+subtitle: 20 de marzo del 2015 / Almería
 category: actividades
 ---
 
@@ -27,16 +27,16 @@ Así mismo, dada la naturaleza del [Expotaku][1], la charla hará especial menci
 
 ### ENTRADAS
 
-La charla en sí es gratuita, pero la entrada _salón_ tiene un coste de **4€** con el que podrás acceder a todas las actividades y _stands_.
+La charla en sí es gratuita, pero la entrada al _salón_ tiene un coste de **4€** con el que podrás acceder a todas las actividades y _stands_.
 
 
 ---
 
 ### LOCALIZACIÓN
 
-* Lugar: [Expotaku Almería][1], [Deportivo Rafel Florido][3], Almería capital.
+* Lugar: [Expotaku Almería][1], [Deportivo Rafael Florido][3], Almería capital.
 * Fecha: **20 de marzo de 2015**
-* Hora: **de 19:00 a 20:00**
+* Hora: **de 18:00 a 19:00**
 
 
 [1]: http://www.expotaku.com/almeria/
