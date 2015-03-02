@@ -12,6 +12,7 @@ Del 20 al 22 de marzo de 2015 se celebra en Almería el [Expotaku Almería][1], 
 Durante el primer día del evento (20 de marzo), [Miguel Ángel López][2] realizará su charla **Impresoras 3D Open Source y su uso en Cosplay** dónde explicará de forma
 amena y sencilla el funcionamiento de las impresoras 3D, como obtener los modelos y su uso en en los [cosplays][3].
 
+Además, durante la charla podréis ver una Impresora 3D en funcionamiento.
 
 ---
 
