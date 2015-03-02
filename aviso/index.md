@@ -34,4 +34,5 @@ Usted puede restringir, bloquear o borrar las cookies de las páginas web de boo
 
 [1]: http://windows.microsoft.com/es-xl/internet-explorer/delete-manage-cookies#ie=ie-10
 [2]: https://support.mozilla.org/es/kb/Borrar%20cookies
-[3]: 
+[3]: https://support.google.com/chrome/answer/95647?hl=es
+[4]: http://www.apple.com/es/privacy/use-of-cookies/
