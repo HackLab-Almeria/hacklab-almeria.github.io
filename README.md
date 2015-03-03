@@ -2,6 +2,8 @@
 
 # Web del Hacklab Almería
 
+[![Join the chat at https://gitter.im/HackLab-Almeria/hacklab-almeria.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/HackLab-Almeria/hacklab-almeria.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Este es el repositorio de la nueva web del Hacklab Almería, creada mediante [Jekyll][1], [Markdown][2] y `HTML/CSS`.
 
 ### ¿Cómo está construida?
