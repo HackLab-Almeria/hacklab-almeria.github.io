@@ -21,9 +21,11 @@ Nuestra especialidad son **[Arduino][1]** y **[Raspberry Pi][2]**, pero siempre 
 
 ### SW Almería
 
+* Web: [SW Almería](http://foro.hacklabalmeria.net/c/sw-almeria)
+
 Programadores. Desarrolladores. Administradores de sistemas. DevOps. Profesionales. Estudiantes. Aficionados. Todos nos encontramos aquí principalmente para organizar actividades presenciales: conferencias, talleres, etc.
 
-* Web: [SW Almería](http://foro.hacklabalmeria.net/c/sw-almeria)
+
 ---
 
 ### Comunidad de desarrolladores Android de Almería
@@ -56,10 +58,11 @@ detectar vulnerabilidades en sistemas informáticos y como evitar ser víctima d
 
 ### GeoinquietosALM
 
-Somos los #geoinquietos de Almería. #GenteQueHaceCosas con mapas, [Open Street Map](http://www.openstreetmap.org/relation/348997#map=9/36.9323/-2.3840), etc.        
-
 * Twitter: [@GeoinquietosALM][6]
 * web: [foro](http://foro.hacklabalmeria.net/c/geoinquietosalm)
+
+Somos los [#geoinquietos](https://twitter.com/hashtag/geoinquietos?src=hash) de Almería. #GenteQueHaceCosas con mapas, [Open Street Map](http://www.openstreetmap.org/relation/348997#map=9/36.9323/-2.3840), etc.        
+
 
 
 ---
