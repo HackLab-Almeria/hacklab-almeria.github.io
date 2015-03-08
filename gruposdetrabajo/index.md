@@ -19,6 +19,13 @@ Nuestra especialidad son **[Arduino][1]** y **[Raspberry Pi][2]**, pero siempre 
 
 ---
 
+### SW Almería
+
+Programadores. Desarrolladores. Administradores de sistemas. DevOps. Profesionales. Estudiantes. Aficionados. Todos nos encontramos aquí principalmente para organizar actividades presenciales: conferencias, talleres, etc.
+
+* Web: [SW Almería](http://foro.hacklabalmeria.net/c/sw-almeria)
+---
+
 ### Comunidad de desarrolladores Android de Almería
 
 * [Web en G+][3]
@@ -34,6 +41,7 @@ magistrales hasta talleres puramente prácticos.
 ### Grupo de estudio de seguridad informática
 
 * Twitter: [@GESI_AL][4]
+* Web: [foro](http://foro.hacklabalmeria.net/c/grupo-de-estudio-de-seguridad-informatica)
 
 Colectivo enfocado en la seguridad informática con charlas regulares dónde encontrarás formación sobre como
 detectar vulnerabilidades en sistemas informáticos y como evitar ser víctima de los distintos ataques.
@@ -48,7 +56,19 @@ detectar vulnerabilidades en sistemas informáticos y como evitar ser víctima d
 
 ### GeoinquietosALM
 
+Somos los #geoinquietos de Almería. #GenteQueHaceCosas con mapas, [Open Street Map](http://www.openstreetmap.org/relation/348997#map=9/36.9323/-2.3840), etc.        
+
 * Twitter: [@GeoinquietosALM][6]
+* web: [foro](http://foro.hacklabalmeria.net/c/geoinquietosalm)
+
+
+---
+
+### Impresoras 3D
+
+Víctimas del síndrome del ansia viva:
+
+* [Web en G+](https://plus.google.com/communities/113744444592349758317)
 
 ---
 
@@ -62,9 +82,6 @@ detectar vulnerabilidades en sistemas informáticos y como evitar ser víctima d
 
 ### Abre tu Aula
 
----
-
-### SW Almería
 
 ---
 
