@@ -40,6 +40,18 @@ El curso es totalmente gratuito y esta abierto a todo el mundo que quiera empeza
 
 ---
 
+### TEMARIO DEL CURSO
+
+Temario del curso:
+
+* **Lección 0**: Introducción a Arduino.
+* **Lección 1**: Blink o "Hola Mundo".
+* **Lección 2**: Leds y Pulsadores.
+* **Lección 3**: Analógico y Digital.
+* **Lección 4**: Sensorización.
+
+---
+
 ### DESPUÉS DEL EVENTO
 
 Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cercanías, perfecto para ir conociéndonos más entre nosotros.
