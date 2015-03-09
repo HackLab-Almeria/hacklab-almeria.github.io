@@ -7,7 +7,7 @@ category: actividades
 
 ### DESCRIPCIÓN
 
-El día 28 de Marzo se celebra internacionalmente, el **Arduino Day**; día en el todo el mundo interesado en la plataforma arduino pueda aprender conjuntamente. Es por esto, que vamos a realizar un evento que permita tanto a novatos como a gente con experiencia, compartir conocimientos. A través de un curso y de una serie de demostraciones de proyectos realizados con Arduino. No es necesario traer material ya que los proveeremos.
+El día 28 de marzo se celebra internacionalmente el [Arduino Day](http://day.arduino.cc) día en el todo el mundo interesado en la plataforma arduino pueda aprender conjuntamente. Es por esto, que vamos a realizar un evento que permita tanto a novatos como a gente con experiencia, compartir conocimientos. A través de un curso y de una serie de demostraciones de proyectos realizados con Arduino. No es necesario traer material ya que los proveeremos.
 
 ---
 
@@ -20,23 +20,23 @@ El curso es totalmente gratuito y esta abierto a todo el mundo que quiera empeza
 
 ### PROGRAMA
 
-**Día 27 de Marzo**
+**Día 27 de marzo**
 
-| 17:00-18:30  | Inicio del Curso de Arduino  |
+| 17:00-18:30  | Inicio del curso  |
 | 18:30-19:00  | Descanso
 | 19:00-20:30   | Continuación del curso|
 
 
-**Día 28 de Marzo(Mañana)**
+**Día 28 de marzo (sesión de mañana)**
 
-| 10:00-12:00   | Curso Arduino Introducción |
+| 10:00-12:00   | Continuación del curso |
 | 12:00-12:30   | Descanso|
 | 12:30-14:00   | Finalización del curso de Arduino|
 
 
-**Día 28 de Marzo(Tarde)**
+**Día 28 de marzo (sesión de tarde)**
 
-| 18:00- 21:00  | Arduino Day(Presentación de proyectos y demostraciones).
+| 18:00- 21:00  | Arduino Day: presentación de proyectos y demostraciones
 
 ---
 
@@ -46,21 +46,27 @@ Temario del curso:
 
 * **Lección 0**: Introducción a Arduino.
 * **Lección 1**: Blink o "Hola Mundo".
-* **Lección 2**: Leds y Pulsadores.
-* **Lección 3**: Analógico y Digital.
-* **Lección 4**: Sensorización.
+* **Lección 2**: Leds y pulsadores.
+* **Lección 3**: Analógico y digital.
+* **Lección 4**: Sensores.
 
 ---
 
-### DESPUÉS DEL EVENTO
+### Almería Creative Commons Film Festival
 
-Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cercanías, perfecto para ir conociéndonos más entre nosotros.
+Estas actividades se enmarcan en el [Almería Creative Commons Film Festival](http://ccalm.cc) que se celebra en Almería del 26 al 29 de marzo.
+El detalle de las actividades lo encontrarás en:
+
+* [el programa oficial](http://www.ccalm.cc/?page_id=80)
+* [el programa de actividades complementarias organizado por el HackLab Almería](http://hacklabalmeria.net/actividades/2015/03/26/CCAlm.html)
+
+Recuerda que la participación en todas las actividades del festival es gratuita.
 
 ---
 
 ### LOCALIZACIÓN
 
-* Lugar: [Escuela de Artes de Almería][1], Almería capital.
+* Lugar: [Escuela de Arte de Almería](http://www.openstreetmap.org/way/159010347), Almería capital.
 * Fecha: **27 y 28 marzo 2015**
 
-[1]: http://bit.ly/escuelaartesalmeria
+
