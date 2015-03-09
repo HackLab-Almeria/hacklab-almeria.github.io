@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arduino Day 2015
-subtitle: 27 y 28 de Marzo de 2015 / Almería
+subtitle: 27 y 28 de marzo de 2015 / Almería
 category: actividades
 ---
 
@@ -13,7 +13,7 @@ El día 28 de marzo se celebra internacionalmente el [Arduino Day](http://day.ar
 
 ### ¿DE QUÉ HABLAREMOS?
 
-En este evento, realizaremos un curso  de introducción para todo el que quiera acercarse y el día 28 de Marzo mostraremos como finalización una demostración de distintos proyectos realizados con esta plataforma de prototipado.
+En este evento, realizaremos un curso  de introducción para todo el que quiera acercarse y el día 28 de marzo mostraremos como finalización una demostración de distintos proyectos realizados con esta plataforma de prototipado.
 El curso es totalmente gratuito y esta abierto a todo el mundo que quiera empezar en este mundo del prototipado.
 
 ---
