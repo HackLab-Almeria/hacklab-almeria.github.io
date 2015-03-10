@@ -1,5 +1,5 @@
 ---
-layout: section
+layout: page
 title: Grupos de trabajo
 ---
 

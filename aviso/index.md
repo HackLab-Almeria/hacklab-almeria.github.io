@@ -1,5 +1,5 @@
 ---
-layout: section
+layout: page
 title: Aviso Legal
 ---
 
