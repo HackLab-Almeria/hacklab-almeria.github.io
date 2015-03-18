@@ -31,7 +31,10 @@ nuevos dispositivos que cada vez serán más populares.
 | 19:15-19:45   | Creando una App para Google Glass -  [Miguel Ángel López][4] |
 | 19:45-20:30   | Comunicación de Android con Android Wear - [Víctor Suárez][2] |
 
+Puedes descargar las transparencias en nuestro [GitHub][5]
+
 ---
+
 
 ### DESPUÉS DEL EVENTO
 
@@ -49,3 +52,4 @@ Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cer
 [2]: https://twitter.com/zerasul
 [3]: https://twitter.com/josejuansanchez
 [4]: https://twitter.com/miguelangel_lv
+[5]: https://github.com/HackLab-Almeria/charlas-android/tree/master/2015-03-17%20Android%20Wear%20y%20Glass
