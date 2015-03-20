@@ -71,7 +71,13 @@ Somos los [#geoinquietos](https://twitter.com/hashtag/geoinquietos?src=hash) de 
 
 Víctimas del síndrome del ansia viva:
 
-* [Web en G+](https://plus.google.com/communities/113744444592349758317)
+* En el foro del hacklab [http://foro.hacklabalmeria.net/c/hardware/impresoras-3d](http://foro.hacklabalmeria.net/c/hardware/impresoras-3d)
+* [En G+](https://plus.google.com/communities/113744444592349758317)
+---
+
+### Grupo de estudio de OpenERP / Odoo
+
+* En el foro del HackLab Almería: [http://foro.hacklabalmeria.net/c/odoo](http://foro.hacklabalmeria.net/c/odoo) 
 
 ---
 
@@ -86,9 +92,6 @@ Víctimas del síndrome del ansia viva:
 ### Abre tu Aula
 
 
----
-
-### Grupo de estudio de OpenERP / Odoo
 
 
 [1]: http://www.arduino.cc
