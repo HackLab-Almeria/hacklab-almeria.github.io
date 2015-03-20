@@ -33,6 +33,12 @@ La charla en sí es gratuita, pero la entrada al _salón_ tiene un coste de **4�
 
 ---
 
+### PRESENTACIÓN
+<iframe src="https://docs.google.com/presentation/d/1inzkcpOScPpATgYg3OHcyCPcoAnbftNHR0eHQ5IDLZE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+---
+
+
 ### LOCALIZACIÓN
 
 * Lugar: [Expotaku Almería][1], [Deportivo Rafael Florido][4], Almería capital.
