@@ -79,7 +79,7 @@ Víctimas del síndrome del ansia viva:
 
 ### Grupo de estudio de OpenERP / Odoo
 
-Web: [foro](http://foro.hacklabalmeria.net/c/odoo) 
+ * Web: [foro](http://foro.hacklabalmeria.net/c/odoo) 
 
 Juntos aprendemos a usar y extender Odoo.
 
