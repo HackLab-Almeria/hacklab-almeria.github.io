@@ -90,6 +90,8 @@ Juntos aprendemos a usar y extender Odoo.
  * Web: [foro](http://foro.hacklabalmeria.net/c/abre-tu-aula)
  * En Facebook: colectivo [Jornadas de Escuela Moderna](https://www.facebook.com/groups/713373022026285/920740294622889/)
 
+Somos profesores inquietos. Una comunidad que explora las posibilidades de la pedagogía moderna. Abrimos nuestras aulas para compartir nuestras experiencias con nuestros compañeros, alumnos, sus familias y el resto de la sociedad.
+
 ---
 
 ### Mujeres y Tecnología
