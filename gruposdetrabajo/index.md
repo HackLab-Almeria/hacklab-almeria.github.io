@@ -73,11 +73,22 @@ Víctimas del síndrome del ansia viva:
 
 * En el foro del hacklab [http://foro.hacklabalmeria.net/c/hardware/impresoras-3d](http://foro.hacklabalmeria.net/c/hardware/impresoras-3d)
 * [En G+](https://plus.google.com/communities/113744444592349758317)
+
+
 ---
 
 ### Grupo de estudio de OpenERP / Odoo
 
-* En el foro del HackLab Almería: [http://foro.hacklabalmeria.net/c/odoo](http://foro.hacklabalmeria.net/c/odoo) 
+Web: [foro](http://foro.hacklabalmeria.net/c/odoo) 
+
+Juntos aprendemos a usar y extender Odoo.
+
+---
+
+### Abre tu Aula
+
+ * Web: [foro](http://foro.hacklabalmeria.net/c/abre-tu-aula)
+ * En Facebook: colectivo [Jornadas de Escuela Moderna](https://www.facebook.com/groups/713373022026285/920740294622889/)
 
 ---
 
@@ -88,10 +99,6 @@ Víctimas del síndrome del ansia viva:
 ### Club de Python de Almería
 
 ---
-
-### Abre tu Aula
-
-
 
 
 [1]: http://www.arduino.cc
