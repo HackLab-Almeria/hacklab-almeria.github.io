@@ -7,7 +7,7 @@ category: actividades
 
 ### DESCRIPCIÓN
 
-El día 28 de marzo se celebra internacionalmente el [Arduino Day](http://day.arduino.cc) día en el todo el mundo interesado en la plataforma arduino pueda aprender conjuntamente. Es por esto, que vamos a realizar un evento que permita tanto a novatos como a gente con experiencia, compartir conocimientos. A través de un curso y de una serie de demostraciones de proyectos realizados con Arduino. No es necesario traer material ya que los proveeremos.
+El día 28 de marzo se celebra internacionalmente el [Arduino Day](http://day.arduino.cc) día en el todo el mundo interesado en la plataforma arduino pueda aprender conjuntamente. Es por esto, que vamos a realizar un evento que permita tanto a novatos como a gente con experiencia, compartir conocimientos. A través de un curso y de una serie de demostraciones de proyectos realizados con Arduino. No es necesario traer material ya que los proveeremos; pero si es necesario traer vuestro Portatil para programar las placas Arduino.
 
 ---
 
