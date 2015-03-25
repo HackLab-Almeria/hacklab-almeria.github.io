@@ -4,13 +4,17 @@ title: Conferencia Desarrollador de Videojuegos
 subtitle: 7 de abril de 2015 / Almería
 category: actividades
 ---
+
 ### DESCRIPCIÓN
 
 [Modesto][1] es desarrollador independiente de videojuegos. Actualmente trabaja en proyectos para Nintendo.
+
 ---
+
 ### ¿DE QUÉ HABLAREMOS?
 
 Modesto nos hablará del proceso de desarrollo de videojuegos para la WiiU de Nintendo, desde el storytelling y los aspectos visuales hasta la programación y la física de personajes.
+
 ---
 ### PROGRAMA
 
