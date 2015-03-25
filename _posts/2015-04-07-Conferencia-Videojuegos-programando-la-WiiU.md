@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conferencia Videojuegos: Programando la WiiU
-Subtitle: 7 de Abirl de 2015 / Almería
+Subtitle: 7 de Abril de 2015 / Almería
 category: actividades
 ---
 ### DESCRIPCIÓN
