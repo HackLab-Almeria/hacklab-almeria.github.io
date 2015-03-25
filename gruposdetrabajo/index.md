@@ -43,7 +43,7 @@ magistrales hasta talleres puramente prácticos.
 ### Grupo de estudio de seguridad informática
 
 * Twitter: [@GESI_AL][4]
-* Web: [foro](http://foro.hacklabalmeria.net/c/grupo-de-estudio-de-seguridad-informatica)
+* Web: [foro](http://foro.hacklabalmeria.net/c/gesial)
 
 Colectivo enfocado en la seguridad informática con charlas regulares dónde encontrarás formación sobre como
 detectar vulnerabilidades en sistemas informáticos y como evitar ser víctima de los distintos ataques.
