@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arduino Day 2015
+title: Conferencia Desarrollador de Videojuegos
 subtitle: 7 de abril de 2015 / Almería
 category: actividades
 ---
