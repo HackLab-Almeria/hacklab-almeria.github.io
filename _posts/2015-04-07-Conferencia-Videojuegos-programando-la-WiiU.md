@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Conferencia Videojuegos: Programando la WiiU
-Subtitle: 7 de Abril de 2015 / Almería
+title: Arduino Day 2015
+subtitle: 7 de abril de 2015 / Almería
 category: actividades
 ---
 ### DESCRIPCIÓN
