@@ -5,6 +5,8 @@ subtitle: 29 de abril de 2015 / Almería
 category: actividades
 ---
 
+**Nota:** el lugar del taller ha cambiado, los detalles están más abajo.
+
 Las posibilidades actuales de presentar datos geográficos en Internet van mucho más allá de incluir un «mapita» de situación. Gracias a que cada vez son más los organismos públicos que están abriendo el acceso a la información digital, están surgiendo nuevas formas de presentar, visualizar y facilitar la comprensión de estos conjuntos de datos (ej. Periodismo de datos). Un porcentaje elevado de los mismos puede ser posicionado o geolocalziado en un mapa y por lo tanto presentado de forma atractiva e interactiva en medios digitales como páginas web, blog o visores temáticos.
 Con el taller se pretende ofrecer a los participantes una visión general de las posibilidades de publicar en Internet, de forma atractiva, repositorios de datos con componente espacial.
 Tras dar un breve repaso a los portales y páginas que ofrecen (geo)información pública nos centraremos de forma práctica en generar distintos tipos de mapas temáticos gracias al potente servicio de mapas en la nube CartoDB.
@@ -41,7 +43,7 @@ Los que quieran apuntarse se irán «de tapitas por la calle».
 
 ### LOCALIZACIÓN
 
-* Lugar: Sala senadito, [sede central de Cajamar, Plaza de Barcelona, Almería](http://www.openstreetmap.org/way/27161527) 
+* Lugar: [LaOficina cultural](http://laoficinacultural.org/), [ Calle de las Tiendas, 26, 04001, Almería](http://www.openstreetmap.org/node/2389372700)
 * Fecha: **29 de abril de 2015**
 * Hora: **de 19:00 a 20:30**
 
