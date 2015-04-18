@@ -5,6 +5,10 @@ subtitle: 7 de Mayo del 2015 / Almería
 category: actividades
 ---
 
+<p align="center">
+  <img src="/recursos/2015-05-07/capucha.gif" alt="Capucha LED" />
+</p>
+
 ### DESCRIPCIÓN
 
 Pequeño taller sobre la creación de _wearables_ o _vestibles_ dónde se mostrará como añadir LEDs y sensores a nuestra ropa mediante el uso de Arduino.
