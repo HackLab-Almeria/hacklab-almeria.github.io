@@ -25,7 +25,7 @@ En esta nueva edición, se realizaran 2 actividades. La primera, una pequeña ch
 ### PROGRAMA
 
 | 19:00-19:15   | Presentaciones de los asistentes  |
-| 19:15-19:40	| Experiencias del Nordic IOT 2015(Víctor Suárez y resto de componentes del equipo)
+| 19:15-19:40	| Introducción a diseño de PCB con Fritzing(Juan Carlos Ortiz)
 | 19:40-21:00 	| Cacharreo |
 
 ---
