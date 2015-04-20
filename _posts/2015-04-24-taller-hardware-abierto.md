@@ -18,7 +18,7 @@ Destinado a todo aquel interesado en las nuevas tecnologías y no solo a los
 
 ### ¿DE QUÉ HABLAREMOS?
 
-En esta nueva edición, se realizaran 2 actividades. La primera, una pequeña charla de no más de 20 minutos sobre un tema en concreto(en este caso la experiencia del equipo ganador del Nordic IOT 2015); y después, pasaremos a realizar un taller de cacharreo.
+En esta nueva edición, se realizaran 2 actividades. La primera, una pequeña charla de no más de 20 minutos sobre un tema en concreto(en este caso introducción al diseño de PCB con Fritzing); y después, pasaremos a realizar un taller de cacharreo.
 
 ---
 
