@@ -28,6 +28,11 @@ En esta nueva edición, se realizaran 2 actividades. La primera, una pequeña ch
 | 19:15-19:40	| Introducción a diseño de PCB con Fritzing(Juan Carlos Ortiz)
 | 19:40-21:00 	| Cacharreo |
 
+
+### VÍDEO DE LAS PRESENTACIONES Y LA CHARLA
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BUBlTKuNTwI?rel=0" frameborder="0" allowfullscreen></iframe>
+
 ---
 
 ### DESPUÉS DEL EVENTO
