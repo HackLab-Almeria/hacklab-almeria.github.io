@@ -6,6 +6,7 @@ category: actividades
 ---
 
 **Nota:** el lugar del taller ha cambiado, los detalles están más abajo.
+**Editado el 5 de mayo:** añadido un enlace a las transparencias.
 
 Las posibilidades actuales de presentar datos geográficos en Internet van mucho más allá de incluir un «mapita» de situación. Gracias a que cada vez son más los organismos públicos que están abriendo el acceso a la información digital, están surgiendo nuevas formas de presentar, visualizar y facilitar la comprensión de estos conjuntos de datos (ej. Periodismo de datos). Un porcentaje elevado de los mismos puede ser posicionado o geolocalziado en un mapa y por lo tanto presentado de forma atractiva e interactiva en medios digitales como páginas web, blog o visores temáticos.
 Con el taller se pretende ofrecer a los participantes una visión general de las posibilidades de publicar en Internet, de forma atractiva, repositorios de datos con componente espacial.
@@ -32,6 +33,12 @@ Para el taller no se requieren unos conocimientos específicos previos, sólo sa
 Patricio Soriano ([@sigdeletras](htts://twitter.com/sigdeletras)) trabaja en el campo las Tecnologías de la Información Geográfica y especialmente su aplicación en el ámbito del Patrimonio Cultural. Es activista en los colectivos [Geoinquietos](http://geoinquietos.org/) y [Open Street Map](http://www.openstreetmap.es/).
 
 Puedes saber más sobre [sus trabajos](http://www.sigdeletras.com/sobre-mi).
+
+---
+
+### Transparencias
+
+Patricio ha compartido las [transparencias que usó en el taller]({{ site.url }}/recursos/2015-04-29/taller_cartodb_almeria_hacklab_abril_2015.pdf).
 
 ---
 
