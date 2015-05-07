@@ -38,7 +38,10 @@ Puedes saber más sobre [sus trabajos](http://www.sigdeletras.com/sobre-mi).
 
 ### Transparencias
 
-Patricio ha compartido las [transparencias que usó en el taller]({{ site.url }}/recursos/2015-04-29/taller_cartodb_almeria_hacklab_abril_2015.pdf).
+Patricio ha compartido:
+
+ * las [transparencias que usó en el taller]({{ site.url }}/recursos/2015-04-29/taller_cartodb_almeria_hacklab_abril_2015.pdf)
+ * [una colección de enlaces relacionados](http://www.sigdeletras.com/2015/algunos-enlaces-y-presentacion-sobre-visualizacion-de-informacion-geografica-en-internet)
 
 ---
 
