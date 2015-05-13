@@ -4,6 +4,7 @@ title: Taller «fuentes de información geográfica para la provincia de Almerí
 subtitle: 12 de mayo de 2015 / Almería
 category: actividades
 ---
+**Editado el 13 de mayo:** añadido un enlace a las transparencias
 
 Haremos un repaso a las fuentes oficiales de información geográfica: IGN, Catastro, Junta de Andalucía. La parte de Almería, o mejor la producida por organismos públicos de Almería, la tendría que mirar, aunque quizás esta parte se podría hacer con las aportaciones de cada uno. El taller estará guiado por Patricio Soriano.
 
@@ -23,6 +24,13 @@ Se recomiendan fuertes conocimientos de informática de usuario y cierta familia
 Patricio Soriano ([@sigdeletras](htts://twitter.com/sigdeletras)) trabaja en el campo las Tecnologías de la Información Geográfica y especialmente su aplicación en el ámbito del Patrimonio Cultural. Es activista en los colectivos [Geoinquietos](http://geoinquietos.org/) y [Open Street Map](http://www.openstreetmap.es/).
 
 Puedes saber más sobre [sus trabajos](http://www.sigdeletras.com/sobre-mi).
+
+---
+
+### Transparencias
+
+Las transparencias de Patricio están preñadas de enlaces e información sustanciosa: http://sigdeletras.github.io/2015-ig-almeria/
+
 
 ---
 
