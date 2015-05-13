@@ -42,6 +42,12 @@ Recuerda dejar un comentario en el foro para que te lo reservemos.
 
 ---
 
+### Galería
+
+Puedes encontrar la galería de fotos en nuestro [OwnCloud][4]
+
+---
+
 ### DESPUÉS DEL EVENTO
 
 Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cercanías, perfecto para ir conociéndonos más entre nosotros
@@ -58,3 +64,4 @@ Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cer
 [1]: http://bit.ly/escuelaartesalmeria
 [2]: http://www.arduino.cc/
 [3]: http://www.arduino.cc/en/Main/ArduinoBoardLilyPad
+[4]: http://hacklabalmeria.yidx.net/owncloud/index.php/apps/gallery/public/Md7SkPhbgkbEPM4
