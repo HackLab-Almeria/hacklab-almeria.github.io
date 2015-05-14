@@ -64,4 +64,4 @@ Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cer
 [1]: http://bit.ly/escuelaartesalmeria
 [2]: http://www.arduino.cc/
 [3]: http://www.arduino.cc/en/Main/ArduinoBoardLilyPad
-[4]: http://hacklabalmeria.yidx.net/owncloud/index.php/apps/gallery/public/Md7SkPhbgkbEPM4
+[4]: http://hacklabalmeria.yidx.net/index.php/apps/gallery/public/tDV2Oc5SbMoywzY
