@@ -38,7 +38,7 @@ Isabel Medina, certificada en ITIL V3, tiene experiencia en el desarrollo y la i
 
 ### LOCALIZACIÓN
 
-* Lugar: (por concretar)
+* Lugar: [Workspace Coworking](http://www.workspace.es), [plaza Administración Vieja 1 1º izqda, Almería capital](http://www.openstreetmap.org/node/3414938219)
 * Fecha: **27 de mayo 2015**
 * Hora: **19:30 a 20:30**
 
