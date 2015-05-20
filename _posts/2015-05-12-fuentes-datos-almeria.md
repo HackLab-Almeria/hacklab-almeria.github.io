@@ -29,7 +29,7 @@ Puedes saber más sobre [sus trabajos](http://www.sigdeletras.com/sobre-mi).
 
 ### Transparencias
 
-Las transparencias de Patricio están preñadas de enlaces e información sustanciosa: http://sigdeletras.github.io/2015-ig-almeria/
+Las transparencias de Patricio están preñadas de enlaces e información sustanciosa: [http://sigdeletras.github.io/2015-ig-almeria/](http://sigdeletras.github.io/2015-ig-almeria/)
 
 
 ---
