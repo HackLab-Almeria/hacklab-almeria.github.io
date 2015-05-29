@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "SW Almería: Introducción a ITIL"
-subtitle: 27 de mayo de 2015 / Almería
+title: "SW Almería: Introducción a ITIL, 2ª parte"
+subtitle: 6 de junio de 2015 / Almería
 category: actividades
 ---
 
@@ -17,7 +17,7 @@ La Biblioteca de Infraestructura de Tecnologías de Información, frecuentemente
 
 Isabel, a partir de su experienca profesional, nos introducirá en el cuerpo de procesos de referencia hoy día para la formalización de las actividades de gestión TIC.
 
-Segunda sesión continuación de [la programada el pasado 27 de mayo](http://hacklabalmeria.net/actividades/2015/05/27/introduccion-itil.html) que tanta interés despertó entre el público asistente.
+Segunda sesión continuación de [la programada el pasado 27 de mayo](http://hacklabalmeria.net/actividades/2015/05/27/introduccion-itil.html) que tanto interés despertó entre el público asistente.
 
 ---
 
