@@ -17,8 +17,8 @@ La Biblioteca de Infraestructura de Tecnologías de Información, frecuentemente
 
 Isabel, a partir de su experienca profesional, nos introducirá en el cuerpo de procesos de referencia hoy día para la formalización de las actividades de gestión TIC.
 
-**Nota:** La conferencia entusiasmó tanto a los asistentes que tanto participaron que le hicimos imposible a Isabel acabar su charla que hemos que tenido que programar una [segunda sesión](http://hacklabalmeria.net/actividades/2015/06/03/introduccion-itil.html).
-**Nota:** Además, de tanto entusiasmo, hemos credao un [foro de discusión, encuentro y estudio para administradores de sistemas y responsables de operaciones TIC](http://foro.hacklabalmeria.net/c/sw-almeria/sysadmins). ¡Apúntate!
+Segunda sesión continuación de [la programada el pasado 27 de mayo](http://hacklabalmeria.net/actividades/2015/05/27/introduccion-itil.html) que tanta interés despertó entre el público asistente.
+
 ---
 
 ### A quién va dirigida
@@ -41,7 +41,7 @@ Isabel Medina, certificada en ITIL V3, tiene experiencia en el desarrollo y la i
 ### LOCALIZACIÓN
 
 * Lugar: [Workspace Coworking](http://www.workspace.es), [plaza Administración Vieja 1 1º izqda, Almería capital](http://www.openstreetmap.org/node/3414938219)
-* Fecha: **27 de mayo 2015**
+* Fecha: **3 de junio de 2015**
 * Hora: **19:30 a 20:30**
 
- [Añade el encuentro a tu calendario](https://www.google.com/calendar/event?eid=ZGM0cGZsM2VtdGx2bHJ2YjNxbXQwc3YwYXMgZW9odWFsNnNydnIybDRvcWExdWpldmFkOXNAZw)
+ [Añade el encuentro a tu calendario](https://www.google.com/calendar/event?eid=ajk4dXZuOHFjM3ExOGFsZzMzNHBuZmJ2bWsgZW9odWFsNnNydnIybDRvcWExdWpldmFkOXNAZw&ctz=Europe/Madrid)
