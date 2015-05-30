@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SW Almería: Introducción a ITIL, 2ª parte"
-subtitle: 6 de junio de 2015 / Almería
+subtitle: 3 de junio de 2015 / Almería
 category: actividades
 ---
 
@@ -19,6 +19,7 @@ Isabel, a partir de su experienca profesional, nos introducirá en el cuerpo de 
 
 Segunda sesión continuación de [la programada el pasado 27 de mayo](http://hacklabalmeria.net/actividades/2015/05/27/introduccion-itil.html) que tanto interés despertó entre el público asistente.
 
+__Nota:__ corregida la fecha que aparecía en la cabecera de la página, la correcta es 3 de junio.
 ---
 
 ### A quién va dirigida
