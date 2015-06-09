@@ -1,0 +1,18 @@
+Buenas a todos, todas son la misma presentación. Lo que varía es el formato. 
+
+Lo ideal si queréis reutilizarla es el fichero original: Participación y Gobierno Abierto.mm (requiere de freeplane o freemind para abrirlo. Ambos Software Libre)
+
+En caso de que se quiera solo consultarlo, es posible hacerlo desde el navegador y las mejores opciones son:
+
+-Participación y Gobierno Abierto XHTML.html (mapa seleccionable con texto desplegado abajo. clickas en el mapa y te lleva a la sección correspondiente)
+
+-Participación y Gobierno Abierto JAVA.html o Participación y Gobierno Abierto FLASH.html (el mapa pero con posibilidad de despliegue o repliegue de zonas)
+
+En el peor de los casos, siempre está disponible el .pdf y tirar de zoom ;)
+
+Os incluyo el .odt para que podáis copiar texto a voluntad pero el formato, al ser generado automáticamente deja bastante que desear. 
+
+Un saludo y espero que os sea de ayuda.
+
+
+Juan Romero @juanrrcc
