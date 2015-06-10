@@ -27,7 +27,7 @@ En esta edición, recuperamos al señor [@jaberme](https://twitter.com/jaberme) 
 | 19:00-19:15   | Presentaciones de los asistentes  |
 | 19:15-19:35   | Yoctoproject por [@jaberme](https://twitter.com/jaberme) |
 | 19:35-19:40 	| Ronda de preguntas |
-| 19:40-21:00 	| Taller de Chacharreo |
+| 19:40-21:00 	| Taller de Cacharreo |
 
 ---
 
