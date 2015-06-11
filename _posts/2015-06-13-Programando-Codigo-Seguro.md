@@ -7,7 +7,14 @@ category: actividades
 
 ### DESCRIPCIÓN
 
-¿Sabes que hay más de 500 funciones totalmente prohibidas para un buen programador? 
+ - ¿Sabes que hay más de 500 funciones totalmente desaconsejadas para un buen programador? 
+ - ¿Te imaginas la cantidad de malas prácticas de programación a las que podrías estar habituado y que favorecen la vulnerabilidad de tus aplicaciones?
+ - ¿Sabes que existen recomendaciones de buenas prácticas para escribir código mucho más seguro?
+ - ¿Crees que es mejor curarte en salud?
+
+Está será la primera de una serie de charlas enfocadas exclusivamente a programadores para que aprendan a escribir código más seguro desde el principio. Se repasarán las vulnerabilidades más comunes del software, que no todos las conocen, y se verá como detectarlas y evitarlas. 
+
+Va a ser una charla muy básica e introductoria, de cara a ver las cuatro metodologías principales que propone [OWASP](https://owasp.org) en futuras charlas (revisión de código, desarrollo, pruebas, y el estándar "Application Security Verification Standard").
 
 Ven a conocer las vulnerabilidades que más afectan a las aplicaciones, cómo identificarlas y cómo evitarlas desde la fase de desarrollo a través de buenas prácticas. 
 
@@ -16,7 +23,7 @@ Ven a conocer las vulnerabilidades que más afectan a las aplicaciones, cómo id
 
 ### A quién va dirigida
 
-Desarrolladores de cualquier lenguaje, interesados en la seguridad y curiosos en general.
+Desarrolladores de cualquier lenguaje y plataforma. Interesados en la seguridad. Curiosos en general.
 
 ### Sobre el conferenciante
 
