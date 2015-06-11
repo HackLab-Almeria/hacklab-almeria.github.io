@@ -1,11 +1,13 @@
 ---
 layout: post
-title: GESI_AL: Programación de código seguro
+title: "GESI_AL: Programación de código seguro"
 subtitle: 13 de junio de 2015 / Almería
 category: actividades
 ---
 
 ### DESCRIPCIÓN
+
+El tremendo auge de la informática, su omnipresencia y la conectividad generalizada exponen problemas de seguridad que se han hecho acuciantes. Muchos de ellos están originados en prácticas de programación anticuadas o descuidadas.
 
  - ¿Sabes que hay más de 500 funciones totalmente desaconsejadas para un buen programador? 
  - ¿Te imaginas la cantidad de malas prácticas de programación a las que podrías estar habituado y que favorecen la vulnerabilidad de tus aplicaciones?
