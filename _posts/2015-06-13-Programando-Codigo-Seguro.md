@@ -31,6 +31,17 @@ Desarrolladores de cualquier lenguaje y plataforma. Interesados en la seguridad.
 
 [Jesús Marín](https://twitter.com/_jesusmg) es estudiante de 4º año del Grado de Ingeniería Informática de la UAL. Apasionado por el mundo de la seguridad informática es el fundador de nuestro [grupo de estudio de seguridad informática de Almería](http://foro.hacklabalmeria.net/c/gesial).
 
+### Vídeo de la conferencia
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eGfuwYUiucc" frameborder="0" allowfullscreen></iframe>
+
+### Materiales relacionados
+
+* Diapositivas: <a href="http://foro.hacklabalmeria.net//uploads/default/257/748fb52b54d18ca9.pdf">Programación de código seguro.pdf</a> (355.3 KB) 
+* [TOP 10 OWASP](http://foro.hacklabalmeria.net//uploads/default/258/1524f401926e1f6e.pdf">OWASP_Top_10_-_2013_Final_-_Español.pdf) (2.8 MB) 
+* Distro Metasploitable, para prácticas: <https://information.rapid7.com/metasploitable-download.html>
+
+
 ### LOCALIZACIÓN
 
 * Lugar: [LaOficina cultural](http://laoficinacultural.org/), [ Calle de las Tiendas, 26, 04001, Almería](http://www.openstreetmap.org/node/2389372700)
