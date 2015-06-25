@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GESI_AL: Programación de código seguro"
-subtitle: 13 de junio de 2015 / Almería
+subtitle: "13 de junio de 2015 / Almería"
 category: actividades
 ---
 
