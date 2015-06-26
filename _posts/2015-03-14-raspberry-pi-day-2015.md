@@ -29,6 +29,10 @@ listas para instalar, como _centros multimedia_ o _estaciones de juego_. Se reco
 
 ---
 
+### Galería
+
+Puedes ver fotos en nuestra [Galería](https://goo.gl/photos/QbzhEMXUkavbb9kw5)
+
 ### DESPUÉS DEL EVENTO
 
 Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cercanías, perfecto para ir conociéndonos más entre nosotros
