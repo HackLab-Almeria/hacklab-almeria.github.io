@@ -22,6 +22,10 @@ En esta edición, recuperamos al señor [@jaberme](https://twitter.com/jaberme) 
 
 ---
 
+### GALERÍA
+
+Podéis encontrar la galería de fotos [aquí](https://goo.gl/photos/u5hxvae339omEw81A)
+
 ### PROGRAMA
 
 | 19:00-19:15   | Presentaciones de los asistentes  |
