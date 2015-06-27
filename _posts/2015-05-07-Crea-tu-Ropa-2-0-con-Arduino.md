@@ -44,7 +44,7 @@ Recuerda dejar un comentario en el foro para que te lo reservemos.
 
 ### Galería
 
-Puedes encontrar la galería de fotos en nuestro [OwnCloud][4]
+Puedes encontrar la [Galería] en Google Photos
 
 ---
 
@@ -64,4 +64,4 @@ Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cer
 [1]: http://bit.ly/escuelaartesalmeria
 [2]: http://www.arduino.cc/
 [3]: http://www.arduino.cc/en/Main/ArduinoBoardLilyPad
-[4]: http://hacklabalmeria.yidx.net/index.php/apps/gallery/public/tDV2Oc5SbMoywzY
+[4]: https://goo.gl/photos/bAJej3kRNJb7bgzz7
