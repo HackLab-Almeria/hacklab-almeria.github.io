@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taller de Hardware Abierto
+title: "Taller de Hardware Abierto - Yocto Project"
 subtitle: 22 de Mayo del 2015 / Almería
 category: actividades
 ---

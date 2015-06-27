@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taller de Hardware Abierto
+title: "Taller de Hardware Abierto - Yocto Project (Ahora sí)"
 subtitle: 12 de Junio del 2015 / Almería
 category: actividades
 ---
