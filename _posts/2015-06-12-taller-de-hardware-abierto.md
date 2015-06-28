@@ -39,6 +39,15 @@ Podéis encontrar la galería de fotos [aquí](https://goo.gl/photos/u5hxvae339o
 
 Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cercanías, perfecto para ir conociéndonos más entre nosotros
 
+
+### Material
+
+
+Os dejamos enlaces al material ofrecido por [@jaberme](https://twitter.com/jaberme):
+
+- [Diapositivas utilizadas en la charla](/resources/2015-06-12/yocto-slides.pdf)
+
+- [Libro sobre el uso de YoctoProject (3 primeros capítulos)](/resources/2015-06-12/YPRealtrack.pdf)
 ---
 
 ### LOCALIZACIÓN
