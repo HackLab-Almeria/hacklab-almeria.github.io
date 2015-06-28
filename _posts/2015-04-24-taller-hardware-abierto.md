@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taller de Hardware Abierto
+title: "Taller de Hardware Abierto - Fritzing"
 subtitle: 24 de Abril del 2015 / Almería
 category: actividades
 ---

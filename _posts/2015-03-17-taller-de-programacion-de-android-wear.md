@@ -35,6 +35,9 @@ Puedes descargar las transparencias en nuestro [GitHub][5]
 
 ---
 
+### Galería
+
+Podéis encontrar las fotos en nuestra [Galería][6] de Google Photos
 
 ### DESPUÉS DEL EVENTO
 
@@ -53,3 +56,4 @@ Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cer
 [3]: https://twitter.com/josejuansanchez
 [4]: https://twitter.com/miguelangel_lv
 [5]: https://github.com/HackLab-Almeria/charlas-android/tree/master/2015-03-17%20Android%20Wear%20y%20Glass
+[6]: https://goo.gl/photos/Mw1vnDEehLesVEZs9 
