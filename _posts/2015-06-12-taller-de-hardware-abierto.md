@@ -45,9 +45,14 @@ Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cer
 
 Os dejamos enlaces al material ofrecido por [@jaberme](https://twitter.com/jaberme):
 
-- [Diapositivas utilizadas en la charla](/resources/2015-06-12/yocto-slides.pdf)
+- [Diapositivas utilizadas en la charla](/recursos/2015-06-12/yocto-slides.pdf)
 
-- [Libro sobre el uso de YoctoProject (3 primeros capítulos)](/resources/2015-06-12/YPRealtrack.pdf)
+- [Libro sobre el uso de YoctoProject (3 primeros capítulos)](/recursos/2015-06-12/YPRealtrack.pdf)
+
+- [Diapositivas de Intel sobre Yoctoporject](/recursos/2015-06-12/Elce11_stewart.pdf)
+
+
+
 ---
 
 ### LOCALIZACIÓN
