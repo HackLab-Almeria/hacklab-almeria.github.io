@@ -35,6 +35,10 @@ Los participantes que no puedan formar equipos de montaje atenderán como públi
 
 Si tienes una impresora reprap ya montada y quieres exponerla avísanos en el foro por favor.
 
+### Galería
+
+En nuestro [Google Photos](https://goo.gl/photos/qxQY5B3HimPzNgp89) tenéis la galería de fotos
+
 
 ### DÍA 29: DÍA ARDUINO
 
