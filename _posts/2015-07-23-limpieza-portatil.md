@@ -19,7 +19,7 @@ category: actividades
 * Pasta térmica
 * Video de desamblaje (fácil de encontrar en youtube) descargado y en un soporte distinto al portátil a limpiar
 
-Si no cuentas con el material, no te preocupes, allí te prestamos.
+Si no cuentas con el material, no te preocupes, allí te prestamos. 
 
 
 ---
