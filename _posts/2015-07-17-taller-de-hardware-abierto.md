@@ -35,7 +35,17 @@ adaptadores comerciales y piezas _normales_.
 Después, como siempre, tendremos nuestra habitual sesión de chacharreo dónde cada uno podrá realizar sus proyectos,
 solicitar ayuda, desmontar _trastos viejos_ y colaborar con el resto de asistentes.
 
+
+Además nos llevaremos la _Bartop_ de Juan José para mostrarla
+
+{:.center}
+ ![Bartop](/recursos/2015-07-17/arcade.jpg) 
+
+
 ---
+
+
+
 
 ### PROGRAMA
 
