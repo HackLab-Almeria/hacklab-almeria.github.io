@@ -7,22 +7,19 @@ category: actividades
 
 ### DESCRIPCIÓN
 
-¿Tu portátil hace mucho ruido? ¿Sientes que te quemas las manos cada vez que lo tocas?. Es hora de limpiarlo. En este taller aprenderás cómo hacerlo.
+¿Tu portátil hace mucho ruido? ¿Sientes que te quemas las manos cada vez que lo tocas?. Es hora de limpiarlo. En este taller te ayudaremos a hacerlo.
 
 ---
 
 ### MATERIAL RECOMENDADO
-Juego de destornilladores
-Lata aire comprimido
-Cepillo pequeño
-Pasta térmica
-Video de desamblaje (fácil de encontrar en youtube) descargado y en un soporte distinto al portátil a limpiar
+* Juego de destornilladores
+* Lata aire comprimido
+* Cepillo pequeño
+* Trapo
+* Pasta térmica
+* Video de desamblaje (fácil de encontrar en youtube) descargado y en un soporte distinto al portátil a limpiar
 
-Si no cuentas con el material, no te preocupes, allí te prestamos
-
-
-### ¿DE QUÉ HABLAREMOS?
-
+Si no cuentas con el material, no te preocupes, allí te prestamos.
 
 
 ---
