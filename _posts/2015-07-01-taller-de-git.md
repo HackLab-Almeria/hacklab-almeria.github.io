@@ -13,7 +13,8 @@ Hoy en día es imprescindible estar al día de las últimas herramientas para po
 En esta conferencia impartida por [Victor Suarez](https://twitter.com/zerasul), nos dará una visión general sobre el uso de GIT y además del uso de herramientas gratuitas para poder alojar nuestros proyectos como puede set GitHub o poder crear nuestro propio libro electrónico usando la herramienta Gitbook.
 
 Se recomienda a los asistentes traer su propio portatil puesto que se trata de una charla práctica.
-<hr>
+
+---
 
 ### OBJETIVOS
 
@@ -23,9 +24,16 @@ Se recomienda a los asistentes traer su propio portatil puesto que se trata de u
   - Uso del lenguaje de marcado Markdown para crear nuestra propia documentación.
   - Uso de la herramienta GitBook para crear nuestro propio libro electrónico usando Git y MarkDown.
 
-
 ---
 
+
+### Galería
+
+Podéis encontrar las fotos [aquí](https://goo.gl/photos/n7G4SJvn1La5Nqx8A)
+
+### Presentación
+
+La presentación utilizada está disponible online en [Slides](http://slides.com/zerasul/git#/)
 
 ### Localicación
 
