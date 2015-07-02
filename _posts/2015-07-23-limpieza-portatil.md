@@ -40,9 +40,11 @@ Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cer
 
 ### LOCALIZACIÓN
 
-* Lugar: Escuela de Arte, La Puerta de Atrás, Backdoor, Plaza Pablo Cazard, 1, Almería capital.
+* Lugar: [Escuela de Arte][1], La Puerta de Atrás, Backdoor, Plaza Pablo Cazard, 1, Almería capital.
 * Fecha: **23 de julio de 2015**
 * Hora: **de 18:00 a 21:00**
+
+[1]: http://bit.ly/escuelaartesalmeria
 
 
 
