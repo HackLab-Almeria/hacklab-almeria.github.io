@@ -44,7 +44,7 @@ Recuerda dejar un comentario en el foro para que te lo reservemos.
 
 ### Galería
 
-Puedes encontrar la [Galería] en Google Photos
+Puedes encontrar la [Galería][4] en Google Photos
 
 ---
 
