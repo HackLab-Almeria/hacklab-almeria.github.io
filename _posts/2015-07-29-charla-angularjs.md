@@ -5,7 +5,7 @@ subtitle: 29 de Julio de 2015 / Almería
 category: actividades
 ---
 
-![AngularJS]({{ site.url }}/recursos/2015-07-29/angular.jpg){:width="140px" align="right"}
+![AngularJS]({{ site.url }}/recursos/2015-07-29/angularjs/angular.jpg){:width="140px" align="right"}
 
 [AngularJS.org](https://angularjs.org/):
 
