@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Taller Limpieza de portátiles
-subtitle: 23 de julio del 2015 / Almería
+title: Taller de limpieza de portátiles y ordenadores
+subtitle: 25 de julio del 2015 / Almería
 category: actividades
 ---
 
@@ -9,11 +9,25 @@ category: actividades
 
 ¿Tu portátil hace mucho ruido? ¿Sientes que te quemas las manos cada vez que lo tocas?. Es hora de limpiarlo. En este taller te ayudaremos a hacerlo.
 
+El mantenimiento preventivo es muy importante para alargar la vida de tus ordenadores. Los ventiladores se cargan de polvo y acaban descentrándose y rompéndose. Si el polvo se acumula en los disipadores estos son menos eficientes y toda la circuitería que protegen se resiente y deteriora. Y, creednos, no quieres saber [lo que esconde tu teclado](http://www.elmundo.es/navegante/2008/05/05/tecnologia/1209976436.html).
+
+Limpiar a fondo nuestros equipos una vez al año es prácticamente imprescindible.
+
+---
+
+### A quién va dirigido
+
+A cualquiera dispuesto a traerse sus ordenadores y darles una buena limpieza.
+
 ---
 
 ### MATERIAL RECOMENDADO
+
+![compresor de aire](http://foro.hacklabalmeria.net/uploads/default/_optimized/07e/ee0/8d3e1cfa51_666x500.jpg){:width="300px" align="right"}
+
+
 * Juego de destornilladores
-* Lata aire comprimido
+* Lata aire comprimido (opcional)
 * Cepillo pequeño
 * Trapo
 * Pasta térmica
@@ -21,30 +35,18 @@ category: actividades
 
 Si no cuentas con el material, no te preocupes, allí te prestamos. 
 
+Además nosotros llevaremos un maravilloso compresor de aire para que no sea necesario que traigáis latas de aire comprimido. 
+
 
 ---
 
-### PROGRAMA
-
-| 18:00-18:10 	| Presentaciones de los asistentes. Formación de equipos  |
-| 18:10-20:50 	| Taller. Limpieza de portátiles  |
-| 20:50-21:00 	| Presentación de Proyectos, novedades y otros |
-
----
-
-### DESPUÉS DEL EVENTO
-
-Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cercanías, perfecto para ir conociéndonos más entre nosotros
-
----
 
 ### LOCALIZACIÓN
 
-* Lugar: [Escuela de Arte][1], La Puerta de Atrás, Backdoor, Plaza Pablo Cazard, 1, Almería capital.
-* Fecha: **23 de julio de 2015**
-* Hora: **de 18:00 a 21:00**
+* Lugar: [LaOficina cultural](http://laoficinacultural.org/), [ Calle de las Tiendas, 26, 04001, Almería](http://www.openstreetmap.org/node/2389372700)
 
-[1]: http://bit.ly/escuelaartesalmeria
-
+* Fecha: **25 de julio de 2015**
+* Hora: **de 10:00 a 12:00**
 
 
+[Añade el encuentro a tu calendario](https://www.google.com/calendar/event?eid=bm1pazJmMDh0dTVrNTAzZTZuczVhbm52NTQgZW9odWFsNnNydnIybDRvcWExdWpldmFkOXNAZw&ctz=Europe/Madrid)
