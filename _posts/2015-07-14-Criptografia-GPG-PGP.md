@@ -28,11 +28,13 @@ En función de los conocimientos de los participantes realizaremos actividades d
  
 Aunque ayudaremos a quienes quieran profundizar mucho más allá.
 
+---
+
 ### A quién va dirigida
 
 A cualquier persona interesada en garantizar la privacidad e integridad de sus comunicaciones.
 
-
+---
 
 ### LOCALIZACIÓN
 

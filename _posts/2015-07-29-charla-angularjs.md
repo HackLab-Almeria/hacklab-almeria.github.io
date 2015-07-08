@@ -41,3 +41,6 @@ A todos los que quieran tener una idea general de qué es AngularJS y quieran co
 * Lugar: **Andalucia Compromiso Digital**: [Calle la Reina 26](https://goo.gl/maps/ECb8d).
 * Fecha: **29 de Julio de 2015**
 * Hora: **de 17:00 a 19:00**
+
+
+[Añade el encuentro a tu calendario](https://www.google.com/calendar/event?eid=czBtZnM5NjZkNTVrNjBtcDBzdXFiaXZldWMgZW9odWFsNnNydnIybDRvcWExdWpldmFkOXNAZw&ctz=Europe/Madrid)
