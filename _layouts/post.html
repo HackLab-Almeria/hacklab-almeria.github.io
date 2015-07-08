@@ -5,108 +5,19 @@ layout: default
     <article>
         <h2>{{ page.title }}</h2>
         <br>
-        <h4>
-
-            {{ page.date | date: "%-d" }} de
-            {% assign m = page.date | date: "%-m" %}
-            {% case m %}
-            {% when '1' %}Enero
-            {% when '2' %}Febrero
-            {% when '3' %}Marzo
-            {% when '4' %}Abril
-            {% when '5' %}Mayo
-            {% when '6' %}Junio
-            {% when '7' %}Julio
-            {% when '8' %}Agosto
-            {% when '9' %}Septiembre
-            {% when '10' %}Octubre
-            {% when '11' %}Noviembre
-            {% when '12' %}Diciembre
-            {% endcase %}
-            del {{ page.date | date: "%-Y" }} / {{page.locality}}
-        </h4>
+        <h4>{{ page.subtitle }}</h4>
         <hr class="large">
         {{ content }}
-
-
-        ### Localicación
-
-        * Lugar: [Realtrack Systems, Calle Guinea Nº 2][1], Almería capital.
-        * Fecha: ** {{ page.date | date: "%-d" }} de
-        {% assign m = page.date | date: "%-m" %}
-        {% case m %}
-        {% when '1' %}Enero
-        {% when '2' %}Febrero
-        {% when '3' %}Marzo
-        {% when '4' %}Abril
-        {% when '5' %}Mayo
-        {% when '6' %}Junio
-        {% when '7' %}Julio
-        {% when '8' %}Agosto
-        {% when '9' %}Septiembre
-        {% when '10' %}Octubre
-        {% when '11' %}Noviembre
-        {% when '12' %}Diciembre
-        {% endcase %} de 2015**
-        * Hora: **de 19:00 a 21:00**
-
-        [1]: http://bit.ly/RealTrackSystems
-
-
-
-
     </article>
-
     <hr class="large" />
-
     <div id="discourse-comments"></div>
 </div>
-
-
-
 <script type="text/javascript">
     var discourseUrl = "http://foro.hacklabalmeria.net/",
             discourseEmbedUrl = 'http://{{site.domain}}{{page.url}}';
-
     (function() {
         var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
         d.src = discourseUrl + 'javascripts/embed.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
     })();
 </script>
-
-
-{% if page.startDate %}
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Event",
-  "name": "{{page.title}}",
-  "startDate": "{{page.startDate}}",
-  "endDate": "{{page.endDate}}",
-  "url": "http://{{site.domain}}{{page.url}}",
-  "description": "{{page.description}}",
-  "location": {
-    "@type": "Place",
-    "name": "{{page.place}}",
-    "address": {
-      "@type": "PostalAddress",
-      "hasMap":"{{page.map}}",
-      "addressLocality": "{{page.locality}}",
-      "postalCode": "{{page.postalCode}}",
-      "streetAddress": "{{page.street}}",
-      "country": "España"
-    }
-  },
-  "performer": {
-    "@type": "Organization",
-    "email": "hacklabal@gmail.com",
-    "logo": "http://{{site.domain}}/recursos/logo-225x225.png",
-    "name": "Hacklab Almería",
-    "description": "Desarrolladores, diseñadores, fabricantes, periodistas y aficionados reunidos para divertirse con la tecnología"
-  }
-
-}
-</script>
-
-{% endif %}
