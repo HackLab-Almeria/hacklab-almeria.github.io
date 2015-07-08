@@ -37,6 +37,8 @@ Si no cuentas con el material, no te preocupes, allí te prestamos.
 
 Además nosotros llevaremos un maravilloso compresor de aire para que no sea necesario que traigáis latas de aire comprimido. 
 
+__Ojo__: si eres alérgico al polvo o al polen lo más probable es que quieras traerte una mascarilla o que te tomes tus antihistamínicos antes de venir.
+
 
 ---
 
