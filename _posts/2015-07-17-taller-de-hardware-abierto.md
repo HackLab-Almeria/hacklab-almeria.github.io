@@ -64,6 +64,11 @@ Además nos llevaremos la _Bartop_ de Juan José para mostrarla
 
 ---
 
+### PRESENTACION
+
+<iframe src="https://docs.google.com/presentation/d/1VYvK1IvepQ_eF6mQpCyA3r4dqdGVvXjfUu2J4w5qS0M/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 ### GALERÍA
 
 Puedes encontrar las fotos [aquí](https://goo.gl/photos/VmsfPhYQoq4gLFS9A)
