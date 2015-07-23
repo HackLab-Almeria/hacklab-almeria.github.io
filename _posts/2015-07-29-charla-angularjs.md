@@ -1,7 +1,16 @@
 ---
-layout: post
+layout: post-jsonld
 title: "SW Almería: Introducción a AngularJS"
-subtitle: 29 de Julio de 2015 / Almería
+description: "Introducción a AngularJS y demostración"
+#Fecha
+startDate: 2015-07-29T17:00
+endDate: 2015-07-29T19:00
+#Lugar
+place: "Andalucia Compromiso Digital"
+street: "Calle la Reina, 26"
+locality: "Almería"
+postalCode: 04002
+map: https://goo.gl/maps/ECb8d
 category: actividades
 ---
 
@@ -35,12 +44,5 @@ A todos los que quieran tener una idea general de qué es AngularJS y quieran co
 
 
 ---
-
-### LOCALIZACIÓN
-
-* Lugar: **Andalucia Compromiso Digital**: [Calle la Reina 26](https://goo.gl/maps/ECb8d).
-* Fecha: **29 de Julio de 2015**
-* Hora: **de 17:00 a 19:00**
-
 
 [Añade el encuentro a tu calendario](https://www.google.com/calendar/event?eid=czBtZnM5NjZkNTVrNjBtcDBzdXFiaXZldWMgZW9odWFsNnNydnIybDRvcWExdWpldmFkOXNAZw&ctz=Europe/Madrid)

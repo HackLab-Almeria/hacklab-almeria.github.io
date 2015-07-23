@@ -1,7 +1,16 @@
 ---
-layout: post
-title: Taller de limpieza de portátiles y ordenadores
-subtitle: 25 de julio del 2015 / Almería
+layout: post-jsonld
+title: "Taller de limpieza de portátiles y ordenadores"
+description: "Aprende a eliminar el polvo de tu portátil y así evitar que se sobrecaliente"
+#Fecha
+startDate: 2015-07-25T10:00
+endDate: 2015-07-25T12:00
+#Lugar
+place: "LaOficina Cultural"
+street: "Calle de las Tiendas, 26"
+locality: "Almería"
+postalCode: 04001
+map: http://www.openstreetmap.org/node/2389372700
 category: actividades
 ---
 
@@ -41,14 +50,5 @@ __Ojo__: si eres alérgico al polvo o al polen lo más probable es que quieras t
 
 
 ---
-
-
-### LOCALIZACIÓN
-
-* Lugar: [LaOficina cultural](http://laoficinacultural.org/), [ Calle de las Tiendas, 26, 04001, Almería](http://www.openstreetmap.org/node/2389372700)
-
-* Fecha: **25 de julio de 2015**
-* Hora: **de 10:00 a 12:00**
-
 
 [Añade el encuentro a tu calendario](https://www.google.com/calendar/event?eid=bm1pazJmMDh0dTVrNTAzZTZuczVhbm52NTQgZW9odWFsNnNydnIybDRvcWExdWpldmFkOXNAZw&ctz=Europe/Madrid)
