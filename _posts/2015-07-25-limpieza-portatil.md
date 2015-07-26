@@ -49,6 +49,10 @@ Además nosotros llevaremos un maravilloso compresor de aire para que no sea nec
 __Ojo__: si eres alérgico al polvo o al polen lo más probable es que quieras traerte una mascarilla o que te tomes tus antihistamínicos antes de venir.
 
 
+### GALERÍA
+
+[Aquí](https://goo.gl/photos/VkWRMDuBPN96KmCx6) tenéis un par de fotos del taller
+
 ---
 
 [Añade el encuentro a tu calendario](https://www.google.com/calendar/event?eid=bm1pazJmMDh0dTVrNTAzZTZuczVhbm52NTQgZW9odWFsNnNydnIybDRvcWExdWpldmFkOXNAZw&ctz=Europe/Madrid)
