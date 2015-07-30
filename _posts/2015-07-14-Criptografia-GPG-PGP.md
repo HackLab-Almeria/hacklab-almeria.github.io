@@ -20,7 +20,7 @@ En función de los conocimientos de los participantes realizaremos actividades d
  - envío de correo-e firmado con GPG
  - publicación de claves públicas GPG en directorios públicos
  - verificación de identidad y firmas cruzadas con GPG ([Web of Trust](https://es.wikipedia.org/wiki/Anillo_de_confianza))
- - usar GPG con http://keybase.io
+ - usar GPG con  [http://keybase.io](http://keybase.io)
  - obtención de certificado X509 [Ceres de la FNMT](http://www.cert.fnmt.es/)
  - envío de correo-e cifrado con X509
  - envío de correo-e firmado con X509
