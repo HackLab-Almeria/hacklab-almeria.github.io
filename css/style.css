@@ -221,10 +221,11 @@ h3{
     padding-left: 20px;
 }
 
-.list p {
+#localizacion + p, #localizacion + p + p, #localizacion + p + p + p {
     list-style: square outside none;
     display:list-item;
-    margin: 5px;
+    margin: 5px 5px 5px 20px;
+
 }
 
 .container ul li {
