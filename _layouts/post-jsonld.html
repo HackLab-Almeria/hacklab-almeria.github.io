@@ -2,8 +2,8 @@
 layout: default
 ---
 <div class="container">
-    <article>
-        <h2>{{ page.title }}</h2>
+    <article class="hentry">
+        <h2 class="entry-title">{{ page.title }}</h2>
         <br>
         <h4>
 
@@ -25,15 +25,16 @@ layout: default
             {% endcase %}
             del {{ page.date | date: "%-Y" }} / {{page.locality}}
         </h4>
+
         <hr class="large">
-        {{ content }}
+        <div class="entry-content">
+
+            {{ content }}
 
 
-        <h3 id="localizacion">Localicación</h3>
-
-        <ul>
-            <li>Lugar: <strong><a href="{{page.map}}">{{page.place}}, {{page.street}}</a></strong>, {{page.locality}}.</li>
-            <li>Fecha: <strong>{{ page.startDate | date: "%-d" }} de
+            <h3 id="localizacion">Localicación</h3>
+            <p>Lugar: <strong><a href="{{page.map}}">{{page.place}}, {{page.street}}</a></strong>, {{page.locality}}.</p>
+            <p>Fecha: <strong>{{ page.startDate | date: "%-d" }} de
                 {% assign m = page.startDate | date: "%-m" %}
                 {% case m %}
                 {% when '1' %}Enero
@@ -48,10 +49,9 @@ layout: default
                 {% when '10' %}Octubre
                 {% when '11' %}Noviembre
                 {% when '12' %}Diciembre
-                {% endcase %} de {{page.startDate | date: "%Y"}}</strong></li>
-            <li>Hora: <strong>de {{page.startDate | date: "%H:%M" }} a {{ page.endDate | date: "%H:%M" }}</strong></li>
-        </ul>
-
+                {% endcase %} de {{page.startDate | date: "%Y"}}</strong></p>
+            <p>Hora: <strong>de {{page.startDate | date: "%H:%M" }} a {{ page.endDate | date: "%H:%M" }}</strong></p>
+        </div>
 
     </article>
 
@@ -87,13 +87,13 @@ layout: default
   "location": {
     "@type": "Place",
     "name": "{{page.place}}",
+    "hasMap":"{{page.map}}",
     "address": {
       "@type": "PostalAddress",
-      "hasMap":"{{page.map}}",
       "addressLocality": "{{page.locality}}",
       "postalCode": "{{page.postalCode}}",
       "streetAddress": "{{page.street}}",
-      "country": "España"
+      "addressCountry": "ES"
     }
   },
   "performer": {

@@ -217,6 +217,17 @@ h3{
     list-style: square outside none;
 }
 
+.list {
+    padding-left: 20px;
+}
+
+#localizacion + p, #localizacion + p + p, #localizacion + p + p + p {
+    list-style: square outside none;
+    display:list-item;
+    margin: 5px 5px 5px 20px;
+
+}
+
 .container ul li {
     padding-left: 10px;
 }
