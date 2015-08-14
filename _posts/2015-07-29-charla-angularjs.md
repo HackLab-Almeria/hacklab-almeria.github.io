@@ -2,6 +2,7 @@
 layout: post-jsonld
 title: "SW Almería: Introducción a AngularJS"
 description: "Introducción a AngularJS y demostración"
+thumbnail: "/recursos/2015-07-29/angularjs/angular.jpg"
 #Fecha
 startDate: 2015-07-29T17:00
 endDate: 2015-07-29T19:00

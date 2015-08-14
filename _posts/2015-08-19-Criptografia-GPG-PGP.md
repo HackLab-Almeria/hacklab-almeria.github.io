@@ -2,6 +2,7 @@
 layout: post-jsonld
 title: "GESIAL: Taller práctico de criptografía con GPG"
 description: "Aprendiendo juntos el uso de la criptografía más práctica y elemental"
+thumbnail: "/recursos/20150819/gpglogo.png"
 #Fecha
 startDate: 2015-08-19T17:00
 endDate: 2015-08-19T19:00

@@ -3,6 +3,7 @@ layout: post-jsonld
 #Datos del Evento
 title: "Taller de Hardware Abierto - Máquina Arcade"
 description: "Aprende a crear tu propia máquina arcade en nuestro taller de Hardware Abierto"
+thumbnail: "/recursos/2015-07-17/arcade.jpg"
 #Fecha
 startDate: 2015-07-17T19:00
 endDate: 2015-07-17T21:00
