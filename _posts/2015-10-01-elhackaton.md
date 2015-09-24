@@ -6,7 +6,14 @@ description: "28 horas desarrollando proyectos para cambiar el mundo."
 thumbnail: "/recursos/elhackaton.png"
 #Fecha
 startDate: 2015-10-01T00:00
-endDate: 2015-10-04T21:00
+endDate:   2015-10-04T21:00
+#Lugar
+place: ""
+street: ""
+locality: "Almería"
+postalCode: ""
+map: ""
+
 category: actividades
 ---
 
