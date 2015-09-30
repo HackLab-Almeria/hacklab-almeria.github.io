@@ -21,13 +21,22 @@ category: actividades
 [Code Week][1] es la semana europea de la programación promovida por la Comisión Europea, en la que se organizan actividades 
 y eventos en los que será posible introducirse en el mundo de la programación de una forma divertida y emocionante.
 
-En esta actividad nos centraremos [Arduino][1], las placas de desarrollo libres, baratas y enfocadas a la educación.
+En esta actividad nos centraremos [Arduino][1], las placas de desarrollo libres, baratas y enfocadas a la educación. 
+
+Se comenzará desde el nivel más básico, por lo que no será necesario **ningún conocimiento de programación o electrónica** para asistir, es más,
+aquellos que hayan trabajado con arduino seguramente se aburran.
 
 ---
 
 ### ¿DE QUÉ HABLAREMOS?
 [Arduino][1], también conocido como **Genunino** en Europa, es una placa programable barata, fácil y **libre**, que nos permitirá
 hacer cosas muy chulas con unos pocos detalles de programación y electrónica que aprenderemos en el propio taller.
+
+Durante el taller veremos como hacer pequeños circuitos y como controlarlos con unas pocas lineas de programación. Será un taller puramente
+práctico y sencillo, lleno de ejemplos para que rápidamente podáis hacer vuestros propios experimentos.
+
+Llevaremos varios kits de desarrollo para los asistentes, pero se agradece que los que dispongáis de uno propio también lo llevéis por si 
+faltan para otros participantes.
 
 ---
 
@@ -42,12 +51,9 @@ hacer cosas muy chulas con unos pocos detalles de programación y electrónica q
 ---
 
 
-
 ### DESPUÉS DEL EVENTO
 
 Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cercanías, perfecto para ir conociéndonos más entre nosotros.
 
 ---
-
-
 [1]: https://www.arduino.cc/

@@ -28,37 +28,40 @@ twittercard: true
         </h4>
 
         <hr class="large">
+
         <div>
-
             {{ content }}
+            <h3 id="localizacion">Localización</h3>
 
+            <div class="entry-content-asset">
+                <p>Lugar: <strong><a href="{{page.map}}">{{page.place}}, {{page.street}}</a></strong>,
+                    {{page.locality}}.</p>
 
-            <h3 id="localizacion">Localicación</h3>
-            <p>Lugar: <strong><a href="{{page.map}}">{{page.place}}, {{page.street}}</a></strong>, {{page.locality}}.</p>
-            <p>Fecha: <strong>{{ page.startDate | date: "%-d" }} de
-                {% assign m = page.startDate | date: "%-m" %}
-                {% case m %}
-                {% when '1' %}Enero
-                {% when '2' %}Febrero
-                {% when '3' %}Marzo
-                {% when '4' %}Abril
-                {% when '5' %}Mayo
-                {% when '6' %}Junio
-                {% when '7' %}Julio
-                {% when '8' %}Agosto
-                {% when '9' %}Septiembre
-                {% when '10' %}Octubre
-                {% when '11' %}Noviembre
-                {% when '12' %}Diciembre
-                {% endcase %} de {{page.startDate | date: "%Y"}}</strong></p>
-            <p>Hora: <strong>de {{page.startDate | date: "%H:%M" }} a {{ page.endDate | date: "%H:%M" }}</strong></p>
+                <p>Fecha: <strong>{{ page.startDate | date: "%-d" }} de
+                    {% assign m = page.startDate | date: "%-m" %}
+                    {% case m %}
+                    {% when '1' %}Enero
+                    {% when '2' %}Febrero
+                    {% when '3' %}Marzo
+                    {% when '4' %}Abril
+                    {% when '5' %}Mayo
+                    {% when '6' %}Junio
+                    {% when '7' %}Julio
+                    {% when '8' %}Agosto
+                    {% when '9' %}Septiembre
+                    {% when '10' %}Octubre
+                    {% when '11' %}Noviembre
+                    {% when '12' %}Diciembre
+                    {% endcase %} de {{page.startDate | date: "%Y"}}</strong></p>
+
+                <p>Hora: <strong>de {{page.startDate | date: "%H:%M" }} a {{ page.endDate | date: "%H:%M" }}</strong>
+                </p>
+
+            </div>
         </div>
-
     </article>
-
     <hr class="large" />
-
-    <div id="discourse-comments"></div>
+    <div id="discourse-comments" class="comment"></div>
 </div>
 
 
