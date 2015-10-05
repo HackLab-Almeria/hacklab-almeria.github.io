@@ -44,7 +44,7 @@ faltan para otros participantes.
 ### PROGRAMA
 
 
-| 17:00-19:15   | Presentaciones de los asistentes  |
+| 17:00-17:15   | Presentaciones de los asistentes  |
 | 17:15-17:30   | ¿Qué es Arduino y por qué mola tanto? |
 | 17:30-20:00   | ¡Toca programar, cacharrear y encender LEDS! |
 
