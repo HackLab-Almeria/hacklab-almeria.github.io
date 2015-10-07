@@ -33,7 +33,7 @@ No es indispensable, pero se anuncia la charla como BYOD. Si te traes tu portát
 - ¿Rápido?
 - Historias de Exito
 
-###[Show me the code]
+###\[Show me the code\]
 - Instalación de Node.js
 - Instalación de paquetes con NPM
 - Servidor básico HTTP
@@ -42,17 +42,9 @@ No es indispensable, pero se anuncia la charla como BYOD. Si te traes tu portát
 
 ---
 
-## A quién va dirigida
+###¿A quién va dirigida?
 
 A todos los que quieran tener una idea general de qué es Node.js y quieran conocer o compartir experiencias con esta tecnología.
 
 
 ---
-
-## Localicación
-
-- Lugar: **La Oficina: @laoficinalmeria**: [c/Las Tiendas 26](https://goo.gl/maps/7GHLVip8wDK2).
-
-- Fecha: **10 de Octubre de 2015**
-
-- Hora: **de 11:00 a 13:00**
