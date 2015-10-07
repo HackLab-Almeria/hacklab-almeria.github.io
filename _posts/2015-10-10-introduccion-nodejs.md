@@ -1,13 +1,23 @@
 ---
-layout: post
-title: "CODEMOTION 2015: Introducción a Node.js"
-subtitle: 10 de Octubre de 2015 / Almería
+layout: post-jsonld
+#Datos del Evento
+title: "Codeweek 2015: Introducción a Node.js"
+description: "Charla de introducción a Node.js donde crearemos una pequeña aplicación para explicar su estructura básica y algunas de sus utilidades más interesantes."
+#Fecha
+startDate: 2015-10-10T11:00
+endDate: 2015-10-10T13:00
+#Lugar
+place: "La oficina"
+street: "Las Tiendas, 26"
+locality: "Almería"
+postalCode: 04001
+map: https://goo.gl/maps/7GHLVip8wDK2
 category: actividades
 ---
 
 ## Descripción
 
-Charla de introducción a Node.js impartida por [Carlos Camona](https://twitter.com/ccarmona) donde hablaremos de nuestra experiencia con esta tecnología y crearemos una pequeña aplicación para explicar su estructura básica y algunas de sus utilidades más interesantes. 
+Charla de introducción a Node.js impartida por [Carlos Carmona](https://twitter.com/ccarmona) donde hablaremos de nuestra experiencia con esta tecnología y crearemos una pequeña aplicación para explicar su estructura básica y algunas de sus utilidades más interesantes. 
 
 No es indispensable, pero se anuncia la charla como BYOD. Si te traes tu portátil, vuelves a casa con un Node andando!
 
