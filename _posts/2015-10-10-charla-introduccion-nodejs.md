@@ -15,7 +15,7 @@ map: https://goo.gl/maps/7GHLVip8wDK2
 category: actividades
 ---
 
-## Descripción
+### Descripción
 
 Charla de introducción a Node.js impartida por [Carlos Carmona](https://twitter.com/ccarmona) donde hablaremos de nuestra experiencia con esta tecnología y crearemos una pequeña aplicación para explicar su estructura básica y algunas de sus utilidades más interesantes. 
 
@@ -23,7 +23,7 @@ No es indispensable, pero se anuncia la charla como BYOD. Si te traes tu portát
 
 ---
 
-## Programa
+### Programa
 
 ###¿Qué es Node.js?
 - Node.js
