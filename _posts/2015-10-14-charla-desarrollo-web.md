@@ -18,7 +18,7 @@ category: actividades
 
 ### DESCRIPCIÓN
 
-Charla de introducción al desarrollo web con objetivo divulgativo de la industria y la profesión, orientado a personas interesadas en formarse profesionalmente en el campo, desarrolladores de otros ámbitos del software, técnicos de hardware y público en general.
+Charla de introducción al desarrollo web con objetivo divulgativo de la industria y la profesión, orientado a personas interesadas en formarse profesionalmente en el campo, desarrolladores de otros ámbitos del software, técnicos de hardware y público en general. Impartida por Marcos Manuel Ortega [@Indavelopers](http://twitter.com/Indavelopers), desarrollador web e ingeniero de datos.
 
 ---
 
