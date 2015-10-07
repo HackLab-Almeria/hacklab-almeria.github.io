@@ -29,11 +29,11 @@ twittercard: true
 
         <hr class="large">
 
-        <div>
             {{ content }}
-            <h3 id="localizacion">Localización</h3>
-                <p>Lugar: <strong><a href="{{page.map}}">{{page.place}}, {{page.street}}</a></strong>, {{page.locality}}.</p>
-                <p>Fecha: <strong>{{ page.startDate | date: "%-d" }} de
+        <h3 id="localizacion">LOCALIZACIÓN</h3>
+        <ul>
+            <li>Lugar: <strong><a href="{{page.map}}">{{page.place}}, {{page.street}}</a></strong>, {{page.locality}}.</li>
+            <li>Fecha: <strong>{{ page.startDate | date: "%-d" }} de
                     {% assign m = page.startDate | date: "%-m" %}
                     {% case m %}
                     {% when '1' %}enero
@@ -48,9 +48,10 @@ twittercard: true
                     {% when '10' %}octubre
                     {% when '11' %}noviembre
                     {% when '12' %}diciembre
-                    {% endcase %} de {{page.startDate | date: "%Y"}}</strong></p>
-                <p>Hora: <strong>de {{page.startDate | date: "%H:%M" }} a {{ page.endDate | date: "%H:%M" }}</strong></p>
-        </div>
+                    {% endcase %} de {{page.startDate | date: "%Y"}}</strong>
+            </li>
+            <li>Hora: <strong>de {{page.startDate | date: "%H:%M" }} a {{ page.endDate | date: "%H:%M" }}</strong></li>
+        </ul>
     </article>
     <hr class="large" />
     <div id="discourse-comments" class="comment"></div>
