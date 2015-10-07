@@ -1,7 +1,18 @@
 ---
-layout: post
+layout: post-jsonld
+#Datos del Evento
 title: "Taller de Hardware Abierto - Máquina Arcade"
-subtitle: "17 de Julio de 2015 / Almería"
+description: "Aprende a crear tu propia máquina arcade en nuestro taller de Hardware Abierto"
+thumbnail: "/recursos/2015-07-17/arcade.jpg"
+#Fecha
+startDate: 2015-07-17T19:00
+endDate: 2015-07-17T21:00
+#Lugar
+place: "Realtrack Systems"
+street: "Calle Guinea nº 2"
+locality: "Almería"
+postalCode: 04009
+map: http://bit.ly/RealTrackSystems
 category: actividades
 ---
 
@@ -41,10 +52,7 @@ Además nos llevaremos la _Bartop_ de Juan José para mostrarla
 {:.center}
  ![Bartop](/recursos/2015-07-17/arcade.jpg) 
 
-
 ---
-
-
 
 
 ### PROGRAMA
@@ -57,20 +65,21 @@ Además nos llevaremos la _Bartop_ de Juan José para mostrarla
 
 ---
 
+### PRESENTACION
+
+<iframe src="https://docs.google.com/presentation/d/1VYvK1IvepQ_eF6mQpCyA3r4dqdGVvXjfUu2J4w5qS0M/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+### GALERÍA
+
+Puedes encontrar las fotos [aquí](https://goo.gl/photos/VmsfPhYQoq4gLFS9A)
+
 ### DESPUÉS DEL EVENTO
 
 Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cercanías, perfecto para ir conociéndonos más entre nosotros.
 
 ---
 
-
-### Localicación
-
-* Lugar: [Realtrack Systems, Calle Guinea Nº 2][1], Almería capital.
-* Fecha: **17 de Julio de 2015**
-* Hora: **de 19:00 a 21:00**
-
-[1]: http://bit.ly/RealTrackSystems
 [2]: https://twitter.com/MiguelAngel_LV
 [3]: https://twitter.com/cvgoku
 

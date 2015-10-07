@@ -51,8 +51,8 @@ Temario del curso:
 * **Lección 4**: Sensores.
 
 Profesores
-* [David Cuevas](https://www.linkedin.com/in/dcuevaslopez)
-* [Juan Carlos Ortiz](https://www.facebook.com/juanky.ortiz.7?fref=ts)
+* [David Cuevas](http://www.linkedin.com/in/dcuevaslopez)
+* [Juan Carlos Ortiz](http://www.facebook.com/juanky.ortiz.7?fref=ts)
 * [Victor Suarez](http://twitter.com/zerasul)
 
 ---
