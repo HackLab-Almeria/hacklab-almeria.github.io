@@ -38,7 +38,7 @@ Desarrolladores de cualquier lenguaje y plataforma. Interesados en la seguridad.
 ### Materiales relacionados
 
 * Diapositivas: <a href="http://foro.hacklabalmeria.net//uploads/default/257/748fb52b54d18ca9.pdf">Programación de código seguro.pdf</a> (355.3 KB) 
-* [TOP 10 OWASP](http://foro.hacklabalmeria.net//uploads/default/258/1524f401926e1f6e.pdf">OWASP_Top_10_-_2013_Final_-_Español.pdf) (2.8 MB) 
+* [TOP 10 OWASP](http://foro.hacklabalmeria.net//uploads/default/258/1524f401926e1f6e.pdf) (2.8 MB) 
 * Distro Metasploitable, para prácticas: <https://information.rapid7.com/metasploitable-download.html>
 
 

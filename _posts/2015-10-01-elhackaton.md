@@ -8,11 +8,11 @@ thumbnail: "/recursos/elhackaton.png"
 startDate: 2015-10-01T00:00
 endDate:   2015-10-04T21:00
 #Lugar
-place: ""
-street: ""
+place: "Escuela de Arte"
+street: "Plaza Pablo Cazard, 1"
 locality: "Almería"
-postalCode: ""
-map: ""
+postalCode: 04001
+map: http://bit.ly/escuelaartesalmeria
 
 category: actividades
 ---
