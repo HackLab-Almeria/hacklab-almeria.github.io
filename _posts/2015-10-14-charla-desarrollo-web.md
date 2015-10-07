@@ -1,7 +1,7 @@
 ---
 layout: post-jsonld
 #Datos del Evento
-title: "CodeWeek - Introducción al desarrollo web (14/10/15)"
+title: "CodeWeek - Introducción al desarrollo web"
 description: "Charla divulgativa sobre el desarrollo web: estado y evolución de la industria, tecnologías, diseño, relación con otras ramas"
 thumbnail: "http://www.indavelopers.com/static/img/logo_html5.png"
 #Fecha
