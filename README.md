@@ -31,7 +31,7 @@ Bastará con ir a la carpeta raíz de la web y ejecutar `jekyll serve`.
 
 ### ¿Cómo crear un nueva actividad?
 
-Para crear una nueva actividad, debes copiar unas de las plantillas del directorio `_drafts` y nombrar el fichero siguiendo el esquema de fecha+nombre, como en el resto. Por ejemplo:
+Para crear una nueva actividad, debes copiar unas de las plantillas (preferiblemente`ejemplo-jsonlp`) del directorio `_drafts` y nombrar el fichero siguiendo el esquema de fecha+nombre, como en el resto. Por ejemplo:
 
 ```
 2014-03-29-dia-arduino.md
