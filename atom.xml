@@ -11,7 +11,7 @@ layout: null
 <author>
     <email>{{ site.email }}</email>
 </author>
-
+{% assign months = "enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre" | split: "|" %}
 {% for post in site.posts %}
 <entry>
     <title>
@@ -22,9 +22,7 @@ layout: null
     <id>http://{{ site.domain }}{{ post.id }}</id>
     <content type="html">
         {{ post.content | xml_escape }}
-
         {% if post.layout == 'post-jsonld' %}
-        {% assign months = "enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre" | split: "|" %}
         {% assign m = post.date | date: "%-m" | minus: 1 %}
         {% assign day = post.date | date: "%d" %}
         {% assign month = months[m] %}
@@ -32,9 +30,8 @@ layout: null
         &#x3C;h3 id=&#x22;localizacion&#x22;&#x3E;LOCALIZACI&#xD3;N&#x3C;/h3&#x3E;
         &#x3C;p&#x3E;Lugar: &#x3C;strong&#x3E;&#x3C;a href=&#x22;{{page.map}}&#x22;&#x3E;{{post.place}}, {{post.street}}&#x3C;/a&#x3E;&#x3C;/strong&#x3E;, {{post.locality}}.&#x3C;/p&#x3E;
         &#x3C;p&#x3E;Fecha: &#x3C;strong&#x3E;{{day}} de {{month}} del {{year}}&#x3C;/strong&#x3E;&#x3C;/p&#x3E;
-        &#x3C;p&#x3E;Hora: &#x3C;strong&#x3E;de {{post.startDate | date: &#x22;%H:%M&#x22; }} a {{ post.endDate | date: &#x22;%H:%M&#x22; }}&#x3C;/strong&#x3E;&#x3C;/p&#x3E;
+        &#x3C;p&#x3E;Hora: &#x3C;strong&#x3E;de {{post.startDate | date: "%H:%M" }} a {{ post.endDate | date: "%H:%M" }}&#x3C;/strong&#x3E;&#x3C;/p&#x3E;
         {% endif %}
-
     </content>
 </entry>
 {% endfor %}
