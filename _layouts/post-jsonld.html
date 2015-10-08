@@ -16,38 +16,34 @@ twittercard: true
         <h4>{{day}} de {{month}} del {{year}} / {{page.locality}} </h4>
 
         <hr class="large">
+        {{ content }}
 
-{{ content }}
-<h3 id="localizacion">LOCALIZACIÓN</h3>
-<p>Lugar: <strong><a href="{{page.map}}">{{page.place}}, {{page.street}}</a></strong>, {{page.locality}}.</p>
-<p>Fecha: <strong>{{day}} de {{month}} del {{year}}</strong></p>
-<p>Hora: <strong>de {{page.startDate | date: "%H:%M" }} a {{ page.endDate | date: "%H:%M" }}</strong></p>
+        <h3 id="localizacion">LOCALIZACIÓN</h3>
 
-
-
-
-
+        <p>Lugar: <strong><a href="{{page.map}}">{{page.place}}, {{page.street}}</a></strong>, {{page.locality}}.</p>
+        <p>Fecha: <strong>{{day}} de {{month}} del {{year}}</strong></p>
+        <p>Hora: <strong>de {{page.startDate | date: "%H:%M" }} a {{ page.endDate | date: "%H:%M" }}</strong></p>
 
     </article>
-    <hr class="large" />
+    <hr class="large"/>
     <div id="discourse-comments" class="comment"></div>
 </div>
-
 
 
 <script type="text/javascript">
     var discourseUrl = "http://foro.hacklabalmeria.net/",
             discourseEmbedUrl = 'http://{{site.domain}}{{page.url}}';
 
-    (function() {
-        var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    (function () {
+        var d = document.createElement('script');
+        d.type = 'text/javascript';
+        d.async = true;
         d.src = discourseUrl + 'javascripts/embed.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
     })();
 </script>
 
 
-{% if page.startDate %}
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
@@ -78,6 +74,6 @@ twittercard: true
   }
 
 }
+
 </script>
 
-{% endif %}
