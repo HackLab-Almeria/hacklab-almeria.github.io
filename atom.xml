@@ -9,10 +9,11 @@ layout: null
 <updated>{{ site.time | date_to_xmlschema }}</updated>
 <id>http://{{ site.domain }}/</id>
 <author>
+    <name>{{site.name | xml_escape}}</name>
     <email>{{ site.email }}</email>
 </author>
 {% assign months = "enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre" | split: "|" %}
-{% for post in site.posts %}
+{% for post in site.posts limit:20 %}
 <entry>
     <title>
         {{ post.title }} ({{post.date | date: "%d-%m-%Y"}})
