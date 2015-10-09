@@ -1,7 +1,7 @@
 ---
 layout: post-jsonld
 #Datos del Evento
-title: "CodeWeek: Introducción a Raspberry Pi"
+title: "CodeWeek - Introducción a Raspberry Pi"
 description: "Taller donde se explicaran las aplicaciones que puede tener la Raspberry Pi"
 thumbnail: "/recursos/2015-07-17/imagenrepresentativa.jpg"
 #Fecha
@@ -33,7 +33,7 @@ Trataremos las aplicaciones que pueden realizarse con una Raspberry Pi; desde la
 
 
 | 17:00-17:15   | Bienvenida a los asistentes  |
-| 17:15-18:45   | Explicación de las aplicaciones que podemos realizar con la Raspberry Pi |
+| 17:15-18:45   | Explicación de las aplicaciones que podemos realizar con la Raspberry Pi por [Víctor Suárez García](http://twitter.com/zerasul)|
 | 18:45-19:00 	| Preguntas y despedida |
 
 ---
