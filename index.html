@@ -16,10 +16,10 @@ title: HackLab Almería
         <h3>Actividades</h3>
         <p>Estamos abiertos a colaborar con entidades que compartan las mismas inquietudes e invitamos a todas las personas entusiastas y activas a unirse a HackLab, aportando proyectos, recursos, información y formación.</p>
         <h5><strong>Próximas actividades</strong></h5>
-        {% assign curDate = site.time | date: '%s' %}
+        {% assign curDate = site.time | date: "%Y-%m-%d" %}
         <ul>
             {% for post in site.posts reversed %}
-            {% assign date = post.date | date: '%s' %}
+            {% assign date = post.date | date: "%Y-%m-%d" %}
             {% if date >= curDate %}
             <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
             {% endif %}
