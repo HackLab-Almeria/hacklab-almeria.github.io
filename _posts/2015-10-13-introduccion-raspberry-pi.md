@@ -39,6 +39,10 @@ Trataremos las aplicaciones que pueden realizarse con una Raspberry Pi; desde la
 ---
 
 
+### Galería
+
+Aquí tenéis disponible la [Galería de Fotos][2]
+
 
 ### DESPUÉS DEL EVENTO
 
@@ -46,4 +50,4 @@ Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cer
 
 ---
 
-
+[2]: https://goo.gl/photos/maydKq3XpXKwMYZRA
