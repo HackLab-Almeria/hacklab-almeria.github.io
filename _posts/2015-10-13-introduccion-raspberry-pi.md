@@ -43,6 +43,9 @@ Trataremos las aplicaciones que pueden realizarse con una Raspberry Pi; desde la
 
 Aquí tenéis disponible la [Galería de Fotos][2]
 
+### Presentación
+
+Aquí tenéis disponible la [Presentación](/recursos/intropi.pdf).
 
 ### DESPUÉS DEL EVENTO
 
