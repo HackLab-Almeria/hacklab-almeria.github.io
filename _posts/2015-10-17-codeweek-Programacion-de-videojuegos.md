@@ -26,7 +26,7 @@ y eventos en los que será posible introducirse en el mundo de la programación 
 
 En esta actividad nos centraremos en [Scracth](https://scratch.mit.edu/), un entorno de programación gráfica para introducirse en el mundo de la computación desde cero  
 
-Se comenzará desde el nivel más básico, por lo que  ** no será necesario ningún conocimiento de programación  para asistir **.
+Se comenzará desde el nivel más básico, por lo que  **no será necesario ningún conocimiento de programación  para asistir**.
 
 
 ### ¿DE QUÉ HABLAREMOS?
@@ -37,7 +37,7 @@ Durante el taller veremos como un pequeño grupo  de niños y jóvenes de una pe
 El pueblo es Sorbas, en la provincia de Almeria.
 Coordinados por el dinamizador del Centro Guadalinfo de la localidad, con el apoyo del área de cultura del Ayuntamiento, de la Diputación de Almeria, de la Junta de Andalucía y de la Unión Europea, un grupo heterogéneo de chicas y chicos con edades comprendidas entre los 9 y los 29 años , en el transcurso del verano del 2012 desarrollaron un video juego cuyos personajes se mueven y viven extraordinarias aventuras por las calles del casco antiguo de Sorbas.
 
-** La trama comienza cuando un meteorito impacta contra el pueblo y convierte a la mayoría de su población en zombi **. A partir de aquí el pequeño protagonista del juego tendrá que apañárselas para sobrevivir por las callejuelas de Sorbas a los muertos vivientes a la vez que busca algún medio para deshacerse del dañino meteorito y de un antiguo profesor, que , convertido en zombi, amenaza con ponerle el examen “final”.
+**La trama comienza cuando un meteorito impacta contra el pueblo y convierte a la mayoría de su población en zombi**. A partir de aquí el pequeño protagonista del juego tendrá que apañárselas para sobrevivir por las callejuelas de Sorbas a los muertos vivientes a la vez que busca algún medio para deshacerse del dañino meteorito y de un antiguo profesor, que , convertido en zombi, amenaza con ponerle el examen “final”.
 
 ### PROGRAMA
 
