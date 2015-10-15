@@ -5,14 +5,14 @@ title: "CodeWeek: Programación de VideoJuegos para niños y no tan niños"
 description: "En esta actividad nos centraremos en Scracht, un entorno de programación gráfica para introducirse en el mundo de la computación desde cero"
 thumbnail: "http://canaltic.com/vr/manual/scratch001.jpg"
 #Fecha
-startDate: 2015-10-17T17:00
-endDate: 2015-10-17T19:00
+startDate: 2015-10-17T11:00
+endDate: 2015-10-17T13:00
 #Lugar
-place: "La Oficina"
-street: "Calle de las tiendas nº 26"
+place: "Realtrack Systems"
+street: "Calle Guinea nº 2"
 locality: "Almería"
 postalCode: 04009
-map: https://www.google.es/maps/place/LA+OFICINA+Producciones+Culturales/@36.8407763,-2.4660376,15z/data=!4m2!3m1!1s0x0:0xcdfbe3a383b843eb?sa=X&ved=0CHMQ_BIwC2oVChMI95KWmuvCyAIVxtgaCh36bwty
+map: http://bit.ly/RealTrackSystems
 category: actividades
 ---
 
