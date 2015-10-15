@@ -7,4 +7,4 @@ install:
   - gem install html-proofer
 script:
   - jekyll build
-  - htmlproof _site --href-ignore http://localhost:4000,http://linkedin.com/in/.*,https://www.andaluciacompromisodigital.org/.*
+  - htmlproof _site --only-4xx
