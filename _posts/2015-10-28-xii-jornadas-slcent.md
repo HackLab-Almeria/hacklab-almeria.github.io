@@ -33,8 +33,8 @@ Las jornadas están dirigidas a los siguientes públicos:
 
 |16:30-17:00 | Bienvenida e información sobre nuestros proyectos |
 |17:00-18:00 | Visión Artificial en Dispositivos Móviles. [Víctor Suárez García][1], [Aura Tecnológica][2] |
-|18:00-19:00 | Bibliotecas Open Source para Android. [José Juan Sanchez Hernández][3] |
-|19:00-20:00 | Lectura de sensorse en dipositivos móviles y actividad física con WIMU, [Miguel Ángel López Vicente][4], [Realtrack Systems][5] |
+|18:00-19:00 | Bibliotecas Open Source para Android. [José Juan Sánchez Hernández][3], [Idiria][8] |
+|19:00-20:00 | Lectura de sensores en dipositivos móviles y actividad física con WIMU, [Miguel Ángel López Vicente][4], [Realtrack Systems][5] |
 |20:00-21:00 | Internet de las cosas. [Jose Antonio Álvarez Bermejo][6], profesor en la [Universidad de Almería][7]|
 
 ---
@@ -46,4 +46,5 @@ Las jornadas están dirigidas a los siguientes públicos:
 [5]: http://www.realtracksystems.com
 [6]: https://twitter.com/jaberme
 [7]: https://ual.es
+[8]: http://idiria.com
 
