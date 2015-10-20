@@ -46,6 +46,10 @@ Coordinados por el dinamizador del Centro Guadalinfo de la localidad, con el apo
  * 11:30-12:00 La experiencia educativa de los Guadalinfo de Almería con Scratch
  * 12:00-12:45 El videojuego "El Tesoro de Sorbas"
  * 12:45-13:00  Preguntas de los asistentes
+ 
+### RESUMEN Y PRESENTACIÓN
+
+En el blog de [Guadatech][1] podéis encontrar un resumen y la presentación del evento.
 
 
 ### DESPUÉS DEL EVENTO
@@ -54,4 +58,4 @@ Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cer
 
 
 
-[CodeWeek 2015](http://foro.hacklabalmeria.net/t/codeweek-2015-semana-europea-de-la-programacion-10-al-18-de-octubre-2015/5599)
+[1]: http://guadatech.blogspot.com.es/2015/10/buscando-el-tesoro-de-sorbas-en-la.html
