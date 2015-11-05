@@ -25,6 +25,11 @@ Juntos, tendrán 28 horas para crear proyectos verdaderamente transformadores qu
 
 Porque somos #GenteQueHaceCosas
 
+
+### GALERÍA
+
+Podéis encontrar las fotos [aquí](https://goo.gl/photos/zARRHoRQWHfdiKrt6)
+
 ---
 
 ### Programa

@@ -2,75 +2,48 @@
 layout: default
 twittercard: true
 ---
+
+{% assign months = "enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre" | split: "|" %}
+{% assign m = page.date | date: "%-m" | minus: 1 %}
+{% assign day = page.date | date: "%d" %}
+{% assign month = months[m] %}
+{% assign year = page.date | date: "%Y" %}
+
 <div class="container">
     <article>
         <h2>{{ page.title }}</h2>
         <br>
-        <h4>
-
-            {{ page.date | date: "%-d" }} de
-            {% assign m = page.date | date: "%-m" %}
-            {% case m %}
-            {% when '1' %}Enero
-            {% when '2' %}Febrero
-            {% when '3' %}Marzo
-            {% when '4' %}Abril
-            {% when '5' %}Mayo
-            {% when '6' %}Junio
-            {% when '7' %}Julio
-            {% when '8' %}Agosto
-            {% when '9' %}Septiembre
-            {% when '10' %}Octubre
-            {% when '11' %}Noviembre
-            {% when '12' %}Diciembre
-            {% endcase %}
-            del {{ page.date | date: "%-Y" }} / {{page.locality}}
-        </h4>
+        <h4>{{day}} de {{month}} del {{year}} / {{page.locality}} </h4>
 
         <hr class="large">
+        {{ content }}
 
-        <div>
-            {{ content }}
-            <h3 id="localizacion">Localización</h3>
-                <p>Lugar: <strong><a href="{{page.map}}">{{page.place}}, {{page.street}}</a></strong>, {{page.locality}}.</p>
-                <p>Fecha: <strong>{{ page.startDate | date: "%-d" }} de
-                    {% assign m = page.startDate | date: "%-m" %}
-                    {% case m %}
-                    {% when '1' %}enero
-                    {% when '2' %}febrero
-                    {% when '3' %}marzo
-                    {% when '4' %}abril
-                    {% when '5' %}mayo
-                    {% when '6' %}junio
-                    {% when '7' %}julio
-                    {% when '8' %}agosto
-                    {% when '9' %}septiembre
-                    {% when '10' %}octubre
-                    {% when '11' %}noviembre
-                    {% when '12' %}diciembre
-                    {% endcase %} de {{page.startDate | date: "%Y"}}</strong></p>
-                <p>Hora: <strong>de {{page.startDate | date: "%H:%M" }} a {{ page.endDate | date: "%H:%M" }}</strong></p>
-        </div>
+        <h3 id="localizacion">LOCALIZACIÓN</h3>
+
+        <p>Lugar: <strong><a href="{{page.map}}">{{page.place}}, {{page.street}}</a></strong>, {{page.locality}}.</p>
+        <p>Fecha: <strong>{{day}} de {{month}} del {{year}}</strong></p>
+        <p>Hora: <strong>de {{page.startDate | date: "%H:%M" }} a {{ page.endDate | date: "%H:%M" }}</strong></p>
+
     </article>
-    <hr class="large" />
+    <hr class="large"/>
     <div id="discourse-comments" class="comment"></div>
 </div>
-
 
 
 <script type="text/javascript">
     var discourseUrl = "http://foro.hacklabalmeria.net/",
             discourseEmbedUrl = 'http://{{site.domain}}{{page.url}}';
 
-    (function() {
-        var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    (function () {
+        var d = document.createElement('script');
+        d.type = 'text/javascript';
+        d.async = true;
         d.src = discourseUrl + 'javascripts/embed.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
     })();
 </script>
 
 
-{% if page.startDate %}
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
@@ -101,6 +74,6 @@ twittercard: true
   }
 
 }
+
 </script>
 
-{% endif %}

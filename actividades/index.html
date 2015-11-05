@@ -7,11 +7,11 @@ title: Actividades
     <div class="col-md-6">
 
         <h2>Próximos eventos</h2>
-        {% assign curDate = site.time | date: '%s' %}
+        {% assign curDate = site.time | date: "%Y-%m-%d" %}
 
         <ul>
             {% for post in site.posts reversed %}
-            {% assign date = post.date | date: '%s' %}
+            {% assign date = post.date | date: "%Y-%m-%d" %}
             {% if date >= curDate %}
             <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
             {% endif %}
@@ -21,7 +21,7 @@ title: Actividades
         <h2>Anteriores eventos</h2>
         <ul>
             {% for post in site.posts %}
-            {% assign date = post.date | date: '%s' %}
+            {% assign date = post.date | date: "%Y-%m-%d" %}
             {% if date < curDate %}
             <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
             {% endif %}

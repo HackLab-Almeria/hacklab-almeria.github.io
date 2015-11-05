@@ -6,7 +6,7 @@ description: "Aprende qué es y como se programa una placa Arduino desde nivel 0
 thumbnail: "/recursos/2015-10-15/arduino.jpg"
 #Fecha
 startDate: 2015-10-15T17:00
-endDate: 2015-10-17T20:00
+endDate: 2015-10-15T20:00
 #Lugar
 place: "Escuela de Arte"
 street: "Plaza Pablo Cazard, 1"
