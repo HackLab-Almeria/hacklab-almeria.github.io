@@ -23,5 +23,5 @@ Nuestras actividades no serían posibles sin el apoyo de estas organizaciones:
 [4]: http://iesalandalus.org/
 [5]: http://www.elejido.org/ 
 [6]: http://almeria.fape.es/
-[7]: http://www.andaluciacompromisodigital.org/blog/category/almeria/
+[7]: http://www.blog.andaluciacompromisodigital.org/category/almeria/
 
