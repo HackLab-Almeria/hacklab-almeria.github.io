@@ -6,7 +6,7 @@ description: "Construye, empaqueta y pon en producción aplicaciones distribuida
 thumbnail: "/recursos/logo_docker.png"
 #Fecha
 startDate: 2015-11-13T17:00
-endDate: 2015-11-13T20:00
+endDate: 2015-11-13T19:00
 #Lugar
 place: "Café Cyrano"
 street: "C/ Méndez Núñez, 19"
