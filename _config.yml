@@ -1,0 +1,8 @@
+name: HackLab Almería 
+domain: hacklabalmeria.net
+email: contacto@hacklabalmeria.net
+encoding: utf-8
+
+# Conversion
+highlighter: pygments
+markdown: kramdown

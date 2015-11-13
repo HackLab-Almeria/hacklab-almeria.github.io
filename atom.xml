@@ -1,0 +1,39 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>{{ site.name }}</title>
+<link href="http://{{ site.domain }}/atom.xml" rel="self"/>
+<link href="http://{{ site.domain }}"/>
+<updated>{{ site.time | date_to_xmlschema }}</updated>
+<id>http://{{ site.domain }}/</id>
+<author>
+    <name>{{site.name | xml_escape}}</name>
+    <email>{{ site.email }}</email>
+</author>
+{% assign months = "enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre" | split: "|" %}
+{% for post in site.posts limit:20 %}
+<entry>
+    <title>
+        {{ post.title }} ({{post.date | date: "%d-%m-%Y"}})
+    </title>
+    <link href="http://{{ site.domain }}{{ post.url }}"/>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <id>http://{{ site.domain }}{{ post.id }}</id>
+    <content type="html">
+        {{ post.content | xml_escape }}
+        {% if post.layout == 'post-jsonld' %}
+        {% assign m = post.date | date: "%-m" | minus: 1 %}
+        {% assign day = post.date | date: "%d" %}
+        {% assign month = months[m] %}
+        {% assign year = post.date | date: "%Y" %}
+        &#x3C;h3 id=&#x22;localizacion&#x22;&#x3E;LOCALIZACI&#xD3;N&#x3C;/h3&#x3E;
+        &#x3C;p&#x3E;Lugar: &#x3C;strong&#x3E;&#x3C;a href=&#x22;{{page.map}}&#x22;&#x3E;{{post.place}}, {{post.street}}&#x3C;/a&#x3E;&#x3C;/strong&#x3E;, {{post.locality}}.&#x3C;/p&#x3E;
+        &#x3C;p&#x3E;Fecha: &#x3C;strong&#x3E;{{day}} de {{month}} del {{year}}&#x3C;/strong&#x3E;&#x3C;/p&#x3E;
+        &#x3C;p&#x3E;Hora: &#x3C;strong&#x3E;de {{post.startDate | date: "%H:%M" }} a {{ post.endDate | date: "%H:%M" }}&#x3C;/strong&#x3E;&#x3C;/p&#x3E;
+        {% endif %}
+    </content>
+</entry>
+{% endfor %}
+</feed>

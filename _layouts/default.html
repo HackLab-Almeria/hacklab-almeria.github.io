@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <!-- Atom / RSS-->
+    <link rel="alternate" type="application/atom+xml" title="Eventos" href="{{site.url}}/atom.xml"/>
+
+    <!-- Basic Page Needs
+    ================================================== -->
+    <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.name }}</title>
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>        <![endif]-->
+    <!-- Mobile Specific Metas
+	================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <!-- CSS
+	================================================== -->
+    <link rel="stylesheet" href="{{ site.url }}/css/bootstrap.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/style.css">
+
+    <!-- Favicon
+	================================================== -->
+    <link rel="apple-touch-icon" sizes="57x57" href="{{site.url}}/recursos/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="{{site.url}}/recursos/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{site.url}}/recursos/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{site.url}}/recursos/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{site.url}}/recursos/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{site.url}}/recursos/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{site.url}}/recursos/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="{{site.url}}/recursos/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{site.url}}/recursos/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="{{site.url}}/recursos/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{site.url}}/recursos/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="{{site.url}}/recursos/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{site.url}}/recursos/favicons/favicon-16x16.png">
+    <link rel="manifest" href="{{site.url}}/recursos/favicons/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="{{site.url}}/recursos/favicons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    {% if page.twittercard %}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@HacklabAl" />
+    <meta property="og:url" content="http://{{site.domain}}{{page.url}}" />
+    <meta property="og:title" content="{{page.title}}" />
+    <meta property="og:description" content="{{page.description}}" />
+    <meta property="og:image" content="http://{{site.domain}}{{page.thumbnail}}" />
+    {% endif %}
+
+
+
+</head>
+<body>
+<div class="container">
+    <header>
+        <div class="col-md-4 center">
+            <img src="{{ site.url }}/recursos/logo-225x225.png" alt="hacklab_almería" class="logo"/>
+        </div>
+        <div class="col-md-8">
+            <h1>#GenteQueHaceCosas</h1>
+
+            <h3 class="hidden-xs">Desarrolladores, diseñadores, fabricantes, periodistas y aficionados reunidos para divertirse con la
+                tecnología</h3>
+        </div>
+    </header>
+</div>
+
+
+<div class="container">
+    <ul class="horizontal">
+        <li><a href="{{site.url}}/" class="button">Portada</a></li>
+        <li><a href="http://foro.hacklabalmeria.net" class="button">Foro</a></li>
+        <li><a href="{{ site.url }}/actividades" class="button">Actividades</a></li>
+        <li><a href="{{ site.url }}/gruposdetrabajo" class="button">Grupos de trabajo</a></li>
+
+        <li><a href="http://redmine.hacklabalmeria.net" class="button">Redmine</a></li>
+        <li><a href="{{ site.url }}/colaboradores" class="button">Colaboradores</a></li>
+    </ul>
+</div>
+
+<div class="container">
+    {{content}}
+</div>
+
+    <footer>
+        <div class="container">
+            <div class="col-xs-6">
+                &COPY; HackLab Almería y respectivos <a href="https://github.com/HackLab-Almeria/hacklab-almeria.github.io/graphs/contributors">autores</a> 2015. <a href="https://creativecommons.org/licenses/by/4.0/">
+                <br><img style="vertical-align: text-middle;" alt="Attribution 4.0 International (CC BY 4.0)" src="/recursos/CC-by.png"/></a>
+            </div>
+            <div class="col-xs-5 right">
+                <a href="https://es-es.facebook.com/HackLabAlmeria" title="Facebook de HackLab Almería">
+                    <img src="{{ site.url }}/recursos/facebook.png" width="30" alt="Facebook de HackLab Almería"></a>
+                <a href="https://twitter.com/HackLabAl" title="Twitter de HackLab Almería">
+                    <img src="{{ site.url }}/recursos/twitter.png" width="30" alt="Twitter de HackLab Almería"></a>
+                <a href="https://plus.google.com/+HacklabalmeriaNet" rel="publisher" title="G+ de HackLab Almería">
+                    <img src="{{ site.url }}/recursos/google.png" width="30" alt="G+ de HackLab Almería"></a>
+                <a href="https://storify.com/hacklabal" rel="publisher" title="Storify de HackLab Almería">
+                    <img src="{{ site.url }}/recursos/storify.png" width="25" alt="Storify de HackLab Almería"></a>
+                <a href="https://github.com/HackLab-Almeria" title="GitHub de HackLab Almería">
+                    <img src="{{ site.url }}/recursos/git.png" width="30" alt="GitHub de HackLab Almería"></a>
+            </div>
+        </div>
+    </footer>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-60264217-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+<script type="text/javascript">
+    var _gauges = _gauges || [];
+    (function () {
+        var t = document.createElement('script');
+        t.type = 'text/javascript';
+        t.async = true;
+        t.id = 'gauges-tracker';
+        t.setAttribute('data-site-id', '4d806d7410cafd7fa4000011');
+        t.src = '//secure.gaug.es/track.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(t, s);
+    })();
+</script>
+
+<script type="text/javascript" src="/js/cookiechoices.js"></script>
+<script type="text/javascript" src="/js/jquery-1.11.2.js"></script>
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function (event) {
+        cookieChoices.showCookieConsentBar('Esta página usa Cookies. Si continuas navegando estás aceptando su uso.', 'Cerrar', 'Más Información.', '{{site.url}}/aviso/');
+    });
+</script>
+
+</body>
+</html>

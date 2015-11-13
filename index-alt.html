@@ -1,0 +1,83 @@
+---
+layout: default
+title: HackLab Almería
+---
+<div class="row">
+    <div class="col-xs-12">
+        <p class="center"><strong>HackLab Almería</strong> somos un colectivo de <strong>experimentación</strong> <strong>tecnológica</strong>, <strong>social</strong> y <strong>creativa</strong>.</p><br>
+    </div>
+</div>
+
+
+
+
+<div class="row">
+    <div class="col-md-4">
+
+        <h3>Actividades</h3>
+        {% assign curDate = site.time | date: '%s' %}
+
+        <ul>
+            {% for post in site.posts reversed %}
+            {% assign date = post.date | date: '%s' %}
+            {% if date >= curDate %}
+            <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+
+        <h4>Actividades anteriores</h4>
+        <ul>
+            {% for post in site.posts %}
+            {% assign date = post.date | date: '%s' %}
+            {% if date < curDate %}
+            <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div class="col-md-4">
+
+        <h3>Calendario</h3>
+        <p>Subscríbete a nuestro calendario usando <a style="font-weight: bold;" title="añádeme a tu aplicación de calendario" href="http://bit.ly/calendario-HackLabAl">este enlace</a>.</p>
+        <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;mode=AGENDA&amp;wkst=2&amp;src=eohual6srvr2l4oqa1ujevad9s%40group.calendar.google.com"  width="100%" height="400" frameborder="0" ></iframe>
+    </div>
+    <div class="col-md-4">
+
+        <h3>Lo último en el foro</h3>
+        <div id="ultimosmensajes">
+        </div><p>
+        <p><a href="http://foro.hacklabalmeria.net/" class="button" title="Entrar al foro">Entrar al foro</a></p>
+
+    </div>
+</div>
+
+
+
+
+<script type="text/javascript">
+    var discourseUrl = "http://foro.hacklabalmeria.net/"
+
+    function readForoRss(e){
+        $.ajax({url:'http://json2jsonp.com/?url='+discourseUrl+'latest.json',
+            dataType: 'jsonp',
+            success:function(data){
+                data = data.topic_list.topics.slice(0, 10);
+
+                var elemento='<ul>'
+                $.each(data,function(index,element){
+                    elemento += '<li><a target=_blank href='+discourseUrl + 't/'+ element.slug +'/'+element.id+'>'+element.title+'</a> - '+element.last_poster_username+'</li>';
+                });
+
+                elemento+='</ul>';
+                $(e).html(elemento);
+        }});
+    }
+
+    document.addEventListener('DOMContentLoaded', function(event) {
+        setInterval(readForoRss('#ultimosmensajes'),30*1000);
+    });
+
+
+</script>
