@@ -8,11 +8,11 @@ thumbnail: "/recursos/2015-10-30/trazo-y-silueta-12-638.jpg"
 startDate: 2015-11-27T19:00
 endDate: 2015-11-27T21:00
 #Lugar
-place: "Museo de Almería"
-street: "Ctra. de Ronda, 91"
+place: "Escuela de Artes"
+street: "Plaza Pablo Cazard, 1"
 locality: "Almería"
-postalCode: 04005
-map: http://bit.ly/1H0FZSZ
+postalCode: 04001
+map: http://bit.ly/escuelaartesalmeria
 category: actividades
 ---
 
