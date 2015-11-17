@@ -3,7 +3,7 @@ layout: post-jsonld
 #Datos del Evento
 title: "Taller de Hardware Abierto"
 description: "Taller de HardwareAbierto Sesión de Noviembre 2015"
-thumbnail: "/recursos/elhackaton.png"
+thumbnail: "/recursos/logo-225x255.png"
 #Fecha
 startDate: 2015-11-20T19:00
 endDate:   2015-11-20T21:00
