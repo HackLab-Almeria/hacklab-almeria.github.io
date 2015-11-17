@@ -36,3 +36,18 @@ Pequeñas triquiñuelas, advertencias, desventajas y un interesante enfoque glob
 ¡Te esperamos en esta charla tomando café!
 
 ---
+
+### MATERIAL VISTO EN EL TALLER
+
+Ejemplos que hemos visto en el taller:
+
+ - [configuración de odoo + centos](https://bitbucket.org/yajo/docker-odoo/src/ba5e9371e0b2/odoo/8.0/?at=default).
+ - [configuración de haproxy](https://bitbucket.org/yajo/docker-haproxy/src/0eeb7e27096a?at=default).
+ - la [descripción de la composición de servicios y cómo usarlos](https://hub.docker.com/r/yajo/odoo/) para esta configuración.
+
+Y aparte,
+
+ - transpas del [curso de 4 días de docker y kubernetes](http://blog.christianposta.com/kubernetes/3-day-docker-and-kubernetes-training/) de Christian Posta.
+ - y sobre todo nunca olvidéis que, al menos por ahora, [«containers do not contain»](https://opensource.com/business/14/7/docker-security-selinux).
+
+Si no surge ningún impedimento, podremos hacer una nueva sesión 100% práctica (osea, todos con sus portátiles) tirando de Azure con la colaboración del [Club .Net de Almería](https://twitter.com/DotNetAlmeria).
