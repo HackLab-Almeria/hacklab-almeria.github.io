@@ -34,14 +34,14 @@ Este mes queremos presentaros un proyecto que un miembro del hacklab ha creado y
 
 Además se dejará una tanda para presentar otros proyectos de los asistentes al taller y por supuesto se realizará el famoso taller de cacharreo donde los asistentes podrán traer material para poder trabajar in Situ.
 
-Por supuesto, para los nuevos se darán algunas lecciones sobre Arduino para que se inicien en este mundillo.
+Por último, también para los nuevos se darán algunas lecciones sobre Arduino para que se inicien en este mundillo.
 
 ---
 
 ### PROGRAMA
 
 | 19:00-19:15   | Presentaciones de los asistentes  |
-| 19:15-19:40   | Presentaciones de los asistentes  |
+| 19:15-19:40   | Arduino de Bajo Consumo por @javierNo  |
 | 19:40-19:50 	| Ronda de preguntas |
 | 20:50-21:00 	| Presentación de Proyectos, novedades y otros |
 
