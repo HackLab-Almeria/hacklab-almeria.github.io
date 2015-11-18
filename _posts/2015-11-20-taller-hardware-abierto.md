@@ -2,7 +2,7 @@
 layout: post-jsonld
 #Datos del Evento
 title: "Taller de Hardware Abierto"
-description: "Taller de HardwareAbierto Sesión de Noviembre 2015"
+description: "Taller de Hardware Abierto Sesión de Noviembre 2015"
 thumbnail: "/recursos/logo-225x255.png"
 #Fecha
 startDate: 2015-11-20T19:00
@@ -51,13 +51,6 @@ Por último, también para los nuevos se darán algunas lecciones sobre Arduino 
 
 Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cercanías, perfecto para ir conociéndonos más entre nosotros
 
----
-
-### LOCALIZACIÓN
-
-* Lugar: [Realtrack Systems, Calle Guinea Nº 2][1], Almería capital.
-* Fecha: **20 de Noviembre de 2015**
-* Hora: **de 19:00 a 21:00**
 
 
-[1]: http://bit.ly/RealTrackSystems
+
