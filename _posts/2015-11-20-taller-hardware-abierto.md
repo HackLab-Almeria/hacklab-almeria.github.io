@@ -1,8 +1,8 @@
 ---
 layout: post-jsonld
 #Datos del Evento
-title: "Taller de Hardware Abierto"
-description: "Taller de Hardware Abierto Sesión de Noviembre 2015"
+title: "Taller de Hardware Abierto - Arduino Bajo Consumo"
+description: "Taller de Hardware Abierto sesión de noviembre del 2015 dónde hablaremos sobre el bajo consumo en arduino"
 thumbnail: "/recursos/logo-225x255.png"
 #Fecha
 startDate: 2015-11-20T19:00
@@ -30,9 +30,11 @@ Destinado a todo aquel interesado en las nuevas tecnologías y no solo a los
 
 ### ¿DE QUÉ HABLAREMOS?
 
-Este mes queremos presentaros un proyecto que un miembro del hacklab ha creado y se trata de un Arduino de Bajo consumo creado por @javierNo y el cual nos enseñará como lo hizo y nos mostrará el bajo consumo que tiene.
+Este mes queremos presentaros un proyecto que un miembro del Hacklab ha creado y se trata de un _Arduino de Bajo_ consumo creado por @javierNo.
+ 
+Durante la charla  nos enseñará como lo hizo y nos mostrará el bajo consumo que tiene.
 
-Además se dejará una tanda para presentar otros proyectos de los asistentes al taller y por supuesto se realizará el famoso taller de cacharreo donde los asistentes podrán traer material para poder trabajar in Situ.
+Además se dejará un tiempo para presentar otros proyectos de los asistentes al taller y seguidamente se realizará el _famoso taller de cacharreo_ dónde los asistentes podrán traer material para poder trabajar _in situ_.
 
 Por último, también para los nuevos se darán algunas lecciones sobre Arduino para que se inicien en este mundillo.
 
