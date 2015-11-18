@@ -1,0 +1,37 @@
+﻿@charset "utf-8";
+/*  GOOGLE MAP  */
+
+
+
+
+
+@media only screen and (min-width: 960px) {
+    #map{
+        overflow:auto;
+        width: 600px;
+        float: right;
+        height: 320px;
+        margin-left: 20px;
+        background: #999;
+        border-radius: 15px;
+    }
+}
+@media (max-width: 959px) and (min-width: 320px) {
+    #map{
+        overflow:auto;
+        width: 100%;
+        float: right;
+        height: 200px;
+        margin-left: 20px;
+        margin-bottom: 25px;
+        background: #999;
+        border-radius: 15px;
+    }
+}
+
+
+.enlace_maps:link{text-decoration:underline; color:#666;}
+.enlace_maps:visited{text-decoration:underline; color:#666;}
+.enlace_maps:hover{text-decoration:none; color:#666;}
+
+/*   FIN GOOGLE MAP   */

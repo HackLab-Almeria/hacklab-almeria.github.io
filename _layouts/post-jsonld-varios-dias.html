@@ -1,0 +1,87 @@
+---
+layout: default
+twittercard: true
+---
+
+{% assign months = "enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre" | split: "|" %}
+{% assign m = page.date | date: "%-m" | minus: 1 %}
+{% assign day = page.date | date: "%d" %}
+{% assign month = months[m] %}
+{% assign year = page.date | date: "%Y" %}
+{% assign day2 = page.endDate | date: "%d" %}
+{% assign m2 = page.endDate | date: "%-m" | minus: 1 %}
+{% assign month2 = months[m2] %}
+
+
+
+<div class="container">
+    <article>
+        <h2>{{ page.title }}</h2>
+        <br>
+        <h4>{{day}} de {{month}} del {{year}} / {{page.locality}} </h4>
+
+        <hr class="large">
+        {{ content }}
+
+        <h3 id="localizacion">LOCALIZACIÓN</h3>
+
+        <p>Lugar: <strong><a href="{{page.map}}">{{page.place}}, {{page.street}}</a></strong>, {{page.locality}}.</p>
+        {{ if month == month2 }}
+        <p>Fecha: <strong>Del {{day}} al {{day2}} de {{month}} del {{year}}</strong></p>
+        {{ else }}
+        <p>Fecha: <strong>Del {{day}} de {{month}} al {{day2}} de {{month2}} del {{year}}</strong></p>
+        {{ endif }}
+
+    </article>
+    <hr class="large"/>
+    <div id="discourse-comments" class="comment"></div>
+</div>
+
+
+<script type="text/javascript">
+    var discourseUrl = "http://foro.hacklabalmeria.net/",
+            discourseEmbedUrl = 'http://{{site.domain}}{{page.url}}';
+
+    (function () {
+        var d = document.createElement('script');
+        d.type = 'text/javascript';
+        d.async = true;
+        d.src = discourseUrl + 'javascripts/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+    })();
+</script>
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "{{page.title}}",
+  "startDate": "{{page.startDate}}",
+  "endDate": "{{page.endDate}}",
+  "url": "http://{{site.domain}}{{page.url}}",
+  "description": "{{page.description}}",
+  "location": {
+    "@type": "Place",
+    "name": "{{page.place}}",
+    "hasMap":"{{page.map}}",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "{{page.locality}}",
+      "postalCode": "{{page.postalCode}}",
+      "streetAddress": "{{page.street}}",
+      "addressCountry": "ES"
+    }
+  },
+  "performer": {
+    "@type": "Organization",
+    "email": "hacklabal@gmail.com",
+    "logo": "http://{{site.domain}}/recursos/logo-225x225.png",
+    "name": "Hacklab Almería",
+    "description": "Desarrolladores, diseñadores, fabricantes, periodistas y aficionados reunidos para divertirse con la tecnología"
+  }
+
+}
+
+</script>
+
