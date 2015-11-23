@@ -205,6 +205,8 @@ header {
 
 table {
     width: 100%;
+    border-spacing: 2px;
+    border-collapse: separate;
 }
 
 .horario th, .horario td {
@@ -215,10 +217,11 @@ table {
     vertical-align: middle;
 }
 
-.horario tr + tr td {
-    background: #ffffff;
+.horario td + td {
+    background: #ececec;
     color: #000;
     font-weight:normal;
+
 }
 
 
