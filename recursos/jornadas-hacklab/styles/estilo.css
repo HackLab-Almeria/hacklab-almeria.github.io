@@ -3,66 +3,63 @@
     font-family: 'Roboto';
     src: url('Roboto-Regular-webfont.eot');
     src: url('Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('Roboto-Regular-webfont.woff') format('woff'),
-         url('Roboto-Regular-webfont.ttf') format('truetype'),
-         url('Roboto-Regular-webfont.svg#RobotoRegular') format('svg');
+    url('Roboto-Regular-webfont.woff') format('woff'),
+    url('Roboto-Regular-webfont.ttf') format('truetype'),
+    url('Roboto-Regular-webfont.svg#RobotoRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
+
 @font-face {
     font-family: 'Roboto';
     src: url('Roboto-Bold-webfont.eot');
     src: url('Roboto-Bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('Roboto-Bold-webfont.woff') format('woff'),
-         url('Roboto-Bold-webfont.ttf') format('truetype'),
-         url('Roboto-Bold-webfont.svg#RobotoBold') format('svg');
+    url('Roboto-Bold-webfont.woff') format('woff'),
+    url('Roboto-Bold-webfont.ttf') format('truetype'),
+    url('Roboto-Bold-webfont.svg#RobotoBold') format('svg');
     font-weight: bold;
     font-style: normal;
 }
 
-
-html{
+html {
     overflow-x: hidden;
 }
 
-
-
 body {
-	font-family: Roboto, Arial, Helvetica, sans-serif;
-	font-size: 14px;
-	font-style: normal;
-	font-variant: normal;
-    margin:0;
-    padding:0;
-    border:0;
-	color: #777;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    color: #777;
 }
-
 
 h1 {
     color: #fff;
     font-size: 80px;
-    text-align:center;
+    text-align: center;
     font-weight: bold;
     width: 100%;
     height: 250px;
 }
 
-h2{
+h2 {
     font-size: 34px;
     color: #f05a28;
     margin: 0 0 15px 0;
     padding: 0;
 }
 
-h3{
+h3 {
     font-size: 20px;
     color: #999;
     margin: 0;
     padding: 5px;
 }
 
-ul li{
+ul li {
     line-height: 18px;
     padding-bottom: 15px;
 }
@@ -82,7 +79,7 @@ header {
 .intensas {
     color: #EA5C2C;
     font-size: 17px;
-    font-weight:bold;
+    font-weight: bold;
 }
 
 .lugar {
@@ -90,7 +87,7 @@ header {
 }
 
 .image2 {
-    position:relative;
+    position: relative;
     background: url('../images/fondo2.jpg') no-repeat fixed;
     background-position: center center;
     -webkit-background-size: cover;
@@ -102,7 +99,7 @@ header {
 }
 
 .image3 {
-    position:relative;
+    position: relative;
     background: url('../images/fondo3.jpg') no-repeat fixed;
     background-position: center center;
     -webkit-background-size: cover;
@@ -114,7 +111,7 @@ header {
 }
 
 .image4 {
-    position:relative;
+    position: relative;
     background: url('../images/fondo4.jpg') no-repeat fixed;
     background-position: center center;
     -webkit-background-size: cover;
@@ -126,7 +123,7 @@ header {
 }
 
 .image5 {
-    position:relative;
+    position: relative;
     background: url('../images/fondo1.jpg') no-repeat fixed;
     background-position: center center;
     -webkit-background-size: cover;
@@ -145,79 +142,104 @@ header {
     -moz-box-sizing: border-box;
     position: relative;
     background: #FFF;
-    z-index:2;
+    z-index: 2;
     padding-bottom: 20px;
 }
 
-
-.contenedor_1{
+.contenedor_1 {
     text-align: center;
 }
 
-.contenedor_2{
+.contenedor_2 {
     text-align: center;
     padding: 20px;
 }
-.contenedor_3{
+
+.contenedor_3 {
     padding: 20px;
 }
 
-.horario{
+.horario {
     font-size: 16px;
     font-weight: 400;
     color: #f05a28;
 }
 
-
-
 @media only screen and (min-width: 960px) {
-    #franja_programa{
+    #franja_programa {
         width: 960px;
         margin: 0 auto;
-        font-size:18px; color: #fff; padding-top: 50px;
+        font-size: 18px;
+        color: #fff;
+        padding-top: 50px;
     }
 }
+
 @media (max-width: 959px) and (min-width: 320px) {
-    #franja_programa{
+    #franja_programa {
         width: 100%;
         float: left;
-        font-size:18px; color: #fff; padding-top: 50px;
+        font-size: 18px;
+        color: #fff;
+        padding-top: 50px;
     }
 }
+
 @media only screen and (min-width: 960px) {
-    .ficha_programa{
-    width: 33%;
-    float: left;
-    text-align: center;
+    .ficha_programa {
+        width: 33%;
+        float: left;
+        text-align: center;
+    }
 }
-}
+
 @media (max-width: 959px) and (min-width: 320px) {
-    .ficha_programa{
+    .ficha_programa {
+        width: 100%;
+        float: left;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+}
+
+
+table {
     width: 100%;
-    float: left;
+}
+
+.horario th, .horario td {
+    background: #f05a28;
+    color: #ffffff;
+    font-weight:bold;
     text-align: center;
-    padding-bottom: 30px;
+    vertical-align: middle;
 }
+
+.horario tr + tr td {
+    background: #ffffff;
+    color: #000;
+    font-weight:normal;
 }
 
 
 
-
-.enlace_naranja:link{
+.enlace_naranja:link {
     color: #f05a28;
     font-weight: 700;
     text-decoration: none;
     padding: 2px 5px;
     transition: all 0.15s linear 0s;
 }
-.enlace_naranja:visited{
+
+.enlace_naranja:visited {
     color: #f05a28;
     font-weight: 700;
     text-decoration: none;
     padding: 2px 5px;
     transition: all 0.15s linear 0s;
 }
-.enlace_naranja:hover{
+
+.enlace_naranja:hover {
     color: #fff;
     background: #f05a28;
     font-weight: 700;
@@ -225,23 +247,23 @@ header {
     text-decoration: none;
 }
 
-
-
-.enlace_blanco:link{
+.enlace_blanco:link {
     color: #fff;
     font-weight: 700;
     text-decoration: none;
     padding: 2px 5px;
     transition: all 0.15s linear 0s;
 }
-.enlace_blanco:visited{
+
+.enlace_blanco:visited {
     color: #fff;
     font-weight: 700;
     text-decoration: none;
     padding: 2px 5px;
     transition: all 0.15s linear 0s;
 }
-.enlace_blanco:hover{
+
+.enlace_blanco:hover {
     color: #5F4940;
     background: #fff;
     font-weight: 700;
@@ -249,47 +271,44 @@ header {
     text-decoration: none;
 }
 
-
-
-
-
 .content_naranja {
     width: 100%;
     float: left;
     background: #ffffff;
     color: #222;
-    z-index:2;
+    z-index: 2;
     text-align: center;
 }
 
-
 @media only screen and (min-width: 960px) {
-    #pieweb{
+    #pieweb {
         width: 960px;
         margin: 0 auto;
     }
 }
+
 @media (max-width: 959px) and (min-width: 320px) {
-    #pieweb{
+    #pieweb {
         width: 100%;
         float: left;
     }
 }
-#enlaces_pie{
+
+#enlaces_pie {
     width: 100%;
     float: left;
     margin-top: 20px;
     color: #CECECE;
 }
 
-
 @media only screen and (min-width: 960px) {
-    .ficha_enlacepie{
+    .ficha_enlacepie {
         width: 25%;
         float: left;
         text-align: center;
     }
 }
+
 @media (max-width: 959px) and (min-width: 640px) {
     .ficha_enlacepie {
         width: 50%;
@@ -297,64 +316,54 @@ header {
         text-align: center;
     }
 }
+
 @media (max-width: 639px) and (min-width: 320px) {
-    .ficha_enlacepie{
+    .ficha_enlacepie {
         width: 100%;
         float: left;
         text-align: center;
     }
 }
 
-
-
-
-.titulo_charla{
+.titulo_charla {
     font-size: 16px;
 }
-.descripcioncharla{
+
+.descripcioncharla {
     color: #888;
 }
-.gris{
+
+.gris {
     color: #82BEBF;
     font-style: italic;
     font-size: 14px;
 }
-li a:link{
+
+li a:link {
     color: #2A90AF;
     text-decoration: none;
 }
-li a:visited{
+
+li a:visited {
     color: #2A90AF;
     text-decoration: none;
 }
-li a:hover{
+
+li a:hover {
     color: #2A90AF;
     text-decoration: underline;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*---------- Estilo tabla datos identificativos ------------*/
 
-#tabla_datos{
-	padding: 10px 0 15px 0;
-	width: 680px;
+#tabla_datos {
+    padding: 10px 0 15px 0;
+    width: 680px;
 }
-.borde_tabla{
-	padding: 8px 5px;
-	border-bottom: 1px dotted #ccc;
+
+.borde_tabla {
+    padding: 8px 5px;
+    border-bottom: 1px dotted #ccc;
 }
 
 /*--------------------------------------------------------*/
