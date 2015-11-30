@@ -366,3 +366,27 @@ header h2{
 a:hover, a:visited, a {
     text-decoration: none;
 }
+
+.destacado {
+    text-align: center;
+
+}
+
+.destacado h1 a {
+    color: #f05a28;
+}
+
+.destacado h1 a:link {
+    color: #f05a28;
+    text-decoration: none;
+}
+
+.destacado h1 a:visited {
+    color: #f05a28;
+    text-decoration: none;
+}
+
+.destacado h1 a:hover {
+    color: #000;
+    text-decoration: none;
+}

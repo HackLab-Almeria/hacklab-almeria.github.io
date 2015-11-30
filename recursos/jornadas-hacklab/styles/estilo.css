@@ -205,7 +205,6 @@ header {
 
 table {
     width: 100%;
-    border-spacing: 2px;
     border-collapse: separate;
 }
 
@@ -215,18 +214,19 @@ table {
     font-weight:bold;
     text-align: center;
     vertical-align: middle;
+    padding: 10px 5px;
 }
 
 .horario td + td {
     background: #ececec;
     color: #000;
     font-weight:normal;
-
+    padding: 5px;
 }
 
 
 
-.enlace_naranja:link {
+.orange:link {
     color: #f05a28;
     font-weight: 700;
     text-decoration: none;
@@ -234,7 +234,7 @@ table {
     transition: all 0.15s linear 0s;
 }
 
-.enlace_naranja:visited {
+.orange:visited {
     color: #f05a28;
     font-weight: 700;
     text-decoration: none;
@@ -242,7 +242,7 @@ table {
     transition: all 0.15s linear 0s;
 }
 
-.enlace_naranja:hover {
+.orange:hover {
     color: #fff;
     background: #f05a28;
     font-weight: 700;
