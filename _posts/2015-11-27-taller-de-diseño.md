@@ -8,7 +8,7 @@ thumbnail: "/recursos/2015-10-30/trazo-y-silueta-12-638.jpg"
 startDate: 2015-11-27T19:00
 endDate: 2015-11-27T21:00
 #Lugar
-place: "Escuela de Artes"
+place: "Escuela de Arte"
 street: "Plaza Pablo Cazard, 1"
 locality: "Almería"
 postalCode: 04001

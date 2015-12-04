@@ -41,7 +41,7 @@ Tras la jornada es habitual que parte del grupo nos vayamos de tapeo por las cer
 
 ### LOCALIZACIÓN
 
-* Lugar: [Escuela de Artes de Almería][1], Almería capital.
+* Lugar: [Escuela de Arte de Almería][1], Almería capital.
 * Fecha: **14 marzo 2015**
 * Hora: **de 19:00 a 21:30**
 

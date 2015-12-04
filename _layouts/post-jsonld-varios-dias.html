@@ -8,6 +8,11 @@ twittercard: true
 {% assign day = page.date | date: "%d" %}
 {% assign month = months[m] %}
 {% assign year = page.date | date: "%Y" %}
+{% assign day2 = page.endDate | date: "%d" %}
+{% assign m2 = page.endDate | date: "%-m" | minus: 1 %}
+{% assign month2 = months[m2] %}
+
+
 
 <div class="container">
     <article>
@@ -21,8 +26,11 @@ twittercard: true
         <h3 id="localizacion">LOCALIZACIÓN</h3>
 
         <p>Lugar: <strong><a href="{{page.map}}">{{page.place}}, {{page.street}}</a></strong>, {{page.locality}}.</p>
-        <p>Fecha: <strong>{{day}} de {{month}} del {{year}}</strong></p>
-        <p>Hora: <strong>de {{page.startDate | date: "%H:%M" }} a {{ page.endDate | date: "%H:%M" }}</strong></p>
+        {{ if month == month2 }}
+        <p>Fecha: <strong>Del {{day}} al {{day2}} de {{month}} del {{year}}</strong></p>
+        {{ else }}
+        <p>Fecha: <strong>Del {{day}} de {{month}} al {{day2}} de {{month2}} del {{year}}</strong></p>
+        {{ endif }}
 
     </article>
     <hr class="large"/>
@@ -31,7 +39,7 @@ twittercard: true
 
 
 <script type="text/javascript">
-    var discourseUrl = "https://foro.hacklabalmeria.net/",
+    var discourseUrl = "http://foro.hacklabalmeria.net/",
             discourseEmbedUrl = 'http://{{site.domain}}{{page.url}}';
 
     (function () {
