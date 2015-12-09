@@ -8,21 +8,21 @@ thumbnail: ""
 startDate: 2015-12-16T19:30
 endDate: 2015-12-16T21:00
 #Lugar
-place: ""
-street: ""
+place: "Café Cyrano"
+street: "Calle Méndez Núñez, 19"
 locality: "Almería"
-postalCode: 
-map: 
+postalCode: 04001
+map: https://www.google.es/maps/place/Cafe+Cyrano/@36.838732,-2.461688,15z/data=!4m2!3m1!1s0x0:0x3dc641c556264f91
 category: actividades
 ---
 
 ### DESCRIPCIÓN
 
-Desde Hacklab Almería os invitamos al **I Encuentro SW Almería**. SW Almería es una subcomunidad dentro de Hacklab que tiene como objetivo dar visibilidad a todo el talento relacionado con el mundo del desarrollo de software de Almería, organizando charlas, talleres y encuentros entre otros eventos para congregar a la comunidad SW local. Nuestro objetivo es compartir conocimientos, experiencia y crear nuevas relaciones profesionales y personales entre profesionales del sector, estudiantes e interesados en general.
+Desde Hacklab Almería os invitamos al **I Encuentro SW Almería**. SW Almería es una subcomunidad dentro de Hacklab que tiene como objetivo dar visibilidad a todo el talento relacionado con el mundo del desarrollo de software de Almería, organizando charlas, talleres y encuentros entre otros eventos donde compartir conocimientos y experiencias entre profesionales, estudiantes e interesados.
 
-Este evento tendrá la forma de reunión informal en un café con un invitado especial, Juan José Ramos, quien recientemente fue el protagonista de una ponencia en la Escuela Politécnica Superior de la UAL para hablar de su experiencia como desarrollador asentado en el extranjero, y ha accedido amablemente a participar en un encuentro con nosotros para compartirnos esta misma experiencia.
+Este evento tendrá la forma de reunión informal en un café con un invitado especial, Juan José Ramos, quien recientemente fue el protagonista de una ponencia en la EPS de la UAL para hablar de su experiencia como desarrollador asentado en el extranjero, y ha accedido amablemente a participar en un encuentro con nosotros para compartirnos esta misma experiencia.
 
-El encuentro es abierto a todo el mundo, y en él se charlará de forma informal y abierta entre todos los asistentes sobre la temática del mismo, permitiendo que los mismos, a través de sus preguntas a Juan José y al resto de asistentes, sean los que lleven la conversación en función de sus dudas e intereses.
+El encuentro es abierto a todo el mundo, y en él se charlará de forma informal y abierta sobre la temática del mismo, permitiendo que los asistentes, a través de sus preguntas a Juan José y al resto de personas, sean los que lleven la conversación en función de sus dudas e intereses.
 
 *Esperamos que el evento os resulte interesante para continuar con él en un futuro, invitando a personas que por su perfil o experiencia resulten interesantes.*
 
@@ -42,7 +42,7 @@ Juanjo nos hablará también de su experiencia como desarrollador iOS en Reuters
 
 ### HORARIO
 
-| 19:30-21:00 | Encuentro |
+| 19:30-21:00 | Encuentro - café |
 
 ---
 
@@ -52,4 +52,4 @@ Tras la jornada los asistentes pueden acordar continuar con la charla con unas c
 
 ---
 
-[http://www.hudl.com]
+[1]: http://www.hudl.com
