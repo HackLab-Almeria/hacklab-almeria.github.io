@@ -4,8 +4,9 @@ layout: post-jsonld
 title: "III Taller de Diseño"
 description: "Diseño de personas, pensado para personas"
 thumbnail: "/recursos/2016-01-29/SOLRAVASSA.jpg"
-#FechastartDate: 2016-01-29T19:00
-endDate: 2016-01-29T21:00
+#Fecha
+startDate: 2016-01-29T19:00
+endDate:   2016-01-29T21:00
 #Lugar
 place: "Escuela de Arte"
 street: "Plaza Pablo Cazard, 1"
