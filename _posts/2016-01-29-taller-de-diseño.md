@@ -18,6 +18,8 @@ category: actividades
 
 ### DESCRIPCIÓN
 
+![Circolab]({{ site.url }}/recursos/2016-01-29/SOLRAVASSA.jpg){: .center}
+
 Seguimos con el diseño en Almería, III Taller de Diseño en HackLab Almería. Buscamos que todo el mundo 
 interesado con el diseño tenga un lugar de encuentro donde aprender, compartir y experimentar.
 
