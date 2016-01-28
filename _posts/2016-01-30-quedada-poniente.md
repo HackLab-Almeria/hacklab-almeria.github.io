@@ -25,7 +25,7 @@ La reunión esta dirigida a todo aquel interesado en las nuevas tecnologías, co
 
 ### LOCALIZACIÓN
 
-* Lugar: Por determinar 
+* Lugar: **<a href="http://www.openstreetmap.org/?mlat=36.77394524216652&mlon=-2.8120923042297363#map=19/36.77411/-2.81209&layers=N">Café Bianco</a>, en la Plaza Mayor de El Ejido**
 * Fecha: **30 de enero de 2016**
 * Hora: **de 18:00 a 20:00**
 
