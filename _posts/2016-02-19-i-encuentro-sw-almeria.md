@@ -1,7 +1,7 @@
 ---
 layout: post-jsonld
 #Datos del Evento
-title: "I Encuentro SW Almería: Presentación Upware Studios. Unity 3D y videojuegos multiplataforma"
+title: "SW Almería: Presentación Upware Studios. Unity 3D y videojuegos multiplataforma"
 description: "Presentación del estudio de videojuegos local y charla sobre Unity 3D como motor de videojuegos para plataformas móviles"
 thumbnail: "/recursos/2016-02-19/logo-upwarestudios.png"
 #Fecha
@@ -18,19 +18,20 @@ category: actividades
 
 ### DESCRIPCIÓN
 
-SW Almería nace como una subcomunidad en Hacklab Almería para estructurar todas nuestras actividades relacionadas con el desarrollo de software no enmarcadas en el resto de subcomunidades.
+SW Almería es una subcomunidad en Hacklab Almería para estructurar todas nuestras actividades relacionadas con el desarrollo de software.
 
 En este ciclo de eventos iremos presentando distintas iniciativas, proyectos, empresas y profesionales, buscando cumplir nuestro objetivo de dar reconocimiento y poner en valor todo el talento local y crear una comunidad alrededor del mismo.
-
----
-
-### ¿DE QUÉ HABLAREMOS?
 
 ![Logo Upware Studios]({{site.url}}/recursos/2016-02-19/logo-upwarestudios.png "Logo Upware Studios"){: .center}
 
 Para nuestro primer encuentro presentaremos a [Upware Studios](http://upwarestudios.com/) ([@UpwareStudios](https://twitter.com/upwarestudios)), un estudio de desarrollo de videojuegos local con experiencia en el desarrollo multiplataforma, especialmente con el motor Unity 3D, que se encuentra cerca del lanzamiento de su primer videojuego, Walk boy.
 
-A cargo de Hilarión Luque, su fundador, y todo su equipo nos transmitirán su experiencia en la industria del videojuego móvil y nos harán un recorrido sobre Unity 3D como herramienta de desarrollo y publicación de videojuegos multiplataforma.
+
+---
+
+### ¿DE QUÉ HABLAREMOS?
+
+Hilarión Luque y el equipo de Upware nos contarán su experiencia en la industria del videojuego móvil y nos harán un recorrido sobre Unity 3D como herramienta de desarrollo y publicación de videojuegos multiplataforma.
 
 ---
 
