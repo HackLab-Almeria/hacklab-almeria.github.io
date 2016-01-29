@@ -1,7 +1,7 @@
 ---
 layout: post-jsonld
 #Datos del Evento
-title: "SW Almería: Presentación Upware Studios. Unity 3D y videojuegos multiplataforma"
+title: "I Encuentro SW Almería: Presentación Upware Studios. Unity 3D y videojuegos multiplataforma"
 description: "Presentación del estudio de videojuegos local y charla sobre Unity 3D como motor de videojuegos para plataformas móviles"
 thumbnail: "/recursos/2016-02-19/logo-upwarestudios.png"
 #Fecha
