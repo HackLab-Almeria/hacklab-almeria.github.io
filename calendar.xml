@@ -18,9 +18,9 @@ layout: null
             <title>
                 {{ post.title }}
             </title>
-            <link href="http://{{ site.domain }}{{ post.url }}"/>
+            <link href="{{ post.endDate | date_to_xmlschema }}"/>
             <updated>{{ post.startDate | date_to_xmlschema }}</updated>
-            <description>{{ post.endDate | date_to_xmlschema }}</description>
+            <description>{{post.place}}, {{post.street}}, {{post.postalCode}} {post.locality}}</description>
             <id>http://{{ site.domain }}{{ post.id }}</id>
             <content type="html">
                 {{post.description }}
