@@ -15,10 +15,12 @@ postalCode: 04120
 map: https://www.google.es/maps/place/Universidad+de+Almer%C3%ADa/@36.8296051,-2.4088215,17z
 category: actividades
 social:
-  - time: 2016-02-16T18:00
+  - time: 2016-02-18T18:00
     text: "¿Te gustaría aprender a hacer videojuegos? Mañana te esperamos"
+  - time: 2016-02-14T19:00
+    text: "Si te interesa hacer videojuegos multiplataforma con Unity3D, el día 19 te esperamos"	
   - time: 2016-02-01T19:00
-    text: "Si te interesa hacer videojuegos con Unity3D, el día 17 te esperamos"
+    text: "Si te interesa hacer videojuegos con Unity3D, el día 19 te esperamos"
     
 ---
 
