@@ -20,7 +20,7 @@ layout: null
             </title>
             <link href="{{ post.endDate | date_to_xmlschema }}"/>
             <updated>{{ post.startDate | date_to_xmlschema }}</updated>
-            <description>{{post.place}}, {{post.street}}, {{post.postalCode}} {{post.locality}}</description>
+            <description>{{post.map}}</description>
             <id>http://{{ site.domain }}{{ post.id }}</id>
             <content type="html">
                 {{post.description }}
