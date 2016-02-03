@@ -14,6 +14,14 @@ locality: "Almería"
 postalCode: 04009
 map: http://bit.ly/RealTrackSystems
 category: actividades
+#Redes sociales. Máximo 90 carácteres para el texto
+social:
+  - time: 2016-02-18T18:00
+    text: "Texto 1"
+  - time: 2016-02-14T19:00
+    text: "Texto 2"	
+  - time: 2016-02-01T19:00
+    text: "Texto 3"
 ---
 
 ### DESCRIPCIÓN
