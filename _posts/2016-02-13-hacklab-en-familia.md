@@ -1,8 +1,8 @@
 ---
 layout: post-jsonld
 #Datos del Evento
-title: "Encuentro de Hacklab en familia"
-description: ""
+title: "Encuentro de Hacklab en Familia"
+description: "Descubre el nuevo grupo de actividades dirigidas a las familias creado en HackLab Almería"
 thumbnail: ""
 #Fecha
 startDate: 2016-02-13T11:30
