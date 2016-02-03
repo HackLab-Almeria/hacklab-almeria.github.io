@@ -1,11 +1,36 @@
 ---
 layout: post-jsonld
 #Datos del Evento
-title: Encuentro de Hacklab en familia"
+title: "Encuentro de Hacklab en familia""
+description: ""
+thumbnail: ""
+#Fecha
+startDate: 2016-02-13M11:30
+endDate: 2016-02-13M13:30
+#Lugar
+place: "Centro de Actividades Náuticas"
+street: "Calle Almadravillas de Playa, 10"
+locality: "Almería, Almería"
+postalCode: 04007
+map: http://bit.ly/CentrodeActividadesNáuticas
+category: actividades
+social:
+  - text: "¿Quieres que tus hijos se diviertan y aprendan jugando? ? ¡Te esperamos!"
+    time: "2016-02-9T14:00"
+  - text: "¿Quieres divertirte con la ciencia en familia?"
+    time: "2016-02-10T12:30"
+  - text: "¿Quieres divertirte con la ciencia en familia?"
+    time: "2016-02-12T12:30"
+
+---
+
+layout: post-jsonld
+#Datos del Evento
+title: "Encuentro de Hacklab en familia"
 description: "Descubre el nuevo grupo de actividades dirigidas a las familias creado en HackLab Almería"
 #Fecha
-startDate: 2016-01-13M11:30
-endDate: 2016-01-13M13:30
+startDate: 2016-02-13M11:30
+endDate: 2016-02-13M13:30
 #Lugar
 place: "Centro de Actividades Náuticas"
 street: "Calle Almadravillas de Playa, 10"
@@ -55,7 +80,7 @@ Una bola de poliespan (acuarelas y pincel para pintar tu bola) o si no tienes, p
 
 
 | 11:30-11:40   | Presentaciones de los asistentes |
-| 11:40-13:15   | ¡Ciencia! |
+| 11:40-13:15   | ¡Ciencia en familia! |
 | 13:15-13:30   | Propuestas de futuras actividades |
 
 ---
