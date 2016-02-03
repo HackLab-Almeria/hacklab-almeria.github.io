@@ -10,7 +10,7 @@ endDate: 2016-02-13T13:30
 #Lugar
 place: "Centro de Actividades Náuticas"
 street: "Calle Almadravillas de Playa, 10"
-locality: "Almería, Almería"
+locality: "Almería"
 postalCode: 04007
 map: http://bit.ly/CentrodeActividadesNáuticas
 category: actividades
