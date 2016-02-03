@@ -16,9 +16,9 @@ map: http://bit.ly/1ROpVaM
 category: actividades
 socials:
 	- text: "Charla sobre tecnologías Libres en Tenerife"
-    time: "2016-02-14T18:30"
+    date: "2016-02-14T18:30"
     - text: "Pero aún no te has enterado que montamos un sarao en Tenerife?"
-    time: "2016-02-20T12:00"
+    date: "2016-02-20T12:00"
  
 ---
 
