@@ -1,12 +1,12 @@
 ---
 layout: post-jsonld
 #Datos del Evento
-title: "Encuentro de Hacklab en familia""
+title: "Encuentro de Hacklab en familia"
 description: ""
 thumbnail: ""
 #Fecha
-startDate: 2016-02-13M11:30
-endDate: 2016-02-13M13:30
+startDate: 2016-02-13T11:30
+endDate: 2016-02-13T13:30
 #Lugar
 place: "Centro de Actividades Náuticas"
 street: "Calle Almadravillas de Playa, 10"
@@ -16,28 +16,11 @@ map: http://bit.ly/CentrodeActividadesNáuticas
 category: actividades
 social:
   - text: "¿Quieres que tus hijos se diviertan y aprendan jugando? ? ¡Te esperamos!"
-    time: "2016-02-9T14:00"
+    time: "2016-02-09T14:00"
   - text: "¿Quieres divertirte con la ciencia en familia?"
     time: "2016-02-10T12:30"
   - text: "¿Quieres divertirte con la ciencia en familia?"
     time: "2016-02-12T12:30"
-
----
-
-layout: post-jsonld
-#Datos del Evento
-title: "Encuentro de Hacklab en familia"
-description: "Descubre el nuevo grupo de actividades dirigidas a las familias creado en HackLab Almería"
-#Fecha
-startDate: 2016-02-13M11:30
-endDate: 2016-02-13M13:30
-#Lugar
-place: "Centro de Actividades Náuticas"
-street: "Calle Almadravillas de Playa, 10"
-locality: "Almería"
-postalCode: 04007
-map: http://bit.ly/CentrodeActividadesNáuticas
-category: actividades
 ---
 
 ### ¿QUÉ ES HACKLAB EN FAMILIA?
