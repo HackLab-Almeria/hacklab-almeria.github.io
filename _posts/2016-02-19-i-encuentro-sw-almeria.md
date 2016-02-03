@@ -11,7 +11,7 @@ endDate: 2016-02-19T21:00
 place: "Sede PITA en campus de Universidad de Almería"
 street: "Campus de la Cañada, Ctra. Sacramento, s/n"
 locality: "Almería, Almería"
-postalCode: 04120
+postalCode: "04120"
 map: https://www.google.es/maps/place/Universidad+de+Almer%C3%ADa/@36.8296051,-2.4088215,17z
 category: actividades
 social:

@@ -11,7 +11,7 @@ endDate: 2015-12-16T21:00
 place: "Café Cyrano"
 street: "Calle Méndez Núñez, 19"
 locality: "Almería"
-postalCode: 04001
+postalCode: "04001"
 map: https://www.google.es/maps/place/Cafe+Cyrano/@36.838732,-2.461688,15z/data=!4m2!3m1!1s0x0:0x3dc641c556264f91
 category: actividades
 ---

@@ -11,7 +11,7 @@ endDate:   2016-01-29T21:00
 place: "Realtrack"
 street: "Guinea 2"
 locality: "Almería"
-postalCode: 04009
+postalCode: "04009"
 map: http://bit.ly/RealTrackSystems
 
 category: actividades

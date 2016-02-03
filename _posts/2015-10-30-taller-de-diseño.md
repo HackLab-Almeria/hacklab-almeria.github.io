@@ -11,7 +11,7 @@ endDate: 2015-10-30T21:00
 place: "Escuela de Arte"
 street: "Plaza Pablo Cazard, 1"
 locality: "Almería"
-postalCode: 04001
+postalCode: "04001"
 map: http://bit.ly/escuelaartesalmeria
 category: actividades
 ---

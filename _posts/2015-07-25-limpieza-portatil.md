@@ -9,7 +9,7 @@ endDate: 2015-07-25T12:00
 place: "LaOficina Cultural"
 street: "Calle de las Tiendas, 26"
 locality: "Almería"
-postalCode: 04001
+postalCode: "04001"
 map: http://www.openstreetmap.org/node/2389372700
 category: actividades
 ---

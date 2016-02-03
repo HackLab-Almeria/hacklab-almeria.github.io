@@ -10,7 +10,7 @@ endDate: 2015-11-28M13:30
 place: "Centro de Actividades Náuticas"
 street: "Calle Almadravillas de Playa, 10"
 locality: "Almería"
-postalCode: 04007
+postalCode: "04007"
 map: http://bit.ly/CentrodeActividadesNáuticas
 category: actividades
 ---

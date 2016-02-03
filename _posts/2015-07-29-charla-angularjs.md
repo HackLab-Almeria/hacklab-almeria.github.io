@@ -10,7 +10,7 @@ endDate: 2015-07-29T19:00
 place: "Andalucia Compromiso Digital"
 street: "Calle la Reina, 26"
 locality: "Almería"
-postalCode: 04002
+postalCode: "04002"
 map: https://goo.gl/maps/ECb8d
 category: actividades
 ---

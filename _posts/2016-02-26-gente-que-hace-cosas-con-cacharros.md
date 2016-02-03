@@ -11,7 +11,7 @@ endDate: 2016-02-26T20:30
 place: "Casa de la Juventud"
 street: "Calle Peŕez Reyes, 47"
 locality: "Tacoronte, Santa Cruz de Tenerife"
-postalCode: 38350
+postalCode: "38350"
 map: http://bit.ly/1ROpVaM
 category: actividades
 social:

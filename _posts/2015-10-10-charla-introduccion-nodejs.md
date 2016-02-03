@@ -10,7 +10,7 @@ endDate: 2015-10-10T13:00
 place: "La oficina"
 street: "Las Tiendas, 26"
 locality: "Almería"
-postalCode: 04001
+postalCode: "04001"
 map: https://goo.gl/maps/7GHLVip8wDK2
 category: actividades
 ---

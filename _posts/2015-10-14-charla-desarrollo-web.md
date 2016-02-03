@@ -11,7 +11,7 @@ endDate: 2015-10-14T21:00
 place: "Workspace Coworking"
 street: "Plaza Administración Vieja, 1 planta 1"
 locality: "Almería"
-postalCode: 04003
+postalCode: "04003"
 map: https://www.google.com/maps/place/WorkSpace+Coworking/@36.839719,-2.467217,14z/data=!4m2!3m1!1s0x0:0xd0b1c4e4989daf78?hl=es-ES
 category: actividades
 ---
