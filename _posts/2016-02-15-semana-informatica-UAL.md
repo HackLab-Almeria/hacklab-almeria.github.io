@@ -18,9 +18,9 @@ social:
   - text: "Participamos en las Jornadas de Informática 2016 :-D"
     time: "2016-02-05T10:00"
   - text: "No es porque participemos en las jornadas, que sí, pero que no os las perdáis"
-    time: "2016-02-10T0900"
+    time: "2016-02-10T19:00"
   - text: "A ver si somos capaces de tener listas las pegatinas para las Jornadas"
-    time: "2016-02-12116:30"
+    time: "2016-02-12T16:30"
 ---
 
 ### Descripción
