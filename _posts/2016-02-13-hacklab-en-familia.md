@@ -41,7 +41,7 @@ Papás, abuelos, tíos... sí tenéis algún otro proyecto científico que quer�
 
 ¡Ven a aprender, compartir y a experimentar con la ciencia en familia, te esperamos!
 
-### ¿QUÉ BEBES DEBES TRAER?
+### ¿QUÉ DEBES TRAER?
 
 Tienes que traer tu planeta.
 
@@ -50,14 +50,11 @@ Tienes que traer tu planeta.
 
 ### PREGUNTAS O DUDAS
 
-<ul>
-	<li><b>¿Tengo que pagar?</b> No, todas las <a href="http://foro.hacklabalmeria.net/t/preguntas-frecuentes-faq/5" title="Preguntas Frecuentes (FAQ) de Hacklab" target="_blank">actividades del Hacklab</a> son gratuitas</li>
-	
-	<li><b>Si a mi hijo no le gusta, ¿me puedo ir?</b> Sí, es un grupo abierto, al que venimos sólo para estar a gusto y pasarlo bien.</li>
-	
-    <li><b>¿Hay límite de edad?</b> Por si no lo hubiéramos dejado claro, no la hay: se admiten <b>niños de 0 a 99 años</b>.</li>
-    
-   </ul>
+
+-**¿Tengo que pagar?* No, todas las [actividades del Hacklab](http://foro.hacklabalmeria.net/t/preguntas-frecuentes-faq/5) son gratuitas
+-**Si a mi hijo no le gusta, ¿me puedo ir?** Sí, es un grupo abierto, al que venimos sólo para estar a gusto y pasarlo bien.
+-**¿Hay límite de edad?** Por si no lo hubiéramos dejado claro, no la hay: se admiten **niños de 0 a 99 años**.
+   
 ---
 
 
