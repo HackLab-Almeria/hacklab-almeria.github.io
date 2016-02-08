@@ -41,9 +41,11 @@ Papás, abuelos, tíos... sí tenéis algún otro proyecto científico que quer�
 
 ¡Ven a aprender, compartir y a experimentar con la ciencia en familia, te esperamos!
 
-### ¿QUÉ MATERIAL DEBES TRAER?
+### ¿QUÉ BEBES DEBES TRAER?
 
-Una bola de poliespan (acuarelas y pincel para pintar tu bola) o si no tienes, puedes traer plastilina para tu planeta.
+Tienes que traer tu planeta.
+
+¿Cómo puedes hacer un planeta? Con una bola de poliespan que debes traer pintado de casa o una bola de plastilina.
 
 
 ### PREGUNTAS O DUDAS
