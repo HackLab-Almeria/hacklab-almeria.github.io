@@ -51,9 +51,9 @@ Tienes que traer tu planeta.
 ### PREGUNTAS O DUDAS
 
 
--**¿Tengo que pagar?* No, todas las [actividades del Hacklab](http://foro.hacklabalmeria.net/t/preguntas-frecuentes-faq/5) son gratuitas
--**Si a mi hijo no le gusta, ¿me puedo ir?** Sí, es un grupo abierto, al que venimos sólo para estar a gusto y pasarlo bien.
--**¿Hay límite de edad?** Por si no lo hubiéramos dejado claro, no la hay: se admiten **niños de 0 a 99 años**.
+- **¿Tengo que pagar?** No, todas las [actividades del Hacklab](http://foro.hacklabalmeria.net/t/preguntas-frecuentes-faq/5) son gratuitas
+- **Si a mi hijo no le gusta, ¿me puedo ir?** Sí, es un grupo abierto, al que venimos sólo para estar a gusto y pasarlo bien.
+- **¿Hay límite de edad?** Por si no lo hubiéramos dejado claro, no la hay: se admiten **niños de 0 a 99 años**.
    
 ---
 
