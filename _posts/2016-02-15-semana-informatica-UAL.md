@@ -8,11 +8,11 @@ thumbnail: ""
 startDate: 2016-02-15T00:00
 endDate: 2016-02-20T23:55
 #Lugar
-place: "Edificio Ciencias de la Salud: sala de conferencias"
+place: "Salón de grados del edificio de gobierno"
 street: "Ctra. Sacramento, s/n"
 locality: "La Cañada, Almería"
 postalCode: "04120"
-map: https://goo.gl/maps/9kunWi3DpvD2
+map: https://goo.gl/maps/Xrr5ShB3s8S2
 category: actividades
 social:
   - text: "Participamos en las Jornadas de Informática 2016 :-D"

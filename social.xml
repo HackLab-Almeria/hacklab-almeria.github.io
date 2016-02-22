@@ -22,7 +22,7 @@ layout: null
             <updated>{{ social.time | date_to_xmlschema }}</updated>
             <id>http://{{ site.domain }}{{ post.id }}/{{social.time}}</id>
             <content type="html">
-                {{social.text}} http://{{ site.domain }}{{ post.url }}
+                {{social.text | xml_escape }} http://{{ site.domain }}{{ post.url }}
             </content>
         </entry>
     {% endfor %}
