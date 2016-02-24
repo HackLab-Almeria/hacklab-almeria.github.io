@@ -5,7 +5,7 @@ title: "Taller de Hardware abierto: MQTT en Arduino"
 subtitle: 26 de febrero del 2016 / Realtrack Systems, Almería
 description: "Taller de Hardware Abierto sesión de febrero del 2016 dénde hablaremos de como utlizar el protocolo MQTT en Arduino"
 #Fecha
-startDate: 2016-02-206T19:00
+startDate: 2016-02-26T19:00
 endDate: 2016-02-26T21:00
 #Lugar
 place: "Realtrack Systems"
