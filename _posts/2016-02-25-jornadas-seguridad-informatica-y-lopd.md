@@ -15,16 +15,10 @@ postalCode: "04120"
 map: https://www.google.es/maps/place/Universidad+de+Almer%C3%ADa/@36.8296051,-2.4088215,17z/data=!3m1!4b1!4m2!3m1!1s0xd7a9c3bf5505529:0x2a59668c430f3ff3
 category: actividades
 social:
-   - text: "MQTT + Arduino + Wifi = Controla tus «chismes» desde cualquier navegador web"
-     time: "2016-02-22T18:30"
-   - text: "Y este viernes, @MiguelAngel_LV nos habla de #MQTT y Arduino. Y, después... conexión con @zerasul desde Canarias."
-     time: "2016-02-23T10:00"
-   - text: "En el Taller de Hardware Abierto viajaremos al pasado, concretamente, 1 hora, para hablar con @zerasul"
-     time: "2016-02-24T16:00"
-   - text: "¿Conoces #AdafruitIO? En el Taller de Hardware abierto te mostramos como usarlo junto a t Arduino"
-     time: "2016-02-25T19:00"
-   - text: "¿Todavía sin plan para esta tarde? Arduino, MQTT y #PiticlisBonicos en el Hardware Abierto."
-     time: "2016-02-25T12:30"
+   - text: "Jornadas Seguridad informática y Ley Protección de Datos, y presentación comunidades emprendedoras y Hacklab"
+     time: "2016-02-24T19:00"
+   - text: "Jornadas Seguridad informática y Ley Protección de Datos, participan nuestros @jaberme e @Indavelopers"
+     time: "2016-02-25T09:00"	 
 ---
 ### DESCRIPCIÓN
 
