@@ -5,7 +5,7 @@ title: "Jornadas: Seguridad Informática y Ley de Protección de Datos"
 subtitle: Con breve presentación de Hacklab Almería y sus subcomunidades a los asistentes
 description: "Constará de charlas sobre LOPD, seguridad informática y experiencia de comunidades emprendedoras y tecnológicas"
 #Fecha
-startDate: 2016-02-256T10:45
+startDate: 2016-02-25T10:45
 endDate: 2016-02-25T13:15
 #Lugar
 place: "Sala de Grados del CITE III, Campus de la Cañada, Universidad de Almería"
