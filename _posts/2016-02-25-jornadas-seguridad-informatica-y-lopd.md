@@ -28,7 +28,7 @@ Organizado por el Servicio Universitario de Empleo de la Fundación Mediterráne
 
 Durante la charla sobre comunidades tecnológicas se presentará brevemente Hacklab Almería, sus subcomunidades, y GDG Almería.
 
-Contaremos con nuestros miembros José Antonio Bermejo ([@jaberme](https://twitter.com/jaberme), doctor en Informática, Departamento de Informática de la UAL) como ponente sobre seguridad informática, y Marcos Manuel Ortega ([@Indavelopers](https://twitter.com/Indavelopers), miembro de Hacklab y organizador del GDG Almería) presentando, entre otras, Hacklab Almería y GDG Almería.
+Contaremos con nuestros miembros José Antonio Bermejo ([@jaberme](https://twitter.com/jaberme), doctor en Informática, Departamento de Informática de la UAL) hablará sobre seguridad informática, y Marcos Manuel Ortega ([@Indavelopers](https://twitter.com/Indavelopers), miembro de Hacklab y organizador del GDG Almería) presentando, entre otras, Hacklab Almería y GDG Almería.
 
 Más información e inscripción en la [web del SUE](http://cms.ual.es/UAL/universidad/serviciosgenerales/empleo/actividades/actividad/index.htm?c_actividad=459).
 
