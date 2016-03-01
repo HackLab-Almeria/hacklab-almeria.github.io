@@ -12,7 +12,7 @@ place: "Centro de la Mujer 'Cortijo Grande'"
 street: "C/ Antonio Muñoz Zamora S/N"
 locality: "Almería"
 postalCode: "04007"
-map: 
+map: https://goo.gl/02b8I4
 category: actividades
 social:
    - text: "Taller de Cómo usar y no usar Whatsapp el 8 Marzo a las 18h."
