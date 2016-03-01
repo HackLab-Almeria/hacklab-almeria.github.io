@@ -1,15 +1,15 @@
 ---
 layout: post-jsonld
 #Datos del Evento
-title: "Taller de Cómo usar y no usar Whatsapp y de Taller de Iniciación al Wordpress"
-subtitle: "08 de marzo del 2016 / Centro de la Mujer 'Cortijo Grande', Almería"
-description: "Taller de Cómo usar y no usar Whatsapp y de Taller de Iniciación al Wordpress"
+title: "Actividades para celebrar el Día Internacional de la Mujer"
+subtitle: "08 de marzo de 2016 / Centro de la Mujer 'Cortijo Grande', Almería"
+description: "Actividades para celebrar el Día Internacional de la Mujer"
 #Fecha
 startDate: 2016-03-08T18:00
 endDate: 2016-03-08T21:20
 #Lugar
 place: "Centro de la Mujer 'Cortijo Grande'"
-street: "C/ Antonio Muñoz Zamora"
+street: "C/ Antonio Muñoz Zamora S/N"
 locality: "Almería"
 postalCode: "04007"
 map: 
@@ -39,28 +39,28 @@ CONTENIDOS
 - Crear y administrar grupos y listas de distribución.
 - Qué y como comunicar, cuidando nuestra privacidad.
 
-DESTINATARIOS: Mujeres (y hombres) que quieran mejorar sus conocimientos sobre el uso de whatsapp.
+DESTINATARIOS: Mujeres (y hombres) que quieran mejorar sus conocimientos sobre el uso de Whatsapp.
 
-REQUESITOS: cada participante debe de traer su dispositivo con la aplicación instalada y con batería suficiente para la duración del taller.
+REQUESITOS: Cada asistente debe de traer su dispositivo con la aplicación instalada y con batería suficiente para la duración del taller.
 
 
 Taller **'Introducción a Wordpress'**
 
-OBJETIVOS: Introducción al mundo de los blog, conocer las distintas herramientas gratuitas existentes e implantación de un blog en wordpress.
+OBJETIVOS: Introducción al mundo de los blog, conocer las distintas herramientas gratuitas existentes e implantación de un blog en Wordpress.
 
 DESTINATARIOS: Personas con inquietudes en el ámbito de la comunicación a través de internet.
 
 CONTENIDOS:
-- ¿Qué es un blog
+- Qué es un blog
 - Tecnologías mas populares para la creación de un blog
-- Creación de un blog gratis con la herramienta [Wordpress](https://es.wordpress.com)
+- Creación de un blog con la herramienta [Wordpress](https://es.wordpress.com)
 	
 REQUISITOS: Cada asistente debe traer su propio ordenador para trabajar y crear su blog.
 
 
 ---
 
-### PROGRAMA 1
+### PROGRAMA
 
 | 18:00-18:15   | Presentaciones de los asistentes  |
 | 18:15-19:00   | Taller de Cómo usar y no usar Whatsapp por @mariaj_tejeira  |
