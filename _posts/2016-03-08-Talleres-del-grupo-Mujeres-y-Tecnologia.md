@@ -22,7 +22,7 @@ social:
 ---
 ### DESCRIPCIÓN
 
-Con motivo del [Día de la Mujer Trabajadora](https://es.wikipedia.org/wiki/D%C3%ADa_Internacional_de_la_Mujer), inauguramos las actividades del grupo de [<< Mujeres y Tecnología >>](https://foro.hacklabalmeria.net/t/definicion-de-la-categoria-mujeres-y-tecnologia/6156) de HackLab Almería con dos talleres, un taller de 'Cómo usar y no usar Whatsapp' y otro taller de 'Iniciación a Wordpress'.
+Con motivo del [Día de la Mujer Trabajadora](https://es.wikipedia.org/wiki/D%C3%ADa_Internacional_de_la_Mujer), inauguramos las actividades del grupo de [<< Mujeres y Tecnología >>](https://foro.hacklabalmeria.net/t/definicion-de-la-categoria-mujeres-y-tecnologia/6156) de HackLab Almería con dos talleres, un taller de 'Uso correcto de Whatsapp' y otro taller de 'Iniciación a Wordpress'.
 
 ---
 
