@@ -13,7 +13,6 @@ locality: "Almería"
 postalCode: 04007
 map: http://bit.ly/CentrodeActividadesNáuticas
 category: actividades
----
 social:
    - text: "En HackLab Almería, robótica en familia el día 19 de marzo"
      time: "2016-03-15T18:30"
