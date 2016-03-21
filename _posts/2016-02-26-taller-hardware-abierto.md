@@ -25,10 +25,7 @@ social:
      time: "2016-02-25T19:00"
    - text: "¿Todavía sin plan para esta tarde? Arduino, MQTT y #PiticlisBonicos en el Hardware Abierto."
      time: "2016-02-25T12:30"
------------------------------
-
-
-
+---
 ### DESCRIPCIÓN
 
 Taller sobre el Hardware Libre dónde podremos encontrar charlas, explicaciones y propuestas de proyectos para realizar de forma conjunta.
