@@ -61,10 +61,11 @@ faltan para otros participantes.
 
 
 | 11:00 - 11:15 | Presentación |
-| 11:30 - 12:45 | ¿Qué es Genuino y por qué mola tanto? |
-| 12:45 - 13:30 | Gente que hace cosas con cacharros |
-| 13:30 - 14:15 | Los saraos de Daniel |
-| 14:15 - 16:00 | Pausa para comer |
+| 11:30 - 12:30 | ¿Qué es Genuino y por qué mola tanto? |
+| 12:30 - 13:00 | Gente que hace cosas con cacharros |
+| 13:00 - 13:30 | Arduino en el aula con EduBasica |
+| 13:30 - 14:00 | Los saraos de Daniel |
+| 14:00 - 16:00 | Pausa para comer |
 | 16:00 - 20:00 | Multiples talleres |
 | 20:00 - 20:30 | Limpieza y verificación de que todo está correcto |
 
