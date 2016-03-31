@@ -6,7 +6,7 @@ description: " Robótica educativa aplicada a la agricultura"
 thumbnail: "/recursos/2016-05-14/logo-principal.png"
 #Fecha
 startDate: 2016-05-14T00:00
-endDate: 2016-02-20T23:55
+endDate: 2016-05-14T23:55
 #Lugar
 place: "Pabellón de deportes «la Legua»"
 street: "C/ Juan Manuel «El Cura»"
