@@ -2,7 +2,7 @@
 layout: post-jsonld
 #Datos del Evento
 title: "Genuino Day"
-description: "Pasa con nosotros el Genuino Day conoiendo estas placas progablames"
+description: "Pasa con nosotros el Genuino Day explorando estas placas programables"
 thumbnail: "/recursos/2016-04-02/genuino.png"
 #Fecha
 startDate: 2016-04-02T11:00
