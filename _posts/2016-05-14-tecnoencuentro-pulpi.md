@@ -3,7 +3,7 @@ layout: post-jsonld
 #Datos del Evento
 title: "Tecnoencuentro 2016"
 description: " Robótica educativa aplicada a la agricultura"
-thumbnail: "logo-principal.png"
+thumbnail: "/recursos/2016-05-14/logo-principal.png"
 #Fecha
 startDate: 2016-05-14T00:00
 endDate: 2016-02-20T23:55
