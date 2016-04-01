@@ -37,8 +37,7 @@ social:
 
 ### DESCRIPCIÓN
 
-**[Genuino Day][2]** es un evento a nivel internacional dónde se celebra el cumpleaños de **Arduino y Genuino**. Para celebrarlo, se realizan eventos
-por todo el mundo sobre el esta placa, impartiendo cursos, charlas, experiencias... y en Hacklab Almeríaa no podíamos ser menos.
+**[Genuino Day][2]** es un evento a nivel internacional dónde se celebra el cumpleaños de **Arduino y Genuino**. Para celebrarlo, se realizan eventos por todo el mundo sobre el esta placa, impartiendo cursos, charlas, experiencias... y en Hacklab Almeríaa no podíamos ser menos.
 
 ---
 
@@ -55,6 +54,14 @@ Llevaremos varios kits de desarrollo para los asistentes, pero se agradece que l
 faltan para otros participantes.
 
 ---
+
+### ¿A QUIÉN VA DIRIGIDO?
+
+A todo el mundo, sepas o no sepas de programación o electrónica, tengas la edad que tengas, serás bienvenido y habrá un hueco para ti.
+
+### ¿QUÉ HAY QUE LLEVAR?
+
+Lo principal es llevar **ganas de pasarlo bien**, adicionalmente, si tienes **portátil** o algún tiplo de placa **genuino/arduino** es preferible que la lleves, sino, ya te prestaremos alguna nosotros.
 
 
 ### PROGRAMA
@@ -79,6 +86,7 @@ Los talleres planificados serán los siguientes:
  - ESP8266
 
 ---
+
 
 
 ### DESPUÉS DEL EVENTO
