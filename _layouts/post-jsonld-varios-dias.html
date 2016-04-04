@@ -26,11 +26,11 @@ twittercard: true
         <h3 id="localizacion">LOCALIZACIÓN</h3>
 
         <p>Lugar: <strong><a href="{{page.map}}">{{page.place}}, {{page.street}}</a></strong>, {{page.locality}}.</p>
-        {{ if month == month2 }}
+        {% if month == month2 %}
         <p>Fecha: <strong>Del {{day}} al {{day2}} de {{month}} del {{year}}</strong></p>
-        {{ else }}
+        {% else %}
         <p>Fecha: <strong>Del {{day}} de {{month}} al {{day2}} de {{month2}} del {{year}}</strong></p>
-        {{ endif }}
+        {% endif %}
 
     </article>
     <hr class="large"/>
