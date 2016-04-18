@@ -30,7 +30,7 @@ a los retos del entorno.
 
 Este evento es totalmente gratuito, pero debido a la logística con la que contamos
 hemos decidido cerrar el aforo en 30 personas. Para acudir, por favor saca tu entrada
-gratuita en el evento que hemos creado en Evenbrite "Activa tu Creatividad"
+gratuita en el evento que hemos creado en Evenbrite ["Activa tu Creatividad"](https://www.eventbrite.es/e/entradas-activa-tu-creatividad-24732938886)
 
 ---
 
