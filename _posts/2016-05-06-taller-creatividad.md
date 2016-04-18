@@ -12,7 +12,7 @@ place: "Escuela de Arte de Almería"
 street: "Plaza Pablo Cazard nº 1"
 locality: "Almería"
 postalCode: "04001"
-map: http://www.eaalmeria.es/
+map: https://www.google.es/maps/place/Escuela+de+Arte+Almer%C3%ADa/@36.8370692,-2.4665208,17z/data=!3m1!4b1!4m2!3m1!1s0xd707603e054d929:0xcca96ce7336bfd31
 category: actividades
 
 ---
