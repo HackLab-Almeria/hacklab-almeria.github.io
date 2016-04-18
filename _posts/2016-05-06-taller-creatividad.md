@@ -14,18 +14,7 @@ locality: "Almería"
 postalCode: "04001"
 map: http://www.eaalmeria.es/
 category: actividades
-#Redes sociales. Máximo 90 carácteres para el texto
-social:
-  - time: 2016-04-22T12:00
-    text: "Taller de Creatividad el día 6 de Mayo, ¿te lo vas a perder?"
-  - time: 2016-04-25T12:00
-    text: "HOYGAN, Taller de Creatividad la semana que viene"
-  - time: 2016-04-29T12:00
-    text: "¿Te han contado ya que el viernes que viene tenemos Taller de Creatividad?"
-  - time: 2016-05-02T12:00
-    text: "¿Todavía no lo sabes? Este viernes tenemos Taller de Creatividad"
-  - time: 2016-05-06T12:00
-    text: "Recordamos que esta tarde a las 18:00 tenemos el Taller de Creatividad"
+
 ---
 
 ### DESCRIPCIÓN
