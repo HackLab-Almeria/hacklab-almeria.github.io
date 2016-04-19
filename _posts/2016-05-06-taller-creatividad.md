@@ -5,8 +5,8 @@ title: "Activando tu Creatividad."
 description: "Breve descripción del evento"
 thumbnail: "/recursos/2016-04-22/evolution.jpg"
 #Fecha
-startDate: 2016-04-22T19:00
-endDate: 2016-04-22T21:00
+startDate: 2016-05-06T18:00
+endDate: 2016-05-06T20:00
 #Lugar
 place: "Escuela de Arte de Almería"
 street: "Plaza Pablo Cazard nº 1"
