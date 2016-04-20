@@ -21,6 +21,7 @@ category: actividades
   <img src="/recursos/2016-04-ccALM/cartel.jpg" width="1024" alt="cartel ccALM 2016" />
 </p>
 
+
 ### Descripción
 
 
@@ -29,3 +30,5 @@ Festival dedicado a los procomunes y a la cultura libre. Crea. Copia. Remezcla.
 
 
 <iframe src="http://ccalm.es/?p=2241" width="1200" height="2000" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+Si no puedes ver el contenido el enlace original es http://ccalm.es/?p=2241.

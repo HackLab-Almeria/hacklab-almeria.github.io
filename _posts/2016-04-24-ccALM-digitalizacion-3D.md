@@ -29,3 +29,6 @@ Festival dedicado a los procomunes y a la cultura libre. Crea. Copia. Remezcla.
 
 
 <iframe src="http://ccalm.es/?p=2131" width="1200" height="2000" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+Si no puedes ver el contenido el enlace original es http://ccalm.es/?p=2131.
