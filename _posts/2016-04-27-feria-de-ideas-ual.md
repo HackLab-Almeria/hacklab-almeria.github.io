@@ -1,17 +1,18 @@
 ---
-layout: post-jsonld-varios-dias
+layout: post-jsonld
 #Datos del Evento
 title: "Feria de las Ideas UAL"
-description: ""
+description: "Un espacio abierto a todo emprendedor, donde podrás exponer tus proyectos e ideas"
 thumbnail: ""
 #Fecha
-startDate: 2016-05-27T17:00
+startDate: 2016-04-27T09:00
+endDate: 2016-04-27T19:00
 #Lugar
-place: "Universidad de Almería"
-street: ""
-locality: "Almería"
-postalCode: "04008"
-map: 
+place: "Aulario IV, Universidad de Almería"
+street: "Campus de la Cañada, Ctra. Sacramento, s/n"
+locality: "Almería, Almería"
+postalCode: "04120"
+map: https://www.google.es/maps/place/Universidad+de+Almer%C3%ADa/@36.8296051,-2.4088215,17z
 category: actividades
 ---
 
