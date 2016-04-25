@@ -18,8 +18,7 @@ category: actividades
 
 ### DESCRIPCIÓN
 
-El 27 de abril tendrá lugar la 9ª edición de la [Feria de las Ideas][1], organizada por la UAL, el PITA y la EOI 
-(Escuela de Organización Industrial)
+El 27 de abril tendrá lugar la 9ª edición de la [Feria de las Ideas][1], organizada por la [Universidad de Almería](http://www.ual.es/).
 
 El evento tiene lugar en la universidad, y además del público universitario en general, se congrega un gran 
 número de gente entre emprendedores, profesionales libres, interesados, instituciones, organizaciones y empresas.
@@ -28,7 +27,17 @@ número de gente entre emprendedores, profesionales libres, interesados, institu
 
 ### PARTICIPACIÓN DE HACKLAB ALMERÍA
 
-HackLab Almería y UNIA estarán presentes junto a la Oficina de Software Libre (OSL UNIA) y al Programa Espacial Almeriense.
+La familia del HackLab Almería y [UNIA](http://uniaual.net/) estarán presentes pues además contaremos con la presencia de la [Oficina de Software Libre (OSL UNIA)](http://uniaual.net/), el [Club .Net Almería](http://www.dotnetalmeria.net/) y el [Programa Espacial Almeriense](http://programaespacialalmeriense.space/).
+
+<img src="/recursos/2016-04-27/UNIA.png"  />
+<img src="/recursos/2016-04-27/HackLabAlmeria.png"  />
+<img src="/recursos/2016-04-27/club.Net.png"  />
+<img src="/recursos/2016-04-27/OSL-UNIA.png"  />
+<img src="/recursos/2016-04-27/PEA.png"  />
+
+
+      
+
 
 | 12:00 - 14:30 | Exposición y actividades |
 | 16:30 - 18:30 | Exposición y actividades (continuación) |
