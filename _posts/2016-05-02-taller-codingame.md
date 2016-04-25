@@ -1,8 +1,8 @@
 ---
 layout: post-jsonld
 #Datos del Evento
-title: "Taller CodinGame: competición Smash the code"
-description: "Reunión del grupo de CodinGame para preparar bots que compitan, ahora disponibles en 24 lenguajes"
+title: "Club Python Almería: Competición CodinGame 'Smash the code' (24 lenguajes disponibles)"
+description: "Reunión del grupo de CodinGame para preparar bots que compitan, disponibles en 24 lenguajes, ¡no sólo Python!"
 thumbnail: "/recursos/logo-club-python.png"
 #Fecha
 startDate: 2016-05-02T18:30
@@ -28,7 +28,7 @@ Estos sencillos bots deben competir según unas reglas por anunciar en una arena
 
 En esta convocatoria nos reuniremos para poner conocimientos y estrategias en común, y ayudarnos entre todos a competir y aprender a programar de forma más eficiente. Nuestro Francisco Segura (@scrauler) es un experto en CodinGame y nos convoca a participar con él en esta competición para mejorar todos como programadores.
 
-**Esta convocatoria está abierta a programadores de cualquiera de los 24 lenguajes disponibles en CodinGame**, no sólo Python (aunque *Python is the answer*).
+**Esta convocatoria y taller están abiertos a programadores de cualquiera de los 24 lenguajes disponibles en CodinGame**, no sólo Python (aunque *Python is the answer*).
 
 ---
 
