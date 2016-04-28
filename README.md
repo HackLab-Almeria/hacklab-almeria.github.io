@@ -48,6 +48,9 @@ Una vez hayas terminado la actividad y quieras _publicarla_, símplemente debes 
 
 Una vez esté en publicada en actividades, el sistema **creará automáticamente un post en los foros.**
 
+__PD:__ Miguel Ángel ha añadido nuevos automatismos a partir de las entradas de evento. Por favor consulta en el foro [cómo se usan estos automatismos](https://foro.hacklabalmeria.net/t/automatizar-la-difusion-en-redes-sociales-de-los-eventos/6527).
+
+
 ### ¿Cómo se modifica el menú del foro?
 
 Sólo podrán hacerlos aquellos con permisos de **Administración**.
