@@ -55,4 +55,3 @@ La reunión esta dirigida a todo aquel interesado en las nuevas tecnologías, co
 | 11:15-12:00   | Introducción a Cyanogenmod y F-droid, por @arasthel92 | 
 | 12:00-12:15   | Ronda de preguntas |
 | 12:15-13:00   | Charla/debate sobre software libre, hardware abierto y temas afines. Recogida de propuestas para el Poniente.
-
