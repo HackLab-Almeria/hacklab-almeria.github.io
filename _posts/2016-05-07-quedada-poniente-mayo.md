@@ -2,11 +2,11 @@
 layout: post-jsonld
 #Datos del Evento
 title: "Reunión del Hacklab Almería en el Poniente"
-subtitle: 07 de mayo del 2016 / El Ejido
+subtitle: "07 de mayo del 2016 / El Ejido"
 description: "Encuentro de #gentequehacecosas del Poniente almeriense con la idea de promocionar el Hacklab Almería en la zona"
 #Fecha
-startDate: 2016-05-07T11:00
-endDate: 2016-05-07T13:00
+startDate: "2016-05-07T11:00"
+endDate: "2016-05-07T13:00"
 #Lugar
 place: "Antigua Biblioteca y Teatro Municipal de El Ejido"
 street: "Calle Colombia, S/N"
@@ -55,5 +55,4 @@ La reunión esta dirigida a todo aquel interesado en las nuevas tecnologías, co
 | 11:15-12:00   | Introducción a Cyanogenmod y F-droid, por @arasthel92 | 
 | 12:00-12:15   | Ronda de preguntas |
 | 12:15-13:00   | Charla/debate sobre software libre, hardware abierto y temas afines. Recogida de propuestas para el Poniente.
-
 
