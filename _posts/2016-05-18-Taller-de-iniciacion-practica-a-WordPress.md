@@ -6,7 +6,7 @@ layout: post-jsonld
 title: "Taller de iniciación práctica a WordPress"
 subtitle: 18 de Mayo del 2016 / Andalucía Compromiso Digital, Almería
 description: "Taller práctico para crear un blog gratis en WordPress.com"
-thumbnail: "/recursos/2015-10-30/trazo-y-silueta-12-638.jpg"
+
 #Fecha
 startDate: 2016-05-18T18:00
 endDate: 2016-05-18T20:00
