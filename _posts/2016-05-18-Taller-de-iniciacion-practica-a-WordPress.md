@@ -1,5 +1,3 @@
-
-
 ---
 layout: post-jsonld
 #Datos del Evento
