@@ -2,17 +2,17 @@
 layout: post-jsonld
 #Datos del Evento
 title: "Taller de iniciación práctica a WordPress"
-subtitle: 18 de Mayo del 2016 / Andalucía Compromiso Digital, Almería
+subtitle: "18 de Mayo del 2016 / Andalucía Compromiso Digital, Almería"
 description: "Taller práctico para crear un blog gratis en WordPress.com"
 #Fecha
-startDate: 2016-05-18T18:00
-endDate: 2016-05-18T20:00
+startDate: "2016-05-18T18:00"
+endDate: "2016-05-18T20:00"
 #Lugar
 place: "Andalucia Compromiso Digital"
 street: "Calle La Reina nº 26"
 locality: "Almería"
 postalCode: "04002"
-map: http://bit.ly/AndaluciaCDcategory: actividades
+map: http://bit.ly/AndaluciaCDcategory
 category: actividades
 #Redes sociales. Máximo 90 carácteres para el texto
 social:
