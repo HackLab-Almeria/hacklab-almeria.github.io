@@ -96,6 +96,10 @@ Somos profesores inquietos. Una comunidad que explora las posibilidades de la pe
 
 ### Mujeres y Tecnología
 
+* Web: [foro](https://foro.hacklabalmeria.net/c/mujerestec)
+ * En Facebook: colectivo [Mujeres y Tecnología](https://www.facebook.com/Mujeres-y-Tecnolog%C3%ADa-271117279901096/)
+
+Nuestro objetivo es fomentar la presencia y las vocaciones femeninas en el mundo científico-técnico mediante acciones y actividades específicas.
 ---
 
 ### Club de Python de Almería
