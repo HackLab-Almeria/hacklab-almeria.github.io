@@ -5,7 +5,7 @@ title: "GDG Almería + Club Python Almería: Taller hands-on introducción a Goo
 description: "Aprende cómo utilizar Google App Engine, el servicio de desarrollo y alojamiento de aplicaciones distribuidas en la nube de Google"
 #Fecha
 startDate: 2016-05-12M19:00
-endDate: 2016-05-12M21:00
+endDate: 2016-05-12M20:30
 #Lugar
 place: "Viluber Center - Centro de negocios y coworking"
 street: "C/ Real, 15. 1ª planta"
