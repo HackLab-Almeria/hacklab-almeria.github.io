@@ -24,8 +24,9 @@ social:
 <p align="center">
   <img src="/recursos/hacklabenfamilia21may.jpg" alt="21 de mayo, robótica en HackLab en familia" />
 </p>
-### ¿QUÉ ES HACKLAB EN FAMILIA?
 
+
+### ¿QUÉ ES HACKLAB EN FAMILIA?
 
 En el __Hacklab en Familia__ padres, madres, hijos, tíos, sobrinas, abuelas, nietos...  se divierten juntos aprendiendo y jugando con tecnología. Planeamos hacer encuentros regulares (una o dos veces al mes) y
 somos un grupo abierto a todos los que quieran participar. Sólo hay dos requerimientos: venir y traer muchas ganas de aprender y divertirse. __No hay límite de edad__.
