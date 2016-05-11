@@ -24,6 +24,7 @@ social:
 <p align="center">
   <img src="/recursos/hacklabenfamilia21may.jpg" alt="21 de mayo, robótica en HackLab en familia" />
 </p>
+
 ### ¿QUÉ ES HACKLAB EN FAMILIA?
 
 
