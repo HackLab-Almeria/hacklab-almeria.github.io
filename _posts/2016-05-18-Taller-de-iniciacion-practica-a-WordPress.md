@@ -27,6 +27,7 @@ social:
 
 ---
 
+
 <p align="center">
   <img src="/recursos/TALLER-DE-M&T---WP.jpg" alt="Cartel del Taller Iniciación a WordPress" />
 </p>
