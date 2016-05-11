@@ -27,6 +27,12 @@ social:
 
 ---
 
+
+<p align="center">
+  <img src="/recursos/TALLER-DE-M&T---WP.jpg" alt="Cartel del Taller Iniciación a WordPress" />
+</p>
+
+
 ### DESCRIPCIÓN
 
 Tras el éxito del primer taller del grupo de [<< Mujeres y Tecnología >>](https://foro.hacklabalmeria.net/t/definicion-de-la-categoria-mujeres-y-tecnologia/6156) de HackLab Almería, repetimos la actividad.
