@@ -46,10 +46,9 @@ Una vez hayas terminado la actividad y quieras _publicarla_, símplemente debes 
 │   ├── 2014-03-29-dia-arduino.md
 ```
 
-Una vez esté en publicada en actividades, el sistema **creará automáticamente un post en los foros.**
+Una vez esté en publicada en actividades, el sistema **creará automáticamente una entrada en https://foro.hacklabalmeria.net/c/actividades **
 
-__PD:__ Miguel Ángel ha añadido nuevos automatismos a partir de las entradas de evento. Por favor consulta en el foro [cómo se usan estos automatismos](https://foro.hacklabalmeria.net/t/automatizar-la-difusion-en-redes-sociales-de-los-eventos/6527).
-
+Consulta la sección de automatismos para saber qué otras cosas ocurren automágicamente.
 
 ### ¿Cómo se modifica el menú del foro?
 
@@ -59,9 +58,26 @@ Deberán ir a: `Administrar -> Personalizar -> Contenido de Texto -> Encabezado 
 
 Si necesitan modificar el CSS:  `Administrar -> Personalizar -> CSS/HTML -> Estilo Hacklab`
 
+### Automatismos:
+
+Estos automatismos están relacionados directamente con acciones automáticas generadas a partir de cambios en nuestra web:
+
+#### http://zapier.com 
+
+Para añadir al calendario eventos de actividades creadas en _posts.
+
+Referencia: https://foro.hacklabalmeria.net/t/automatizar-la-difusion-en-redes-sociales-de-los-eventos/6527/6
+
+   - «Prepara los eventos sociales» que se encarga de mandar anuncios programados para las rrss (a partir de http://hacklabalmeria.net/social.xml)
+   - «Añade los eventos», que añade las actividades al calendario (a partir de http://hacklabalmeria.net/calendar.xml)  
+   
+#### Hootsuite.com
+   
+Usamos hootsuite para publicar contenidos de https://foro.hacklabalmeria.net/c/observatorio.rss
+
 ### Licencia
 
-© HackLab Almería y respectivos autores 2015.  
+© Los respectivos autores, 2015, 2016.  
 Licencia [Attribution 4.0 International (CC BY 4.0)][5]  
 [![Attribution 4.0 International (CC BY 4.0)](http://i.creativecommons.org/l/by/4.0/88x31.png "Attribution 4.0 International (CC BY 4.0)")][5]
 
