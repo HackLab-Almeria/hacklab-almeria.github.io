@@ -37,9 +37,9 @@ Queremos oir vuestras experiencias, propuestas y sobre todo saber lo que les int
 
 ### ¿QUÉ HAREMOS?
 
-En este encuentro queremos introducir a nuestro pequeños los conceptos científicos de una forma amena y lúdica, y para ellos realizaremos algunos experimentos sencillos sobre magnetismo que nos dejarán la boca abierta a grandes y pequeños, y después nos divertiremos jugando con ellos.
+En este encuentro queremos enseñar a nuestros pequeños los conceptos científicos de una forma amena y lúdica, y para ellos realizaremos algunos experimentos sencillos sobre magnetismo que nos dejarán la boca abierta a grandes y pequeños, y después nos divertiremos jugando con ellos.
 
-¿Qué es el MAGNETISMO? El magnetismo es un conocido fenómeno físico que describe las fuerzas de atracción y repulsión entre diferentes materiales, como el hierro y otros metales. Su funcionamiento se basa en el conocido proverbio de que los “polos opuestos se atraen”, mientras que los que presentan la misma carga, lógicamente, se repelen.
+Pero... ¿qué es el MAGNETISMO? El magnetismo es un conocido fenómeno físico que describe las fuerzas de atracción y repulsión entre diferentes materiales, como el hierro y otros metales. Su funcionamiento se basa en el conocido proverbio de que los “polos opuestos se atraen”, mientras que los que presentan la misma carga, lógicamente, se repelen.
 
 Papás, abuelos, tíos... ya sabéis: si tenéis en mente algún experimento sobre magnetismo o relacionado con la ciencia, compártelo con el resto del grupo.
 
