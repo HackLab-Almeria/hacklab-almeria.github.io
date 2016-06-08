@@ -56,4 +56,4 @@ deseen incluir gamificación en sus aulas.
 | 18:00-18:15   | Presentaciones de los asistentes  |
 | 18:15-19:00   | Presentación de Engatosados | 
 | 19:00-19:30   | Reflexión sobre la Jam Today |
-| 12:15-13:00   | Musu Musu Musume, crowfounding mediante Verkami y plan de futuro |
+| 19:30-20:00   | Musu Musu Musume, crowfounding mediante Verkami y plan de futuro |
