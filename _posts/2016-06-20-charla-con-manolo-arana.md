@@ -5,7 +5,7 @@ title: "Charla con Manolo Arana, almeriense en Silicon Valley"
 description: "Quedada informal para charlar con Manolo Arana, almeriense en Silicon Valley"
 #Fecha
 startDate: 2016-06-20M19:00
-endDate: 2016-06-20M20:30
+endDate: 2016-06-20M21:00
 #Lugar
 place: "Escuela de Arte"
 street: "Plaza Pablo Cazard, 1"
