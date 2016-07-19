@@ -20,11 +20,13 @@ category: actividades
 
 Una web personal ayuda a posicionarte en Internet como profesional, además de darte una identidad que no podrías conseguir con redes sociales. Una buena forma de crear tu web personal, es hacerlo con Jekyll, un generador de
 páginas estáticas muy sencillo de administrar y altamente hackeable.
+
 ---
 
 ### ¿DE QUÉ HABLAREMOS?
 
 Empezaremos con una pequeña introducción a este tipo de páginas, y donde alojarlas, para continuar y terminar con un taller práctico del que saldrás con tu web lista para que le añadas el contenido que creas oportuno.
+
 ---
 
 ### PROGRAMA
