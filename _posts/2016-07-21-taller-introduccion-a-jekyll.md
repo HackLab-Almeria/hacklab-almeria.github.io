@@ -33,7 +33,7 @@ Empezaremos con una pequeña introducción al uso de Jekyll y donde alojar tu p�
 
 | 18:00-18:15 | Ronda de presentaciones.
 | 18:15-18:30 | Introducción y teoría
-| 18:15-18:30 | Taller práctico de iniciación a Jekyll
+| 18:15-20:00 | Taller práctico de iniciación a Jekyll
 
 ---
 
