@@ -1,8 +1,8 @@
 ---
 layout: post-jsonld
 #Datos del Evento
-title: "Encuentro de Hacklab en familia"
-description: "Descubre el nuevo grupo de actividades dirigidas a las familias creado en HackLab Almería"
+title: "Hacklab en familia:  Arduino con EduBásica y con electrónica de vestir"
+description: "Y ahora nos atrevemos con los talleres de 'LilyPad Arduino en el ámbito textil' y 'Primeros pasos Arduino con la tarjeta EduBasica'"
 #Fecha
 startDate: 2016-09-17M11:30
 endDate: 2016-09-17M13:30
@@ -34,7 +34,7 @@ social:
      time: "2016-09-15T18:30"
    - text: "En HackLab Almería, talleres de EduBasica y LilyPad en el @MuseoAlmeria"
      time: "2016-09-15T18:30"
-  - text: "En HackLab en Familia, mañana nos divertiremos con los textiles electrónicos"
+   - text: "En HackLab en Familia, mañana nos divertiremos con los textiles electrónicos"
      time: "2016-09-16T12:30"
    - text: "En HackLab en Familia, mañana primeros proyectos en Arduino Uno y LiLyPad en @MuseoAlmeria."
      time: "2016-09-16T18:30"
@@ -47,6 +47,8 @@ somos un grupo abierto a todos los que quieran participar. Sólo hay dos requeri
 
 Para los que deseen implicarse en la organización hemos habilitado un [área de discusión en exclusiva](http://foro.hacklabalmeria.net/c/EnFamilia) alojado en nuestro [foro](http://foro.hacklabalmeria.net/). 
 Queremos oir vuestras experiencias, propuestas y sobre todo saber lo que les interesa a __los niños, nuestros protagonistas__.
+
+
 
 
 ### ¿QUÉ HAREMOS?
