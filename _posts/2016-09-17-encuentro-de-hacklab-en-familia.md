@@ -107,17 +107,11 @@ Haz tu inscripciónn y ¡nos vemos el 17 de septiembre!
 
 ---
 
-### PROGRAMA LYLIPAD
+### PROGRAMA
 
 | 11:30-11:40   | Presentaciones de los asistentes |
-| 11:40-13:15   | Introducción a los textiles electrónicos con LilyPad por Javier Peña (@chocorrat)|
-| 13:15-13:30   | Propuestas de futuras actividades |
-
----
-
-### PROGRAMA Primeros pasos Arduino con la tarjeta EduBasica
-| 11:30-11:40   | Presentaciones de los asistentes |
-| 11:40-13:15   | Taller 'Primeros pasos con Arduino con la tarjeta EduBasica' por Manuel Hidalgo (@LeoBot) |
+| 11:40-13:15   | Iniciación a LilyPad Arduino en el ámbito textil (ROPA 2.0)' por Javier Peña (@chocorrat)|
+| 11:40-13:15   | Primeros pasos con Arduino y con la tarjeta EduBasica por Manuel Hidalgo (@LeoBot) |
 | 13:15-13:30   | Propuestas de futuras actividades |
 
 ---
