@@ -90,11 +90,8 @@ EduBasica es una tarjeta multipropósito con componentes electrónicos incluidos
 ¿Qué necesitas para este taller?
 
 + Formar un equipo: adulto + 1(ó 2) niñ@(s) entre 10-14 años.
-
 + Portátil para programar.
-
 + Instalar Arduino y Visualino (más adelante publicaremos una guía de instalación el software ARDUINO y VISUALINO) En breve publicaremos el enlace explicando cómo se realiza la instalación de Arduino y Visualino.
-
 + Placa Arduino UNO.Si no dispones de la tarjeta ARDUINO UNO, déjanos un mensaje en el hilo del foro y veremos una solución.
 
 ¿Quieres participar? Realiza la inscripción y ¡no te quedes sin plaza! 
@@ -118,6 +115,7 @@ Haz tu inscripciónn y ¡nos vemos el 17 de septiembre!
 ---
 
 ### PROGRAMA Primeros pasos Arduino con la tarjeta EduBasica
+
 | 11:30-11:40   | Presentaciones de los asistentes |
 | 11:40-13:15   | Taller 'Primeros pasos con Arduino con la tarjeta EduBasica' por Manuel Hidalgo (@LeoBot) |
 | 13:15-13:30   | Propuestas de futuras actividades |
