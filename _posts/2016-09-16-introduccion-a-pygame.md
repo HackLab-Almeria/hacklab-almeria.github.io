@@ -20,7 +20,7 @@ social:
 
 ![Logotipo de Pygame]({{site.url}}/recursos/2016-09-16/pygame_logo.gif "Logotipo de Pygame"){: .center}
 
-## DESCRIPCIÓN
+### DESCRIPCIÓN
 
 En este taller aprenderemos a desarrollar videojuegos con Python y Pygame.
 Veremos una primera parte teórica muy breve y programaremos un videojuego
@@ -34,22 +34,24 @@ sobre la programación de videojuegos. Esperemos que
 también con más ganas y motivación para crear tu propio
 videojuego o colaborar con proyectos existentes.
 
+__OjO__: las plazas son muy limitadas. Llenaremos hasta completar aforo.
 
-## Materiales necesarios
+
+### Materiales necesarios
 
 * Conocimientos básicos de programación
 * Python (preferiblemente la versión 3.x)
 * Editor de texto.
 
 
-## PROGRAMA
+### PROGRAMA
 
 | 18:00-18:15 | Ronda de presentaciones
 | 18:15-18:30 | Introducción teórica a Pygame
 | 18:30-20:00 | Programamos con Pygame
 
 
-## DESPUÉS DEL EVENTO
+### DESPUÉS DEL EVENTO
 
 Tras la jornada es habitual que parte del grupo nos vayamos de tapeo
 por las cercanías, perfecto para ir conociéndonos más entre nosotros.
