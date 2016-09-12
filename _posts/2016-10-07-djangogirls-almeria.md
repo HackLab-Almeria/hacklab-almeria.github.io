@@ -20,6 +20,6 @@ category: actividades
 
 Django Girls Almería realiza un taller gratuito de programación web para mujeres de un día de duración, como parte del Congreso Python España 2016.
 
-Tienes todos los detalles en la web oficial https://djangogirls.org/almeria/
+Tienes todos los detalles en la [web oficial](https://djangogirls.org/almeria/).
 
 ¡Nos vemos en el taller!
