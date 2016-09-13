@@ -1,6 +1,6 @@
 ---
 layout: post-jsonld
-title: "Aprende a programar videojuegos con Pygame"
+title: "PyDay: aprende a programar videojuegos con Pygame"
 description: "Introducción a la creación de videojuegos en Python con Pygame"
 thumbnail: "/recursos/2016-09-16/pygame_logo.gif"
 startDate: 2016-09-16T18:00
@@ -21,6 +21,10 @@ social:
 ![Logotipo de Pygame]({{site.url}}/recursos/2016-09-16/pygame_logo.gif "Logotipo de Pygame"){: .center}
 
 ### DESCRIPCIÓN
+
+Esta actividad se enmarca en [PyDay 2016](http://www.es.python.org/pyday2016/) ¡que
+para nuestra sorpresa dura más de un día!
+
 
 En este taller aprenderemos a desarrollar videojuegos con Python y Pygame.
 Veremos una primera parte teórica muy breve y programaremos un videojuego
