@@ -49,7 +49,15 @@ herramienta de visualización creando ¿un mapa de sentimientos?
 
 ### Materiales necesarios
 
-Se recomienda llevar portátil, ya que trabajaremos con aplicaciones en la nube.
+Tu ordenador portátil con el siguiente software y configuraciones:
+
+* Instalar Python 2.7
+* Instalar pip
+* Crear una cuenta gratuita de 30 días en Bluemix
+* Instalar Cloud Foundry
+* Instalar API Tone Analyzer -> pip install —upgrade watson-developer-cloud
+* Instalar librería Tweepy -> pip install tweepy
+* Crear una APP Twitter -> Necesitaremos el Consumer Key, Consumer Secret, Token y Token Secret
 
 
 ---
