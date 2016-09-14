@@ -58,6 +58,9 @@ Tu ordenador portátil con el siguiente software y configuraciones:
 * Instalar [API Tone Analyzer](http://www.ibm.com/watson/developercloud/tone-analyzer/api/v3/) -> pip install —upgrade watson-developer-cloud
 * Instalar librería Tweepy -> pip install tweepy
 * Crear una APP Twitter -> Necesitaremos el Consumer Key, Consumer Secret, Token y Token Secret
+* Instalar [Bluemix CLI](http://clis.ng.bluemix.net/ui/home.html)
+
+Nos basaremos en [este proyecto base](https://github.com/IBM-Bluemix/python-hello-world-flask) para dar el taller.
 
 
 ---
