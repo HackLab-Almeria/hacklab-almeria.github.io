@@ -51,11 +51,11 @@ herramienta de visualización creando ¿un mapa de sentimientos?
 
 Tu ordenador portátil con el siguiente software y configuraciones:
 
-* Instalar Python 2.7
-* Instalar pip
-* Crear una cuenta gratuita de 30 días en Bluemix
-* Instalar Cloud Foundry
-* Instalar API Tone Analyzer -> pip install —upgrade watson-developer-cloud
+* Instalar [Python 2.7](https://www.python.org/downloads/)
+* Instalar [pip](https://pip.pypa.io/en/stable/installing/#installing-with-get-pip-py)
+* Crear una [cuenta gratuita de 30 días en Bluemix](https://console.ng.bluemix.net/)
+* Instalar [Cloud Foundry](https://docs.cloudfoundry.org/cf-cli/install-go-cli.html)
+* Instalar [API Tone Analyzer](http://www.ibm.com/watson/developercloud/tone-analyzer/api/v3/) -> pip install —upgrade watson-developer-cloud
 * Instalar librería Tweepy -> pip install tweepy
 * Crear una APP Twitter -> Necesitaremos el Consumer Key, Consumer Secret, Token y Token Secret
 
