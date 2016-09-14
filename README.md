@@ -46,7 +46,7 @@ Una vez hayas terminado la actividad y quieras _publicarla_, símplemente debes 
 │   ├── 2014-03-29-dia-arduino.md
 ```
 
-Una vez esté en publicada en actividades, el sistema **creará automáticamente una entrada en https://foro.hacklabalmeria.net/c/actividades **
+Una vez esté en publicada en actividades, Discourse está configurado para **crear automáticamente una entrada en https://foro.hacklabalmeria.net/c/actividades**
 
 Consulta la sección de automatismos para saber qué otras cosas ocurren automágicamente.
 
@@ -62,18 +62,15 @@ Si necesitan modificar el CSS:  `Administrar -> Personalizar -> CSS/HTML -> Esti
 
 Estos automatismos están relacionados directamente con acciones automáticas generadas a partir de cambios en nuestra web:
 
-#### http://zapier.com 
+#### [Zapier](http://zapier.com )
 
-Para añadir al calendario eventos de actividades creadas en _posts.
-
-Referencia: https://foro.hacklabalmeria.net/t/automatizar-la-difusion-en-redes-sociales-de-los-eventos/6527/6
+Para las actividades publicadas en esta web (contenidas
+en _posts/).
 
    - «Prepara los eventos sociales» que se encarga de mandar anuncios programados para las rrss (a partir de http://hacklabalmeria.net/social.xml)
    - «Añade los eventos», que añade las actividades al calendario (a partir de http://hacklabalmeria.net/calendar.xml)  
    
-#### Hootsuite.com
-   
-Usamos hootsuite para publicar contenidos de https://foro.hacklabalmeria.net/c/observatorio.rss
+[Referencia](https://foro.hacklabalmeria.net/t/automatizar-la-difusion-en-redes-sociales-de-los-eventos/6527/6).
 
 ### Licencia
 
