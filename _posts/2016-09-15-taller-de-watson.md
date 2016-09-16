@@ -60,7 +60,7 @@ Tu ordenador portátil con el siguiente software y configuraciones:
 * Crear una APP Twitter -> Necesitaremos el Consumer Key, Consumer Secret, Token y Token Secret
 * Instalar [Bluemix CLI](http://clis.ng.bluemix.net/ui/home.html)
 
-Nos basaremos en [este proyecto base](https://github.com/IBM-Bluemix/python-hello-world-flask) para dar el taller.
+Nos basaremos en [este proyecto base](https://github.com/RadW2020/python-art-sentiments-twitter) para dar el taller.
 
 
 ---
