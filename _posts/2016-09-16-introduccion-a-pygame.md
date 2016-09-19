@@ -5,7 +5,7 @@ description: "Introducción a la creación de videojuegos en Python con Pygame"
 thumbnail: "/recursos/2016-09-16/pygame_logo.gif"
 startDate: 2016-09-16T18:00
 endDate: 2016-09-16T20:00
-place: "Rosellimac"
+place: "Rossellimac"
 street: "Avenida de la Estación, 8."
 locality: "Almería"
 postalCode: "04005"

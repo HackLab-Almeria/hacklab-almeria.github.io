@@ -55,9 +55,12 @@ Tu ordenador portátil con el siguiente software y configuraciones:
 * Instalar [pip](https://pip.pypa.io/en/stable/installing/#installing-with-get-pip-py)
 * Crear una [cuenta gratuita de 30 días en Bluemix](https://console.ng.bluemix.net/)
 * Instalar [Cloud Foundry](https://docs.cloudfoundry.org/cf-cli/install-go-cli.html)
-* Instalar [API Tone Analyzer](http://www.ibm.com/watson/developercloud/tone-analyzer/api/v3/) -> pip install —upgrade watson-developer-cloud
-* Instalar librería Tweepy -> pip install tweepy
+* Instalar [API Tone Analyzer](http://www.ibm.com/watson/developercloud/tone-analyzer/api/v3/) -> pip install --user --upgrade watson-developer-cloud
+* Instalar librería Tweepy -> pip install --user tweepy
 * Crear una APP Twitter -> Necesitaremos el Consumer Key, Consumer Secret, Token y Token Secret
+* Instalar [Bluemix CLI](http://clis.ng.bluemix.net/ui/home.html)
+
+Nos basaremos en [este proyecto base](https://github.com/RadW2020/python-art-sentiments-twitter) para dar el taller.
 
 
 ---
