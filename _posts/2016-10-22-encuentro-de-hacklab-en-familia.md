@@ -2,7 +2,7 @@
 layout: post-jsonld
 #Datos del Evento
 title: "Hacklab en familia: Arduino con Edubásica"
-description: "Descubre el nuevo grupo de actividades dirigidas a las familias creado en HackLab Almería"
+description: "Continuamos con los primeros pasos Arduino con la tarjeta EduBasica"
 #Fecha
 startDate: 2016-10-22M11:30
 endDate: 2016-10-22M13:30
@@ -16,13 +16,13 @@ category: actividades
 social:
    - text: "En HackLab Almería, taller de programación de motores y sensores con la tarjeta EduBásica en @MuseoAlmeria"
      time: "2016-10-15T18:30"
-     - text: "En HackLab Almería, taller de programación de motores y sensores con la tarjeta EduBásica en @MuseoAlmeria"
+   - text: "En HackLab Almería, taller de programación de motores y sensores con la tarjeta EduBásica en @MuseoAlmeria"
      time: "2016-10-17T18:30"
    - text: "En HackLab en familia, @LeoBotManuel  nos explicará cómo programar un sensor ultrasonidos HC-SR04"
      time: "2016-10-18T12:30"
-     - text: "Mañana HackLab en Familia en el @MuseoAlmeria"
+   - text: "Mañana HackLab en Familia en el @MuseoAlmeria"
      time: "2016-10-21T12:30"
-   ---
+---
 
 ### ¿QUÉ ES HACKLAB EN FAMILIA?
 
@@ -87,8 +87,3 @@ Haz tu inscripciónn y ¡nos vemos el 22 de octubre!
 
 ---
 
-### DESPUÉS DEL EVENTO
-
-Tras la jornada, es habitual que parte del grupo nos vayamos de tapeo por las cercanías, perfecto para ir conociéndonos más entre nosotros
-
----
