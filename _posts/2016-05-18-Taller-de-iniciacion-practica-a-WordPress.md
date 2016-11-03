@@ -12,7 +12,7 @@ place: "Andalucia Compromiso Digital"
 street: "Calle La Reina nº 26"
 locality: "Almería"
 postalCode: "04002"
-map: http://bit.ly/AndaluciaCDcategory
+map: http://bit.ly/AndaluciaCD
 category: actividades
 #Redes sociales. Máximo 90 carácteres para el texto
 social:

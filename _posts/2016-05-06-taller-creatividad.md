@@ -19,7 +19,7 @@ category: actividades
 
 ### DESCRIPCIÓN
 
-Nos llena de orgullo y satisfaccion anunciar que desde [VOW Institute](http://vowinstitute.com/el-equipo/)
+Nos llena de orgullo y satisfaccion anunciar que desde [VOW Institute](http://vowinstitute.com/equipo/)
 se ofrecen a colaborar con HackLab Almería, dándonos un taller de Creatividad.
 
 El taller va a tratar de activar la creatividad en los participantes mediante
