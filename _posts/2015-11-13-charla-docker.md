@@ -42,7 +42,7 @@ Pequeñas triquiñuelas, advertencias, desventajas y un interesante enfoque glob
 Ejemplos que hemos visto en el taller:
 
  - [configuración de odoo + centos](https://bitbucket.org/yajo/).
- - [configuración de haproxy](https://bitbucket.org/yajo/docker-haproxy/src/0eeb7e27096a?at=default).
+ - [configuración de haproxy](https://bitbucket.org/yajo/).
  - la [descripción de la composición de servicios y cómo usarlos](https://hub.docker.com/r/yajo/odoo/) para esta configuración.
 
 Y aparte,
