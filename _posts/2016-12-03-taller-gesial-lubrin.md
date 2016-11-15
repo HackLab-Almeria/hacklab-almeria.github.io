@@ -49,6 +49,6 @@ Pero ojo que el programa no está cerrado y también nos encantaría oir tus pro
 
 ### Ir a Lubrín
 
-Vamos a compartir coche entre algunos. Nos organizaremos a través del foro.
+Vamos a compartir coche entre algunos. [Nos organizaremos a través del foro](https://foro.hacklabalmeria.net/t/grupo-de-seguridad-informatica-taller-en-lubrin-03-12-2016/7860/2).
 
 ---
