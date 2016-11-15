@@ -14,6 +14,19 @@ locality: "Almería"
 postalCode: "04008"
 map: http://bit.ly/IESAlAndalus
 category: actividades
+social:
+   - text: "Os recordamos que mañana se celebran las XIII Jornadas SLCENT del @iesalandalusorg #SLCENT http://hacklabalmeria.net/actividades/2016/11/17/xiii-jornadas-slcent.html"
+     time: "2016-11-16T10:00"
+   - text: "«Tecnologías 3D aplicadas a la sociedad, la educación y la ciencia» en las XIII Jornadas #SLCENT http://hacklabalmeria.net/actividades/2016/11/17/xiii-jornadas-slcent.html"
+     time: "2016-11-16T11:00"
+   - text: "«NanoPlayBoard: Un proyecto educativo Open Source Hardware» en las XIII Jornadas #SLCENT http://hacklabalmeria.net/actividades/2016/11/17/xiii-jornadas-slcent.html"
+     time: "2016-11-16T11:30"
+   - text: "«Los videojuegos al servicio de la sociedad» en las XIII Jornadas #SLCENT http://hacklabalmeria.net/actividades/2016/11/17/xiii-jornadas-slcent.html"
+     time: "2016-11-16T12:00"
+   - text: "«Seguridad en dispositivos móviles» en las XIII Jornadas #SLCENT http://hacklabalmeria.net/actividades/2016/11/17/xiii-jornadas-slcent.html"
+     time: "2016-11-16T12:30"
+   - text: "Esta tarde se celebran las XIII Jornadas SLCENT. Más info en: http://hacklabalmeria.net/actividades/2016/11/17/xiii-jornadas-slcent.html"
+     time: "2016-11-17T10:00"
 ---
 
 ### DESCRIPCIÓN
