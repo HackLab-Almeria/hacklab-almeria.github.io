@@ -35,7 +35,7 @@ Las jornadas están dirigidas a los siguientes públicos:
 |17:00-18:00 | **Tecnologías 3D aplicadas a la sociedad, la educación y la ciencia**. Antonio Moisés Espínola. |
 |18:00-19:00 | **[NanoPlayBoard][4]: Un proyecto educativo Open Source Hardware**. Antonio Morales y José Juan Sánchez. |
 |19:00-20:00 | **Los videojuegos al servicio de la sociedad**. José Antonio Piedra. |
-|20:00-21:00 | **Análisis de la Web Social**. Jose Antonio Álvarez Bermejo.|
+|20:00-21:00 | **Seguridad de dispositivos móviles**. Arkaitz Soriano Vicente.|
 
 ---
 
