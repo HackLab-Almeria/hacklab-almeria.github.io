@@ -35,8 +35,8 @@ No hemos cerrado aún el programa pero éstas son algunas de las actividades que
 
  - introduccón a la gestión de la privacidad en Internet y redes sociales, orientado a chavales;
  - prácticas de análisis estático de código con  [Pinta](https://github.com/PintaProject/Pinta) usando [Coverity](https://scan.coverity.com/projects) y [SonarQube](https://sonarqube.com/);
- - "Un comando para detectarlos a todos" (los incidentes de seguridad)
- - "[UFONet](http://ufonet.03c8.net/): DDoS Nation.
+ - «Un comando para detectarlos a todos» (los incidentes de seguridad)
+ - [UFONet](http://ufonet.03c8.net/): «Ninja DDoS Botnet».
 
 Pero ojo que el programa no está cerrado y también nos encantaría oir tus propuestas.
 
