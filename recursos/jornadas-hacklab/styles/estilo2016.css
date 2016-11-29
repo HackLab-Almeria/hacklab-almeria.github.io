@@ -30,3 +30,7 @@ table.leyenda td{;
     font-weight:bold;
     font-size: 0.8em;
 }
+
+header img {
+    max-width:100%;
+}
