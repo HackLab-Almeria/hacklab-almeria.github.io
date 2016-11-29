@@ -1,0 +1,32 @@
+
+table td, table th {
+    border: 1px solid gray;
+}
+
+table td a:active, table td a:link, table td a:visited{
+    color: #2a2a2a;
+    text-decoration: none;
+}
+
+tr td.basica {
+    background-color: #c9ffc3;
+}
+
+tr td.introduccion {
+    background-color: #beeaff;
+}
+
+tr td.media {
+    background-color: #fffdae;
+}
+
+tr td.avanzada {
+    background-color: #ebbac8;
+
+}
+
+table.leyenda td{;
+    color: #646464 !important;
+    font-weight:bold;
+    font-size: 0.8em;
+}
