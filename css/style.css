@@ -369,7 +369,10 @@ a:hover, a:visited, a {
 
 .destacado {
     text-align: center;
-
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    background-color: #e6eee7;
 }
 
 .destacado h1 a {
