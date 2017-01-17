@@ -3,10 +3,10 @@ layout: post-jsonld
 #Datos del Evento
 title: "Reunión de Pymiento"
 description: "Videoconferencia de Pymiento donde veremos quienes estamos y que vamos a hacer"
-thumbnail: "/recursos/2017-01-18/pymiento-back.png"
+thumbnail: "/recursos/2017-01-19/pymiento-back.png"
 #Fecha
-startDate: 2017-01-18T21:00
-endDate: 2017-01-18T22:30
+startDate: 2017-01-19T21:00
+endDate: 2017-01-19T22:30
 #Lugar
 place: "Hangouts - Youtube Direct"
 street: ""
@@ -16,9 +16,9 @@ map:
 category: actividades
 #Redes sociales. Máximo 90 carácteres para el texto
 social:
-  - time: 2017-01-17T18:00
-    text: "Mañana por la noche video-reunión de Pymiento"
   - time: 2017-01-18T18:00
+    text: "Mañana por la noche video-reunión de Pymiento"
+  - time: 2017-01-19T18:00
     text: "A las 21:00 video-reunión de Pymiento, ¿te unes?"
 
 ---
