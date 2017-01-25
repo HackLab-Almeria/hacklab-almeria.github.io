@@ -5,8 +5,8 @@ title: "Taller de Hardware abierto Enero: Taller de soldadura kits NanoPlayBoard
 subtitle: 26 de Enero del 2017 / Instituto Al-Andalus, Almería
 description: "Taller de Hardware Abierto sesión de Enero del 2017 donde daremos un repaso a las distintas técnicas de soldadura de componenetes electrónicos de montaje en superficie, y soldaremos los kits de NanoPlayBoard de la compra conjunta."
 #Fecha
-startDate: 2017-01-26T19:00
-endDate: 2017-01-26T21:00
+startDate: 2017-01-26T18:00
+endDate: 2017-01-26T20:00
 #Lugar
 place: "Instituto Al-Andalus"
 street: "Finca Santa Isabel, Paseo de la Caridad, s/n"
