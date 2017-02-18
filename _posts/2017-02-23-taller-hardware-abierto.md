@@ -20,9 +20,9 @@ social:
     text: "Volvemos a la carga con más talleres de cacharreo. ¿Te apuntas?"
   - time: 2017-02-20T16:00
     text: "¿Teneis listo ya vuestro soldador? Pues, !corred insensatos! Vuelven los talleres de cacharreo."
-  - time: 2017-02-22T16:00
+  - time: 2017-02-21T16:00
     text: "Mejora tus soldaduras en el próximo Taller de Cacharreo."
-  - time: 2017-02-22T16:00
+  - time: 2017-02-22T10:00
     text: "Los kits de NanoPlayBoard no se van a soldar solos. Ven al Taller de Cacharreo y suelda la tuya."	
   - time: 2017-02-22T16:00
     text: "El proximo taller de cacharreo soldamos Hardware Libre."	
