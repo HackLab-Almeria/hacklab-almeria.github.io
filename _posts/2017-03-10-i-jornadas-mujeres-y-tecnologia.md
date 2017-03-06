@@ -1,7 +1,7 @@
 ---
 layout: post-jsonld
 #Datos del Evento
-title: "I Jornada Mujer y Tecnología"
+title: "I Jornadas Mujeres y Tecnología"
 subtitle: "10 de marzo de 2017 / Universidad de Almería"
 description: "Actividad para celebrar el Día Internacional de la Mujer"
 thumbnail: ""
@@ -35,9 +35,10 @@ Para este propósito, hemos reunido en la Universidad de Almería a varias mujer
 ---
 
 |16:30-16:45 | **Bienvenida** |
-|16:45-18:15 | **Sofía Deza** ([@Sofiadeza](http://twitter.com/Sofiadeza)) Directora del CEIP Clara Campoamor y Tecnóloga.|
-|18:30-19:00 | **Nuria Rico** ([@NuriaStatgirl](http://twitter.com/NuriaStatgirl)) - Profesora de Estadística y Subdirectora de la Oficina de Software Libre en la Universidad de Granada.|
-|19:00-19:30 | **María Tejeira** ([@MTejeira](http://twitter.com/MTejeira)) - Consultora tecnológica en Rossellimac-Apple Premium Resseller, Apple Product Profesional |
-|19:30 | **Clausura**|
+|16:45-17:30 | **Sofía Deza** ([@Sofiadeza](http://twitter.com/Sofiadeza)) Directora del CEIP Clara Campoamor y Tecnóloga.|
+|17:35-18:25 | **Nuria Rico** ([@NuriaStatgirl](http://twitter.com/NuriaStatgirl)) - Profesora de Estadística y Subdirectora de la Oficina de Software Libre en la Universidad de Granada.|
+|18:30-19:15 | **María Tejeira** ([@MTejeira](http://twitter.com/MTejeira)) - Consultora tecnológica en Rossellimac-Apple Premium Resseller, Apple Product Profesional |
+|19:15-19:30 | **Ronda de preguntas**|
+|19:30| **Clausura**|
 
 ---
