@@ -1,0 +1,3634 @@
+- termino: "@"
+  traduccion:
+  - at
+  - en (y no ``arroba'')
+- termino: "&"
+  traduccion:
+  - ver ampersand
+- termino: /
+  traduccion:
+  - ver slash
+- termino: \
+  traduccion:
+  - ver backslash
+- termino: abort
+  traduccion:
+  - fracaso
+  - interrupción
+- termino: abort (v)
+  traduccion:
+  - abortar
+  - fracasar
+  - interrumpir
+  - cancelar (fuera del contexto informático, podría ser también abortar)
+- termino: accounting
+  traduccion:
+  - auditoría
+- termino: add-on
+  traduccion:
+  - añadido
+- termino: addon
+  traduccion:
+  - añadido
+- termino: address
+  traduccion:
+  - dirección
+- termino: Advanced Power Management (APM)
+  traduccion:
+  - gestión avanzada de potencia
+  - gestión avanzada de energía
+- termino: age
+  traduccion:
+  - edad
+  - antigüedad
+- termino: alias
+  traduccion:
+  - alias
+  - acceso directo
+- termino: allocate (v)
+  traduccion:
+  - asignar
+  - reservar
+- termino: alphanumeric
+  traduccion:
+  - alfanumérico
+- termino: ambiente de la web
+  traduccion:
+  - ambiente de la web
+- termino: ampersand
+  traduccion:
+  - y (caracter empleado en programación C para señalar direcciones de memoria y en html para codificar otros caracteres extraños a la lengua inglesa, del latín ``et'', al)
+- termino: anchor
+  traduccion:
+  - ancla
+  - áncora
+  - anclaje (enlace)
+- termino: anchor (v)
+  traduccion:
+  - anclar
+- termino: anti-aliasing
+  traduccion:
+  - suavizado de bordes
+  - antisolapamiento
+- termino: append (v)
+  traduccion:
+  - juntar
+  - unir
+  - concatenar
+  - añadir
+- termino: applet
+  traduccion:
+  - miniaplicación
+  - aplique
+  - applet (programa en Java, ejecutable por un navegador; dicese tambien de cualquier pequeño programa que se acopla al sistema)
+- termino: Application Program Interface (API)
+  traduccion:
+  - interfaz de programación de aplicaciones.
+- termino: appraisal
+  traduccion:
+  - estimación
+- termino: archive
+  traduccion:
+  - archivo
+  - paquete (como ``archivo'' es muy usado también para traducir ``file'', puede ser necesario aclarar de que tipo de archivo se trata)
+- termino: archive (v)
+  traduccion:
+  - archivar
+  - empaquetar
+- termino: argument
+  traduccion:
+  - argumento
+  - parámetro
+- termino: array
+  traduccion:
+  - arreglo
+  - formación
+  - estructura
+  - matriz
+  - vector (``arreglo'' es considerada por algunos una mala traducción pero su uso ya está bastante generalizado)
+- termino: Artificial Intelligence (AI)
+  traduccion:
+  - inteligencia artificial
+- termino: ascender
+  traduccion:
+  - ascendente
+- termino: ASCII-Armoured text
+  traduccion:
+  - texto con armadura ASCII
+  - ASCII blindado
+- termino: Aspect-oriented programming
+  traduccion:
+  - programación orientada a aspectos
+- termino: assapps
+  traduccion:
+  - applet
+  - archivos pps
+- termino: assembler
+  traduccion:
+  - ensamblador (lenguaje de programacion)
+  - montador o ensamblador (persona que monta ordenadores)
+- termino: assembly
+  traduccion:
+  - lenguaje ensamblador
+- termino: assessment
+  traduccion:
+  - estimación
+  - juicio
+  - impresión
+- termino: assignment
+  traduccion:
+  - asignación
+- termino: associative array
+  traduccion:
+  - vector asociativo
+  - arreglo asociativo (array es en ocasiones utilizado como arreglo, a pesar de que algunos no concuerden)
+- termino: assume (v)
+  traduccion:
+  - suponer
+- termino: Asymmetric Digital Suscriber Line (ADSL)
+  traduccion:
+  - línea digital asimétrica de abonado
+- termino: attach (v)
+  traduccion:
+  - adjuntar
+  - anexar
+  - anexionar
+- termino: attachment
+  traduccion:
+  - documento adjunto
+  - anexo
+- termino: attribute
+  traduccion:
+  - atributo
+- termino: authentication
+  traduccion:
+  - autenticación
+  - autentificación
+- termino: autoprobe
+  traduccion:
+  - autocomprobacion
+- termino: back-end
+  traduccion:
+  - motor (de un compilador o programa)
+  - dorsal
+- termino: backbone
+  traduccion:
+  - eje principal
+  - red troncal
+  - estructura principal
+- termino: background
+  traduccion:
+  - segundo plano
+  - trasfondo
+- termino: backslash
+  traduccion:
+  - barra invertida
+  - contrabarra
+- termino: backup
+  traduccion:
+  - copia de seguridad
+  - copia de respaldo
+- termino: backup (v)
+  traduccion:
+  - respaldar
+  - hacer copias de respaldo
+- termino: backward compatible
+  traduccion:
+  - compatible con anteriores
+- termino: bandwith
+  traduccion:
+  - amplitud de banda
+  - ancho de banda
+- termino: banner
+  traduccion:
+  - pancarta
+  - aviso
+- termino: baseline
+  traduccion:
+  - línea de base
+  - directrices (condiciones generales que un programa, proceso o producto debe cumplir)
+- termino: batch
+  traduccion:
+  - lote
+- termino: batch processing
+  traduccion:
+  - procesamiento por lotes
+  - procesamiento en lotes
+- termino: batcher
+  traduccion:
+  - procesador por lotes
+- termino: baud
+  traduccion:
+  - baudio (unidad de medida de la velocidad de transmisión de información)
+- termino: benchmark
+  traduccion:
+  - banco de pruebas
+  - prueba comparativa
+  - hito
+- termino: big-endian
+  traduccion:
+  - byte más significativo primero
+- termino: bind (v)
+  traduccion:
+  - enlazar
+  - ligar
+- termino: binding
+  traduccion:
+  - enlace
+  - ligadura
+- termino: bit
+  traduccion:
+  - bit (unidad elemental de información, consistente en una variable booleana, con valores 0 o 1) 
+- termino: bit mask
+  traduccion:
+  - máscara de bits
+- termino: bitmap
+  traduccion:
+  - mapa de bits
+- termino: bitrate
+  traduccion:
+  - tasa de bits
+- termino: bitstream
+  traduccion:
+  - flujo de bits
+- termino: block
+  traduccion:
+  - bloque
+- termino: block (v)
+  traduccion:
+  - bloquear (impedir el acceso)
+- termino: blur (v)
+  traduccion:
+  - tornar más difuso
+  - emborronar
+- termino: bookmark
+  traduccion:
+  - marcador
+  - marcapáginas
+- termino: boot
+  traduccion:
+  - arranque
+  - inicio
+  - proceso de arranque
+- termino: boot (v)
+  traduccion:
+  - arrancar
+  - iniciar
+- termino: boot loader
+  traduccion:
+  - gestor de arranque
+- termino: bootrom
+  traduccion:
+  - ROM de inicio
+- termino: bootstrap
+  traduccion:
+  - rutina de arranque
+  - arranque autónomo
+  - marca de inicio en los carretes de cinta
+- termino: bot
+  traduccion:
+  - final
+  - robot (usado en AI)
+- termino: breakpoint
+  traduccion:
+  - punto de ruptura
+  - punto de corte
+- termino: broadcast
+  traduccion:
+  - difusión
+  - broadcast
+- termino: broadcast (v)
+  traduccion:
+  - anunciar
+  - difundir
+- termino: browser
+  traduccion:
+  - navegador
+  - visualizador
+  - ojeador (navegador es más usada cuando se trata de hipertexto y visualizador en otros casos. Existe alguna polémica acerca de ``visualizador'' y han sido propuestas otras posibilidades como visor o examinador, que no son muy usadas)
+- termino: brush
+  traduccion:
+  - pincel
+  - brocha
+- termino: bubble sort
+  traduccion:
+  - ordenación por el método de la burbuja
+- termino: buffer
+  traduccion:
+  - búfer
+  - memoria tampón
+  - memoria intermedia
+  - BUFFER
+- termino: bug
+  traduccion:
+  - error
+  - fallo
+  - gazapo (gazapo ha sido propuesta por algunos especialistas, pero no es muy usada)
+- termino: bug-fix
+  traduccion:
+  - corrección de fallo
+- termino: built in
+  traduccion:
+  - incorporado
+  - incluido
+- termino: Bulletin Board System (BBS)
+  traduccion:
+  - tablón de anuncios electrónico
+  - foros
+  - sistema de foros
+- termino: bundle(v)
+  traduccion:
+  - Incluir (Ej.: Bundled software -> Software incluido en el sistema)
+- termino: burst page
+  traduccion:
+  - página en bruto
+  - página de separación (página añadida por muchos gestores de impresión para separar los trabajos)
+- termino: bus
+  traduccion:
+  - bus
+  - línea de datos
+  - cable de datos
+- termino: byte
+  traduccion:
+  - byte
+  - octeto (unidad de información compuesta por ocho bits; una variable de 1 byte puede contener 256 valores diferentes)
+- termino: cache
+  traduccion:
+  - almacén
+  - deposito (algunos usan caché que suena parecido mas no traduce bien su significado)
+- termino: cache memory
+  traduccion:
+  - antememoria
+  - memoria inmediata
+  - memoria cache (ver cache)
+  - cache
+  - chipset
+- termino: callback
+  traduccion:
+  - retrollamada
+- termino: camel caps
+  traduccion:
+  - mayúsculas mediales
+- termino: camera ready
+  traduccion:
+  - preparado para cámara
+  - preparado para su publicación (se usa para indicar la manera de mandar artículos a una revista listos para su publicación)
+- termino: canvas
+  traduccion:
+  - lienzo
+  - tapiz
+- termino: capability
+  traduccion:
+  - capacidad
+- termino: caps
+  traduccion:
+  - letras mayúsculas
+- termino: card
+  traduccion:
+  - tarjeta
+- termino: cardinality
+  traduccion:
+  - cardinalidad
+- termino: caret
+  traduccion:
+  - circunflejo (el símbolo o acento ^ usado  para mostrar que algo va a ser insertado en material escrito o impreso en el lugar en el que se encuentra.)
+- termino: case sensitive
+  traduccion:
+  - distingue mayúsculas de minúsculas
+- termino: cast
+  traduccion:
+  - molde
+  - plantilla
+- termino: catch-up (v)
+  traduccion:
+  - actualizarse
+  - ponerse al día
+- termino: cellular automata
+  traduccion:
+  - autómata celular
+- termino: channel
+  traduccion:
+  - canal
+- termino: character set
+  traduccion:
+  - conjunto de caracteres (conjunto de signos que se representan mediante un código. El más conocido de estos códigos es el ASCII, que utiliza los 256 caracteres que se pueden representar con un byte)
+- termino: chat
+  traduccion:
+  - chat
+  - charla
+  - tertulia
+- termino: chat (v)
+  traduccion:
+  - chatear
+  - conversar
+  - charlar
+- termino: check button
+  traduccion:
+  - botón de verificación
+- termino: check out (v)
+  traduccion:
+  - descargar
+- termino: checkbox
+  traduccion:
+  - caja de selección
+  - casilla de selección
+- termino: checker
+  traduccion:
+  - corrector
+  - cuadrado de un tablero de ajedrez
+  - cajero.
+- termino: checkpoint
+  traduccion:
+  - punto de control
+- termino: checksum
+  traduccion:
+  - suma de control
+  - suma de verificación
+  - suma de comprobación
+- termino: chess
+  traduccion:
+  - ajedrez
+- termino: chief architect
+  traduccion:
+  - desarrollador jefe
+- termino: child process
+  traduccion:
+  - proceso hijo
+- termino: chip
+  traduccion:
+  - chip
+  - circuito integrado
+- termino: chipset
+  traduccion:
+  - chipset
+  - conjunto de chips
+- termino: choke
+  traduccion:
+  - obturador
+  - estrangulador
+  - sofocamiento
+- termino: chroot
+  traduccion:
+  - cambio de directorio raíz
+- termino: class
+  traduccion:
+  - clase
+- termino: clause
+  traduccion:
+  - cláusula
+- termino: clean
+  traduccion:
+  - limpio
+- termino: clean (v)
+  traduccion:
+  - limpiar
+  - despejar
+- termino: clear (v)
+  traduccion:
+  - borrar
+- termino: click
+  traduccion:
+  - click
+  - pulsación
+- termino: click (v)
+  traduccion:
+  - hacer clic
+  - pulsar
+  - pinchar
+- termino: client
+  traduccion:
+  - cliente
+- termino: clipboard
+  traduccion:
+  - portapapeles
+- termino: clock rate
+  traduccion:
+  - velocidad de reloj
+- termino: clone
+  traduccion:
+  - clon
+- termino: closure
+  traduccion:
+  - clausura
+  - cierre
+- termino: clumsy
+  traduccion:
+  - torpe
+  - difícil de manejar
+- termino: cluster
+  traduccion:
+  - grupo
+  - cúmulo
+- termino: cluster (v)
+  traduccion:
+  - agrupar
+- termino: coder
+  traduccion:
+  - programador
+  - codificador
+  - codificador
+  - coder
+- termino: cold boot
+  traduccion:
+  - arranque en frío
+- termino: colon
+  traduccion:
+  - dos puntos (signo de puntuación :)
+- termino: command
+  traduccion:
+  - comando
+  - orden
+  - instrucción
+  - mandato (el uso de ``comando'' está bastante generalizado, aunque algunos lo consideren erróneo)
+- termino: command line
+  traduccion:
+  - línea de comando
+  - comando iniciado al escribir su nombre en un terminal
+- termino: commit (v)
+  traduccion:
+  - enviar
+  - comprometer
+  - aplicar
+  - llevar a cabo
+  - efectuar
+- termino: Common Gateway Interface (CGI)
+  traduccion: 
+  - interfaz común de acceso (un estándar para elaborar pequeños programas que permiten la interacción entre un navegador y un servidor web)
+- termino: compile (v)
+  traduccion:
+  - compilar
+- termino: compiler
+  traduccion:
+  - compilador
+- termino: compliant
+  traduccion:
+  - en conformidad
+  - conforme con
+  - compatible
+- termino: compose (v)
+  traduccion:
+  - redactar
+- termino: composer
+  traduccion:
+  - redactor (de correo, por ejemplo)
+  - compositor (de música)
+- termino: compress (v)
+  traduccion:
+  - comprimir
+- termino: compression
+  traduccion:
+  - compresión
+- termino: compromised
+  traduccion:
+  - violentado (cuando se refiere a un equipo/sistema en el que ha entrado un intruso)
+- termino: computable
+  traduccion:
+  - calculable
+- termino: computer
+  traduccion:
+  - computadora
+  - ordenador
+  - computador
+- termino: Computer Aided Design (CAD)
+  traduccion:
+  - diseño asistido por ordenador (computadora)
+- termino: computer nerd
+  traduccion:
+  - empollón informático
+- termino: concatenate (v)
+  traduccion:
+  - concatenar
+- termino: concurrency
+  traduccion:
+  - concurrencia
+  - simultaneidad (término usado para expresar la capacidad de realizar varias tareas a la vez)
+- termino: conjunction
+  traduccion:
+  - conjunción (conector lógico de dos proposiciones que en castellano se expresa mediante la conjunción "y"; el valor de la conjunción de dos proposiciones es cierto cuando las dos proposiciones son ciertas; en los otros tres casos, el valor de la conjunción es falso)
+- termino: connect (v)
+  traduccion:
+  - conectar
+- termino: connected graph
+  traduccion:
+  - grafo conexo
+- termino: cons
+  traduccion:
+  - contras
+- termino: constraint
+  traduccion:
+  - restricción
+  - constante
+- termino: constructor
+  traduccion:
+  - constructor
+- termino: context
+  traduccion:
+  - contexto
+- termino: converse
+  traduccion:
+  - contrario
+  - opuesto
+- termino: converse (v)
+  traduccion:
+  - conversar
+- termino: converter
+  traduccion:
+  - convertidor
+  - conversor
+- termino: convex hull
+  traduccion:
+  - envoltura convexa
+  - cierre convexo
+- termino: cookbook
+  traduccion:
+  - recetario
+- termino: cookie
+  traduccion:
+  - galleta (mensaje enviado por un servidor web a un navegador para que éste lo guarde en el ordenador del usuario y sea enviado de nuevo al servidor, cada vez que el usuario consulta una de sus páginas)
+- termino: coprocessor
+  traduccion:
+  - coprocesador
+- termino: copyleft
+  traduccion:
+  - copyleft
+  - derecho de copia
+- termino: copyright
+  traduccion:
+  - copyright
+  - derechos de autor
+- termino: copyrighted
+  traduccion:
+  - sujeto a derechos de autor
+- termino: cordless
+  traduccion:
+  - inalámbrico
+- termino: core
+  traduccion:
+  - corazón
+  - núcleo
+  - motor (program core: motor del programa; ver también ``core file'')
+- termino: core dump
+  traduccion:
+  - volcado de memoria
+- termino: core dump (v)
+  traduccion:
+  - Hacer un volcado de memoria (cuando un programa acaba de forma inesperada)
+- termino: core file
+  traduccion:
+  - archivo (fichero) core
+  - archivo (fichero) imagen de memoria
+  - archivo (fichero) de volcado de memoria
+- termino: core voltage
+  traduccion:
+  - voltaje interno
+- termino: courseware
+  traduccion:
+  - software de apoyo (a cursos de formación)
+- termino: cover
+  traduccion:
+  - portada
+- termino: Central Processing Unit (CPU)
+  traduccion:
+  - unidad central de proceso
+- termino: crack (v)
+  traduccion:
+  - invadir
+  - penetrar
+- termino: cracker
+  traduccion:
+  - cracker
+  - maleante informático
+- termino: crash
+  traduccion:
+  - ruptura
+  - caída (del sistema)
+- termino: crash (v)
+  traduccion:
+  - colgarse (un ordenador)
+  - fallar (un programa)
+- termino: crawler
+  traduccion:
+  - gateador
+- termino: cross-assembler
+  traduccion:
+  - ensamblador cruzado
+- termino: cross-compiler
+  traduccion:
+  - compilador cruzado
+- termino: cross-platform
+  traduccion:
+  - multiplataforma
+- termino: cross-post
+  traduccion:
+  - envío cruzado
+  - envío múltiple
+  - correo con destinatarios múltiples (envío de un mismo mensaje a múltiples grupos de noticias)
+- termino: cue point
+  traduccion:
+  - punto de referencia
+- termino: current
+  traduccion:
+  - actual, en vigor, en curso.
+  - corriente (por ejemplo eléctrica)
+- termino: cursor
+  traduccion:
+  - cursor
+- termino: customize
+  traduccion:
+  - personalizar
+- termino: cut and paste (v)
+  traduccion:
+  - cortar y pegar
+- termino: cyber
+  traduccion:
+  - cíber (prefijo griego. Todo aquello relacionado con la comunicación empleando medios electrónicos)
+- termino: cyberspace
+  traduccion:
+  - ciberespacio (es decir, el espacio de la comunicación)
+- termino: daemon
+  traduccion:
+  - demonio
+  - proceso en segundo plano
+  - duende (proceso de ejecución independiente)
+- termino: daisy chain
+  traduccion:
+  - conexión en serie
+- termino: daisywheel printer
+  traduccion:
+  - impresora de margarita
+- termino: dash
+  traduccion:
+  - raya
+- termino: data
+  traduccion:
+  - datos
+  - (pointers)
+- termino: data mining
+  traduccion:
+  - minería de datos
+- termino: database
+  traduccion:
+  - base de datos
+- termino: datagram
+  traduccion:
+  - datagrama
+- termino: date
+  traduccion:
+  - fecha
+- termino: de facto standard
+  traduccion:
+  - estándar de hecho
+  - norma de facto
+  - regulación de facto
+- termino: dead lock
+  traduccion:
+  - bloqueo mutuo
+  - abrazo mortal
+- termino: deadlock
+  traduccion:
+  - interbloqueo
+- termino: debug (v)
+  traduccion:
+  - depurar
+  - corregir errores (en un programa)
+- termino: debugger
+  traduccion:
+  - depurador
+- termino: declarative language
+  traduccion:
+  - lenguaje declarativo
+- termino: decode (v)
+  traduccion:
+  - decodificar
+  - descodificar
+- termino: decoder
+  traduccion:
+  - decodificador
+  - descodificador
+- termino: default
+  traduccion:
+  - por omisión
+  - de manera predeterminada
+  - predefinido
+  - por definición
+  - por defecto
+- termino: default file
+  traduccion:
+  - archivo predeterminado
+  - fichero predeterminado
+- termino: deferral
+  traduccion:
+  - posposición
+- termino: deflate (v)
+  traduccion:
+  - deshinchar
+- termino: defragment (v)
+  traduccion:
+  - desfragmentar
+- termino: delay
+  traduccion:
+  - demora
+- termino: delete (v)
+  traduccion:
+  - borrar
+  - eliminar
+- termino: delimiter
+  traduccion:
+  - delimitador
+  - separador
+- termino: demo
+  traduccion:
+  - demo
+  - demostración
+- termino: demodulate (v)
+  traduccion:
+  - desmodular
+  - traducir tonos a señales digitales (en un modem)
+- termino: denial of service
+  traduccion:
+  - rechazo de servicio
+  - denegación de servicio
+- termino: deny (v)
+  traduccion:
+  - denegar
+  - recusar
+- termino: DESARROLLO
+  traduccion:
+  - ESPAÑOL, development
+- termino: descender
+  traduccion:
+  - descendente
+- termino: descriptor
+  traduccion:
+  - descriptor
+- termino: desktop
+  traduccion:
+  - escritorio
+- termino: detach (v)
+  traduccion:
+  - descolgar
+  - desenganchar
+  - separar
+- termino: developer
+  traduccion:
+  - desarrollador
+- termino: device
+  traduccion:
+  - dispositivo
+  - device 
+- termino: devise (v)
+  traduccion:
+  - inventar
+  - diseñar
+  - planear
+- termino: dial-up link
+  traduccion:
+  - enlace telefónico
+  - enlace por red telefónica
+- termino: dial-up login
+  traduccion:
+  - ingreso por red telefónica
+- termino: dialog box
+  traduccion:
+  - cuadro de diálogo
+  - caja de diálogo
+- termino: diffusion
+  traduccion:
+  - difusión
+- termino: digest
+  traduccion:
+  - recopilación
+  - resumen
+- termino: dike (v)
+  traduccion:
+  - contener
+- termino: directory
+  traduccion:
+  - directorio
+- termino: disclaimer
+  traduccion:
+  - renuncia de responsabilidades
+  - descargo
+- termino: discuss (v)
+  traduccion:
+  - comentar
+  - tratar (un tema)
+- termino: discussion groups
+  traduccion:
+  - grupos de debate
+- termino: dispatch (v)
+  traduccion:
+  - despachar
+  - enviar
+- termino: display
+  traduccion:
+  - pantalla
+  - visualizar
+- termino: display (v)
+  traduccion:
+  - mostrar
+- termino: display menu
+  traduccion:
+  - menú de visualización
+- termino: disposable
+  traduccion:
+  - desechable
+- termino: distribution
+  traduccion:
+  - distribución
+- termino: dithering
+  traduccion:
+  - difuminado
+- termino: documentation
+  traduccion:
+  - documentación
+- termino: doorstop
+  traduccion:
+  - tope (de una puerta)
+- termino: dot matrix printer
+  traduccion:
+  - impresora de matriz de puntos
+- termino: down
+  traduccion:
+  - fuera de servicio
+- termino: downgrade
+  traduccion:
+  - versión anterior
+  - builtin
+- termino: downgrade (v)
+  traduccion:
+  - menoscabar, disminuir
+  - instalar una versión anterior
+- termino: download (v)
+  traduccion:
+  - descargar
+  - transferir
+  - recibir
+  - bajar
+  - obtener
+- termino: downsizing
+  traduccion:
+  - reducción
+  - disminución
+- termino: downstream
+  traduccion:
+  - flujo descendente
+- termino: downstream port
+  traduccion:
+  - puerto de recepción.
+- termino: downtime
+  traduccion:
+  - tiempo de inactividad
+- termino: draft
+  traduccion:
+  - borrador
+- termino: drag and drop
+  traduccion:
+  - arrastrar y soltar
+- termino: drill
+  traduccion:
+  - ejercicio
+  - entrenamiento
+- termino: driver
+  traduccion:
+  - controlador
+  - manejador
+  - gestor
+  - driver (driver de video, driver de sonido)
+- termino: dumb
+  traduccion:
+  - sin procesamiento
+  - bobo
+  - pantalla tonta
+- termino: dumb terminal
+  traduccion:
+  - terminal sin procesamiento
+- termino: dummy
+  traduccion:
+  - mudo
+- termino: dump
+  traduccion:
+  - volcado
+  - vuelco
+- termino: dungeon
+  traduccion:
+  - mazmorra
+- termino: e-mail
+  traduccion:
+  - correo electrónico
+  - mensaje (send me an e-mail: envíame un mensaje)
+- termino: e.g.
+  traduccion:
+  - por ejemplo (del latín exemplia gratia; en castellano se usa v.g. del latín verbi gratia.)
+- termino: edge
+  traduccion:
+  - límite
+- termino: electronic mail
+  traduccion:
+  - correo electrónico
+- termino: elevation grids
+  traduccion:
+  - mapas de elevación
+- termino: ellipse
+  traduccion:
+  - elipse
+- termino: embed (v)
+  traduccion:
+  - empotrar
+  - embeber
+  - incrustar
+- termino: embedded
+  traduccion:
+  - empotrado
+  - embebido
+- termino: emerge
+  traduccion:
+  - emerge
+- termino: enable (v)
+  traduccion:
+  - activar
+- termino: enable (v)
+  traduccion:
+  - habilitar
+- termino: enabling
+  traduccion:
+  - habilitación
+- termino: encode (v)
+  traduccion:
+  - codificar
+- termino: encoder
+  traduccion:
+  - codificador
+- termino: encryption
+  traduccion:
+  - cifrado
+  - encripción
+  - encriptación
+  - (nota: encriptación no existe a menos que quieras 'meter en una cripta')
+- termino: endian
+  traduccion:
+  - vease ``big-endian'' y ``little-endian''
+- termino: endless
+  traduccion:
+  - interminable
+- termino: enhancement
+  traduccion:
+  - mejora
+- termino: enlarge (v)
+  traduccion:
+  - ampliar
+- termino: entity
+  traduccion:
+  - entidad
+- termino: entries
+  traduccion:
+  - entradas
+  - líneas
+  - renglones
+- termino: environment
+  traduccion:
+  - entorno
+  - ambiente
+- termino: erase (v)
+  traduccion:
+  - borrar
+- termino: error
+  traduccion:
+  - error
+- termino: escape (v)
+  traduccion:
+  - escapar
+  - preceder con escape
+  - exceptuar
+- termino: evaluator
+  traduccion:
+  - evaluador
+- termino: event
+  traduccion:
+  - evento
+  - suceso
+- termino: event-driven
+  traduccion:
+  - basado o gestionado por eventos
+  - orientado a eventos
+  - dirigido por eventos
+- termino: executable
+  traduccion:
+  - ejecutable
+- termino: execute (v)
+  traduccion:
+  - ejecutar
+- termino: expire time
+  traduccion:
+  - tiempo de caducidad
+- termino: ext2
+  traduccion:
+  - ext2
+- termino: extrication
+  traduccion:
+  - liberación
+  - rescate
+  - extricación 
+- termino: facility
+  traduccion:
+  - instalación
+  - equipo
+- termino: fade in
+  traduccion:
+  - comienzo gradual
+- termino: fade out
+  traduccion:
+  - final gradual
+- termino: fade (v)
+  traduccion:
+  - atenuar
+  - desvanecer
+- termino: failure
+  traduccion:
+  - fallo
+- termino: fake
+  traduccion:
+  - falso
+- termino: feature
+  traduccion:
+  - funcionalidad, característica
+  - dispositivo
+- termino: feed
+  traduccion:
+  - fuente
+  - suministro
+- termino: feed (v)
+  traduccion:
+  - suministrar
+- termino: feedback
+  traduccion:
+  - realimentación
+  - comentarios y sugerencias
+  - retroalimentación
+- termino: fetch (v)
+  traduccion:
+  - obtener
+- termino: FIB (Forwarding Information Base)
+  traduccion:
+  - tabla de rutas
+  - tabla de encaminamiento
+- termino: field
+  traduccion:
+  - campo
+- termino: file
+  traduccion:
+  - archivo
+  - fichero (la mayoría de las personas usan exclusivamente una o la otra)
+- termino: file (v)
+  traduccion:
+  - archivar
+- termino: file erase
+  traduccion:
+  - archivos borrados
+- termino: file system
+  traduccion:
+  - sistema de archivos
+  - sistema de ficheros
+  - file system
+- termino: filehandle
+  traduccion:
+  - identificador de ficheros (programación)
+  - descriptor de archivos (ficheros)
+  - manejador de archivos (ficheros) 
+  - descriptor de fichero
+  - manejo de archivos (las traducciones aportadas corresponderían a filehandler)
+  - gestor de ficheros (filehandler)
+  - descriptor de archivo en uso. El "filehandle" contiene la información necesaria para tener acceso a la información del archivo desde un programa. .(falta espaci referencia lógica o física (por contexto) a fichero 
+- termino: fill rate
+  traduccion:
+  - tasa de relleno
+- termino: filter
+  traduccion:
+  - filtro
+- termino: fingerprint
+  traduccion:
+  - huella dactilar
+  - huella digital
+- termino: firewall
+  traduccion:
+  - cortafuegos
+- termino: firmware
+  traduccion:
+  - microcódigo
+  - soporte lógico incorporado
+- termino: fix
+  traduccion:
+  - enmienda
+  - corrección
+- termino: fix (v)
+  traduccion:
+  - corregir
+  - arreglar
+  - reparar
+  - enmendar
+  - fijar
+- termino: flag
+  traduccion:
+  - bandera
+  - indicador
+  - parámetro
+- termino: flame
+  traduccion:
+  - llama
+  - insulto destructivo
+  - comentario airado
+  - crítica destructiva
+  - soflama
+- termino: flanger
+  traduccion:
+  - desdoblador
+- termino: flat shading
+  traduccion:
+  - sombreado plano
+- termino: flip (v)
+  traduccion:
+  - voltear
+- termino: floating
+  traduccion:
+  - flotante
+- termino: floating point
+  traduccion:
+  - punto flotante
+  - coma flotante (en diferentes países se usa el punto o la comapara  separar dígitos enteros y decimales)
+- termino: floppy disk
+  traduccion:
+  - disquete
+  - disco flexible
+- termino: flow chart
+  traduccion:
+  - diagrama de flujo
+- termino: flush (v)
+  traduccion:
+  - vaciar
+- termino: folder
+  traduccion:
+  - carpeta
+  - directorio
+- termino: follow-up (v)
+  traduccion:
+  - responder (a un grupo de noticias)
+- termino: font
+  traduccion:
+  - tipo de letra (algunos usan ``fuente'', por su parecido con el término inglés
+  - que no traduce bien su significado)
+- termino: footprint
+  traduccion:
+  - huella
+  - rastro
+- termino: foreground
+  traduccion:
+  - primer plano
+  - interactivo
+- termino: foreign agent
+  traduccion:
+  - agente externo
+- termino: fork
+  traduccion:
+  - bifurcación
+- termino: fork (v)
+  traduccion:
+  - bifurcar
+  - desdoblar
+- termino: format
+  traduccion:
+  - formato
+  - Es un chunche que sirve para dar forma a las personas o cosas
+- termino: format (v)
+  traduccion:
+  - dar formato
+  - formatear
+- termino: forum
+  traduccion:
+  - foro
+- termino: forward (v)
+  traduccion:
+  - reenviar
+  - remitir
+  - redireccionar
+  - adelantar
+- termino: fragmentation
+  traduccion:
+  - fragmentación
+  - partición
+- termino: frame
+  traduccion:
+  - marco
+  - fotograma
+- termino: frame buffer
+  traduccion:
+  - memoria de imagen
+  - marco de memoria intermedia
+- termino: frame relay
+  traduccion:
+  - conmutación de tramas
+- termino: frames
+  traduccion:
+  - cuadros
+- termino: framework
+  traduccion:
+  - infraestructura
+  - armazón
+- termino: free
+  traduccion:
+  - libre como en libertad de expresión
+  - gratis como en barra libre
+- termino: front end
+  traduccion:
+  - entorno
+  - interfaz
+  - fachada
+  - frontal
+  - FRONT PAGE
+- termino: fully qualified domain name
+  traduccion:
+  - nombre de dominio completo
+- termino: function
+  traduccion:
+  - función
+- termino: function inlining
+  traduccion:
+  - expansión de funciones (se copia la función entera en lugar de hacer una referencia a la misma).
+- termino: further
+  traduccion:
+  - consiguiente
+  - posterior
+  - más extenso
+  - más avanzado
+- termino: fuzzy
+  traduccion:
+  - difuso
+- termino: gateway
+  traduccion:
+  - pasarela
+  - portal
+  - compuerta
+  - puerta de enlace
+- termino: gaussian blur
+  traduccion:
+  - desenfoque gausiano
+- termino: getting started
+  traduccion:
+  - primeros pasos
+- termino: glob
+  traduccion:
+  - englobador
+  - el caracter englobador es *
+  - abreviatura de todos
+- termino: glyph
+  traduccion:
+  - glifo
+- termino: grab (v)
+  traduccion:
+  - capturar
+- termino: graph
+  traduccion:
+  - grafo
+  - gráfico
+- termino: graphic display
+  traduccion:
+  - representación gráfica
+- termino: Graphical User Interface (GUI)
+  traduccion:
+  - interfaz gráfica de usuario
+- termino: Graphics Interchange Format (GIF)
+  traduccion:
+  - formato para intercambio de gráficas
+- termino: grid
+  traduccion:
+  - rejilla
+  - grilla
+  - cuadrícula
+- termino: guidelines
+  traduccion:
+  - directivas
+- termino: gzipped
+  traduccion:
+  - comprimidos con gzip
+  - comprimidos
+  - compactados
+- termino: hack
+  traduccion:
+  - solución chapucera
+  - alteración (``a quick hack'')
+- termino: hack (v)
+  traduccion:
+  - cargar (``hack a program'')
+- termino: hacker
+  traduccion:
+  - hacker
+  - genio de la informática (no confundir con ``cracker'')
+  - experto en informática 
+  - pirata informático
+- termino: handheld
+  traduccion:
+  - de mano
+- termino: handle (v)
+  traduccion:
+  - manipular
+- termino: handler
+  traduccion:
+  - manipulador
+  - gestor
+- termino: handover
+  traduccion:
+  - traspaso (de un nodo móvil desde una subred a otra)
+- termino: handshaking
+  traduccion:
+  - asentimiento
+  - negociación
+  - sincronismo
+- termino: hang (v)
+  traduccion:
+  - colgar
+  - colgarse
+  - bloquearse
+- termino: hard disk
+  traduccion:
+  - disco duro
+  - disco rígido
+  - disco fijo
+- termino: hard link
+  traduccion:
+  - enlace físico
+  - enlace rígido
+  - enlace duro
+- termino: harden
+  traduccion:
+  - bastionar (fortificar con bastiones). Término utilizado para indicar que se han implementado todas las medidas de seguridad posibles para proteger un sistema.
+- termino: hardware
+  traduccion:
+  - hardware
+  - máquina
+  - equipo
+  - dispositivo
+  - soporte físico
+  - que es el hardware
+  - que es el hardware
+  - definicion de hardware
+- termino: hash
+  traduccion:
+  - resumen criptográfico
+  - picadillo
+  - arreglo asociativo (Perl)
+- termino: hash table
+  traduccion:
+  - tabla de dispersión
+  - tabla de referencias
+  - tabla hash
+- termino: hassle
+  traduccion:
+  - lío
+  - enredo
+  - complicación
+- termino: hassle (v)
+  traduccion:
+  - molestar
+  - confundir
+- termino: hcl
+  traduccion:
+  - hardware compatibility list
+- termino: header
+  traduccion:
+  - cabecera (header file)
+  - encabezado
+  - encabezamiento (page header).
+- termino: heap
+  traduccion:
+  - montón
+- termino: heuristic
+  traduccion:
+  - heurístico
+- termino: hi-color
+  traduccion:
+  - ver 'high-color'
+- termino: hi-tech
+  traduccion:
+  - ver 'high-tech'
+- termino: hide (v)
+  traduccion:
+  - esconder
+  - esconderse
+- termino: hierarchy
+  traduccion:
+  - jerarquía
+- termino: high-color
+  traduccion:
+  - color de alta densidad
+- termino: high-tech
+  traduccion:
+  - tecnología de punta
+- termino: highlight
+  traduccion:
+  - realce
+  - destaque
+- termino: highlight (v)
+  traduccion:
+  - realzar
+  - destacar
+  - resaltar
+- termino: hint (v)
+  traduccion:
+  - definir  (característica aplicada a la visualizacion correcta de fuentes tipográfica digitales)
+- termino: hit
+  traduccion:
+  - golpe
+  - éxito
+  - acierto
+  - visita (a una página web)
+- termino: hits
+  traduccion:
+  - golpes
+  - accesos (en una web)
+- termino: home
+  traduccion:
+  - casa
+  - portada (ver también home page)
+- termino: home agent
+  traduccion:
+  - agente local 
+- termino: home directory
+  traduccion:
+  - directorio del usuario
+  - directorio principal del usuario
+- termino: home page
+  traduccion:
+  - página principal
+  - página inicial
+- termino: honeynet
+  traduccion:
+  - sistema trampa (red de sistemas que simulan una red real pero han sido desplegados para engañar a posibles intrusos)
+- termino: honeypot
+  traduccion:
+  - tarro de miel. Término utilizado comúnmente para denominar a un sistema/máquina "trampa" utilizado para atraer a posibles intrusos.
+- termino: host
+  traduccion:
+  - anfitrión
+  - máquina anfitriona
+  - puesto
+- termino: host (v)
+  traduccion:
+  - alojar
+- termino: hostname
+  traduccion:
+  - nombre de anfitrión
+- termino: hub
+  traduccion:
+  - concentrador
+  - distribuidor
+  - concentrador
+  - DEFINE HUB
+- termino: hyphen
+  traduccion:
+  - guión
+- termino: hyphenate
+  traduccion:
+  - enguionar
+  - cortar palabras incorporando guiones
+- termino: i.e.
+  traduccion:
+  - esto es
+  - o sea (del latín id est)
+- termino: icon
+  traduccion:
+  - icono
+  - ícono
+- termino: iconize (v)
+  traduccion:
+  - miniaturizar
+  - iconizar
+- termino: idle
+  traduccion:
+  - ocioso
+  - inactivo
+- termino: illustrator
+  traduccion:
+  - ilustrador
+- termino: imaging
+  traduccion:
+  - proceso de imágenes
+  - trabajo con imágenes
+  - diseño gráfico
+  - diseño de imagen
+  - generación de imagen
+  - ilustración
+  - figurandose(v)
+  - creación de imagenes
+- termino: implement (v)
+  traduccion:
+  - implementar
+- termino: inbox
+  traduccion:
+  - bandeja de entrada
+- termino: indent (v)
+  traduccion:
+  - sangrar (empezar un renglón más adentro que los otros)
+- termino: indentation
+  traduccion:
+  - sangría
+- termino: index
+  traduccion:
+  - índice
+- termino: indexed
+  traduccion:
+  - indexado
+- termino: inflate (v)
+  traduccion:
+  - inflar (descomprimir)
+- termino: ingles español
+  traduccion:
+  - suds
+  - suds
+- termino: inherit (v)
+  traduccion:
+  - heredar
+- termino: inheritance
+  traduccion:
+  - herencia
+- termino: init
+  traduccion:
+  - sistema
+  - método o esquema de inicio de sistema operativo
+- termino: inkjet
+  traduccion:
+  - inyección de tinta
+  - INKJET
+- termino: inode
+  traduccion:
+  - nodo i
+  - inodo
+- termino: inodos
+  traduccion:
+  - quiero saber que es?
+- termino: input encoding
+  traduccion:
+  - codificación
+- termino: installer
+  traduccion:
+  - instalador
+  - asesor para la instalación
+  - linux red hat 7.2
+- termino: instance
+  traduccion:
+  - instancia
+  - ejemplar
+- termino: Integrated Development Enviroment (IDE)
+  traduccion:
+  - Entorno de desarrollo integrado
+  - (es Environment)
+- termino: Integrated Services Digital Network ISDN
+  traduccion:
+  - Red Digital de Servicios Integrados (RDSI)
+- termino: interactive
+  traduccion:
+  - interactivo
+- termino: interface
+  traduccion:
+  - interfaz (femenino)
+  - definición de gestion de hardware
+- termino: interlace (v)
+  traduccion:
+  - entrelazar
+  - interfoliar
+- termino: interlaced
+  traduccion:
+  - entrelazado
+- termino: Internet
+  traduccion:
+  - Internet
+  - Internet
+  - internet
+- termino: Internet Protocol (IP)
+  traduccion:
+  - protocolo Internet
+  - iptables
+  - protocol
+- termino: interpolation
+  traduccion:
+  - interpolación
+- termino: interrupt
+  traduccion:
+  - interrupción
+- termino: Interrupt Request (IRQ)
+  traduccion:
+  - Solicitud de interrupción
+  - petición de interrupción
+- termino: introducer
+  traduccion:
+  - presentador
+- termino: intrusion detection system (ids)
+  traduccion:
+  - sistema de detección de intrusos (o de intrusiones)
+- termino: isochronous
+  traduccion:
+  - isocrono (del prefijo griego iso
+  - igual
+  - y de la palabra griega crono
+  - tiempo)
+- termino: isomorphism
+  traduccion:
+  - isomorfismo
+- termino: italic
+  traduccion:
+  - cursiva
+- termino: item
+  traduccion:
+  - elemento
+  - objeto
+- termino: iteration
+  traduccion:
+  - iteración (del latín iteratio
+  - -onis)
+- termino: jabber
+  traduccion:
+  - torrente de palabras ininteligibles
+- termino: jabber (v)
+  traduccion:
+  - hablar mucho
+  - hablar incoherentemente
+  - farfullar
+- termino: jagged picture
+  traduccion:
+  - imagen serrada
+- termino: jigsaw puzzle
+  traduccion:
+  - rompecabezas
+- termino: jitter
+  traduccion:
+  - ruido
+  - nieve
+  - en redes IP
+  - variación en el retardo (RTT) de los paquetes.
+- termino: job
+  traduccion:
+  - trabajo
+- termino: journaling file system
+  traduccion:
+  - sistema de ficheros transaccional
+- termino: joystick
+  traduccion:
+  - videomando
+  - ludomando
+  - mando para jugar
+  - palanca para juegos
+- termino: jumper
+  traduccion:
+  - puente
+  - puente deslizable
+  - puente configurable
+  - conector
+- termino: junk-mail
+  traduccion:
+  - correo basura
+- termino: justify (v)
+  traduccion:
+  - alinear
+- termino: keepalive
+  traduccion:
+  - latidos
+- termino: kernel
+  traduccion:
+  - núcleo
+- termino: kerning
+  traduccion:
+  - interletraje (ajuste de espacio entre ciertos pares de caracteres para que estos se impriman con un toque estético)
+  - ligadura
+  - interletraje (ajuste de espacio entre ciertos pares de caracteres para mejorar su legibilidad)
+- termino: key
+  traduccion:
+  - llave
+  - tecla
+  - clave
+  - tono
+  - tonalidad
+  - crucial
+  - de importancia
+  - significante
+- termino: key escrow
+  traduccion:
+  - depósito de claves
+- termino: key fingerprint
+  traduccion:
+  - huella de clave
+- termino: key pair
+  traduccion:
+  - par de claves
+- termino: keyboard
+  traduccion:
+  - teclado
+- termino: keyboard shorcuts
+  traduccion:
+  - métodos abreviados de teclado
+- termino: keyring
+  traduccion:
+  - anillo de claves
+  - archivo de claves
+- termino: keyword
+  traduccion:
+  - palabra clave
+- termino: kick
+  traduccion:
+  - expulsar
+  - echar
+- termino: kit
+  traduccion:
+  - conjunto
+  - juego
+  - paquete
+- termino: knowbot
+  traduccion:
+  - robot
+  - buscador
+  - buscador en la red (programa que busca y clasifica información automáticamente en una red, a diferencia de buscador en una base de datos propia)
+  - buscador inteligente (programa que utiliza técnicas derivadas de la rama de inteligencia artificial para realizar búsquedas y guardar perfiles de los usuarios)
+  - robot de búsqueda
+- termino: label
+  traduccion:
+  - etiqueta
+- termino: latency
+  traduccion:
+  - latencia
+- termino: lattice
+  traduccion:
+  - red
+  - trama
+- termino: layer
+  traduccion:
+  - capa
+- termino: layers
+  traduccion:
+  - capas
+- termino: layout
+  traduccion:
+  - esquema
+  - diseño
+  - composición
+  - gestor de geometría (en algunos programas gráficos)
+- termino: leak
+  traduccion:
+  - fuga (de un gas o líquido por un agujero)
+  - escape
+  - pérdida
+- termino: legalese
+  traduccion:
+  - condiciones legales
+  - jerga legal
+- termino: library
+  traduccion:
+  - librería
+  - biblioteca (cuando library se refiere al edificio donde se almacenan libros, sin lugar a dudas que la traducción correcta es biblioteca; pero en el contexto informático es más usada librería, ya que además de una tienda de venta de libros, librería también es un mueble donde se guardan documentos)
+- termino: lightning effects
+  traduccion:
+  - efectos de iluminación
+- termino: line
+  traduccion:
+  - línea
+  - renglón
+- termino: line wrap
+  traduccion:
+  - encapsulamiento de línea
+  - retorno automático de líneas
+- termino: link
+  traduccion:
+  - enlace
+  - vínculo
+  - liga
+  - eslabón
+- termino: link (v)
+  traduccion:
+  - enlazar
+  - conectar
+  - vincular
+  - crear vínculos
+- termino: linker
+  traduccion:
+  - enlazador
+- termino: Liquid Cristal Display (LCD)
+  traduccion:
+  - pantalla de cristal líquido
+- termino: list view
+  traduccion:
+  - lista de elementos
+- termino: little-endian
+  traduccion:
+  - byte menos significativo primero
+- termino: Local Area Network (LAN)
+  traduccion:
+  - red de área local
+- termino: locale
+  traduccion:
+  - opciones de localización
+  - localizaciones
+- termino: lock
+  traduccion:
+  - cerrojo
+  - candado
+  - cerradura
+  - bloqueo
+- termino: lock (v)
+  traduccion:
+  - cerrar con llave
+  - trancar
+- termino: lock file
+  traduccion:
+  - fichero de bloqueo
+- termino: log
+  traduccion:
+  - registro
+  - bitácora
+- termino: log (v)
+  traduccion:
+  - registrar
+- termino: log in (v)
+  traduccion:
+  - ingresar
+  - entrar en
+  - comenzar la sesión
+  - entrar al sistema
+  - conectarse
+  - registro ('log' es registro en inglés)
+  - registrarse ('log' es registro en inglés)
+- termino: log on (v)
+  traduccion:
+  - ver ``log in''
+- termino: log out (v)
+  traduccion:
+  - salir de
+- termino: logger
+  traduccion:
+  - gestor de registro de actividades
+- termino: login
+  traduccion:
+  - ingreso
+- termino: login banner
+  traduccion:
+  - mensaje de ingreso
+  - mensaje de bienvenida
+- termino: LOL
+  traduccion:
+  - Meándome de risa (acrónimo)
+  - MDR (Meándome de risa, acrónimo)
+- termino: look and feel
+  traduccion:
+  - aspecto y funcionalidad
+  - aspecto visual y operacional
+- termino: loop
+  traduccion:
+  - ciclo
+  - bucle
+- termino: loopback
+  traduccion:
+  - circuito cerrado
+- termino: lossy
+  traduccion:
+  - con pérdida
+  - perdida
+  - compresión resumida
+  - compresión con pérdida (de información)
+  - compresión por reducción
+  - breech
+  - breech
+- termino: luminance
+  traduccion:
+  - luminancia
+- termino: lvalue
+  traduccion:
+  - valor a la izquierda
+  - valor-l
+- termino: mail
+  traduccion:
+  - correo
+  - mensaje
+- termino: mail (v)
+  traduccion:
+  - enviar por correo
+- termino: mail hub
+  traduccion:
+  - distribuidor de correo
+- termino: mailbox
+  traduccion:
+  - buzón
+- termino: mailer
+  traduccion:
+  - gestor de correo
+  - agente de correo
+  - corresponsal
+  - cartero
+- termino: mailing list
+  traduccion:
+  - lista de correo
+  - lista postal
+  - lista de distribución
+- termino: mainframe
+  traduccion:
+  - macrocomputadora
+  - ordenador de escala superior
+- termino: maintainer
+  traduccion:
+  - responsable del mantenimiento
+  - encargado del mantenimiento
+- termino: map
+  traduccion:
+  - mapa
+- termino: map (v)
+  traduccion:
+  - mapear
+  - asignar
+- termino: markup
+  traduccion:
+  - marcado
+- termino: mask
+  traduccion:
+  - máscara
+  - mascara de red
+- termino: mask (v)
+  traduccion:
+  - enmascarar
+  - ocultar
+- termino: masking
+  traduccion:
+  - enmascaramiento
+- termino: masquerading
+  traduccion:
+  - emmascarado
+  - enmascaramiento
+  - mimetización
+- termino: master
+  traduccion:
+  - maestro
+  - amo
+- termino: match
+  traduccion:
+  - concordancia (objeto o persona que se encuadra bien con otra)
+- termino: match (v)
+  traduccion:
+  - coincidir
+  - encuadrar
+  - encajar
+  - concordar
+- termino: measure
+  traduccion:
+  - medida
+  - métrica
+- termino: merge (v)
+  traduccion:
+  - mezclar
+  - fusionar
+  - incorporar
+- termino: mesh
+  traduccion:
+  - malla
+- termino: message digest
+  traduccion:
+  - condensado de mensaje
+- termino: method
+  traduccion:
+  - método
+- termino: milestone
+  traduccion:
+  - hito
+  - punto de referencia
+- termino: mirror
+  traduccion:
+  - réplica
+- termino: mirror site
+  traduccion:
+  - réplica
+- termino: misplaced
+  traduccion:
+  - extraviado
+- termino: mistake
+  traduccion:
+  - equivocación
+  - error
+- termino: mix (v)
+  traduccion:
+  - mezclar
+- termino: mixer
+  traduccion:
+  - mezclador
+- termino: mnemotecnicos
+  traduccion:
+  - llll
+- termino: mobile IP protocol
+  traduccion:
+  - protocolo IP móvil
+- termino: mobile node
+  traduccion:
+  - nodo móvil
+  - ordenador móvil
+- termino: modem
+  traduccion:
+  - modem
+  - modem
+  - modem
+- termino: monitor (v)
+  traduccion:
+  - supervisar
+  - controlar
+- termino: mount
+  traduccion:
+  - montaje (como en un sistema de archivos)
+- termino: mount (v)
+  traduccion:
+  - montar
+- termino: mouse
+  traduccion:
+  - ratón
+- termino: named pipes
+  traduccion:
+  - tuberías designadas
+  - tuberías con nombre
+  - cauces designados
+- termino: nest (v)
+  traduccion:
+  - anidar
+  - conectar
+- termino: nested
+  traduccion:
+  - anidado
+- termino: netmask
+  traduccion:
+  - máscara de red
+- termino: netmount
+  traduccion:
+  - montaje (de un sistema de archivos) a través de la red
+- termino: network
+  traduccion:
+  - red
+- termino: newbie
+  traduccion:
+  - principiante
+- termino: news feed
+  traduccion:
+  - proveedor de noticias
+  - fuente de noticias
+  - suministro de noticias
+- termino: newsgroups
+  traduccion:
+  - grupos de noticias
+  - grupos de discusión
+  - foros de discusión
+- termino: nickname
+  traduccion:
+  - apodo
+- termino: noise gate
+  traduccion:
+  - bloqueador de ruidos
+- termino: non-octet
+  traduccion:
+  - diferente a un octeto
+- termino: object
+  traduccion:
+  - objeto
+- termino: object oriented
+  traduccion:
+  - orientado por (a) objetos
+- termino: Object-oriented programming
+  traduccion:
+  - programación orientada a objetos
+- termino: octet
+  traduccion:
+  - octeto
+  - byte
+- termino: ocurrence
+  traduccion:
+  - aparición
+- termino: ocurrences
+  traduccion:
+  - casos
+- termino: off topic
+  traduccion:
+  - fuera de temática
+  - fuera de tema
+- termino: off-line
+  traduccion:
+  - desconectado
+  - fuera de línea
+- termino: offset
+  traduccion:
+  - offset
+  - desplazamiento
+- termino: OK
+  traduccion:
+  - aceptar 
+- termino: on-line
+  traduccion:
+  - conectado
+  - en línea
+- termino: open source
+  traduccion:
+  - código fuente abierto
+- termino: option
+  traduccion:
+  - opción
+- termino: outline
+  traduccion:
+  - bosquejo
+- termino: overall
+  traduccion:
+  - por encima
+  - en general
+- termino: overflow
+  traduccion:
+  - desbordamiento
+- termino: overhead
+  traduccion:
+  - sobrecarga
+- termino: overload
+  traduccion:
+  - sobrecarga
+- termino: overload (v)
+  traduccion:
+  - sobrecargar
+- termino: override (v)
+  traduccion:
+  - redefinir
+  - reescribir
+  - reemplazar
+- termino: owner
+  traduccion:
+  - propietario
+- termino: pager
+  traduccion:
+  - buscapersonas
+  - paginador
+  - conmutador (tal como se usa en gestores de ventanas)
+- termino: pan (v)
+  traduccion:
+  - mover
+- termino: parameter
+  traduccion:
+  - parámetro
+- termino: parse (v)
+  traduccion:
+  - analizar sintácticamente
+- termino: parser
+  traduccion:
+  - intérprete
+  - analizador
+- termino: partition
+  traduccion:
+  - partición
+- termino: passphrase
+  traduccion:
+  - contraseña
+- termino: password
+  traduccion:
+  - contraseña
+  - palabra de paso
+  - palabra clave
+- termino: patch
+  traduccion:
+  - parche
+  - modificación
+- termino: patch (v)
+  traduccion:
+  - actualizar
+  - parchear
+  - emparchar
+- termino: patch file
+  traduccion:
+  - archivo (fichero) de parche
+- termino: path
+  traduccion:
+  - camino
+  - trayectoria
+  - ruta
+- termino: pattern
+  traduccion:
+  - patrón
+- termino: peer
+  traduccion:
+  - vecino
+  - conector
+  - punto
+- termino: peer-to-peer
+  traduccion:
+  - entre iguales
+- termino: penalty
+  traduccion:
+  - penalización
+- termino: perform (v)
+  traduccion:
+  - realizar (una acción)
+- termino: performance
+  traduccion:
+  - rendimiento
+  - desempeño
+- termino: period
+  traduccion:
+  - punto
+- termino: piggybacking
+  traduccion:
+  - confirmaciones superpuestas
+  - superposición de confirmaciones
+- termino: pin
+  traduccion:
+  - patilla
+  - pata
+  - contacto
+- termino: pipe
+  traduccion:
+  - tubo
+  - tubería
+  - filtro
+- termino: pipe (v)
+  traduccion:
+  - entubar
+  - redireccionar
+  - derivar
+  - redirigir la salida a
+- termino: pipeling
+  traduccion:
+  - redireccionamiento
+- termino: pitch
+  traduccion:
+  - tono
+  - altura
+- termino: pixel
+  traduccion:
+  - píxel
+  - punto
+- termino: placer
+  traduccion:
+  - posicionador
+- termino: plaintext
+  traduccion:
+  - texto llano
+- termino: play
+  traduccion:
+  - reproducir
+  - tocar (música)
+- termino: player
+  traduccion:
+  - jugador
+  - reproductor (de discos compactos)
+  - intérprete (de archivos de sonido)
+- termino: playlist
+  traduccion:
+  - lista de reproducción
+- termino: plotter
+  traduccion:
+  - trazador
+  - graficador
+- termino: plug and play
+  traduccion:
+  - enchufar y usar
+- termino: plug and play (v)
+  traduccion:
+  - pinchar y listo
+- termino: plug and pray
+  traduccion:
+  - pincha y reza (para que funcione; véase plug and play)
+- termino: plug-in
+  traduccion:
+  - accesorio
+  - añadido
+  - módulo
+- termino: pluggable
+  traduccion:
+  - conectable
+- termino: pointer
+  traduccion:
+  - puntero
+- termino: policy
+  traduccion:
+  - política
+  - normas
+  - reglas
+  - normativa
+  - directrices
+  - criterios
+- termino: poligonal mesh
+  traduccion:
+  - malla de polígonos
+- termino: poll
+  traduccion:
+  - sondeo
+- termino: poll (v)
+  traduccion:
+  - sondear
+- termino: polling
+  traduccion:
+  - sondeo
+- termino: popup menu
+  traduccion:
+  - menú emergente
+- termino: port
+  traduccion:
+  - puerto
+  - puerta (referido al protocolo TCP/IP)
+  - migración
+  - porteo (versión de un programa para otra plataforma)
+- termino: port (v)
+  traduccion:
+  - portear
+  - portar
+  - adaptar (hacer una versión de un programa para otra plataforma)
+- termino: portable
+  traduccion:
+  - portátil
+- termino: portage
+  traduccion:
+  - porteo
+- termino: portscan
+  traduccion:
+  - sondeo de puertos
+  - escaneo de puertos
+- termino: portscan (v)
+  traduccion:
+  - sondeo de puertos
+  - escaneo de puertos
+- termino: post
+  traduccion:
+  - envío
+- termino: post (v)
+  traduccion:
+  - remitir
+  - publicar (en un grupo de noticias)
+- termino: poster
+  traduccion:
+  - autor (de un artículo o mensaje)
+- termino: posting agent
+  traduccion:
+  - agente de envío 
+- termino: postmaster
+  traduccion:
+  - administrador postal
+  - administrador de correo
+  - postmaster
+- termino: postponed
+  traduccion:
+  - pendiente
+- termino: power
+  traduccion:
+  - alimentación (energía)
+- termino: preemptible
+  traduccion:
+  - apropiable
+- termino: preemptive
+  traduccion:
+  - apropiativo
+  - expropiativo
+- termino: preview
+  traduccion:
+  - vista previa
+  - visualización previa
+- termino: private
+  traduccion:
+  - privado
+  - confidencial
+- termino: profile
+  traduccion:
+  - perfil
+- termino: profile (v)
+  traduccion:
+  - perfilar
+- termino: profiler
+  traduccion:
+  - perfilador
+- termino: profiling
+  traduccion:
+  - parametrización
+  - personalización
+  - perfilado
+  - acción de medir el rendimiento de un programa
+  - personalización (igual que customización)
+  - Customización no existe en el VCT ni en el Dic. de la RAE. Además suena  horrible
+  - diseño
+  - ajuste
+  - tallado; y tallar sería evaluar el rendimiento del programa 
+- termino: profiling execution
+  traduccion:
+  - perfil de uso de recursos (del programa ejecutado)
+- termino: programmer
+  traduccion:
+  - programador
+- termino: programming
+  traduccion:
+  - programación
+- termino: prompt
+  traduccion:
+  - cursor
+  - símbolo de espera de órdenes
+  - punto indicativo
+- termino: prompt (v)
+  traduccion:
+  - apremiar
+- termino: properly 
+  traduccion:
+  - apropiadamente
+- termino: proprietary software
+  traduccion:
+  - software de propietario
+  - software en propiedad
+- termino: provide (v)
+  traduccion:
+  - proporcionar
+  - proveer
+  - abastecer
+  - habilitar
+- termino: proxy
+  traduccion:
+  - proxy
+  - representante
+  - apoderado
+- termino: punch-in
+  traduccion:
+  - grabación mediante el método de disparo
+- termino: purge (v)
+  traduccion:
+  - purgar
+  - limpiar
+- termino: query
+  traduccion:
+  - consulta
+  - pregunta
+  - petición
+- termino: queue
+  traduccion:
+  - cola
+- termino: quit (v)
+  traduccion:
+  - renunciar
+  - abandonar
+  - finalizar
+  - acabar
+- termino: quote
+  traduccion:
+  - comilla
+  - cita (de un libro, por ejemplo)
+- termino: quote (v)
+  traduccion:
+  - citar (referir textualmente)
+- termino: quoted text
+  traduccion:
+  - texto citado
+- termino: race condition
+  traduccion:
+  - condición de carrera
+- termino: radio button
+  traduccion:
+  - botón de radio
+  - botón de opción (botón dentro de un grupo en que sólo uno puede estar pulsado a la vez)
+- termino: radiosity
+  traduccion:
+  - radiosidad
+- termino: random
+  traduccion:
+  - aleatorio
+- termino: randomizer
+  traduccion:
+  - generador de aleatoriedad
+  - selector aleatorio
+  - aleatorizador
+  - Generador de números aleatorios. sorteador 
+  - (v) sortear
+  - secuenciador aleatorio
+- termino: range
+  traduccion:
+  - margen
+  - alcance
+  - gama
+  - surtido
+  - línea
+  - intervalo
+  - variedad
+- termino: rank
+  traduccion:
+  - rango
+- termino: rate
+  traduccion:
+  - tasa
+- termino: rate (v)
+  traduccion:
+  - calificar
+  - clasificar
+- termino: rating
+  traduccion:
+  - calificación
+  - clasificación
+- termino: raw
+  traduccion:
+  - crudo
+  - virgen
+- termino: raw mode
+  traduccion:
+  - modo primitivo
+  - modo directo
+  - modo sin formato
+- termino: ray-tracing
+  traduccion:
+  - trazado de rayos
+- termino: re-spawn (v)
+  traduccion:
+  - reiniciar
+- termino: read only
+  traduccion:
+  - sólo lectura
+- termino: readme
+  traduccion:
+  - leame
+- termino: realm
+  traduccion:
+  - reino (conjunto de páginas web cubiertas con el mismo par usuario/contraseña)
+- termino: realtime
+  traduccion:
+  - en tiempo real
+  - en vivo
+- termino: reboot (v)
+  traduccion:
+  - reiniciar
+  - rearrancar
+- termino: receiver
+  traduccion:
+  - receptor
+  - destinatario
+- termino: recipient
+  traduccion:
+  - destinatario (de una carta, mensaje, etc...)
+- termino: redirect
+  traduccion:
+  - redirigir
+  - redirigir
+- termino: refresh
+  traduccion:
+  - actualizar
+- termino: refuse (v)
+  traduccion:
+  - rehusar
+  - rechazar
+- termino: regular expression
+  traduccion:
+  - expresión regular
+- termino: relay
+  traduccion:
+  - repetidor
+  - conmutador
+  - relevador
+  - relevo
+  - relé
+  - reenvío
+  - conmutación
+- termino: relay host
+  traduccion:
+  - nodo de reenvío
+  - conmutador
+- termino: release
+  traduccion:
+  - lanzamiento
+  - publicación
+  - entrega
+  - versión
+  - revisión
+- termino: release (v)
+  traduccion:
+  - lanzar
+  - publicar
+  - sacar
+- termino: rely on (v)
+  traduccion:
+  - depender de
+  - confiar en
+  - delegar en
+- termino: remailer
+  traduccion:
+  - reexpedidor
+- termino: remove (v)
+  traduccion:
+  - remover
+  - retirar
+  - quitar
+  - sacar (la traducción remover desagrada a algunos, pero otras alternativas que proponen como ``borrar'' o ``desechar'' pueden causar confusión; por ejemplo ``remove the disk'' no debe ser traducido como ``borre el disco'')
+  - extraer (se adecua al ejemplo de "remove the disk")
+- termino: rendering
+  traduccion:
+  - síntesis de imágenes
+  - renderizado
+  - representación
+- termino: reply (v)
+  traduccion:
+  - responder (al autor de un artículo o mensaje)
+- termino: repository
+  traduccion:
+  - repositorio
+- termino: request
+  traduccion:
+  - pedido
+- termino: require (v)
+  traduccion:
+  - necesitar
+  - exigir
+- termino: requirement
+  traduccion:
+  - requisito
+- termino: reset
+  traduccion:
+  - reinicio
+- termino: reset (v)
+  traduccion:
+  - reiniciar
+- termino: reset button
+  traduccion:
+  - botón de reinicio
+- termino: resolver
+  traduccion:
+  - sistema de resolución
+  - traductor de direcciones
+  - resolutor
+- termino: ripper
+  traduccion:
+  - extractor de audio
+- termino: root
+  traduccion:
+  - superusuario
+  - root
+  - directorio raíz
+- termino: root exploit
+  traduccion:
+  - explotación de root
+- termino: round trip time (RTT)
+  traduccion:
+  - Tiempo de ida y vuelta
+- termino: router
+  traduccion:
+  - encaminador
+  - enrutador
+  - definicion
+- termino: routing
+  traduccion:
+  - encaminamiento
+  - enrutamiento
+- termino: routing table
+  traduccion:
+  - tabla de rutas
+- termino: RTFM
+  traduccion:
+  - "LEJM ('Read the Fucking Manual' : 'Lee el Jodido Manual')"
+- termino: run
+  traduccion:
+  - ejecución
+- termino: run (v)
+  traduccion:
+  - ejecutar
+  - correr
+- termino: run out of memory
+  traduccion:
+  - agotar la memoria
+- termino: run time
+  traduccion:
+  - tiempo de ejecución
+- termino: runlevel
+  traduccion:
+  - nivel de ejecución (al iniciar o arrancar el sistema operativo)
+- termino: runtime library
+  traduccion:
+  - biblioteca de ejecución
+- termino: sample rate
+  traduccion:
+  - frecuencia de muestreo
+- termino: scalable
+  traduccion:
+  - redimensionable
+- termino: scanner
+  traduccion:
+  - escáner
+  - digitalizador
+- termino: scanning
+  traduccion:
+  - barrido
+  - rastreo
+- termino: schedule
+  traduccion:
+  - horario
+- termino: schedule (v)
+  traduccion:
+  - planificar
+  - programar
+- termino: scheduler
+  traduccion:
+  - planificador
+  - planificador de tareas
+- termino: scratch (from)
+  traduccion:
+  - de cero
+  - desde el principio
+- termino: screen
+  traduccion:
+  - pantalla
+- termino: screen saver
+  traduccion:
+  - salvapantallas
+  - protector de pantallas
+- termino: screenshot
+  traduccion:
+  - captura de pantalla
+- termino: script
+  traduccion:
+  - guión
+  - macro
+  - script
+  - archivo de comandos
+- termino: script kiddie
+  traduccion:
+  - aprendiz de cracker. alguien que busca romper sistemas en red con herramientas hechas por otros
+- termino: scroll
+  traduccion:
+  - desplazamiento
+  - lista
+  - rollo
+- termino: scroll (v)
+  traduccion:
+  - desplazar
+- termino: scroll down (v)
+  traduccion:
+  - avanzar
+- termino: seccion target
+  traduccion:
+  - español
+- termino: separation of concerns
+  traduccion:
+  - separación de asuntos
+- termino: server
+  traduccion:
+  - file server
+- termino: servidor espejo
+  traduccion:
+  - serveur miroir
+- termino: shell
+  traduccion:
+  - shell. Interfaz de comandos
+- termino: single-stepping
+  traduccion:
+  - seguimiento sencillo
+- termino: snippet
+  traduccion:
+  - snipett
+- termino: source
+  traduccion:
+  - re-lectura (de archivo de configuración); en la shell bash
+  - sinónimo del comando en forma corta . (punto)
+- termino: spam
+  traduccion:
+  - correo comercial no deseado (e-mail de propaganda)
+- termino: sroll up (v)
+  traduccion:
+  - retroceder
+- termino: scrollable
+  traduccion:
+  - deslizable
+- termino: search
+  traduccion:
+  - búsqueda
+- termino: search (v)
+  traduccion:
+  - buscar
+- termino: search engine
+  traduccion:
+  - buscador
+- termino: search wrapped
+  traduccion:
+  - búsqueda reiniciada desde el comienzo
+- termino: Secure Socket Layer (SSL)
+  traduccion:
+  - capa de conexión segura
+- termino: seek (v)
+  traduccion:
+  - buscar
+- termino: segmentation fault
+  traduccion:
+  - violación de segmento
+- termino: semicolon
+  traduccion:
+  - punto y coma (;)
+- termino: sender
+  traduccion:
+  - remitente
+  - Remitente (de una carta, e-mail, etc...)
+- termino: sequence
+  traduccion:
+  - secuencia
+  - sucesión
+- termino: sequencer
+  traduccion:
+  - secuenciador (hardware o software destinado a grabar y reproducir música electrónica en tiempo real usando MIDI, con edición simple de las notas)
+- termino: server
+  traduccion:
+  - servidor (de correo, noticias, HTTP, etc)
+- termino: set
+  traduccion:
+  - conjunto
+- termino: set (v)
+  traduccion:
+  - colocar
+  - definir
+  - ajustar
+  - fijar
+- termino: set up
+  traduccion:
+  - configuración
+- termino: set up (v)
+  traduccion:
+  - configurar
+- termino: setting
+  traduccion:
+  - configuración
+- termino: setup (v)
+  traduccion:
+  - configurar
+- termino: shadow passwords
+  traduccion:
+  - contraseñas ocultas
+- termino: shared memory
+  traduccion:
+  - memoria compartida
+- termino: sharpen (v)
+  traduccion:
+  - afilar
+  - mejorar la imagen (hacerla más nítida)
+- termino: shell
+  traduccion:
+  - shell (femenino)
+  - capa
+  - intérprete de comandos
+- termino: shell script
+  traduccion:
+  - archivo (fichero) de comandos
+  - script de shell
+- termino: shift
+  traduccion:
+  - desplazamiento
+- termino: shift (v)
+  traduccion:
+  - levantar
+  - desplazar
+- termino: shortcut
+  traduccion:
+  - atajo
+- termino: shorthand
+  traduccion:
+  - abreviado
+  - taquigrafía
+- termino: shrink (v)
+  traduccion:
+  - reducir
+- termino: shutdown
+  traduccion:
+  - apagar
+  - cerrar
+- termino: signature
+  traduccion:
+  - firma
+  - identificación
+- termino: silently
+  traduccion:
+  - sin aviso
+  - discretamente
+  - silenciosamente
+- termino: Simple Mail Transfer Protocol (SMTP)
+  traduccion:
+  - protocolo simple de transferencia de correo
+- termino: site
+  traduccion:
+  - sitio
+  - local
+  - instalación
+  - sede
+  - recinto
+  - conjunto de paginas relacionads entre si por ejemplo esmas.com
+  -  
+- termino: skin
+  traduccion:
+  - carátula
+- termino: skip (v)
+  traduccion:
+  - omitir
+- termino: slash
+  traduccion:
+  - barra
+- termino: slot
+  traduccion:
+  - ranura
+  - posición
+- termino: snap (v)
+  traduccion:
+  - agregar
+- termino: snapping
+  traduccion:
+  - agregado
+- termino: snapshot
+  traduccion:
+  - captura de imagen
+  - captura de pantalla
+  - pantallazo
+  - imagen instantánea
+- termino: sniffer
+  traduccion:
+  - rastreador
+  - escrutador
+- termino: snippet
+  traduccion:
+  - recorte
+  - retazo
+- termino: splashscreen
+  traduccion:
+  - pantalla de presentación
+- termino: socket
+  traduccion:
+  - socket
+  - enchufe
+  - zócalo
+  - conexión
+- termino: soft link
+  traduccion:
+  - enlace lógico
+  - enlace flexible
+- termino: software
+  traduccion:
+  - software
+  - soporte lógico
+  - lógica
+  - aplicación
+  - programa
+- termino: sort (v)
+  traduccion:
+  - ordenar
+  - clasificar
+- termino: sort of
+  traduccion:
+  - tipo de
+  - clase de
+  - más o menos
+- termino: sound effect
+  traduccion:
+  - efecto sonoro
+  - 
+- termino: source
+  traduccion:
+  - origen
+  - código fuente
+- termino: source code
+  traduccion:
+  - código fuente
+- termino: spawn (v)
+  traduccion:
+  - iniciar
+- termino: specification
+  traduccion:
+  - especificación
+- termino: specs
+  traduccion:
+  - especificaciones 
+- termino: specular highlights
+  traduccion:
+  - reflexiones especulares
+- termino: spell
+  traduccion:
+  - hechizo
+- termino: spell (v)
+  traduccion:
+  - deletrear
+- termino: spelling
+  traduccion:
+  - ortografía
+- termino: spike
+  traduccion:
+  - pico (en una gráfica)
+- termino: spin lock
+  traduccion:
+  - cerrojo
+  - spin lock
+- termino: splitter
+  traduccion:
+  - divisor
+- termino: sponsor (v)
+  traduccion:
+  - patrocinar
+- termino: spoof (v)
+  traduccion:
+  - engañar
+  - falsificar
+- termino: spool
+  traduccion:
+  - cola
+  - lista de espera
+  - cola de impresión
+- termino: spool directory
+  traduccion:
+  - directorio de la cola
+- termino: spreadsheet
+  traduccion:
+  - hoja de cálculo
+- termino: stack
+  traduccion:
+  - pila
+- termino: staff
+  traduccion:
+  - (sust.) Personal
+- termino: standard
+  traduccion:
+  - estándar
+  - patrón
+  - norma
+- termino: stat (v)
+  traduccion:
+  - verificar
+- termino: stats
+  traduccion:
+  - estadísticas
+- termino: statement
+  traduccion:
+  - declaración
+  - cláusula
+- termino: stochastic
+  traduccion:
+  - estocástico
+- termino: store
+  traduccion:
+  - almacen
+  - depósito
+- termino: stream
+  traduccion:
+  - corriente
+  - flujo
+  - secuencia (vídeo)
+- termino: stream (v)
+  traduccion:
+  - optimizar
+  - Transmitir por una corriente
+  - serializar 
+- termino: stride
+  traduccion:
+  - espaciamiento (entre elementos consecutivos de un vector)
+- termino: string
+  traduccion:
+  - cadena de caracteres
+- termino: strip (v)
+  traduccion:
+  - despojar
+  - desnudar (eliminar los símbolos de depuración en un programa o biblioteca)
+- termino: stroke
+  traduccion:
+  - golpe
+  - ataque (he died of a stroke)
+  - movimiento
+  - trazo
+- termino: stroke (v)
+  traduccion:
+  - trazar
+- termino: submit
+  traduccion:
+  - remitir
+  - enviar
+- termino: subject
+  traduccion:
+  - asunto
+- termino: subnet
+  traduccion:
+  - subrred
+- termino: subscript
+  traduccion:
+  - subíndice
+- termino: supersede (v)
+  traduccion:
+  - sustituir
+  - modificar
+- termino: support
+  traduccion:
+  - soporte (nota: soporte no es correcto castellano es un 'falso amigo')
+  - apoyo
+  - respaldo
+  - asesoría
+- termino: support (v)
+  traduccion:
+  - apoyar
+  - ayudar
+  - colaborar
+  - 
+  - permitir
+- termino: surfer
+  traduccion:
+  - navegante
+- termino: surround sound
+  traduccion:
+  - sonido envolvente
+- termino: swap
+  traduccion:
+  - intercambio
+- termino: swap (v)
+  traduccion:
+  - intercambiar
+  - swapping
+- termino: switch
+  traduccion:
+  - interruptor
+  - conmutador
+  - switch
+- termino: symbolic link
+  traduccion:
+  - enlace simbólico
+- termino: symlink
+  traduccion:
+  - enlace simbólico
+- termino: syntax highlighting
+  traduccion:
+  - resaltado de sintaxis
+- termino: system call
+  traduccion:
+  - llamada al sistema
+- termino: system logger
+  traduccion:
+  - gestor de registro de actividades del sistema
+- termino: tab
+  traduccion:
+  - pestaña
+  - lengüeta
+  - tira
+  - tabulador
+  - ficha
+- termino: tag
+  traduccion:
+  - marca
+  - coletilla
+  - etiqueta
+- termino: tarball
+  traduccion:
+  - archivo tar
+  - archivo producido por el programa tar
+- termino: target
+  traduccion:
+  - destino
+  - objetivo
+- termino: target partition
+  traduccion:
+  - partición de destino
+- termino: task
+  traduccion:
+  - tarea
+- termino: technnical support
+  traduccion:
+  - asistencia técnica
+- termino: template
+  traduccion:
+  - plantilla
+- termino: test
+  traduccion:
+  - prueba
+  - test
+- termino: test (v)
+  traduccion:
+  - evaluar
+  - probar
+- termino: texture mapping
+  traduccion:
+  - aplicación de texturas
+- termino: thread
+  traduccion:
+  - hilo (hilo de mensajes en una lista, o hilo de ejecución en un programa)
+  - hebra
+- termino: threshold
+  traduccion:
+  - umbral
+- termino: threshold level
+  traduccion:
+  - valor umbral
+- termino: throughput
+  traduccion:
+  - flujo
+  - caudal de datos
+  - rendimiento total
+  - productividad
+  - tasa de transferencia
+- termino: thumbnail
+  traduccion:
+  - miniatura
+- termino: ticket
+  traduccion:
+  - tiquete
+- termino: tile
+  traduccion:
+  - baldosa
+- termino: tile (v)
+  traduccion:
+  - embaldosar
+- termino: timeout
+  traduccion:
+  - timeout
+  - expiración de plazo
+  - tiempo de espera agotado
+- termino: timer
+  traduccion:
+  - temporizador
+- termino: timeslice
+  traduccion:
+  - porción de tiempo
+  - partición de tiempo
+- termino: timestamp
+  traduccion:
+  - marca de tiempo
+  - fecha y hora
+- termino: tiny
+  traduccion:
+  - diminuto
+- termino: tip
+  traduccion:
+  - consejo
+  - sugerencia
+- termino: toggle
+  traduccion:
+  - conmutado
+  - biestable
+- termino: toggle (v)
+  traduccion:
+  - alternar (entre dos estados)
+- termino: token
+  traduccion:
+  - símbolo
+  - lexema
+- termino: token ring
+  traduccion:
+  - anillo de fichas
+- termino: toolbar
+  traduccion:
+  - barra de herramientas
+- termino: toolkit
+  traduccion:
+  - juego de herramientas
+  - conjunto de herramientas 
+- termino: trace
+  traduccion:
+  - traza
+- termino: trace (v)
+  traduccion:
+  - trazar
+  - rastrear
+- termino: trade off
+  traduccion:
+  - contrapeso
+  - equilibrio
+  - balance
+- termino: trade off (v)
+  traduccion:
+  - contrapesar
+- termino: trailing spaces
+  traduccion:
+  - espacios finales
+- termino: transactional integrity
+  traduccion:
+  - integridad transaccional
+- termino: transport
+  traduccion:
+  - transporte
+- termino: transport (v)
+  traduccion:
+  - transportar
+- termino: tree view
+  traduccion:
+  - lista jerárquica
+- termino: trigger
+  traduccion:
+  - disparador
+- termino: troll
+  traduccion:
+  - trole
+  - metepatas
+  - bocazas
+- termino: troll (v)
+  traduccion:
+  - meter la pata
+  - reventar un debate
+- termino: troubleshooting
+  traduccion:
+  - eliminación de problemas
+  - solución de problemas
+- termino: troyanized program
+  traduccion:
+  - programa comprometido. programa modificado con código malicioso
+- termino: trusted
+  traduccion:
+  - confiable
+- termino: tune (v)
+  traduccion:
+  - afinar
+- termino: tutorial
+  traduccion:
+  - guía
+- termino: tweak
+  traduccion:
+  - arreglo
+- termino: tweak (v)
+  traduccion:
+  - afinar
+- termino: twisted pair
+  traduccion:
+  - par trenzado
+- termino: type
+  traduccion:
+  - tipo
+- termino: type (v)
+  traduccion:
+  - teclear
+- termino: typing
+  traduccion:
+  - impresión (en papel
+  - por ejemplo) 
+- termino: typo
+  traduccion:
+  - errata
+  - 
+  - error ortográfico
+- termino: undefined
+  traduccion:
+  - indefinido
+- termino: underflow
+  traduccion:
+  - desbordamiento por abajo
+- termino: Uniform Resource Locator (URL)
+  traduccion:
+  - localizador
+  - Uniform Resource Locator
+- termino: unindent
+  traduccion:
+  - desangrar (?)
+- termino: Uninterruptible Power Supply (UPS)
+  traduccion:
+  - sistema de alimentación ininterrumpida
+- termino: Universal Asynchronous Receiver and Transmiter (UART)
+  traduccion:
+  - receptor/transmisor asíncrono universal
+- termino: up
+  traduccion:
+  - operacional
+  - en funcionamiento
+- termino: update
+  traduccion:
+  - actualización
+  - de software
+- termino: update (v)
+  traduccion:
+  - actualizar
+- termino: upgrade
+  traduccion:
+  - mejora
+  - versión mejorada
+- termino: upgrade (v)
+  traduccion:
+  - promover
+  - mejorar
+  - instalar una versión mejorada
+- termino: upload
+  traduccion:
+  - subir
+  - cargar (copiar en un servidor remoto)
+- termino: upstream
+  traduccion:
+  - flujo ascendente
+- termino: upstream port
+  traduccion:
+  - puerto de envío
+- termino: upstream version
+  traduccion:
+  - versión original
+- termino: usability
+  traduccion:
+  - ergonomía
+- termino: user
+  traduccion:
+  - usuario
+  - Usuario
+- termino: user friendly
+  traduccion:
+  - fácil de usar
+- termino: utility
+  traduccion:
+  - utilidad
+  - generalmente un programa de sistema para un uso específico
+- termino: utiltity
+  traduccion:
+  - utilidad
+  - generalmente un programa de sistema para un uso específico
+- termino: validity
+  traduccion:
+  - validez
+- termino: value
+  traduccion:
+  - valor
+- termino: variation
+  traduccion:
+  - variación
+  - variante
+  - variable
+- termino: verbatim
+  traduccion:
+  - literal
+  - textual
+  - al pie de la letra
+- termino: verbose
+  traduccion:
+  - prolijo
+  - pormenorizado
+  - detallado
+  - verboso
+- termino: vertex blending
+  traduccion:
+  - combinación de vértices
+- termino: view layout
+  traduccion:
+  - vista de disposición
+- termino: viewer
+  traduccion:
+  - visor
+- termino: vulnerability scanner
+  traduccion:
+  - analizador de vulnerabilidades (generalmente el análisis será automático, pero a veces podría ser dirigido)
+- termino: wallpaper
+  traduccion:
+  - fondo
+  - mural
+  - papel tapiz
+  - fondo de pantalla
+  - fondo de escritorio
+  - imágen del fondo
+  - telón de fondo
+  - papel de empapelar
+  - imagen de fondo
+  - tapiz
+- termino: warehouse
+  traduccion:
+  - almacenamiento masivo
+- termino: warning
+  traduccion:
+  - advertencia
+  - aviso
+- termino: web
+  traduccion:
+  - "web (femenino: ``búscalo en la web'',``se encuentra en muchos sitios web'')"
+  - red
+  - trama
+  - la web
+- termina: Web Mail Folder (WMF)
+  traduccion:
+  - carpetas de correo web
+- termino: webcam
+  traduccion:
+  - cámara de videoconferencia
+- termino: weblog
+  traduccion:
+  - portal de noticias
+  - cuaderno de bitacora
+  - blog
+- termino: widget
+  traduccion:
+  - widget
+  - control
+  - componente
+- termino: wildcard
+  traduccion:
+  - comodín
+- termino: window manager
+  traduccion:
+  - gestor de ventanas
+  - administrador de ventanas
+- termino: wireless
+  traduccion:
+  - inalámbrico
+- termino: word wrap
+  traduccion:
+  - ajuste de línea
+  - encapsulamiento de palabra
+  - retorno automático de palabras
+- termino: workaround
+  traduccion:
+  - arreglo temporal
+- termino: wrap (v)
+  traduccion:
+  - encapsular
+  - forrar
+  - envolver
+- termino: wraparound
+  traduccion:
+  - envoltura
+  - envolvente
+- termino: wrapper
+  traduccion:
+  - envoltura
+  - forro
+  - empacador
+  - envoltorio
+- termino: yank (v)
+  traduccion:
+  - insertar un trozo de texto en la posición actual del cursor
+- termino: zap
+  traduccion:
+  - fulminar
+- termino: zoom in (v)
+  traduccion:
+  - acercar
+- termino: zoom-out (v)
+  traduccion:
+  - alejar
