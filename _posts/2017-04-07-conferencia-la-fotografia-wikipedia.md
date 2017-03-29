@@ -25,7 +25,6 @@ category: actividades
 
 {{page.description}}
 
-<iframe src="http://ccalm.es/2017/es/conferencia-la-fotografia-wikipedia/" width="1200" height="2000" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="http://ccalm.es/2017/es/actividades-festival/conferencia-la-fotografia-wikipedia/" width="1200" height="2000" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-Si no puedes ver el contenido vista el <a href="http://ccalm.es/2017/es/conferencia-la-fotografia-wikipedia/
-">enlace original</a>.
+Si no puedes ver el contenido vista el <a href="http://ccalm.es/2017/es/actividades-festival/conferencia-la-fotografia-wikipedia/">enlace original</a>.

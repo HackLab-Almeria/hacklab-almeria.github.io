@@ -1,7 +1,7 @@
 ---
 layout: post-jsonld
 #Datos del Evento
-title: "ccALM 2017: conferencia «Creative Commons en el mundo audiovisual»"
+title: "ccALM 2017: conferencia «introducción a Creative Commons en el mundo audiovisual»"
 description: "Primera sesión de conferencias para introducir en la teoría, práctica y actitudes del mundo de la cultura libre"
 thumbnail: ""
 #Fecha
@@ -25,6 +25,6 @@ category: actividades
 
 {{page.description}}
 
-<iframe src="http://ccalm.es/2017/es/conferencia-creative-commons-28/" width="1200" height="2000" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="http://ccalm.es/2017/es/actividades-prefestival/introduccion-las-licencias-libres-licenciar-produccion-almeria/" width="1200" height="2000" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-Si no puedes ver el contenido vista el <a href="http://ccalm.es/2017/es/conferencia-creative-commons-28/">enlace original</a>.
+Si no puedes ver el contenido vista el <a href="http://ccalm.es/2017/es/actividades-prefestival/introduccion-las-licencias-libres-licenciar-produccion-almeria/">enlace original</a>.
