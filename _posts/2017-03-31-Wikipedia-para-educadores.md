@@ -21,8 +21,6 @@ category: actividades
 </p>
 
 ### Descripción
-
-
 El taller se centra en el valor de editar en Wikipedia y cómo hacerlo: conocer la comunidad, conocer sus normas, desarrollar el placer de compartir y elaborar conocimiento, licencias, referencias, imágenes, etc. Consejos para empezar sin atascarse.
 
 En la primera parte se mostrará cómo empezar a hacer prácticas de edición en el sandbox o en la página de usuario, así como algún supuesto de microcorrecciones en artículos.
@@ -34,5 +32,4 @@ Por otro lado unas pinceladas sobre la participación en Wikipedia como recurso 
 La sesión estará dirigida por [Tomás Saorín](https://es.wikipedia.org/wiki/Usuario:Tsaorin), rofesor asociado de la Facultad de Comunicación y Documentación de la Universidad de Murcia, y documentalista.
 
 ### Material necesario
-
 Habríamos querido ofrecer acceso a Internet a todos los asistentes pero desgraciadamente en el Museo de Almería aún no disponemos de infraestructura WiFi. Si podéis disponer de vuestra conexión 3G podréis traer ordenador portátil y hacer la sesión más práctica.
