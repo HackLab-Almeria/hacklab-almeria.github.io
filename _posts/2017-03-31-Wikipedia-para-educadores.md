@@ -29,7 +29,8 @@ En la segunda parte se plantearía el enfoque en el medio educativo: Por un lado
 
 Por otro lado unas pinceladas sobre la participación en Wikipedia como recurso motivador, para implicar a los alumnos en la producción de conocimiento y enfrentarse a un trabajo real de documentar objetivamente algo: por lo general esto se plantea para el contexto universitario, por lo que reflexionaríamos sobre qué hay que tener en cuenta antes de meterse en esto en secundaria (Trabajo en grupo, guiado, proyecto de curso, etc.).
 
-La sesión estará dirigida por [Tomás Saorín](https://es.wikipedia.org/wiki/Usuario:Tsaorin), rofesor asociado de la Facultad de Comunicación y Documentación de la Universidad de Murcia, y documentalista.
+La sesión estará dirigida por [Tomás Saorín](https://es.wikipedia.org/wiki/Usuario:Tsaorin),
+profesor asociado de la Facultad de Comunicación y Documentación de la Universidad de Murcia, y documentalista.
 
 ### Material necesario
 Habríamos querido ofrecer acceso a Internet a todos los asistentes pero desgraciadamente en el Museo de Almería aún no disponemos de infraestructura WiFi. Si podéis disponer de vuestra conexión 3G podréis traer ordenador portátil y hacer la sesión más práctica.
