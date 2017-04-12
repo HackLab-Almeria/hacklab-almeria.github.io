@@ -20,7 +20,6 @@ category: actividades
 ![logo of ROS](/recursos/2017-04-14/ros_logo.jpg)
 
 
-### Descripción
 
 El investigador [Francisco Martín](https://gsyc.urjc.es/~fmartin/), miembro del [grupo de robótica](http://www.robotica.gsyc.es/) de la [URJC](https://gsyc.urjc.es/~fmartin/) aprovecha sus vacaciones en Almería para regalarnos un taller de introducción al [Robot Operating System](http://www.ros.org/) (ROS), un marco de trabajo y programación robótica de referencia mundial (ver [entrada en Wikipedia](https://es.wikipedia.org/wiki/Sistema_Operativo_Rob%C3%B3tico)). ROS Está formado por un conjunto de bibliotecas y herramientas para el desarrollo de aplicaciones para robots. Además, define una arquitectura software de desarrollo de aplicaciones, principalmente en C++ y Python.
 
