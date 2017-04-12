@@ -19,7 +19,7 @@ category: actividades
 
 ---
 
-![](/recursos/2017-03-10/cartel.jpg){: .center}
+![I Jornadas Mujeres y Tecnología](/recursos/2017-03-10/cartel.jpg){: .center}
 
 ### DESCRIPCIÓN
 Con motivo del [Día de la Mujer Trabajadora](https://es.wikipedia.org/wiki/D%C3%ADa_Internacional_de_la_Mujer), en HackLab Almería organizamos las **I Jornadas Mujeres y Tecnología Almería**.

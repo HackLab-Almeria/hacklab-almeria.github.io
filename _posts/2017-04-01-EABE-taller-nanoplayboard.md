@@ -32,7 +32,7 @@ La placa [NanoPlayBoard](http://nanoplayboard.org/) pretende ser un recurso educ
 
 El taller introducirá al potencial didáctico de este dispositivo que ha sido diseñado y creado en Almería.
 
-La sesión estará dirigida por nuestros compañeros [Antonio Morales](https://foro.hacklabalmeria.net/users/AMR) y [José Juan Sánchez](https://foro.hacklabalmeria.net/users/josejuansanche), responsables del proyecto NanoPlayBoard.
+La sesión estará dirigida por nuestros compañeros [Antonio Morales](https://foro.hacklabalmeria.net/users/AMR) y [José Juan Sánchez](https://foro.hacklabalmeria.net/users/josejuansanchez), responsables del proyecto NanoPlayBoard.
 
 ### Observación
 
