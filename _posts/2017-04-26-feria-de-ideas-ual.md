@@ -18,7 +18,7 @@ category: actividades
 
 ### DESCRIPCIÓN
 
-El 26 de abril tendrá lugar la 9ª edición de la [Feria de las Ideas][1], organizada por la [Universidad de Almería](http://www.ual.es/).
+El 26 de abril tendrá lugar la 10ª edición de la [Feria de las Ideas][1], organizada por la [Universidad de Almería](http://www.ual.es/).
 
 El evento tiene lugar en la universidad, y además del público universitario en general, se congrega un gran 
 número de gente entre emprendedores, profesionales libres, interesados, instituciones, organizaciones y empresas.
@@ -27,7 +27,7 @@ número de gente entre emprendedores, profesionales libres, interesados, institu
 
 ### PARTICIPACIÓN DE HACKLAB ALMERÍA
 
-La familia del HackLab Almería y [UNIA](http://asociacion-unia.es/) estarán presentes pues además contaremos con la presencia de la [Oficina de Software Libre (OSL UNIA)](http://asociacion-unia.es/), el [Club .Net Almería](http://www.dotnetalmeria.net/) y el [Programa Espacial Almeriense](http://programaespacialalmeriense.space/).
+La familia del HackLab Almería, junto a [UNIA](http://asociacion-unia.es/) estará presente durante esta nueva edición, abiertos para responder cualquier duda y animar a los participantes en la feria a darse a conocer y participar en Hacklab.
 
 <img src="/recursos/2016-04-27/UNIA.png"  alt="UNIA" />
 <img src="/recursos/2016-04-27/HackLabAlmeria.png" alt="HackLab Almería" />
