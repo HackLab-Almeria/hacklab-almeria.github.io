@@ -18,6 +18,11 @@ category: actividades
 
 ### DESCRIPCIÓN
 
+
+
+
+<img style="display: block; margin: auto;" src="/recursos/2017-04-26/feria-ideas-ual-2017.jpg" width="400" alt="Feria de las ideas 2017" />
+
 El 26 de abril tendrá lugar la 10ª edición de la [Feria de las Ideas][1], organizada por la [Universidad de Almería](http://www.ual.es/).
 
 El evento tiene lugar en la universidad, y además del público universitario en general, se congrega un gran 
