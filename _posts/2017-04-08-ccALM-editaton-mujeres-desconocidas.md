@@ -5,8 +5,8 @@ title: "ccALM 2017: editatón Wikipedia en español: mujeres desconocidas"
 description: "En el día internacional de la mujer organizamos de nuevo una sesión intensiva de trabajo en Wikipedia. Con la asistencia de especialistas de Wikimedia España aprenderemos las buenas prácticas enciclopédicas necesarias para escribir entradas de calidad, promoveremos la comunidad wikipedista local y nos esforzaremos en corregir la injusta falta de presencia de la mujer en la Historia"
 thumbnail: ""
 #Fecha
-startDate: 2016-04-08T10:00
-endDate: 2016-04-08T20:00
+startDate: 2017-04-08T10:00
+endDate: 2017-04-08T20:00
 #Lugar
 place: "LaOficina Cultural"
 street: "Calle de las Tiendas, 26"
