@@ -17,9 +17,8 @@ category: actividades
 ---
 
 
-{: .pull-right}
-![Wikipedistas de Almería](/recursos/wikiproyecto-almeria.png)
 
+[![Wikipedistas de Almería](/recursos/wikiproyecto-almeria.png)](https://es.wikipedia.org/wiki/Wikiproyecto:Almer%C3%ADa){: .pull-right width="200px"}
 
 El [Wikiproyecto:Almería](https://es.wikipedia.org/wiki/Wikiproyecto:Almer%C3%ADa) nace para «crear, mejorar y organizar todos los artículos relacionados con la provincia de Almería, en España, prestando especial atención a los más representativos, como las localidades, los monumentos y las personalidades de Almería.»
 
@@ -29,6 +28,12 @@ Queremos iniciar una serie de encuentros regulares de amantes de [Wikipedia](htt
 La participación no es necesariamente presencial. De hecho esperamos poder contar con nuestro wikipedista almeriense de referencia, [Schumi](https://es.wikipedia.org/wiki/Usuario:Schumi4ever), aunque ahora viva fuera de España.
 
 La sesión será dirigida por [Ismael Olea](https://es.wikipedia.org/wiki/Usuario:Olea).
+
+
+Como tantas otras, es una actividad para cultivar el patrimonio digital almeriense [#ccALM](http://ccALM.es).
+
+[![ccALM](/recursos/ccALM-400px.png)](http://ccALM.es){: .pull-right width="200px"}
+
 
 ### Requisitos
 
