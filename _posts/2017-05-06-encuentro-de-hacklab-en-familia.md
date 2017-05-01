@@ -1,5 +1,5 @@
 ---
-layout: post-jsonld-varios-dias
+layout: post-jsonld
 #Datos del Evento
 title: "Hacklab en familia: Mi primer videojuego con Scratch"
 description: "En esta actividad nos centraremos en Scratch, una aplicación con un atractivo entorno gráfico para introducirse en el mundo de la programación desde cero"
