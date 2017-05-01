@@ -15,14 +15,6 @@ postalCode: "04005"
 map: http://osm.org/go/b7g0ECVRn--?m=&way=89344552
 category: actividades
 ---
-#Redes sociales. Máximo 90 carácteres para el texto
-social:
-  - time: 2016-05-02T19:00
-    text: "¿Conoces Scratch? El 6 de mayo tenemos una actividad en familia en HackLab Almería"
-  - time: 2016-05-03T18:00
-    text: "Te invitamos al #Taller de iniciación a #Scratch. Inscríbete a la actividad en familia"
-
----
 
 ### DESCRIPCIÓN
 
@@ -40,13 +32,14 @@ Es una actividad dirigida a niños y niñas entre 8 a 12 años, y está enfocada
 
 Para participar no se necesita tener conocimientos previos de programación. Solo tienes que venir con un adulto (mamá, papá, abuelo...), traer un portátil e inscribirte, la plazas son limitadas.
 
+<div style="width:100%; text-align:left;"><iframe src="//eventbrite.es/tickets-external?eid=34191973112&ref=etckt" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.es/">Con tecnología de Eventbrite</a></div></div>
 
 ### PROGRAMA
 
- * 11:30-11:45 Presentaciones de los asistentes
- * 11:45-12:00 ¿Qué es Scratch y la comunidad?
- * 12:00-13:15 Primeros pasos de Scratch para crear un videojuego.
- * 13:15-13:30 Preguntas de los asistentes
+ | 11:30-11:45 | Presentaciones de los asistentes. |
+ | 11:45-12:00 | ¿Qué es Scratch y la comunidad? |
+ | 12:00-13:15 | Primeros pasos de Scratch para crear un videojuego. |
+ | 13:15-13:30 | Preguntas de los asistentes. |
 
 ### DESPUÉS DEL EVENTO
 
