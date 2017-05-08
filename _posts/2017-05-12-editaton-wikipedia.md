@@ -34,7 +34,8 @@ El [Wikiproyecto:Almería](https://es.wikipedia.org/wiki/Wikiproyecto:Almer%C3%A
 
 Queremos iniciar una serie de encuentros regulares de amantes de [Wikipedia](https://es.wikipedia.org) en el que usamos como excusa trabajar en el Wikiproyecto:Almería pero que realmente no se restringe a contenidos solamente relacionados con la provincia. Así que nos ponemos a la obra.
 
-La participación no es necesariamente presencial y como apoyo usaremos un salón de charla (irc://irc.freenode.net/wikipedia-es) al que se puede [acceder vía web](https://kiwiirc.com/client/irc.freenode.net/wikipedia-es).
+La participación no es necesariamente presencial y como apoyo usaremos un salón de charla (irc://irc.freenode.net/wikipedia-es) al que se puede [acceder vía web](https://kiwiirc.com/client/irc.freenode.net/wikipedia-es)
+y una [página en Wikipedia para el seguimiento de la actividad](https://es.wikipedia.org/wiki/Wikipedia:Encuentros/Editat%C3%B3n_Wikiproyecto_Almer%C3%ADa). 
 
 
 La sesión será dirigida por [Ismael Olea](https://es.wikipedia.org/wiki/Usuario:Olea).
