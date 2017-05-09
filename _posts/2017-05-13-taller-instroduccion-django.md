@@ -3,31 +3,31 @@ layout: post-jsonld
 #Datos del Evento
 title: "Taller de introducción a Django"
 description: "Taller para conocer los fundamentos básicos de Django"
-thumbnail: "/recursos/2017-05-13/pony_magico.jpg"
 #Fecha
 startDate: 2017-05-13T10:00
 endDate: 2017-05-13T13:30
 #Lugar
-place: "¿?"
-street: "¿?"
+place: "AAVV San Antonio, Ciudad Jardín"
+street: "Avenida Cabo de Gata, 63 Bajo"
 locality: "Almería"
-postalCode: "¿?"
-map: http://maps.google.com
+postalCode: "04007"
+map: https://www.google.es/maps/place/Asociaci%C3%B3n+de+Vecinos+San+Antonio+de+Ciudad+Jard%C3%ADn/@36.8308795,-2.4569515,17z/data=!3m1!4b1!4m5!3m4!1s0xd7a9df0b835fe2b:0xd030043efd14eaf0!8m2!3d36.8308795!4d-2.4547575
 category: actividades
 #Redes sociales. Máximo 90 carácteres para el texto
-social:
-  - time: 2016-02-18T18:00
-    text: "Texto 1"
-  - time: 2016-02-14T19:00
-    text: "Texto 2"	
-  - time: 2016-02-01T19:00
-    text: "Texto 3"
+social:	
+  - time: 2017-05-11T18:00
+    text: "Planazo para el sábado por la mañana: Taller de introducción a Django"
+  - time: 2017-05-12T18:00
+    text: "No te acuestes muy tarde esta noche que mañana te esperamos en el Taller de Django"
 ---
 
+<p align="center">
+  <img src="/recursos/logo-club-python.png" alt="Club Python Logo" width="220px" />
+  <img src="/recursos/2017-05-13/pony_magico.jpg" alt="Pony mágico" width="500px" />
+</p>
+
+
 ### DESCRIPCIÓN
-
-![Pony mágico](/recursos/2017-05-13/pony_magico.jpg){: .pull-right width="400px"}
-
 El taller consiste en:
 
 - Preparar entorno de desarrollo
@@ -55,7 +55,7 @@ Opcional:
 
 **Conocimientos previos**
 
-- Estaría bien que sepas programación orientada a objetos. 
+- Estaría bien que sepas algo de programación orientada a objetos. 
 - Si además sabes un poco de python será pan comido.
 - Nociones básicas de HTML y muy básicas de CSS.
 
