@@ -14,6 +14,7 @@ locality: "Almería"
 postalCode: "04008"
 map: https://www.google.com/maps/place/I.E.S.+Al-Ándalus/
 category: actividades
+---
 
 ### DESCRIPCIÓN
 
@@ -32,7 +33,7 @@ Utilizaremos el horno para soldar unos paneles de [NanoPlayBoard](http://nanopla
 Además, quien lo desee puede acabar de soldar los kits de de la compra conjunta que realizamos el pasado mes de Octubre, llevarse cualquier cosa que este soldando y quiera comentar con los compañeros o simplemente pasarte y aprender viendo como realizar las soldaduras.
 
 ¿No sabes soldar y quieres aprender? Ven.
-¿Eres un/una Ás de la soldadura y no hay componente que se te resista? Ven y ayuda al que menos sepa.
+¿Eres un/una as de la soldadura y no hay componente que se te resista? Ven y ayuda al que menos sepa.
 ¿Ya haces tus pinitos y quieres mejorar? Sin duda, ven.
 
 ---
@@ -45,8 +46,6 @@ Además, quien lo desee puede acabar de soldar los kits de de la compra conjunta
 | 20:30-21:00 	| Presentación de Proyectos, novedades y otros |
 
 ---
-
-
 
 ### DESPUÉS DEL EVENTO
 
