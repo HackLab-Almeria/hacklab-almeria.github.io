@@ -16,6 +16,10 @@ map: https://www.google.com/maps/place/I.E.S.+Al-Ándalus/
 category: actividades
 ---
 
+<p align="center">
+  <img src="/recursos/2017-05-18/nanoplayboard.png" alt="NanoPlayBoard" />
+</p>
+
 ### DESCRIPCIÓN
 
 Taller sobre el Hardware Libre dónde podremos encontrar charlas, explicaciones y propuestas de proyectos para realizar de forma conjunta.
@@ -26,11 +30,11 @@ Destinado a todo aquel interesado en las nuevas tecnologías y no solo a los"gur
 
 ### ¿DE QUÉ HABLAREMOS?
 
-El horno T-962 es un horno para la soldadura de componentes SMD mediante la técnica de reflow. Debido a su bajo precio, en comparación con soluciones profesionales, se ha hecho un enorme hueco entre el mundo maker y start-up. Además, la proliferación de estos hornos ha dado lugas a que surjan multitud de [modificaciones](https://github.com/UnifiedEngineering/T-962-improvements/wiki) que van desde mejoras en el hardware, hasta el propio firmware. 
+El horno T-962 es un horno para la soldadura de componentes SMD mediante la técnica de reflow. Debido a su bajo precio, en comparación con soluciones profesionales, se ha hecho un enorme hueco entre el mundo maker y start-up. Además, la proliferación de estos hornos ha dado lugar a que surjan multitud de [modificaciones](https://github.com/UnifiedEngineering/T-962-improvements/wiki) que van desde mejoras en el hardware, hasta el propio firmware. 
 
 Utilizaremos el horno para soldar unos paneles de [NanoPlayBoard](http://nanoplayboard.org/)  sobre los que aplicaremos pasta y colocaremos los componentes manualmente.
 
-Además, quien lo desee puede acabar de soldar los kits de de la compra conjunta que realizamos el pasado mes de Octubre, llevarse cualquier cosa que este soldando y quiera comentar con los compañeros o simplemente pasarte y aprender viendo como realizar las soldaduras.
+Además, quien lo desee puede acabar de soldar los kits de de la compra conjunta que realizamos el pasado mes de Octubre, llevarse cualquier cosa que esté soldando y quiera comentar con los compañeros o simplemente pasarte y aprender viendo como realizar las soldaduras.
 
 ¿No sabes soldar y quieres aprender? Ven.
 ¿Eres un/una as de la soldadura y no hay componente que se te resista? Ven y ayuda al que menos sepa.
