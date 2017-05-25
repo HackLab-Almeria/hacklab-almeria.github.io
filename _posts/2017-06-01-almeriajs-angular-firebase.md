@@ -17,7 +17,7 @@ category: actividades
 social:	
   - time: 2017-05-26T12:00
     text: "Nace @AlmeriaJS. El próximo jueves inauguramos con charla sobre Angular y Firebase!"
-  - time: 2017-05-26T12:00
+  - time: 2017-05-29T12:00
     text: "jQué...? Este jueves @raprav lleva el data-binding a la nube con Angular y Firebase"
   - time: 2017-05-31T12:00
     text: "Mañana es el primer meetup de @AlmeriaJS. 1/3 Angular, 1/3 Firebase y 1/3 Beers!"
