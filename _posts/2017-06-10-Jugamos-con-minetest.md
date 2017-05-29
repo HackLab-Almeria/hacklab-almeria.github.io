@@ -1,14 +1,15 @@
 ﻿---
+
 layout: post-jsonld
 #Datos del Evento
 title: "Minetest, un Minecraft diferente"
 description: "Pasr un buen rato jugando con Minetest"
-thumbnail: "/recursos/2017-05-26/jamtoday_almeria.png"
+thumbnail: "/recursos/2017-06-10/Minetest/Minetest-logo.png"
 #Fecha
 startDate: 2017-06-10T18:30
 endDate: 2017-06-10T20:00
 #Lugar
-place: "A.VV. San Antonio/ Ciudad Jardín"
+place: "A.VV. San Antonio/ Ciudad Jardin"
 street: "Avda. Cabo de Gata"
 locality: "Almería"
 postalCode: "04007"
