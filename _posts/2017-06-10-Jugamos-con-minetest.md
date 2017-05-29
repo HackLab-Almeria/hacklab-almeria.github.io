@@ -1,5 +1,5 @@
 ﻿---
-layout: post-jsonld-varios-dias
+layout: post-jsonld
 #Datos del Evento
 title: "Minetest, un Minecraft diferente"
 description: "Pasr un buen rato jugando con Minetest"
