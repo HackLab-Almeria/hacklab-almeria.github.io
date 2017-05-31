@@ -6,8 +6,8 @@ title: "Tu ordenador libre de virus"
 description: "Charla de seguridad informatica fácil"
 thumbnail: ""
 #Fecha
-startDate: 2017-06-10T10:30
-endDate: 2017-06-10T12:00
+startDate: 2017-06-10T11:30
+endDate: 2017-06-10T1:00
 #Lugar
 place: "A.VV. San Antonio/ Ciudad Jardin"
 street: "Avda. Cabo de Gata, 63"
@@ -29,13 +29,6 @@ También se explicará que es Linux y como nos puede ayudar a mantener nuestro o
 
 ---
 
-### PROGRAMA
-
-Charla
----
-### MATERIAL NECESARIO
-
-Ninguno
 
 ### ORGANIZA
 
