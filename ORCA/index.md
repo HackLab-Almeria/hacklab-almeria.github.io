@@ -15,11 +15,15 @@ Las traducciones que se presentan en este glosario son las que han sido aceptada
 Los verbos son indicados por una v entre paréntesis. Los adjetivos son traducidos en la forma masculina y en los substantivos se indica su género cuando no es obvio. Cuando una palabra tiene varios significados, estos aparecen numerados; y si la traducción al español tiene varios significados, se explica entre paréntesis a cual de ellos se refiere. Hay palabras para las cuales el consenso general es que no deben ser traducidas; en esos casos aparece como traducción la misma palabra en inglés, seguida de una posible traducción para los casos en que sea necesario traducirla. 
 La principal fuente para este glosario ha sido la comunidad hispano-parlante que desarrolla y usa software libre, participando directamente en la edición del glosario a través de su interfaz web http://quark.fe.up.pt/orca, o indirectamente a través de sus discusiones en las listas de correo sobre el tema. La lista de colaboradores aparece en un apéndice y en el archivo ``colaboradores''; las listas de correo y publicaciones usadas se indican en la bibliografía y en el archivo ``fuentes''. 
 
+
 # Glosario
 
+{% comment %}
+La letra X no tiene formato de enlace porque aún no hay ningún término con X en el glosario y eso provoca este error en Travis
+"linking to internal hash #X that does not exist"
+{% endcomment %}
 [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [Bibliografía](#Bibliografía) |
-[N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z) | [Colaboradores](#Colaboradores) |
-
+[N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | X | [Y](#Y) | [Z](#Z) | [Colaboradores](#Colaboradores) |
 
 {% assign myVar = '-' %}
 {% for iteradorTerminos in site.data.ORCA.glosario %}
