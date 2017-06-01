@@ -3,7 +3,7 @@ layout: default
 title: Herramientas de ayuda para los traductores y productores de software libre en español 
 ---
 
-(Versión 3.0, 24 de marzo de 2017)
+(Versión 3.01, 1 de junio de 2017)
 
 Adaptación a [gh-pages](https://pages.github.com/) del material original disponible en http://es.tldp.org/ORCA/glosario.html con copyright © Jaime Villate, 2000. Este documento es libre. Puede copiarlo, distribuirlo y/o modificarlo bajo los términos de la Licencia GNU Para Documentación Libre, versión 1.1 o cualquier versión posterior publicada por la Free Software Foundation. 
 
@@ -47,5 +47,9 @@ La principal fuente para este glosario ha sido la comunidad hispano-parlante que
 (ir al [índice](#glosario))
 
 {% for iterador in site.data.ORCA.colaboradores %}
-* [{{ iterador.nombre }}](mailto:{{ iterador.email}})
+{% if iterador.email %}
+* [{{ iterador.nombre }}](mailto:{{ iterador.email}}) - {{ iterador.misc }}
+{% else %}
+* {{ iterador.nombre }} - {{ iterador.misc }}
+{% endif %}
 {% endfor %}
