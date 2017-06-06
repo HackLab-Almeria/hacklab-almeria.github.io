@@ -1,0 +1,61 @@
+---
+layout: post-jsonld
+#Datos del Evento
+title: "Hungry, juego de cartas para aprender a comer equilibrado"
+description: "Vamos a pasar un buen rato jugando con Minetest"
+thumbnail:"http://hacklabalmeria.net/recursos/2017-06-10/hungry/logo.png"
+#Fecha
+startDate: 2017-06-10T18:30
+endDate: 2017-06-10T20:00
+#Lugar
+place: "A.VV. San Antonio/ Ciudad Jardín"
+street: "Avda. Cabo de Gata, 63"
+locality: "Almería"
+postalCode: "04007"
+map: http://bit.ly/2scClil
+category: actividades
+social:
+   - text: "¿Conoces Hungry? El juego de cartas que te enseña como 5 estudiantes compartiendo piso pueden comer bien"
+     time: "2017-06-07T18:30"
+   - text: "¿Conoces Hungry? Es el juego que ganó la categoría de juegos de mesa en la JamToday!"
+     time: "2017-06-07T08:30"
+   - text: "¡Aprende a jugar a Hungry este sábado! https://youtu.be/wG55ttg9k-M"
+     time: "2017-06-08T11:30"
+   - text: "Este sábado te enseñamos a comer bien de forma divertida con HUNGRY"
+     time: "2017-06-09T14:30"
+---
+
+<p align="center">
+  <img width="300" src="/recursos/2017-06-10/hungry/cartel.png" alt="Cartel Hungry" />
+</p>
+
+
+### DESCRIPCIÓN
+
+**Hungry** es el juego ganador de la Jam Today 2017 en la categoría de _juegos de mesa_. En este juego cartas nos podremos
+en el lugar de uno de los cincos amigos que comparten piso y deben mantener una dieta equilibrada.
+
+El juego cuenta con distintas cartas de alimento, eventos y acciones que los jugadores deberán combinar
+de la mejor forma posible.
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wG55ttg9k-M" frameborder="0" allowfullscreen></iframe>
+
+
+---
+
+### PROGRAMA
+
+
+Realizaremos varias partidas de demostración, explicaremos como se desarrolló el juego y nuestros planes de futuro
+con el juego.
+
+
+---
+
+### ORGANIZA
+
+* [HackLab Almería](http://hacklabalmeria.net)
+* A.VV. San Antonio/Ciudad Jardín
+* Equipo Cazcaleador
