@@ -64,6 +64,7 @@ AlmeríaJS está en [Meetup](https://www.meetup.com/es-ES/almeriajs/)! Apúntate
 ---
 
 ### PROGRAMA
+
 | 19:15-20:30 | Charla _Ionic2 y Firebase + Facebook Auth_ |
 | 20:30-XX:XX | Networking 🍻 |
 
