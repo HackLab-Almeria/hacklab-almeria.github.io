@@ -18,7 +18,7 @@ social:
   - text: "Volvemos a juntarnos para wikipediar el próximo viernes 12"
     time: "2016-05-09T10:00"
   - text: "Seguimos trabajando para animar el colectivo wikipedista en Almería, apúntate al viernes 12"
-    time: "2016-05-109T17:00"
+    time: "2016-05-10T17:00"
   - text: "El @ccalm_festival es permanente. También cultivamos los procomunes con #Wikipedia"
     time: "2016-05-11T09:30"
   - text: "Esta tarde nos juntamos en @laoficinalmeria para trabajar en #Wikipedia"
