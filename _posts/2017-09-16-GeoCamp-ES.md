@@ -36,7 +36,7 @@ social:
   - text: "Y @GeoinquietosALM convoca a Almería a las gentes de @Geoinquietos, @OSGeo y @OpenStreetMapES"
     time: "2017-08-30T17:00"
   - text: "¡Qué suerte que @UAL_estudiantes patrocine y haga posible GeoCamp ES 2017!"
-    time: "2017-09-01T11:00"    
+    time: "2017-09-01T11:00"
   - text: "Ninguna web sin un mapa. Y si no sabe pregúntenos cómo en el GeoCamp ES 2017"
     time: "2017-09-04T10:00"
   - text: "Ninguna web sin un mapa. Y si no sabe pregúntenos cómo en el GeoCamp ES 2017"
@@ -58,6 +58,6 @@ En Almería nos organizamos a través del [foro del HackLab Almería](https://fo
 
 Y en 2017 los hemos engañado para que vengan a Almería :-)
 
-La página principal del evento es: http://2017.geocamp.es/
+La página principal del evento es: [http://2017.geocamp.es/](http://2017.geocamp.es/)
 
 <iframe src="http://2017.geocamp.es/" width="1000" height="2000" frameborder="0" style="border:0" allowfullscreen></iframe>
