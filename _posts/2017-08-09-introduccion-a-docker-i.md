@@ -6,7 +6,7 @@ title: "Una introducción a Docker en cuatro horas (primera parte)"
 startDate: 2017-08-09T18:00
 endDate: 2017-08-09T20:00
 #Lugar
-place: "Workspace Almeria"
+place: "Workspace Almería"
 street: "Plaza de la Administración Vieja, 1"
 locality: "Almería"
 postalCode: "04003"
@@ -27,15 +27,15 @@ social:
 </p>
 
 ### DESCRIPCIÓN DE LA CHARLA
-[Docker](https://docker.com/) es el gestor de contenedores del que todo el mundo habla, desde hace tres años. Ha alcanzado un nivel de madurez y estabilidad que le ha permitido formar parte de la revolución de la distribución de aplicaciones, gracias a su capacidad de adaptación a múltiples entornos. Desde el flujo de desarrollo al escalado horizontal en entornos cloud. 
+[Docker](https://docker.com/) es el gestor de contenedores del que todo el mundo habla desde hace tres años. Ha alcanzado un nivel de madurez y estabilidad que le ha permitido formar parte de la revolución de la distribución de aplicaciones, gracias a su capacidad de adaptación a múltiples entornos. Desde el flujo de desarrollo al escalado horizontal en entornos cloud. 
 
 Iremos viendo paso a paso todo lo que necesitas para poner en marcha un entorno local, usar imágenes de terceros, preparar tus propias imágenes, y lanzar cargas de trabajo en local y en remoto.
 
-Es necesario traer portatil.
+Es necesario traer portátil.
 
 ---
 
-### EL PONENTE
+### Dirige la sesión
 <p align="center">
   <img src="https://avatars0.githubusercontent.com/u/17824947?v=3&s=100" alt="Pedro Silva" width="100px"/>
 </p>
@@ -47,6 +47,7 @@ SysAdmin, usuario de GNU/Linux, desde hace más de 20 años, empeñado en la aut
 ---
 
 ### PROGRAMA
+
 | 18:00-20:00 | Docker |
 | 20:00-XX:XX | Networking 🍻 |
 
