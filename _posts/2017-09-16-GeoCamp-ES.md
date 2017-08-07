@@ -28,7 +28,7 @@ social:
   - text: "La vida está muy mala, pero al menos con los @Geoinquietos se hacen cosas increíbles con los mapas"
     time: "2017-08-15T17:00"
   - text: "La vida está muy mala, pero al menos con los @Geoinquietos se hacen cosas increíbles con los mapas"
-    time: "2017-08-185T10:00"
+    time: "2017-08-18T10:00"
   - text: "Aunque estemos de feria en Almería no dejes de apuntarte al GeoCamp ES 2017 de septiembre ;-)"
     time: "2017-08-22T17:00"
   - text: "Aunque estemos de feria en Almería no dejes de apuntarte al GeoCamp ES 2017 de septiembre ;-)"
