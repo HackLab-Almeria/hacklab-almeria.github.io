@@ -54,10 +54,13 @@ social:
 
 La [comunidad Geoinquietos](https://geoinquietosmadrid.github.io/geoinquietos-y-osgeoes/#/) siente especial afinidad por la enorme panoplia de servicios de [geodatos abiertos](http://www.construmatica.com/construpedia/Geodatos_Libres) disponibles en Internet como los servicios  [INSPIRE](https://en.wikipedia.org/wiki/Infrastructure_for_Spatial_Information_in_the_European_Community), proyectos comunitarios como [OpenStreetMap](https://www.openstreetmap.org/) y la enorme oferta de software libre de calidad profesional usada mundialmente en toda clase de servicios y aplicaciones SIG, especialmente alrededor de la comunidad [OSGeo](https://osgeo.org/). Pero también está abierta a profesionales de geomática que trabajan con software propietario pero gustan de compartir conocimientos y aprender en grupo.
 
-En Almería nos organizamos a través del [foro del HackLab Almería](https://foro.hacklabalmeria.net/c/geoinquietosalm).
-
 Y en 2017 los hemos engañado para que vengan a Almería :-)
 
-La página principal del evento es: [http://2017.geocamp.es/](http://2017.geocamp.es/)
+En Almería nos organizamos a través del [foro del HackLab Almería](https://foro.hacklabalmeria.net/c/geoinquietosalm).
+
+También puedes incorporarte  al [grupo GeoCamp ES 2017 en Telegram](https://t.me/joinchat/AFGSKQsWzLbEi6_ixXHzMw).
+
+
+La página principal del evento es  [http://2017.geocamp.es/](http://2017.geocamp.es/) y por favor no dejes de [inscribirte](https://www.eventbrite.es/e/entradas-geocamp-2017-34316616925?ref=ebtn).
 
 <iframe src="http://2017.geocamp.es/" width="1000" height="2000" frameborder="0" style="border:0" allowfullscreen></iframe>
