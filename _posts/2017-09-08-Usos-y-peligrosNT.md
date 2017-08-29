@@ -1,9 +1,8 @@
 ---
 layout: post-jsonld
 #Datos del Evento
-title: "Uso y peligros de Nuevas Tecnologías y Redes Sociales"
-description: "Uso de Smartphone y Tecnologías en la infancia. Privacidad y Redes Sociales. Actuación en casos de Ciberacoso"
-thumbnail:
+title: "Uso y peligros de nuevas tecnologías y redes sociales"
+description: "Uso del smartphone y tecnologías en la infancia:  privacidad y redes sociales y actuación en casos de ciberacoso"
 #Fecha
 startDate: 2017-09-08T18:30
 endDate: 2017-09-08T20:00
@@ -27,16 +26,16 @@ social:
     time: "2017-09-02T11:00"
   - text: "Actuación en casos de Ciberacoso. ¿Te interesa?"
     time: "2017-09-03T11:00"
-
   - text: "Charla: Uso y peligros de Nuevas Tecnologías y Redes Sociales. 8 Sep 2017 AVV San Antonio"
     time: "2017-09-06T11:00"
   - text: "Charla: Uso y peligros de Nuevas Tecnologías y Redes Sociales. Mañana a las 18:30 AVV San Antonio"
     time: "2017-09-07T11:00"
   - text: "Charla: Uso y peligros de Nuevas Tecnologías y Redes Sociales. Hoy a las 18:30 AVV San Antonio"
     time: "2017-09-08T11:00"
-   - text: "Charla: Uso y peligros de Nuevas Tecnologías y Redes Sociales. Dentro de dos horas AVV San Antonio"
+  - text: "Charla: Uso y peligros de Nuevas Tecnologías y Redes Sociales. Dentro de dos horas AVV San Antonio"
     time: "2017-09-08T16:30"
 ---
+
 
 <p align="center">
   <img width="300" src="/recursos/2017-09-08/AAVV/redes-logo.jpg" alt="Uso y peligros RRSS" />
@@ -53,9 +52,9 @@ Impartirá el curso: Dña María Díez Simón (Psicóloga)
 
 ### PROGRAMA
 
-* Uso de Smartphone y Tecnologías en la infancia. 
-* Privacidad y Redes Sociales. 
-* Actuación en casos de Ciberacoso
+* Uso del smartphone y otras tecnologías en la infancia. 
+* Privacidad y redes sociales. 
+* Actuación en casos de ciberacoso
 
 ---
 
