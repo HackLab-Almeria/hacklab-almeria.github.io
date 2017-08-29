@@ -5,7 +5,7 @@ title: "GeoCamp ES 2017 en Almería"
 description: "GeoCamp ES es el congreso nacional del colectivo internacional Geoinquietos, grupos informales que se reúnen para conversar y aprender sobre cualquier tema relacionado con las ciencias de la tierra."
 thumbnail: ""
 #Fecha
-startDate: 2017-09-16-15T09:30
+startDate: 2017-09-16T09:30
 endDate: 2016-02-20T18:30
 #Lugar
 place: "Universidad de Almería: sala bioclimática"
