@@ -28,6 +28,8 @@ fiesta en Chester Café el 13 de Septiembre a las 21h00.
 Durante la noche se tratarán sobretodo temas relacionados con las novedades que trae esta nueva versión, así como algo de historia de GNOME, ya que, como algunos
 sabréis, este año se celebra el 20 aniversario de GNOME.
 
+¡Y repartiremos pegatinas!
+
 Más información [Wiki GNOME](https://wiki.gnome.org/Events/ReleaseParties/ThreePointTwentysix)
 
 ---
