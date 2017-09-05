@@ -35,6 +35,7 @@ Taller guiado de introducción al uso del sistema de control de versiones Git y 
 
 
 Contenido:
+
 - Sistemas de cotrol de versiones. ¿Qué son y porqué deberías usarlos?
 - Versionando archivos en Git. ¿Dónde están mis archivos?
 - Uso de básico de ramas en Git. 
