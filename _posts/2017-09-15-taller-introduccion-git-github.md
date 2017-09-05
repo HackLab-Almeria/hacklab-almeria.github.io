@@ -28,11 +28,7 @@ social:
 
 ---
 
-<p align="center">
-  <img src="/recursos/2017-09-15/git_logo.png" alt="Logo Git" />
-  <img src="/recursos/2017-09-15/github_logo.png" alt="Logo GitHub" />
-</p>
-
+![Logotipo de Git](/recursos/2017-09-15/git_logo.png){: .pull-right width="200px"}
 
 ### DESCRIPCIÓN
 Taller guiado de introducción al uso del sistema de control de versiones Git y los repositorios alojados en GitHub
@@ -46,9 +42,12 @@ Contenido:
 - Utilizando repositorios remotos. GitHub
 - Colaborando en proyectos ajenos. 
 
+
 **¿Qué vas a necesitar?**
 
-Tu propio portatil.
+Tu propio portátil.
+
+![Logotipo de Github](/recursos/2017-09-15/github_logo.png){: .pull-right width="400px"}
 
 
 **¿Qué tienes que instalar?**
@@ -60,7 +59,7 @@ Si tienes problemas con alguno de estos pasos, no te preocupes que dedicaremos u
 
 **Conocimientos prévios**
 
-- Uso básico de la consola de comandos o en su defecto no tener miedo a utilizarla.
+- Uso básico de la línea de órdenes y perder el miedo a utilizarla.
 
 ---
 
