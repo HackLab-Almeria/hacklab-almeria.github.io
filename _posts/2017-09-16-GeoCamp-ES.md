@@ -49,6 +49,9 @@ social:
     time: "2017-09-12T17:00"
 ---
 
+![cartel GeoCampES 2017](/recursos/2017-09-16/GeoCampES-2017.png){:width="400px" .center }
+
+
 ### Descripción
 
 
