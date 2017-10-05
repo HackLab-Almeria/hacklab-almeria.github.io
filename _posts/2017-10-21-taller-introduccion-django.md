@@ -68,6 +68,12 @@ Opcional:
 - Si además sabes un poco de python será pan comido.
 - Nociones básicas de HTML y muy básicas de CSS.
 
+**¿Por que lleva el logo "Camino a la Guadec"**
+
+- Porque Python es un lenguaje muy utilizado en la comunidad de Gnome
+- Porque la comunidad de Gnome utiliza Django en muchas páginas del proyecto
+- [Dammned lies](https://l10n.gnome.org), utilidad para la gestión de localizaciones (traducciones), es un ejemplo
+
 ---
 
 ### ¿DE QUÉ HABLAREMOS?
