@@ -25,7 +25,7 @@ social:
     text: "Planazo para el sábado por la mañana: Taller de introducción a Django"
   - time: 2017-10-20T18:00
     text: "No te acuestes muy tarde esta noche que mañana te esperamos en el Taller de Django"
-  - time: 2017-10-21T9:00
+  - time: 2017-10-21T09:00
     text: "Levanta. En una hora empezamos el taller de introducción a Django"
 ---
 
