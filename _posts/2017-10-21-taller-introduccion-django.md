@@ -11,22 +11,23 @@ place: "AAVV San Antonio, Ciudad Jardín"
 street: "Avenida Cabo de Gata, 63 Bajo"
 locality: "Almería"
 postalCode: "04007"
-map: https://www.google.es/maps/place/Asociaci%C3%B3n+de+Vecinos+San+Antonio+de+Ciudad+Jard%C3%ADn/@36.8308795,-2.4569515,17z/data=!3m1!4b1!4m5!3m4!1s0xd7a9df0b835fe2b:0xd030043efd14eaf0!8m2!3d36.8308795!4d-2.4547575
+map: https://www.openstreetmap.org/node/4807429539
 category: actividades
 #Redes sociales. Máximo 90 carácteres para el texto
 social:	
- - time: 2017-10-16T19:00
-    text: "EL sábado comenzamos el camino a la Guadec: Taller de introducción a Django"
-  - time: 2017-10-17T19:00
-    text: "Planazo para el sábado por la mañana: Taller de introducción a Django"
-  - time: 2017-10-18T19:00
-    text: "EL sábado comenzamos el camino a la Guadec: Taller de introducción a Django"
-  - time: 2017-10-19T18:00
-    text: "Planazo para el sábado por la mañana: Taller de introducción a Django"
-  - time: 2017-10-20T18:00
-    text: "No te acuestes muy tarde esta noche que mañana te esperamos en el Taller de Django"
-  - time: 2017-10-21T09:00
-    text: "Levanta. En una hora empezamos el taller de introducción a Django"
+- time: 2017-10-16T19:00
+  text: "EL sábado comenzamos el camino a la Guadec: Taller de introducción a Django"
+- time: 2017-10-17T19:00
+  text: "Planazo para el sábado por la mañana: Taller de introducción a Django"
+- time: 2017-10-18T19:00
+  text: "EL sábado comenzamos el camino a la Guadec: Taller de introducción a Django"
+- time: 2017-10-19T18:00
+  text: "Planazo para el sábado por la mañana: Taller de introducción a Django"
+- time: 2017-10-20T18:00
+  text: "No te acuestes muy tarde esta noche que mañana te esperamos en el Taller de Django"
+- time: 2017-10-21T09:00
+  text: "Levanta. En una hora empezamos el taller de introducción a Django"
+
 ---
 
 <p align="center">
