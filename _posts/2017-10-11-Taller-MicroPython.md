@@ -39,6 +39,7 @@ Contenido:
 - Sensores
 - Proyecto final
 
+[Contenido del curso](https://github.com/pythoncanarias/upython) Gracias a la gente de [Python Canarias](http://pythoncanarias.es)
 
 **¿Qué vas a necesitar?**
 
