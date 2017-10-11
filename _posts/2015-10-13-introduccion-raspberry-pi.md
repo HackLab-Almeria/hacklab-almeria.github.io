@@ -45,7 +45,7 @@ Aquí tenéis disponible la [Galería de Fotos][2]
 
 ### Presentación
 
-Aquí tenéis disponible la [Presentación](/recursos/intropi.pdf).
+Aquí tenéis disponible la [Presentación](/recursos/2015-10-13/intropi.pdf).
 
 ### DESPUÉS DEL EVENTO
 
