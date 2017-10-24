@@ -22,7 +22,7 @@ category: actividades
 
 ### ¿Dónde y cuándo?
 
-- Jueves 26 Octubre
+- Jueves 26 octubre
 - [LA OFICINA Producciones Culturales](https://www.google.es/maps/place/LA+OFICINA+Producciones+Culturales/@36.8407451,-2.4659522,15z/data=!4m15!1m9!4m8!1m0!1m6!1m2!1s0xd7a9dfd82f7b2d7:0xcdfbe3a383b843eb!2sLA+OFICINA+Producciones+Culturales,+Calle+de+las+Tiendas,+26,+04001+Almer%C3%ADa!2m2!1d-2.4659522!2d36.8407451!3m4!1s0x0:0xcdfbe3a383b843eb!8m2!3d36.8407451!4d-2.4659522)
 
 Agradecer a los chicos de LaOficina por llevarnos a este espacio tan molón.
@@ -30,19 +30,17 @@ Agradecer a los chicos de LaOficina por llevarnos a este espacio tan molón.
 ---
 
 ### DESCRIPCIÓN DE LA CHARLA
-Nuestro compañero Antonio Genaro desmitifica el uso de herramientas de colaboración de proyectos opensource, llevando el típico ejemplo de git clone/pull un pasito más allá.
+Antonio Genaro desmitifica el uso de herramientas de colaboración de proyectos opensource, llevando el típico ejemplo de git clone/pull un pasito más allá.
 
 Partiendo de una introducción para asentar los conceptos básicos de git, se mostrarán las herramientas que ofrece Github y cómo la plataforma en si propicia el desarrollo colaborativo y otorgando visibilidad al contribuyente.
 
 También mostraremos cómo se transforma un puñado de ficheros de código fuente en un paquete de npm; servido, instalable y utilizable públicamente con el gestor de paquetes con la biblioteca más extensa del momento.
 
-Bio : 
-
-Como siempre, tras la ponencia continuaremos compartiendo experiencias e ideas tomando unas cañas, sin ellas ya no entendemos las tecnologías web 🍻!
+Como siempre, tras la conferencia continuaremos compartiendo experiencias e ideas tomando unas cañas, sin ellas ya no entendemos las tecnologías web 🍻!
 
 ---
 
-### EL PONENTE
+### El conferenciante
 
 <p align="center">
   <img src="https://avatars3.githubusercontent.com/u/15797756" alt="Antonio Genaro Cabesa" width="200px"/>
@@ -64,11 +62,6 @@ AlmeríaJS está en [Meetup](https://www.meetup.com/es-ES/almeriajs/)! Apúntate
 | 19:00-20:30 | Charla _Opensourcing con Cabeza: De github a npm_ |
 | 20:30-XX:XX | Networking 🍻 |
 
-
----
-
-### DESPUÉS DEL EVENTO
-Seguiremos bebiendo cerveza 🍻 discutiendo de desarrollo web y posibles nuevas actividades del grupo!
 
 ---
 
