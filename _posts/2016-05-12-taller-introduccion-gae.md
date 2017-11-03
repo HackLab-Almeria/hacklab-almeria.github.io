@@ -27,7 +27,7 @@ En esta ocasión, estas dos comunidades cercanas se unen para organizar un event
 
 El taller será impartido por Marcos Manuel Ortega (@Indavelopers), organizador del GDG Almería y coordinador del Club Python Almería, que cuenta con 4 años de experiencia desarrollando aplicaciones web sobre GAE.
 
-- Evento en la web del capítulo GDG Almería: [link](https://developers.google.com/events/4931171094102016/).
+- ~Evento en la web del capítulo GDG Almería: [link]()~.
 - Síguenos en Twitter: [@GDG Almería](https://twitter.com/GDGAlmeria) y [@Hacklab Almería](https://twitter.com/HackLabAl) #ClubPythonAlm.
 
 ### ¿DE QUÉ HABLAREMOS?
