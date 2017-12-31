@@ -29,7 +29,7 @@ social:
     text: "Mañana tenemos Evento sobre tecnología te lo vas a perder?"
   - time: 2018-01-03T17:00
     text: "Mañana hay evento con nuestro querido canario!!! Vente y saludanos a todos."
-  - time: 2018-01.04T10:00
+  - time: 2018-01-04T10:00
     text: "Hoy tenemos evento a las 18:00 en la oficina no te lo pierdas!!!"
 
 ---
