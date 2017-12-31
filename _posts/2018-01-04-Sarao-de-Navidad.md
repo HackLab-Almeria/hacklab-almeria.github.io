@@ -16,21 +16,21 @@ category: actividades
 #Redes sociales. Máximo 90 carácteres para el texto
 social:	
   - time: 2017-12-31T15:00
-    text: "Queremos felicitaros el año nuevo con un nuevo sarao que celebraremos en La Oficina. No te lo pierdas. "
+    text: "Queremos felicitaros el año nuevo con un nuevo sarao que celebraremos en La Oficina. No te lo pierdas. http://hacklabalmeria.net/actividades/2018/01/04/Sarao-de-Navidad.html"
   - time: 2018-01-01T0:00
-    text: "Feliz año nuevo y te esperamos el día 4 en un nuevo Sarao."
+    text: "Feliz año nuevo y te esperamos el día 4 en un nuevo Sarao. http://hacklabalmeria.net/actividades/2018/01/04/Sarao-de-Navidad.html"
   - time: 2018-01-01T13:00
-    text: "Sabemos que estas de resaca. Pero no te olvides del sarao Navideño del día 4 a las 18:00."
+    text: "Sabemos que estas de resaca. Pero no te olvides del sarao Navideño del día 4 a las 18:00. http://hacklabalmeria.net/actividades/2018/01/04/Sarao-de-Navidad.html"
   - time: 2018-01-02T10:00
-    text: "El día 4 celebramos un sarao navideño para recibir a los reyes magos."
+    text: "El día 4 celebramos un sarao navideño para recibir a los reyes magos. http://hacklabalmeria.net/actividades/2018/01/04/Sarao-de-Navidad.html"
   - time: 2018-01-02T18:00
-    text: "El día 4 no te olvides del sarao que celebramos."
+    text: "El día 4 no te olvides del sarao que celebramos. http://hacklabalmeria.net/actividades/2018/01/04/Sarao-de-Navidad.html"
   - time: 2018-01-03T10:00
-    text: "Mañana tenemos Evento sobre tecnología te lo vas a perder?"
+    text: "Mañana tenemos Evento sobre tecnología te lo vas a perder? http://hacklabalmeria.net/actividades/2018/01/04/Sarao-de-Navidad.html"
   - time: 2018-01-03T17:00
-    text: "Mañana hay evento con nuestro querido canario!!! Vente y saludanos a todos."
+    text: "Mañana hay evento con nuestro querido canario!!! Vente y saludanos a todos. http://hacklabalmeria.net/actividades/2018/01/04/Sarao-de-Navidad.html"
   - time: 2018-01-04T10:00
-    text: "Hoy tenemos evento a las 18:00 en la oficina no te lo pierdas!!!"
+    text: "Hoy tenemos evento a las 18:00 en la oficina no te lo pierdas!!! http://hacklabalmeria.net/actividades/2018/01/04/Sarao-de-Navidad.html"
 
 ---
 
