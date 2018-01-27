@@ -13,7 +13,7 @@ Las cookies son archivos que se pueden descargar en su equipo a través de las p
 
 Según quien sea la entidad que gestione el dominio desde donde se envían las cookies y trate los datos que se obtengan se pueden distinguir dos tipos: cookies propias y cookies de terceros.
 Existe también una segunda clasificación según el plazo de tiempo que permanecen almacenadas en el navegador del cliente, pudiendo tratarse de cookies de sesión o cookies persistentes.
-Por último, existe otra clasificación con cinco tipos de cookies según la finalidad para la que se traten los datos obtenidos: cookies técnicas, cookies de personalización, cookies de análisis, cookies publicitarias y cookies de publicidad comportamental .
+Por último, existe otra clasificación con cinco tipos de cookies según la finalidad para la que se traten los datos obtenidos: cookies técnicas, cookies de personalización, cookies de análisis, cookies publicitarias y cookies de publicidad comportamental.
 
 #### Aceptación de la Política de Cookies
 
@@ -25,7 +25,7 @@ Modificar su configuración. Podrá obtener más información sobre qué son las
 
 #### Modificar su Configuración de Cookies
 
-Usted puede restringir, bloquear o borrar las cookies de las páginas web de HackLab Almeria, utilizando su navegador. La configuración en cada tipo de navegador de Internet es diferente, la función de ‘Ayuda” del navegador que usted está usando le mostrará cómo hacerlo. Puede obtener más información en los siguientes enlaces:
+Usted puede restringir, bloquear o borrar las cookies de las páginas web de HackLab Almeria, utilizando su navegador. La configuración en cada tipo de navegador de Internet es diferente, la función de "Ayuda" del navegador que usted está usando le mostrará cómo hacerlo. Puede obtener más información en los siguientes enlaces:
 
 - [Internet Explorer][1]
 - [FireFox][2]
