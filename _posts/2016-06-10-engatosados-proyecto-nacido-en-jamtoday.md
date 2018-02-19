@@ -39,7 +39,7 @@ uno de ellos fue [Engatosados](http://twitter.com/engatosados), **un juego de me
 
 En esta charla se explicará como surgió la idea, como se diseñaron las reglas, tablero y personajes.
 También hablaremos sobre nuestra intención lanzarlo con [Ediciones Oníricas](http://edicionesoniricas.com/) 
-financiándolo mediante Verkami como se hizo con [Musu Musu Musume](http://twitter.com/musumusumusume), del cual también
+financiándolo mediante Verkami como se hizo con [Musu Musu Musume](http://twitter.com/UniversoMusume), del cual también
 hablaremos
 
 
