@@ -32,7 +32,7 @@ Con motivo del [Día de la Mujer Trabajadora](https://es.wikipedia.org/wiki/D%C3
 
 Para este propósito, hemos reunido en El Cable a varias mujeres y estudiantes de ingenierías informáticas para visibilizar referentes ligadas con la tecnología y la informática, con el fin de que nos hablen sobre sus experiencias, y nos ayuden a demostrar que todos tenemos un lugar entre cables y líneas de código.
 
-Este año, las ponentes serán varias estudiantes de Ingeniería Informática, con el objetivo de mostrar referentes a las jóvenes, y despertar entre ellas curiosidad y vocaciones por este mundo de la ciencia y tecnología.
+Este año, las ponentes serán varias estudiantes de Ingeniería Informática de la Universidad de Almería, con el objetivo de mostrar referentes a las jóvenes, y despertar entre ellas curiosidad y vocaciones por este mundo de la ciencia y tecnología.
 
 ### APÚNTATE
 
@@ -43,8 +43,8 @@ La asistencia es gratuita y hasta completar aforo. Se requiere inscripción prev
 ### PROGRAMA
 
 | 17:00-17:15 |	Bienvenida | 
-| 17:15-17:45 |	María del Mar Soriano Jerez ([@MMar_Soriano](https://twitter.com/MMar_Soriano)) - Estudiante de Ingeniería Informática de la UAL. | 
-| 17:50-18:20 |	Violeta Sáez Botella ([@Vayo_SB](https://twitter.com/Vayo_SB)) - Estudiante de Ingeniería Informática y escritora. | 
+| 17:15-17:45 |	María del Mar Soriano Jerez ([@MMar_Soriano](https://twitter.com/MMar_Soriano)) - Estudiante de Ingeniería Informática | 
+| 17:50-18:20 |	Violeta Sáez Botella ([@Vayo_SB](https://twitter.com/Vayo_SB)) - Estudiante de Ingeniería Informática y escritora | 
 | 18:30-19:00 | Roxana F. Marinca ([@roxy_hana](https://twitter.com/roxy_hana)) - Estudiante de Ingeniería Informática | 
 | 19:15-19:30 | Ronda de preguntas | 
 | 19:30	| Clausura | 
