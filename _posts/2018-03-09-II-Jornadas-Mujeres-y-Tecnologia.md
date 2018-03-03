@@ -28,7 +28,7 @@ social:
 
 ### DESCRIPCIÓN
 
-Con motivo del [Día de la Mujer Trabajadora](https://es.wikipedia.org/wiki/D%C3%ADa_Internacional_de_la_Mujer), en HackLab Almería organizamos las II Jornadas Mujeres y Tecnología Almería. A lo largo de los años, las mujeres han tenido escasa visibilidad y presencia en el mundo tecnológico, especialmente en el campo de la informática, considerado tradicionalmente como “tierra de hombres”. Sin embargo, la sociedad evoluciona, y en los tiempos que corren es cada vez más habitual ver chicas que pierden el miedo y se interesan por la tecnología. Este es, sin duda, un importante paso en el camino hacia una sociedad donde exista igualdad entre géneros, y no vamos a dejar que sea el último.
+Con motivo del [Día Internacional de la Mujer](https://es.wikipedia.org/wiki/D%C3%ADa_Internacional_de_la_Mujer), en HackLab Almería organizamos las II Jornadas Mujeres y Tecnología Almería. A lo largo de los años, las mujeres han tenido escasa visibilidad y presencia en el mundo tecnológico, especialmente en el campo de la informática, considerado tradicionalmente como “tierra de hombres”. Sin embargo, la sociedad evoluciona, y en los tiempos que corren es cada vez más habitual ver chicas que pierden el miedo y se interesan por la tecnología. Este es, sin duda, un importante paso en el camino hacia una sociedad donde exista igualdad entre géneros, y no vamos a dejar que sea el último.
 
 Para este propósito, hemos reunido en El Cable a varias mujeres y estudiantes de ingenierías informáticas para visibilizar referentes ligadas con la tecnología y la informática, con el fin de que nos hablen sobre sus experiencias, y nos ayuden a demostrar que todos tenemos un lugar entre cables y líneas de código.
 
