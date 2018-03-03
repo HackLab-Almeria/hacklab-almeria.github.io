@@ -43,8 +43,8 @@ La asistencia es gratuita y hasta completar aforo. Se requiere inscripción prev
 ### PROGRAMA
 
 | 17:00-17:15 |	Bienvenida | 
-| 17:15-17:45 |	María del Mar Soriano Jerez ([@MMar_Soriano](https://twitter.com/MMar_Soriano) - Estudiante de Ingeniería Informática de la UAL. | 
-| 17:50-18:20 |	Violeta Sáez Botella ([@Vayo_SB](https://twitter.com/Vayo_SB) - Estudiante de Ingeniería Informática y escritora. | 
-| 18:30-19:00 | Roxana F. Marinca ([@roxy_hana](https://twitter.com/roxy_hana) - Estudiante de Ingeniería Informática | 
+| 17:15-17:45 |	María del Mar Soriano Jerez ([@MMar_Soriano](https://twitter.com/MMar_Soriano)) - Estudiante de Ingeniería Informática de la UAL. | 
+| 17:50-18:20 |	Violeta Sáez Botella ([@Vayo_SB](https://twitter.com/Vayo_SB)) - Estudiante de Ingeniería Informática y escritora. | 
+| 18:30-19:00 | Roxana F. Marinca ([@roxy_hana](https://twitter.com/roxy_hana)) - Estudiante de Ingeniería Informática | 
 | 19:15-19:30 | Ronda de preguntas | 
 | 19:30	| Clausura | 
