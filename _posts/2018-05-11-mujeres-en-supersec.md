@@ -21,4 +21,4 @@ social:
 
 ### Descripción
 
-<iframe src="https://supersec.es/actividades/2018-05-11.html" width="1000" height="2000" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://supersec.es/actividades/2018-05-11.html" width="1000" height="1000" frameborder="0" style="border:0" allowfullscreen></iframe>
