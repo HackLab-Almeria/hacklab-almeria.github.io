@@ -21,8 +21,8 @@ social:
     text: "¡El 17 de Mayo tendremos un fantástico taller introductorio a Ada, redes de Petri y tareas concurrentes!"
   - time: 2018-05-17T12:00
     text: "¡Nos vemos esta tarde en el taller introductorio a Ada!"
-	
 ---
+
 ### DESCRIPCIÓN
 
 Introducción al lenguaje Ada y unos de sus mayores puntos fuertes: las tareas concurrentes. Hablaremos además un poco sobre el mundo de las redes de Petri.
