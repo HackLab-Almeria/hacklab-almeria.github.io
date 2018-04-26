@@ -17,11 +17,11 @@ category: actividades
 #Redes sociales. Máximo 90 carácteres para el texto
 social:
   - time: 2018-05-03T18:00
-  text: "El martes 8 de este mes hay una charla sobre Libremanuals, ¡no faltes!"
+    text: "El martes 8 de este mes hay una charla sobre Libremanuals, ¡no faltes!"
   - time: 2018-05-12T19:00
-  text: "El próximo martes es la charlar sobre Libremanuals, el proyecto de autoedición de libros libres."
+    text: "El próximo martes es la charlar sobre Libremanuals, el proyecto de autoedición de libros libres."
   - time: 2018-05-16T19:00
-  text: "Mañana hay una charla sobre la edición de libros libres en el local de CNT-AIT Almería."
+    text: "Mañana hay una charla sobre la edición de libros libres en el local de CNT-AIT Almería."
 ---
 
 ### DESCRIPCIÓN
