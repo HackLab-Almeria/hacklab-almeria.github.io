@@ -1,6 +1,6 @@
 # Web del Hacklab Almería
 
-[![Build Status](https://travis-ci.org/HackLab-Almeria/hacklab-almeria.github.io.svg?branch=master)](https://travis-ci.org/HackLab-Almeria/hacklab-almeria.github.io) 
+[![Build Status](https://travis-ci.org/HackLab-Almeria/hacklab-almeria.github.io.svg?branch=master)](https://travis-ci.org/HackLab-Almeria/hacklab-almeria.github.io)
 [![Join the chat at https://gitter.im/HackLab-Almeria/hacklab-almeria.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/HackLab-Almeria/hacklab-almeria.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Este es el repositorio de la nueva web del Hacklab Almería, creada mediante [Jekyll][1], [Markdown][2] y `HTML/CSS`.
@@ -68,14 +68,14 @@ Para las actividades publicadas en esta web (contenidas
 en _posts/).
 
    - «Prepara los eventos sociales» que se encarga de mandar anuncios programados para las rrss (a partir de http://hacklabalmeria.net/social.xml)
-   - «Añade los eventos», que añade las actividades al calendario (a partir de http://hacklabalmeria.net/calendar.xml)  
-   
+   - «Añade los eventos», que añade las actividades al calendario (a partir de http://hacklabalmeria.net/calendar.xml)
+
 [Referencia](https://foro.hacklabalmeria.net/t/automatizar-la-difusion-en-redes-sociales-de-los-eventos/6527/6).
 
 ### Licencia
 
-© Los respectivos autores, 2015, 2016.  
-Licencia [Attribution 4.0 International (CC BY 4.0)][5]  
+© Los respectivos autores, 2015, 2016, 2017, 2018.
+Licencia [Attribution 4.0 International (CC BY 4.0)][5]
 [![Attribution 4.0 International (CC BY 4.0)](http://i.creativecommons.org/l/by/4.0/88x31.png "Attribution 4.0 International (CC BY 4.0)")][5]
 
 
