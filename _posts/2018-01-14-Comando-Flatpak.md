@@ -32,5 +32,5 @@ El __comando Flatpak__ se reúne en sesiones de hacking con el afán de publicar
 
 Los más novatos contáis con la ayuda de veteranos. Ni damos charlas ni clases. Aprendemos y trabajamos juntos a base de teclado.
 
-**Importante**: trae tu portátil con Linux con [Flatpak instalado](https://flatpak.org/getting.html) e idealmente, porque son un poco pesados para descargar, con los [runtimes y SDKs](https://flatpak.org/hello-world) que tengas pensado usar.
+**Importante**: trae tu portátil con Linux con [Flatpak instalado](https://flatpak.org/getting.html) e idealmente, porque son un poco pesados para descargar, con los [runtimes y SDKs](http://docs.flatpak.org/en/latest/available-runtimes.html) que tengas pensado usar.
 

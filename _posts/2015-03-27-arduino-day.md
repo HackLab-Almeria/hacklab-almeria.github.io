@@ -76,10 +76,10 @@ Profesores
 
 ### Almería Creative Commons Film Festival
 
-Estas actividades se enmarcan en el [Almería Creative Commons Film Festival](http://ccalm.cc) que se celebra en Almería del 26 al 29 de marzo.
+Estas actividades se enmarcan en el [Almería Creative Commons Film Festival](http://ccalm.es/) que se celebra en Almería del 26 al 29 de marzo.
 El detalle de las actividades lo encontrarás en:
 
-* [el programa oficial](http://www.ccalm.cc/?page_id=80)
+* [el programa oficial](http://www.ccalm.es/)
 * [el programa de actividades complementarias organizado por el HackLab Almería](http://hacklabalmeria.net/actividades/2015/03/26/CCAlm.html)
 
 Recuerda que la participación en todas las actividades del festival es gratuita.
