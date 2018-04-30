@@ -66,7 +66,7 @@ Runnerty ha estado funcionando desde hace 2 años y ha ayudado a equipos de desa
 
 ### El ponente
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_images/421418710969364480/_W5wQiSb_400x400.jpeg" alt="Carlos Carmona" width="400px"/>
+  <img src="https://pbs.twimg.com/profile_images/976350367947501568/H0U6Stu9_400x400.jpg" alt="Carlos Carmona" width="400px"/>
 </p>
 
 Carlos Carmona Alcántara [@ccarmona](https://twitter.com/ccarmona)
