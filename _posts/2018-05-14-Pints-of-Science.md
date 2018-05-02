@@ -38,6 +38,6 @@ El hagstag de tu ciudad es: #Pint18ALM, para que vivas la experiencia Pint of Sc
 ¡Esto empieza ya, te esperamos!
 
 ### PROGRAMA
-| 14-05-2018 | Del fundamentalismo religioso a los retos de la sexología |
-| 15-05-2018 | Ejércitos microbianos |
-| 16-05-2018 | Ser humano, máquinas y automática |
+| 14-05-2018 | Del fundamentalismo religioso a los retos de la sexología
+| 15-05-2018 | Ejércitos microbianos
+| 16-05-2018 | Ser humano, máquinas y automática
