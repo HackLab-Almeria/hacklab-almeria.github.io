@@ -4,8 +4,8 @@ layout: post-jsonld
 title: "Pint of Science"
 description: "AMANTES DE LA CIENCIA, PREPARAOS PARA DISFRUTAR DE LA INVESTIGACIÓN PUNTERA EN EL MEJOR DE LOS AMBIENTES: ¡EL BAR!"
 #Fecha
-startDate: 2018-05-14T16:00
-endDate: 2018-05-14T16:00
+startDate: 2018-05-14T19:00
+endDate: 2018-05-16T23:00
 #Lugar
 place: "La fuga Pub-Cervecería"
 street: "Ctra. Sacramento, s/n"
