@@ -21,6 +21,9 @@ social:
 
 ### DESCRIPCIÓN
 
+
+![cartel](/recursos/2018-05-14/pintofscience.jpg){:align="center"}
+
 ¿Sientes curiosidad por el cosmos? ¿Te intriga el tema de la evolución? ¿O, simplemente, quieres saber por qué la cerveza sabe así de bien? Muchas de tus preguntas tienen respuestas, y te traemos a las mentes más brillantes para dártelas.
 
 Nuestro festival internacional, llevado a cabo los días 14, 15 y 16 de Mayo de manera sincronizada en 21 países a nivel mundial: Reino Unido, Francia, Italia, Bélgica, Alemania, Grecia, Irlanda, Holanda, Portugal, Rusia, Australia, Singapur, Tailandia, Brasil, Canadá, Costa Rica, México, Paraguay, EEUU, Sur África y, por cuarto año consecutivo, en España, invita a los investigadores más punteros a compartir sus conocimientos contigo en un ambiente relajado y distendido: el bar.
