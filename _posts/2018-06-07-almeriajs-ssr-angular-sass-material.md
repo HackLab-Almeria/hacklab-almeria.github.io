@@ -56,7 +56,7 @@ La evolución del proyecto se podrá reproducir en casa. El código fuente se pu
 
 ### Los ponentes
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_images/974006565215899648/4c4XGImK_400x400.jpg" alt="Álvaro Quirós" width="400px"/>
+  <img src="https://pbs.twimg.com/profile_images/974006565215899648/4c4XGImK_200x200.jpg" alt="Álvaro Quirós" width="200px"/>
 </p>
 
 Álvaro Quirós [@aloDev](https://twitter.com/aloDev).
@@ -64,7 +64,7 @@ Front-end lead en [@CodertyStudio](https://twitter.com/codertystudio), estandart
 
 
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_images/974006565215899648/4c4XGImK_400x400.jpg" alt="Alberto Gomez Castilla" width="400px"/>
+  <img src="https://pbs.twimg.com/profile_images/971781382270869504/tAL58uEL_200x200.jpg" alt="Alberto Gomez Castilla" width="200px"/>
 </p>
 
 Alberto Gómez Castilla [@gocastilla](https://twitter.com/gocastilla)
