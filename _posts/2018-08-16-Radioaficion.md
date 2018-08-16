@@ -2,11 +2,11 @@
 layout: post-jsonld
 #Datos del Evento
 title: "Introducción a la Radioafición y a la recepción de telemetría de satélites de radioaficonado"
-subtitle: "16 de agosto del 2018 / Liceo Erasmus, Almería"
+subtitle: "23 de agosto del 2018 / Liceo Erasmus, Almería"
 description: "Introducción rápida de qué es la radioafición, cuales son sus posibilidades y cómo poder recibir fotografias desde la mismísima Estación Espacial Internacional"
 #Fecha
-startDate: 2018-08-16T19:30
-endDate: 2018-08-16T21:00
+startDate: 2018-08-23T19:30
+endDate: 2018-08-23T21:00
 #Lugar
 place: "Liceo ERASMUS Bilingual School"
 street: "Calle Adolfo Marsillach, 12"
@@ -17,8 +17,8 @@ category: actividades
 ---
 
 <p align="center">
-  <img src="/recursos/2018-08-16/RadioClub-ETSIT-UPM.jpg" alt="Radioclub de la ETSIT-UPM" width="59%"/>
-  <img src="/recursos/2018-08-16/antena-HF.jpg" alt="Antena de HF en la azotea de la ETSIT UPM" width="36%"/>
+  <img src="/recursos/2018-08-23/RadioClub-ETSIT-UPM.jpg" alt="Radioclub de la ETSIT-UPM" width="59%"/>
+  <img src="/recursos/2018-08-23/antena-HF.jpg" alt="Antena de HF en la azotea de la ETSIT UPM" width="36%"/>
 </p>
 
 ### DESCRIPCIÓN
