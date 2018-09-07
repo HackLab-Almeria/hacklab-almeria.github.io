@@ -29,7 +29,7 @@ Recordad que esta nueva versión de GNOME es especialmente importante para nosot
 
 ¡Repartiremos pegatinas!
 
-Más información [Wiki GNOME](https://wiki.gnome.org/Events/ReleaseParties/ThreePointTwentysix)
+Más información [Wiki GNOME](https://wiki.gnome.org/Events/ReleaseParties/ThreePointThirty)
 
 ---
 
