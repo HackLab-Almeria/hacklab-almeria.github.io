@@ -12,7 +12,7 @@ place: "Colegio Liceo Erasmus"
 street: "Calle Adolfo Marsillach, 12"
 locality: "Almería"
 postalCode: "04002"
-map: hhttps://www.openstreetmap.org/way/82205705
+map: https://www.openstreetmap.org/way/82205705
 category: actividades
 ---
 
