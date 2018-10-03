@@ -23,6 +23,6 @@ category: actividades
 ){:width="300px" align="right"}
 
 [LibOCon](https://libocon.org/), el congreso anual de la comunidad de desarrollo [LibreOffice](https://www.libreoffice.org/) y organizado a instancias de [The Document Foundation
-](https://www.documentfoundation.org/) tendrá lugar en Almería en 2019. La organización local está a cargo de la asociación __Club de Cacharreo__. 
+](https://www.documentfoundation.org/) tendrá lugar en [Almería en 2019](https://blog.documentfoundation.org/blog/2018/10/03/libocon-2019/). La organización local está a cargo de la asociación __Club de Cacharreo__. 
 
 En esta sesión convocamos al __equipo de voluntarios__ e introduciremos el proyecto de organización a partir de la experiencia acumulada estos años  con actividades semejantes: [PyConES 2016](http://2016.es.pycon.org/es/), [Akademy 2017](https://akademy.kde.org/2017), [SuperSEC 2018](https://supersec.es) y [GUADEC 2018](http://2018.guadec.org) así como empezaremos a organizar las herramientas de trabajo en grupo.
