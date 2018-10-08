@@ -4,8 +4,8 @@ layout: post-jsonld
 title: "Organización LibOCon 2019: puesta en marcha"
 description: "Empezamos con los preparativos para la LibOCon 2019 en Almería"
 #Fecha
-startDate: 2018-10-08T17:30
-endDate: 2018-10-08T19:30
+startDate: 2018-10-09T17:30
+endDate: 2018-10-09T19:30
 #Lugar
 place: "LA OFICINA Producciones Culturales"
 street: "Calle de las Tiendas, 26"
