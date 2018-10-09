@@ -14,6 +14,23 @@ locality: "Almería"
 postalCode: "04002"
 map: https://www.openstreetmap.org/way/82205705
 category: actividades
+social:
+  - time: 2018-10-09T23:00
+    text: "Tenemos evento pythonero este jueves te lo vas a perder?"
+  - time: 2018-10-10T08:00
+    text: "Mañana ve preparandote para la charla sobre Inteligencia artificial de @deviluxo"
+  - time: 2018-10-10T12:00
+    text: "Nuestro compañero @zerasul, nos va a hablar de como crear proyectos open source en Python!!"
+  - time: 2018-10-10T18:00
+    text: "Mañana por la tarde no te olvides de apuntarte para la charlas pythoneras que tendremos en el colegio Liceo Erasmus"
+  - time: 2018-10-10T22:00
+    text: "Recuerda que mañana tenemos charlas pythoneras!!"
+  - time: 2018-10-11T08:00
+    text: "Hoy tenemos las charlas sobre python Que nervios!!"
+  - time: 2018-10-11T12:00
+    text: "Esta tarde a las 18:30 no te pierdas nuestro evento pythonero!!! de mano de @deviluxo y @zerasul"
+  - time: 2018-10-11T17:00
+    text: "Nos vemos en un rato en el Python Party Almeria!!"
 ---
 
 ![python](/recursos/python-logo.png){: .center}
