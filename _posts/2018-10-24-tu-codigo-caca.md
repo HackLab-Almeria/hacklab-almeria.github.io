@@ -26,7 +26,7 @@ social:
 
 ### Descripción
 
-El [grupo local OWASP Almería](https://www.owasp.org/index.php/Almeria) nos ofrece esta charla sobre métodos pragmáticos y sencillos para mejorar la seguridad de nuestro código.
+El [grupo local OWASP Almería](https://www.owasp.org/index.php/Almeria), en colaboración [IES Al-Ándalus](https://iesalandalus.org/) nos ofrece esta charla sobre métodos pragmáticos y sencillos para mejorar la seguridad de nuestro código.
 
 Se trata de una introducción práctica a las buenas prácticas de desarrollo seguro.
 
