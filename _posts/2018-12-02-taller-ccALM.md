@@ -4,8 +4,8 @@ layout: post-jsonld
 title: "Taller de trabajo de procomunes digitales ccALM"
 description: "Seguimos poniendo Almería en el mapa (digital/Internet) en los sistemas de información pública más importantes del mundo."
 #Fecha
-startDate: 2018-12-02T17:30
-endDate: 2018-12-02T20:00
+startDate: 2018-12-02T17:00
+endDate: 2018-12-02T18:50
 #Lugar
 place: "LA OFICINA Producciones Culturales"
 street: "Calle de las Tiendas, 26"
@@ -67,3 +67,8 @@ Cualquier persona interesada __seriamente__ en participar activamente en los dif
 <a href="http://wikidata.org"><img style="width: 200px; float: right;" src="/recursos/320px-Wikidata-logo-en.svg.png" alt="Wikidata" /></a>
 
 Si crees que no tienes conocimiento suficientes __no te desanimes y ven__. Nos gusta ayudar a los recién llegados. Sólo pedimos un mínimo nivel de compromiso y actividad regular. Tampoco importa mucho la edad a poco que tengas soltura suficiente con Internet y muchas ganas de divertirte aprendiendo.
+
+### Colaboran
+
+<a href="http://wikimedia.es"><img style="width: 125px;" src="/recursos/320px-Wikimedia_España_logo_-_vertical.svg.png" alt="Asociación Wikimedia España" /></a>
+<a href="http://laoficinacultural.org/"><img style="width: 125px;" src="/recursos/LaOficina-300x300.jpg" alt="LaOficina Cultural" /></a>
