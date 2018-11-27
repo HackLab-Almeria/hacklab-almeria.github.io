@@ -13,7 +13,23 @@ locality: "Almería"
 postalCode: "04001"
 map: http://www.openstreetmap.org/node/2389372700
 category: actividades
-#Redes sociales.
+social:
+  - time: 2018-11-27T18:30
+    text: "¿Sabes que en Wikipedia puede colaborar cualquiera? Vente a aprender cómo."
+  - time: 2018-11-28T18:30
+    text: "OpenStreetMap es el gran callejero mundial abierto. La «Wikipedia» de los mapas. Y tú puedes venir a editar. Vente a aprender cómo."
+  - time: 2018-11-29T17:30
+    text: "Ningún pueblo almeriense sin fotografía en Wikipedia. Puedes subir tus propias fotos. Vente a aprender cómo hacerlo. Tú puedes."
+  - time: 2018-11-30T10:30
+    text: "Mejoramos la presencia de Almería en Internet añadiendo datos a Wikipedia, Wiki Commons y OpenStreetMap. Y necesitamos tu ayuda. ¡Vente!"
+  - time: 2018-11-30T17:30
+    text: "Editar mapas es muy divertido. ¡En serio! Vente con nosotros a echar una mano en OpenStreetMap."
+  - time: 2018-12-01T12:00
+    text: "Mañana a tope con Wikipedia y OpenStreetMap. ¿Te interesa de verdad? Anímate y ven a formar parte del proyecto."
+  - time: 2018-12-02T10:30
+    text: "Después de haber votado esta tarde trabajamos en Wikipedia. Contamos contigo."
+
+
 ---
 <a href="http://ccalm.es/2018/"><img style="width: 200px; float: right;" src="/recursos/ccALM-400px.png" alt="festival ccALM" /></a>
 
@@ -50,7 +66,4 @@ Cualquier persona interesada __seriamente__ en participar activamente en los dif
 
 <a href="http://wikidata.org"><img style="width: 200px; float: right;" src="/recursos/320px-Wikidata-logo-en.svg.png" alt="Wikidata" /></a>
 
-
-
-
-Si crees que no tienes conocimiento suficientes no te desanimes y ven. No nos importa ayudar a los más nuevos. Sólo pedimos un mínimo nivel de compromiso y actividad regular. Tampoco nos importa mucho la edad a poco que tengas soltura suficiente con Internet y muchas ganas de divertirte aprendiendo.
+Si crees que no tienes conocimiento suficientes __no te desanimes y ven__. Nos gusta ayudar a los recién llegados. Sólo pedimos un mínimo nivel de compromiso y actividad regular. Tampoco importa mucho la edad a poco que tengas soltura suficiente con Internet y muchas ganas de divertirte aprendiendo.
