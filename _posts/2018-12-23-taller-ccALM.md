@@ -4,8 +4,8 @@ layout: post-jsonld
 title: "Taller de trabajo de procomunes digitales ccALM"
 description: "Seguimos poniendo Almería en el mapa (digital/Internet) en los sistemas de información pública más importantes del mundo."
 #Fecha
-startDate: 2018-12-16T17:00
-endDate: 2018-12-16T18:50
+startDate: 2018-12-23T17:00
+endDate: 2018-12-23T18:50
 #Lugar
 place: "LA OFICINA Producciones Culturales"
 street: "Calle de las Tiendas, 26"
