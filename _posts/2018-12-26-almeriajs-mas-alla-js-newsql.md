@@ -49,7 +49,7 @@ El campo de las bases de datos ha visto un desarrollo sin precedentes en lo que 
 En esta charla pondremos un poco de orden en el panorama de sistemas de bases de datos, explicando la historia de los sistemas relacionales, la aparición y desarrollo de las llamadas NoSQL, y la evolución del ecosistemas en el "new kid on the block", las NewSQL.
 
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_images/1020246025125195777/TBkxz3Aa_200x200.jpg" alt="Miguel Angel Fajardo" width="200px"/>
+  <img src="https://pbs.twimg.com/profile_images/1062276513440190464/uwfbGEV-_200x200.jpg" alt="Miguel Angel Fajardo" width="200px"/>
 </p>
 
 Miguel Ángel [@ma_bits](https://twitter.com/ma_bits) es el CTO de [Geoblink](https://www.geoblink.com/es/), una startup de Madrid especializada en Location Intelligence. Cuenta con experiencia dirigiendo equipos técnicos a ambos lados del charco, con énfasis en diseño de arquitectura, Data Engineering y correr por los montes alejados del mundanal ruido.
