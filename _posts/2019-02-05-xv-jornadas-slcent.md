@@ -36,7 +36,7 @@ social:
 ---
 
 <p align="center">
-  <img src="recursos/2019-02-05/logoalandalus.png" alt="Logo Al Andalus" />
+  <img src="/recursos/2019-02-05/logoalandalus.png" alt="Logo Al Andalus" />
 </p>
 
  El Instituto de Educación Secundaria Al Andalus, celebra su decimoquinta edición de las jornadas SLCENT _(Software Libre, Cultura Emprendedora y Nuevas Tecnologías)_; en esta edición especial se celebran ya 15 años realizando estas jornadas, que estarán divididas en 2 días con distintas charlas sobre software libre, tecnología y la cultura Emprendedora.
