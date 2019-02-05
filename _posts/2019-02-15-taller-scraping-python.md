@@ -21,14 +21,10 @@ social:
   text: "¿Has visto lo del viernes? Aprende Python haciendo scraping con la web de Menéame"
 - time: 2019-02-15T10:00
   text: "Hoy tenemos taller: Aprende Python haciendo scraping con la web de Menéame"
-
 ---
-
 <p align="center">
-  <img src="/recursos/logo-club-python.png" alt="Club Python Logo" width="220px" />
+  <img src="/recursos/python-logo.png" alt="Python Logo" width="650">
 </p>
-
-
 ### DESCRIPCIÓN
 El objetivo de este taller es aprender a programar en Python haciendo web scraping (extracción de datos de páginas web). Para ello explicaremos unas nociones básicas de scraping y realizaremos varios ejercicios con la web de [Menéame](https://www.meneame.net). Utilizaremos listas, ordenación, funciones, objetos, etc... y las librerías [Requests](http://docs.python-requests.org/en/master/) para hacer peticiones y [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) para parsear y extraer datos de documentos HTML. Todo ello dentro de un notebook [Jupyter](https://jupyter.org/)
 
