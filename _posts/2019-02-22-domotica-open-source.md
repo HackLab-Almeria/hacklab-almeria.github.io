@@ -51,3 +51,6 @@ La charla será para ámbito general, con pequeñas cosas técnicas, pero en def
 - Zigbee contra Wifi y Bluetooth
 - Integrando nuestros proyectos en Home Assistant
 
+
+### Asistencia
+Dado que el espacio es disponible es pequeño, se recomienda confirmar asistencia llamando a 950037564 o enviando un email a emartinez@cruzroja.es
