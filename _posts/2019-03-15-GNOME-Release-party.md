@@ -16,7 +16,7 @@ map: https://www.openstreetmap.org/node/4119437836
 category: actividades
 ---
 
-![GNOME 3.32](/recursos/2018-09-14/gnome-332.jpg){: .center}
+![GNOME 3.32](/recursos/2019-03-15/gnome-332.jpg){: .center}
 
 
 ### DESCRIPCIÓN
