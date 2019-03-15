@@ -19,7 +19,7 @@ install:
   - gem install html-proofer
 script:
   - jekyll build
-  - htmlproofer --assume-extension --only-4xx ./_site 
+  - htmlproofer --assume-extension --only-4xx --url-ignore "/pbs.twimg.com/" ./_site 
   - sonar-scanner
 cache:
   directories:
