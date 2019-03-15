@@ -22,8 +22,8 @@ La principal fuente para este glosario ha sido la comunidad hispano-parlante que
 La letra X no tiene formato de enlace porque aún no hay ningún término con X en el glosario y eso provoca este error en Travis
 "linking to internal hash #X that does not exist"
 {% endcomment %}
-[A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [Bibliografía](#Bibliografía) |
-[N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | X | [Y](#Y) | [Z](#Z) | [Colaboradores](#Colaboradores) |
+[A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [Bibliografía](#bibliografia) |
+[N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | X | [Y](#Y) | [Z](#Z) | [Colaboradores](#colaboradores) |
 
 {% assign myVar = '-' %}
 {% for iteradorTerminos in site.data.ORCA.glosario %}
