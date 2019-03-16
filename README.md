@@ -50,6 +50,17 @@ Una vez esté en publicada en actividades, Discourse está configurado para **cr
 
 Consulta la sección de automatismos para saber qué otras cosas ocurren automágicamente.
 
+### Tests
+
+Es aconsejable comprobar que la página de actividad que acabas de crear, antes de subirla. Normalmente con un vistazo y ver que se genera todo bien, bastará.
+
+Sin embargo, si quieres ir más allá, o has realizado cambios mayores en la web, puedes realizar tests unitarios en local, antes de hacer una subida.
+
+```
+    $ bundle install
+    $ rake test
+```
+
 ### ¿Cómo se modifica el menú del foro?
 
 Sólo podrán hacerlos aquellos con permisos de **Administración**.
@@ -74,7 +85,7 @@ en _posts/).
 
 ### Licencia
 
-© Los respectivos autores, 2015, 2016, 2017, 2018.
+© Los respectivos autores, 2015, 2016, 2017, 2018, 2019.
 Licencia [Attribution 4.0 International (CC BY 4.0)][5]
 [![Attribution 4.0 International (CC BY 4.0)](http://i.creativecommons.org/l/by/4.0/88x31.png "Attribution 4.0 International (CC BY 4.0)")][5]
 
