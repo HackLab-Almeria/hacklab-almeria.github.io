@@ -1,0 +1,9 @@
+require ‘rake/testtask’
+
+task default: "test"
+
+Rake::TestTask.new do |task|
+
+ task.pattern = 'test/jekyll_test.rb'
+
+end
