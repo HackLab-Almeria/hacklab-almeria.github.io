@@ -1,9 +1,12 @@
-require ‘rake/testtask’
+require 'html-proofer'
 
 task default: "test"
 
-Rake::TestTask.new do |task|
-
- task.pattern = 'test/jekyll_test.rb'
-
+task :test do
+    sh "bundle exec jekyll build"
+    options = { 
+        :assume_extension => true,
+        :only_4xx => true        
+    }
+    HTMLProofer.check_directory("./_site", options).run
 end
