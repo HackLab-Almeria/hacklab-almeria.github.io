@@ -9,8 +9,6 @@ env:
 rvm:
   - 2.3.8
   
-install:
-  - gem install jekyll
-  - gem install html-proofer
 script:
+  - bundle install
   - bundle exec rake 
