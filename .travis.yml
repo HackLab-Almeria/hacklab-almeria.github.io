@@ -5,10 +5,10 @@ sudo: required
 env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+    
 rvm:
-  - 2.3.0
-jdk:
-  - oraclejdk8
+  - 2.3.8
+  
 install:
   - gem install jekyll
   - gem install html-proofer
