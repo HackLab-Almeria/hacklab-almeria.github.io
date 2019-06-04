@@ -8,7 +8,7 @@ startDate: 2019-06-13T17:00
 endDate: 2019-06-13T20:00
 #Lugar
 place: "Por confirmar"
-street: "Plaza de la Administración 1, 1º Izquierda"
+street: ""
 locality: "Almería"
 postalCode: "04003"
 map: http://www.openstreetmap.org/node/3414938219
