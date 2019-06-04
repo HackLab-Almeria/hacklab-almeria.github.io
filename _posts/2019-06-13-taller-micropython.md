@@ -45,17 +45,14 @@ Cada asistente necesitará un portátil con sistema GNU/Linux, Windows o Mac OS.
 * [ESP32 en AliExpress](https://aliexpi.com/H3J8)
 
 2. DHT11 o DHT22 (Sensor Humedad y Temperatura)
-
 * [DHT22 en Amazon](https://amzn.to/2EOKAd1)
 * [DHT22 en AliExpress](https://aliexpi.com/Ksnp)
 
 3. 2 Breadboard
-
 * [Breadboard en Amazon](https://amzn.to/2KsfcEQ)
 * [BreadBoard en AliExpress](https://aliexpi.com/8B53)
 
 4. Resistencias, leds, pulsadores y cables
-
 * [Kit Electronica en Amazon](https://amzn.to/315myEg)
 * [Kit Electronica en AliExpress](https://aliexpi.com/CwdM)
 
