@@ -8,7 +8,7 @@ startDate: 2019-06-13T17:30
 endDate: 2019-06-13T20:30
 #Lugar
 place: "Colegio Liceo Erasmus"
-street: "alle Adolfo Marsillach, 12"
+street: "Calle Adolfo Marsillach, 12"
 locality: "Almería"
 postalCode: "04002"
 map: https://www.openstreetmap.org/way/82205705
