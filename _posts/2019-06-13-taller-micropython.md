@@ -4,14 +4,14 @@ layout: post-jsonld
 title: "Taller de MicroPython"
 description: ""
 #Fecha
-startDate: 2019-06-13T17:00
-endDate: 2019-06-13T20:00
+startDate: 2019-06-13T17:30
+endDate: 2019-06-13T20:30
 #Lugar
-place: "Por confirmar"
-street: ""
+place: "Colegio Liceo Erasmus"
+street: "alle Adolfo Marsillach, 12"
 locality: "Almería"
-postalCode: "04003"
-map: http://www.openstreetmap.org/node/3414938219
+postalCode: "04002"
+map: https://www.openstreetmap.org/way/82205705
 category: actividades
 #Redes sociales. Máximo 90 carácteres para el texto
 social:	
@@ -21,6 +21,10 @@ social:
   text: "No te olvides de los materiales para el proximo taller de MicroPython"
 - time: 2019-05-11T10:00
   text: "Recuerda que este día 13 es el taller de MicroPython!!!"
+- time: 2019-05-10T10:00
+  text: "Aun no has comprado los materiales para el día 13? rápido que no llegan!!"
+- time: 2019-05-09T10:00
+  text: "Usar Python con un microcontrolador es posible. Ven al taller de MicroPython"
 ---
 <p align="center">
   <img src="/recursos/upython.png" alt="Python Logo" width="650">
