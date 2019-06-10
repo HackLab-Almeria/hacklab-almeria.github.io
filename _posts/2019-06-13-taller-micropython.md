@@ -70,14 +70,14 @@ Cada asistente necesitará un portátil con sistema GNU/Linux, Windows o Mac OS.
 
 ---
 
-**NOTA:** Aun no esta confirmado el lugar. Se confirmará en breve.
+**NOTA**: Es recomendable tener instalado python versión 3.4 o superior.
 
 ### PROGRAMA
 
 
-| 17:00-18:30   | Instalación del entorno y configuración de la placa |
-| 17:30-17:45   | Introducción a MicroPython |
-| 17:45-20:00 	| Creación de proyectos con hardware |
+| 17:30-18:30   | Instalación del entorno y configuración de la placa |
+| 18:30-19:45   | Introducción a MicroPython |
+| 19:45-20:00 	| Creación de proyectos con hardware |
 
 
 
