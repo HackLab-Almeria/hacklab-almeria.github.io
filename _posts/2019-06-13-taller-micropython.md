@@ -72,6 +72,10 @@ Cada asistente necesitará un portátil con sistema GNU/Linux, Windows o Mac OS.
 
 **NOTA**: Es recomendable tener instalado python versión 3.4 o superior.
 
+### Contenido del curso
+
+Podéis encontrar el contenido del curso en este [enlace](https://zerasul.github.io/upythonalm/upython/).
+
 ### PROGRAMA
 
 
