@@ -31,13 +31,13 @@ social:
 
 Taller de creacion de juegos retro en el cual aprenderemos a crear nuestros propios juegos; en este caso, crearemos juegos para la consola de 16 bits, Sega Mega Drive.
 
-En este taller veremos desde la arquitectura de esta consola con el procesador [Motorola 68000](http://cache.freescale.com/files/32bit/doc/ref_manual/M68000UM.pdf), hasta los conceptos basicos como los fondos (layers), sprites o el propio sonido de nuestro juego.
+En este taller veremos desde la arquitectura de esta consola con el procesador [Motorola 68000](http://cache.freescale.com/files/32bit/doc/ref_manual/M68000UM.pdf), hasta los conceptos basicos como los fondos (layers), sprites o el propio sonido de nuestro juego. 
 
 **¿Qué vas a necesitar?**
 
 Cada asistente necesitará un portátil con sistema GNU/Linux (requiere 64 bits) o Windows. Sentimos mucho decir que por un problema con el software que utilizaremos, no se podra utilizar con MACOs (Os haremos llegar una maquina virtual).
 
-
+Es recomendable tener instalado Visual Studio Code (o Codium).
 
 **Conocimientos previos**
 
