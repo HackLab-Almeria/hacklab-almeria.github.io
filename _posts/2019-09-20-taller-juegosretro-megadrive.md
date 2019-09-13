@@ -51,9 +51,9 @@ Es recomendable tener instalado Visual Studio Code (o Codium).
 ### PROGRAMA
 
 
-| 18:00-18:30   | Instalación del entorno y configuración de las librerias |
-| 18:30-20:45   | Desarrollo de juegos retro con Mega Drive |
-| 20:45-21:00 	| Creacion de juegos para Mega Drive |
+| 17:30-18:00   | Instalación del entorno y configuración de las librerias |
+| 18:00-20:15   | Desarrollo de juegos retro con Mega Drive |
+| 20:15-20:30 	| Creacion de juegos para Mega Drive |
 
 
 
