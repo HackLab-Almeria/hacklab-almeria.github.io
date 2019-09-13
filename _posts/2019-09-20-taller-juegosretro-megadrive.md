@@ -4,8 +4,8 @@ layout: post-jsonld
 title: "Taller de Desarrollo de Videojuegos Retro: Mega Drive"
 description: "Taller de desarrollo donde se aprendera a crear videojuegos retro para la videoconsola de 16 bits, Mega Drive"
 #Fecha
-startDate: 2019-09-20T18:00
-endDate: 2019-09-20T21:00
+startDate: 2019-09-20T17:30
+endDate: 2019-09-20T20:30
 #Lugar
 place: "Colegio Liceo Erasmus"
 street: "Calle Adolfo Marsillach, 12"
