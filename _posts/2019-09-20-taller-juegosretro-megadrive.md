@@ -47,6 +47,7 @@ Es recomendable tener instalado Visual Studio Code (o Codium).
 
 **NOTA**: Tambien es recomendable tener conocimientos de bash o scripting.
 
+Aquí podéis acceder a la [web del evento](https://zerasul.github.io/taller-megadrive/) con los contenidos que se van a dar.
 
 ### PROGRAMA
 
