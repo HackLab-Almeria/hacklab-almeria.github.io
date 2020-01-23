@@ -1,26 +1,14 @@
 language: ruby
-dist: trusty
+dist: disco
 sudo: required
 
-addons:
-  sonarcloud:
-    organization: "hacklab-almeria"
-    token:
-      secure: "WA2DsDSFcADaHM3gPkM1XRYXadsqxPcsDdniLSagcJDoOURdspzsEOLu+92orjXTU5k4/UN4iZ5PilNRTg3F+03co1eWjRaaWW3taiogVLyPstMwnnRZpi22tw+xzHlGVG3U3l5nGU1zCVi6GYhL0LbyqWpIHNAb4QknOMPg8Mw="
 env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+    
 rvm:
-  - 2.2.5
-jdk:
-  - oraclejdk8
-install:
-  - gem install jekyll
-  - gem install html-proofer
+  - 2.5.0
+  
 script:
-  - jekyll build
-  - htmlproofer _site --only-4xx
-  - sonar-scanner
-cache:
-  directories:
-    - '$HOME/.sonar/cache'
+  - bundle install
+  - bundle exec rake 
