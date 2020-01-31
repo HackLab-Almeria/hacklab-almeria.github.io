@@ -15,7 +15,7 @@ map: https://www.google.es/maps/place/LA+OFICINA+Producciones+Culturales/@36.840
 category: actividades
 #Redes sociales. Máximo 90 carácteres para el texto
 social:
-  - time: 2020-01-31T19:00
+  - time: 2020-01-31T21:00
     text: "⚡️ @AlmeriaJS ⚡️ @ScullyIO y #webpack 📦 próximos en @laoficinalmeria"
   - time: 2020-02-03T11:00
     text: "Scully.io la solución JAMStack para Angular, el jueves, por @aloDev en @AlmeriaJS"
