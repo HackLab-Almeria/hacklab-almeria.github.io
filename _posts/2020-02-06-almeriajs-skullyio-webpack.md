@@ -1,7 +1,7 @@
 ---
 layout: post-jsonld
 #Datos del Evento
-title: "AlmeríaJS febrero: Scully.io & Webpack"
+title: "AlmeríaJS febrero: Scully.io y Webpack"
 description: "Scully.io JAMStack con Angular y Unpacking Webpack"
 #Fecha
 startDate: 2020-02-06T19:00
@@ -16,17 +16,17 @@ category: actividades
 #Redes sociales. Máximo 90 carácteres para el texto
 social:
   - time: 2020-01-31T21:00
-    text: "⚡️ @AlmeriaJS ⚡️ @ScullyIO y #webpack 📦 próximos en @laoficinalmeria"
+    text: "@AlmeriaJS @ScullyIO y #webpack próximos en @laoficinalmeria"
   - time: 2020-02-03T11:00
     text: "Scully.io la solución JAMStack para Angular, el jueves, por @aloDev en @AlmeriaJS"
   - time: 2020-02-04T19:00
     text: "Unpacking Webpack, el jueves, por @valgreens en @AlmeriaJS"
   - time: 2020-02-06T10:00
-    text: "Nos vemos esta tarde en @laoficinalmeria, las cañas con los JavaScripters mas cañeros @AlmeriaJS 👩🏻‍💻🍻👨🏻‍💻"
+    text: "Nos vemos esta tarde en @laoficinalmeria, con los JavaScripters mas cañeros @AlmeriaJS"
 ---
 
 <p align="center">
-  <img src="https://secure.meetupstatic.com/photos/event/a/d/f/c/highres_488324540.jpeg" alt="AlmeríaJS febrero: Scully.io & Webpack" height="400px"/>
+  <img src="https://secure.meetupstatic.com/photos/event/a/d/f/c/highres_488324540.jpeg" alt="AlmeríaJS febrero: Scully.io y Webpack" height="400px"/>
 </p>
 
 ### ¿Dónde y cuándo?
