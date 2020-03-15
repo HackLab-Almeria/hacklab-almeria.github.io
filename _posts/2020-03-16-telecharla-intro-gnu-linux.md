@@ -11,7 +11,6 @@ place: [https://meet.jit.si/charlaHA_intro_sistemas_gnu_linux](https://meet.jit.
 street: "Servicios de videoconferencia de Jitsi"
 locality: "Internet"
 postalCode: ""
-map: 
 category: actividades
 #Redes sociales. Máximo 90 carácteres para el texto
 social:
