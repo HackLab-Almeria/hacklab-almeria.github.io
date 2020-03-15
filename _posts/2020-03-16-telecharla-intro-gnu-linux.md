@@ -7,7 +7,7 @@ description: "Charla introductoria al software libre y los sistemas Gnu/Linux."
 startDate: 2020-03-16T20:00
 endDate: 2020-03-16T21:00
 #Lugar
-place: [https://meet.jit.si/charlaHA_intro_sistemas_gnu_linux](https://meet.jit.si/charlaHA_intro_sistemas_gnu_linux)
+place: https://meet.jit.si/charlaHA_intro_sistemas_gnu_linux
 street: "Servicios de videoconferencia de Jitsi"
 locality: "Internet"
 postalCode: ""
