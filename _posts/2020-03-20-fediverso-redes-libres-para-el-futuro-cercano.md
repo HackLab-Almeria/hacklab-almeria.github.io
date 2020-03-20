@@ -2,7 +2,7 @@
 layout: post-jsonld
 #Datos del Evento
 title: "Fediverso: redes libres para el futuro cercano"
-description: "ablemos de redes descentralizadas, Mastodon, Pixelfed, PeerTube"
+description: "Hablemos de redes descentralizadas, Mastodon, Pixelfed, PeerTube"
 #Fecha
 startDate: 2020-03-20T19:00
 endDate: 2020-03-20T20:00
