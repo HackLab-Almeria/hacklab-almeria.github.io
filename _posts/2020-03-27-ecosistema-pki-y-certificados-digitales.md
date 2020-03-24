@@ -57,5 +57,3 @@ El charlista será nuestro compi Tomas Hidalgo; que trabaja a diario con estos s
 Después de la charla y las preguntas pertinentes, todo el mundo a sus ventanas a aplaudir por nuestros sanitarios, que se están dejando el pellejo por tod@s nosotr@s.
 
 ---
-
-# #YoMeQuedoEnCasa
