@@ -26,7 +26,7 @@ social:
 
 # #YoMeQuedoEnCasa
 
-<center><img src="https://banner2.cleanpng.com/20180320/jbq/kisspng-computer-icons-command-line-interface-linux-system-command-line-icon-vector-5ab10e747fd445.0902485515215530125236.jpg" alt="logo commandline"></center>
+<center><img src="https://www.macworld.co.uk/cmsdata/features/3608274/Terminalicon2_thumb800.png" alt="logo commandline" style="width: 250px"></center>
 
 ### DESCRIPCIÓN
 
