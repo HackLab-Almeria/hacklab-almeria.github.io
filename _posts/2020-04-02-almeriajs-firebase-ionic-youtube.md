@@ -37,7 +37,7 @@ social:
 ### Lleva tu app Ionic/Angular a la nube con Firebase
 
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_images/974006565215899648/4c4XGImK_200x200.jpg" alt="José Antonio Ruiz" width="200px"/>
+  <img src="https://pbs.twimg.com/profile_images/1085106137245073408/J5ybg_gM_200x200.jpg" alt="José Antonio Ruiz" width="200px"/>
 </p>
 <p align="center">José Antonio Ruiz[@joseant_ruiz](https://twitter.com/joseant_ruiz) - Fullstack developer en Digital55</p>
 
@@ -46,9 +46,9 @@ Lleva tu app Ionic/Angular a la nube con Firebase
 La filosofía serverless está muy de moda. No tener que mantener el servidor donde corren nuestras aplicaciones, olvidarnos de actualizaciones, escalabilidad, parches de seguridad, instalar y mantener bases de datos, etc… es el sueño de cualquier programador. Firebase es una solución muy completa e ideal para desarrollar un proyecto con esta arquitectura. En la charla veremos los servicios más importantes que ofrece como Functions (computación en la nube), Databases (Realtime y Firestore), Hosting, Storage, etc… Además de un ejemplo de una aplicación Angular que hace uso de todos estos servicios de Firebase.
 
 
-🕡19:00 - Presentación del canal y del grupo
-🕢19:05 - José Antonio Ruiz - Lleva tu app Ionic/Angular a la nube
-🕢19:35 - Q&A
+- 🕡19:00 - Presentación del canal y del grupo
+- 🕢19:05 - José Antonio Ruiz - Lleva tu app Ionic/Angular a la nube
+- 🕢19:35 - Q&A
 
 ---
 
