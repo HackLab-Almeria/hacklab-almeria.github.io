@@ -44,7 +44,7 @@ Requisito no necesario: si los asistentes quieren ir realizando los ejemplos que
 
 ### DONDE Y CUANDO
 
-El Lúnes 1 de Abril a las 21:00, a través de uno de los mejores servicios de videollamada OpenSource que existe, Jitsi.
+El Miércoles 1 de Abril a las 21:00, a través de uno de los mejores servicios de videollamada OpenSource que existe, Jitsi.
 
 No es necesaria instalación ninguna ni inscripción previa; solo abre el navegador que más te guste y abre el siguiente enlace:
 
