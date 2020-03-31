@@ -39,7 +39,7 @@ social:
 <p align="center">
   <img src="https://pbs.twimg.com/profile_images/1085106137245073408/J5ybg_gM_200x200.jpg" alt="José Antonio Ruiz" width="200px"/>
 </p>
-<p align="center">José Antonio Ruiz[@joseant_ruiz](https://twitter.com/joseant_ruiz) - Fullstack developer en Digital55</p>
+<p align="center">José Antonio Ruiz [@joseant_ruiz](https://twitter.com/joseant_ruiz) - Fullstack developer en Digital55</p>
 
 Lleva tu app Ionic/Angular a la nube con Firebase
 
