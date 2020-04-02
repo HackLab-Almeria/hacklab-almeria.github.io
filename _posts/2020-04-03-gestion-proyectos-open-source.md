@@ -34,6 +34,7 @@ social:
 En esta charla veremos una serie de herramientas gratuitas (Algunas OpenSource), para poder gestionar desde la documentación y planificación de nuestro proyecto, hasta pasar por el uso de Integración continua o análisis de código estático.
 
 Veremos herramientas como travis, Github, SonarQube las cuales pueden ser de gran ayuda.
+
 ---
 
 ### DONDE Y CUANDO
