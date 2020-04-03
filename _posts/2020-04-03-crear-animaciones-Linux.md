@@ -12,7 +12,7 @@ place: "Youtube"
 street: Online"
 locality: "Universo"
 postalCode: "04001"
-map: https://www.youtube.com/channel/UCrzZ7vmCw2HuY8EuwWlM1GQ
+map: https://www.youtube.com/watch?v=0223szGA3ck
 
 category: actividades
 #Redes sociales. Máximo 90 carácteres para el texto
