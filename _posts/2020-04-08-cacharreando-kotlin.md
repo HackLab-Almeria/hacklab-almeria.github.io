@@ -7,7 +7,7 @@ description: "Charla/taller dónde escribiremos los códigos más clásicos en K
 startDate: 2020-04-08T19:00
 endDate: 2020-04-08T21:00
 #Lugar
-place: https://meet.jit.si/charlaHA_intro_kotlin
+place: https://www.youtube.com/channel/UCrzZ7vmCw2HuY8EuwWlM1GQ
 street: "Servicios de videoconferencia de Jitsi"
 locality: "Internet"
 postalCode: ""
@@ -38,9 +38,9 @@ Va ser una charla más bien práctica con la idea de conocer las ventajas del le
 
 ### ¿Dónde y cuándo?
 
-El día 8 de abril a las 19:00, haciendo uso de los servicios de videoconferencia de Jitsi en la siguiente dirección:
+El día 8 de abril a las 19:00, haciendo uso del streaming de youtube en el canal del Hacklab:
 
-[https://meet.jit.si/charlaHA_intro_kotlin](https://meet.jit.si/charlaHA_intro_kotlin)
+[https://www.youtube.com/channel/UCrzZ7vmCw2HuY8EuwWlM1GQ](https://www.youtube.com/channel/UCrzZ7vmCw2HuY8EuwWlM1GQ)
 
 ---
 
