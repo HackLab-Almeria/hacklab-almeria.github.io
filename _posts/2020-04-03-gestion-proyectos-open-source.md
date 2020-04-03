@@ -45,7 +45,7 @@ No es necesaria instalación ninguna ni inscripción previa; solo abre el navega
 
 [https://meet.jit.si/hacklabalm_gestion_opensource](https://meet.jit.si/hacklabalm_gestion_opensource)
 
-**NOTA:** Esta charla se retransmitirá a través de youtube.
+**NOTA:** Debido a un cambio de última hora esta charla se subirá en diferido a youtube.
 
 ---
 
