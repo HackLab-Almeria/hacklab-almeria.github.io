@@ -8,7 +8,7 @@ startDate: 2020-04-08T19:00
 endDate: 2020-04-08T21:00
 #Lugar
 place: https://www.youtube.com/channel/UCrzZ7vmCw2HuY8EuwWlM1GQ
-street: "Servicios de videoconferencia de Jitsi"
+street: "Youtube"
 locality: "Internet"
 postalCode: ""
 category: actividades
@@ -50,5 +50,5 @@ Nuestro maestro de ceremonias será [@MiguelAngel_LV](https://twitter.com/Miguel
 
 ### Dónde inscribirse
 
-No es necesaria inscripción previa; solo conéctate a la dirección de Jitsi.
+No es necesaria inscripción previa; solo conéctate al chat de Youtube.
 
