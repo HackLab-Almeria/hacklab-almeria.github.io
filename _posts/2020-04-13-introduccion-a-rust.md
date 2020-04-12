@@ -1,7 +1,7 @@
 ---
 layout: post-jsonld
 #Datos del Evento
-title: "Introducción a Rust"
+title: "Introducción al lenguaje de programación Rust"
 description: "Introducción al lenguaje Rust"
 thumbnail: "/recursos/pythonalmeria.png"
 #Fecha
