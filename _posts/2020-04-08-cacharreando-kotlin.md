@@ -27,7 +27,7 @@ social:
 </p>
 
 
-Estamos en cerrados en casa, y no sabemos hasta cuando, así que aprender un nuevo lenguaje de programación puede ser algo entretenido.
+Estamos encerrados en casa y no sabemos hasta cuando, así que aprender un nuevo lenguaje de programación puede ser algo entretenido.
 
 
 En esta charla/taller escribiremos código en Kotlin para conocer este lenguaje y por qué está teniendo cada vez más éxito. 
