@@ -54,3 +54,9 @@ No es necesaria instalación ninguna ni inscripción previa; solo abre el navega
 El charlista será nuestro compi [Víctor Suarez](https://twitter.com/zerasul); el cual nos hablará sobre este lenguaje de programación.
 
 ---
+
+### Material Extra
+
+Tenéis disponible el siguiente repositorio con información:
+
+[https://github.com/zerasul/intro-rustlab](https://github.com/zerasul/intro-rustlab).
