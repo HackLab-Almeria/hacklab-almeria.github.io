@@ -1,7 +1,7 @@
 ---
 layout: post-jsonld
 #Datos del Evento
-title: "Introducción a Rust"
+title: "Introducción al lenguaje de programación Rust"
 description: "Introducción al lenguaje Rust"
 thumbnail: "/recursos/pythonalmeria.png"
 #Fecha
@@ -31,27 +31,29 @@ social:
 ### DESCRIPCIÓN
 
 
-Rust es un lenguaje de programación de proposito general que tiene una gran potencia; en este taller, veremos ejemplos y mostraremos la sintaxis de este para que cualquiera pueda empezar a utilizarlo
+Rust es un lenguaje de programación de proposito general que está despertando un enorme interés como alternativa moderna y mucho más segura que C, C++ y otros lenguajes de sistemas. En el taller veremos ejemplos y mostraremos la sintaxis con la intención de que cualquiera pueda empezar a utilizarlo
 
-Iremos mostrando con ejemplos las distintas características de este lenguaje de programación y veremos algunos ejemplos de uso.
-
----
-
-### DONDE Y CUANDO
-
-El Lúnes 13 de Abril a las 19:00, a través de uno de los mejores servicios de videollamada OpenSource que existe, Jitsi.
-
-No es necesaria instalación ninguna ni inscripción previa; solo abre el navegador que más te guste y abre el siguiente enlace:
-
-[https://meet.jit.si/hacklabalm_rust](https://meet.jit.si/hacklabalm_rust)
-
-**NOTA:** Esta charla se retransmitirá a través de Youtube.
+Veremos ejemplos de las características más importantes de este lenguaje de programación y algunos ejemplos de uso.
 
 ---
 
-### QUIEN HABLA
+### DÓNDE Y CUÁNDO
 
-El charlista será nuestro compi [Víctor Suarez](https://twitter.com/zerasul); el cual nos hablará sobre este lenguaje de programación.
+El lúnes 13 de abril a las 19:00, a través de uno de los mejores servicios de videollamada OpenSource que existe, [Jitsi](https://jitsi.org/).
+
+Para acceder desde el escritorio no es necesario instalar nada, sólo abre un navegador moderno que más te guste y abre el siguiente enlace: [https://meet.jit.si/hacklabalm_rust](https://meet.jit.si/hacklabalm_rust)
+
+También puedes ver la charla en un dispositivo móvil, para el que sí necesitarás instalar una aplicación.
+
+En cualquier caso no hace falta ninguna inscripción previa.
+
+**NOTA:** Posteriormente la charla será publicada en [nuestro canal de Youtube](https://www.youtube.com/c/hacklabalmerianet).
+
+---
+
+### QUIÉN HABLA
+
+El charlista será nuestro compi [Víctor Suarez](https://twitter.com/zerasul) y nos hablará sobre este lenguaje de programación.
 
 ---
 
