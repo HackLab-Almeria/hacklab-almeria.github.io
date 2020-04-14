@@ -40,11 +40,7 @@ social:
 
 ### Dónde y cuándo
 
-El martes 14 de abril a las 19:00, a través de uno de los mejores servicios de videollamada OpenSource que existe, [Jitsi](https://jitsi.org/).
-
-Para acceder desde el escritorio no es necesario instalar nada, sólo abre un navegador moderno que más te guste y abre el siguiente enlace: [https://meet.jit.si/Comando_Flatpak](https://meet.jit.si/Comando_Flatpak). También puedes ver la charla en un dispositivo móvil, para el que sí necesitarás instalar una aplicación.
-
-En paralelo también se [emitirá a través de Youtube](https://www.youtube.com/watch?v=FoTRIXsVFaA), donde quedará publicada.
+El martes 14 de abril a las 19:00 CET, a través de Youtube: [https://www.youtube.com/watch?v=FoTRIXsVFaA](https://www.youtube.com/watch?v=FoTRIXsVFaA), donde quedará publicada.
 
 En cualquier caso no hace falta ninguna inscripción previa.
 
