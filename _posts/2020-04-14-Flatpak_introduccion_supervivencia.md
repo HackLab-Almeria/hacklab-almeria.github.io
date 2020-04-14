@@ -28,7 +28,7 @@ social:
 
 # \#YoMeQuedoEnCasa
 
-<center><img src="/recursos/flatpak-truck.png" style="width: 400px"></center>
+<center><img src="https://hacklabalmeria.net/recursos/flatpak-truck.png" style="width: 400px"></center>
 
 ### Descripción
 
