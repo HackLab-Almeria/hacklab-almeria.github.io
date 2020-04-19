@@ -8,11 +8,11 @@ thumbnail: "/recursos/flatpak-logo-200.png"
 startDate: 2020-04-14T19:00
 endDate: 2020-04-14T20:00
 #Lugar
-place: "Jitsi"
+place: "Youtube"
 street: Online"
 locality: "Almería"
 postalCode: "04001"
-map: https://meet.jit.si/Comando_Flatpak
+map: https://www.youtube.com/watch?v=FoTRIXsVFaA
 category: actividades
 #Redes sociales. Máximo 90 carácteres para el texto
 social:
@@ -28,7 +28,7 @@ social:
 
 # \#YoMeQuedoEnCasa
 
-<center><img src="/recursos/flatpak-truck.png" style="width: 400px"></center>
+<center><img src="https://hacklabalmeria.net/recursos/flatpak-truck.png" style="width: 400px"></center>
 
 ### Descripción
 
@@ -40,13 +40,9 @@ social:
 
 ### Dónde y cuándo
 
-El martes 14 de abril a las 19:00, a través de uno de los mejores servicios de videollamada OpenSource que existe, [Jitsi](https://jitsi.org/).
-
-Para acceder desde el escritorio no es necesario instalar nada, sólo abre un navegador moderno que más te guste y abre el siguiente enlace: [https://meet.jit.si/Comando_Flatpak](https://meet.jit.si/Comando_Flatpak). También puedes ver la charla en un dispositivo móvil, para el que sí necesitarás instalar una aplicación.
+El martes 14 de abril a las 19:00 CET, a través de Youtube: [https://www.youtube.com/watch?v=FoTRIXsVFaA](https://www.youtube.com/watch?v=FoTRIXsVFaA), donde quedará publicada.
 
 En cualquier caso no hace falta ninguna inscripción previa.
-
-**NOTA:** Posteriormente la charla será publicada en [nuestro canal de Youtube](https://www.youtube.com/c/hacklabalmerianet).
 
 ### Orador
 
