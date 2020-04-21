@@ -55,3 +55,9 @@ En cualquier caso no hace falta ninguna inscripción previa.
 El charlista será nuestro compi [Víctor Suarez](https://twitter.com/zerasul) y nos hablará sobre como podemos crear nuestros juegos.
 
 ---
+
+### MATERIAL EXTRA
+
+Os dejamos la dirección de la web que vamos a seguir en la charla:
+
+[https://zerasul.github.io/taller-megadrive/](https://zerasul.github.io/taller-megadrive/)
