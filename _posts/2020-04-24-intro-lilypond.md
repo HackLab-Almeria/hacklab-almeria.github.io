@@ -19,7 +19,7 @@ category: actividades
 
 <p align="center">
   <img 
-    src="https://commons.wikimedia.org/wiki/File:LilyPond-logo-with-music.png" 
+    src="https://upload.wikimedia.org/wikipedia/commons/0/03/LilyPond-logo-with-music.png" 
     alt="GNU LilyPond" height="400px"/>
 </p>
 
