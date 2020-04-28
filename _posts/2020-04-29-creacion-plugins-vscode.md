@@ -11,7 +11,7 @@ place: "Jitsi"
 street: "En línea"
 locality: "Almería"
 postalCode: "04001"
-map: https://meet.jit.si/hacklabalm_intro_lilypond
+map: https://meet.jit.si/hacklabalm_vscode
 category: actividades
 ---
 
@@ -35,7 +35,7 @@ En esta charla hablaremos sobre como podemos crear extensiones para Visual Studi
 
 El viernes 29 de abril a las 19:00, a través del gran servicio, y siempre fiel, [Meet Jitsi](https://meet.jit.si).
 
-Para acceder desde el escritorio no es necesario instalar nada, sólo abre el navegador moderno que más te guste y abrir el [enlace de la sesión](https://meet.jit.si/hacklabalm_intro_lilypond).
+Para acceder desde el escritorio no es necesario instalar nada, sólo abre el navegador moderno que más te guste y abrir el [enlace de la sesión](https://meet.jit.si/hacklabalm_vscode).
 
 También puedes ver la charla en un dispositivo móvil, para el que sí necesitarás instalar una aplicación.
 
