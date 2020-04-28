@@ -19,8 +19,8 @@ category: actividades
 
 <p align="center">
   <img 
-    src="https://1.bp.blogspot.com/-IXLRwe3qrok/XR-cF0fOFKI/AAAAAAAAEMY/xf-4N5FmLdc_wDLOgdaEpqy3MBIQR7ryQCLcBGAs/s1600/vscodium.png" 
-    alt="GNU LilyPond" height="400px"/>
+    src="https://res.cloudinary.com/practicaldev/image/fetch/s--LiYXrus5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://code4coders.files.wordpress.com/2019/05/008ce-1cn_xbd307e3lobhk511qqg.png%3Fw%3D700%26zoom%3D2%2522%2520Logo%2520Title%2520Text%25201%2522" 
+    alt="VScode/vscodium" width="250px"/>
 </p>
 
 ### Descripción
