@@ -33,7 +33,7 @@ En esta charla hablaremos sobre como podemos crear extensiones para Visual Studi
 
 ### ¿Dónde y cuándo?
 
-El MIércoles 29 de abril a las 19:00, a través del gran servicio, y siempre fiel, [Meet Jitsi](https://meet.jit.si).
+El Miércoles 29 de abril a las 19:00, a través del gran servicio, y siempre fiel, [Meet Jitsi](https://meet.jit.si).
 
 Para acceder desde el escritorio no es necesario instalar nada, sólo abre el navegador moderno que más te guste y abrir el [enlace de la sesión](https://meet.jit.si/hacklabalm_vscode).
 
