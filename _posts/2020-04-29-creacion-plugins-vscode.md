@@ -55,7 +55,7 @@ El orador será nuestro compañero [Victor Suarez](https://twitter.com/zerasul),
 
 Recuerda:
 
-- 🕡19:00-19:50 Charla Introducción a Lilypond
+- 🕡19:00-19:50 Charla Introducción a la creaciónd e Extensiones para VSCODE.
 - 🕢19:50:19:55 - Preguntas y consultas
 
 ---
