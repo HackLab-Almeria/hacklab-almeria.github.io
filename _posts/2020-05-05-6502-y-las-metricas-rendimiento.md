@@ -46,6 +46,6 @@ No es necesaria instalación ninguna ni inscripción previa; solo abre el navega
 
 ### QUIEN HABLA
 
-El charlista será nuestro compañero [Carlos Javier Santiesteban](https://twitter.com/zuiko21); el cual nos hablará sobre el uso de markdown y pandoc.
+El charlista será nuestro compañero [Carlos Javier Santisteban](https://twitter.com/zuiko21); el cual nos hablará sobre el uso de markdown y pandoc.
 
 ---
