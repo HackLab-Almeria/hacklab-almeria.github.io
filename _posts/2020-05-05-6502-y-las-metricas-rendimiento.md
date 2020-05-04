@@ -47,4 +47,5 @@ No es necesaria instalación ninguna ni inscripción previa; solo abre el navega
 ### QUIEN HABLA
 
 El charlista será nuestro compañero [Carlos Javier Santisteban](https://twitter.com/zuiko21); el cual nos hablará sobre el procesador 6502 y su evolución.
+
 ---
