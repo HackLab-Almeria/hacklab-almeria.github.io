@@ -12,7 +12,7 @@ place: "Jitsi"
 street: Online"
 locality: "Almería"
 postalCode: "04006"
-map: https://meet.jit.si/hacklabalm_ansible
+map: https://meet.jit.si/hacklabalm_ansible2
 category: actividades
 #Redes sociales. Máximo 90 carácteres para el texto
 social:
@@ -46,7 +46,7 @@ El Juéves 7 de Mayo a las 20:10 (justo después de los aplausos), a través de 
 
 No es necesaria instalación ninguna ni inscripción previa; solo abre el navegador que más te guste y abre el siguiente enlace:
 
-[https://meet.jit.si/hacklabalm_ansible](https://meet.jit.si/hacklabalm_ansible)
+[https://meet.jit.si/hacklabalm_ansible2](https://meet.jit.si/hacklabalm_ansible2)
 
 **NOTA:** Para evitar problemas con la charla, se habilitará la retransmisión en directo a través de youtube.
 
