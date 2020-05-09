@@ -9,7 +9,7 @@ startDate: 2020-05-13T20:15
 endDate: 2020-05-13T21:15
 #Lugar
 place: "Jitsi"
-street: Online"
+street: "Online"
 locality: "Almería"
 postalCode: "04006"
 map: https://meet.jit.si/hacklabalm_anarres
@@ -34,7 +34,7 @@ social:
 
 ### DESCRIPCIÓN
 
-Anteriormente explicamos cómo funciona Ansible, en este taller juntaremos esta potencia sumada al poder de Docker para levantar servicios en minutos. En este taller explicaremos el proyecto [Anarres](https://github.com/anarres-org/anarres), un *playbook* de Ansible para desplegar un servidor GNU/Linux con todos los servicios que necesitemos.
+Anteriormente explicamos cómo funciona Ansible, en este taller juntaremos esta potencia sumada al poder de Docker para levantar servicios en minutos. En esta sesión explicaremos el proyecto [Anarres](https://github.com/anarres-org/anarres), un *playbook* de Ansible para desplegar un servidor GNU/Linux con todos los servicios que necesitemos.
 
 En este taller explicaremos:
 * Introducción a [Docker](https://www.docker.com/)
