@@ -29,6 +29,7 @@ social:
 Cloud, vivir en las nubes
 
 En esta charla veremos algo del vocabulario asociado a cloud computing, e intentaremos presentar un taller de despligue sencillo.
+El material de uso esta en este repo de [github](https://github.com/goretoxo/charla_cloud)
 
 ---
 
