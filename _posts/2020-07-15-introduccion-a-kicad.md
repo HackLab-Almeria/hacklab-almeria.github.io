@@ -59,7 +59,7 @@ El MIércoles 15 de Mayo a las 19:00, en Youtube.
 
 No es necesaria instalación ninguna ni inscripción previa; solo abre el navegador que más te guste y abre el siguiente enlace:
 
-[Youtube de HacklabAlmeria](https://youtu.be/HULkfmWL20U)
+[Youtube de HacklabAlmeria](https://www.youtube.com/channel/UCrzZ7vmCw2HuY8EuwWlM1GQ)
 
 ---
 
