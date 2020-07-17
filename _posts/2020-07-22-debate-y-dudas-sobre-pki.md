@@ -15,12 +15,6 @@ map: https://meet.jit.si/hacklab_almeria
 category: actividades
 ---
 
-<p align="center">
-  <img
-    src="/recursos/2020-07-15/LOGO.png"
-    alt="Anarres" width="250px"/>
-</p>
-
 ### DESCRIPCIÓN
 
 Actividad en formato abierto para resolver dudas y debatir sobre PKIs, estado del arte, como abordar ciertas configuraciones, automatización, y cualquier otra cuestión que planteen los asistentes.
@@ -31,7 +25,7 @@ Ven y mójate, no es necesario ningún nivel previo de conocimientos :)
 
 ### DONDE Y CUANDO
 
-El MIércoles 22 de Julio a las 19:00, en Jitsi.
+El Miércoles 22 de Julio a las 19:00, en Jitsi.
 
 No es necesaria instalación ninguna ni inscripción previa; solo abre el navegador que más te guste y abre el siguiente enlace:
 
