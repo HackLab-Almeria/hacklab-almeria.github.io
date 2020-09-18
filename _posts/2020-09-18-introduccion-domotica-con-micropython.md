@@ -12,7 +12,7 @@ place: "Youtube de Hacklab Almeria"
 street: Online"
 locality: "Almería"
 postalCode: "04006"
-map: https://youtu.be/HULkfmWL20U
+map: https://youtu.be/es5FmXKMJ04
 category: actividades
 #Redes sociales. Máximo 90 carácteres para el texto
 social:
@@ -45,7 +45,7 @@ El Viernes 18 de Septiembre a las 19:00, en Youtube.
 
 No es necesaria instalación ninguna ni inscripción previa; solo abre el navegador que más te guste y abre el siguiente enlace:
 
-[Canal de Youtube de HackLab Almería](https://www.youtube.com/channel/UCrzZ7vmCw2HuY8EuwWlM1GQ)
+[Canal de Youtube de HackLab Almería](https://youtu.be/es5FmXKMJ04)
 
 ---
 
