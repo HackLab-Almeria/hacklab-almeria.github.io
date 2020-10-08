@@ -29,7 +29,7 @@ Si bien este framework aún está en Alpha (aunque yo diría que ni llega...) po
 Únete a esta introducción a este nuevo concepto lleno de bugs, fallos, explosiones y «no entiendo porqué este no código va y el otro sí»
 
 
-## ¿A QUIÉN VA DIRIGIDA?
+### ¿A QUIÉN VA DIRIGIDA?
 
 Esta charla está orientada a programadores con cierto nivel. No es necesario que sepan de Android, pero sí tengan conocimientos
 de programación de interfaces de usuario en algún otro sistema.
