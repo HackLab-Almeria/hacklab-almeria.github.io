@@ -4,8 +4,8 @@ layout: post-jsonld
 title: "Descrubriendo Jetpack Compose, el nuevo sistema de UIs para Android"
 description: "Android está preparando una nueva forma de crear UIs. Únete para ver lo que vendrá."
 #Fecha
-startDate: 2020-10-15T18:00
-endDate: 2020-10-15T20:00
+startDate: 2020-10-16T18:00
+endDate: 2020-10-16T20:00
 #Lugar
 place: "Youtube de HacklabAlmeria"
 street: "Online"
@@ -38,7 +38,7 @@ de programación de interfaces de usuario en algún otro sistema.
 
 ### DONDE Y CUANDO
 
-El jueves 15 de octubre a las 18:00, en youtube.
+El viernes 16 de octubre a las 18:00, en youtube.
 
 No es necesaria instalación ninguna ni inscripción previa; solo abre el navegador que más te guste y abre el siguiente enlace:
 
