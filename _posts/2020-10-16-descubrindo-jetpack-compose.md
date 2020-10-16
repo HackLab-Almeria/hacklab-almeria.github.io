@@ -11,14 +11,13 @@ place: "Youtube de HacklabAlmeria"
 street: "Online"
 locality: "Almería"
 postalCode: "04006"
-map: https://www.youtube.com/channel/UCrzZ7vmCw2HuY8EuwWlM1GQ
+map: https://youtu.be/al-aNSbnB3Q
 category: actividades
 ---
 
 ### DESCRIPCIÓN
 
-Activities, XMLs, Fragments (horribles fragments...), Databidings, ViewModels... A lo largo de los años, Android nos ha ofrecido 
-multitud de herramientas para crear las interfaces gráficas, pero más o menos el concepto era el mismo: XML + código.
+Activities, XMLs, Fragments (horribles fragments...), Databidings, ViewModels... A lo largo de los años, Android nos ha ofrecido multitud de herramientas para crear las interfaces gráficas, pero más o menos el concepto era el mismo: XML + código.
 
 Ahora nos presentan [Jetpack Compose](https://developer.android.com/jetpack/compose?hl=es-419), una nueva forma de desarrollar las interfaces gráficas rompiendo con lo establecido.
 
@@ -27,7 +26,6 @@ Haciendo uso de Kotlin, puedes crear distintos componentes y «componerlos» ent
 Si bien este framework aún está en Alpha (aunque yo diría que ni llega...) podremos ver cual será seguramente el futuro de las UI en Android.
 
 Únete a esta introducción a este nuevo concepto lleno de bugs, fallos, explosiones y «no entiendo porqué este no código va y el otro sí»
-
 
 ### ¿A QUIÉN VA DIRIGIDA?
 
@@ -42,7 +40,7 @@ El viernes 16 de octubre a las 18:00, en youtube.
 
 No es necesaria instalación ninguna ni inscripción previa; solo abre el navegador que más te guste y abre el siguiente enlace:
 
-[Youtube de HacklabAlmeria](https://www.youtube.com/channel/UCrzZ7vmCw2HuY8EuwWlM1GQ)
+[Youtube de HacklabAlmeria](https://youtu.be/al-aNSbnB3Q)
 
 ---
 
