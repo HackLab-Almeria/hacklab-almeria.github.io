@@ -5,7 +5,7 @@ title: "Spring Boot con Kotlin"
 description: "Charla de introducción al framework para Microservicios Spring Boot con el lenguaje Kotlin"
 thumbnail: "/recursos/pythonalmeria.png"
 #Fecha
-startDate: 2021-01-28T19:00
+startDate: 2021-01-28T18:00
 endDate: 2021-01-28T20:00
 #Lugar
 place: "Youtube de Hacklab Almeria"
@@ -24,7 +24,7 @@ social:
 
 <p align="center">
   <img
-    src="/recursos/spring-boot.png"
+    src="{{site.url}}/recursos/spring-boot.png"
     alt="Spring Boot" width="250px"/>
 </p>
 
@@ -36,7 +36,7 @@ Spring boot se ha convertido en uno de los frameworks más utilizados a la hora 
 
 ### DONDE Y CUANDO
 
-El Jueves 28 de Enero a las 19:00, en Youtube.
+El Jueves 28 de Enero a las 18:00, en Youtube.
 
 No es necesaria instalación ninguna ni inscripción previa; solo abre el navegador que más te guste y abre el siguiente enlace:
 
