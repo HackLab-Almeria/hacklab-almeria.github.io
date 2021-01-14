@@ -69,7 +69,7 @@ FIN PROBLEMAS FORO -->
     var discourseUrl = "https://foro.hacklabalmeria.net/"
 
     function readForoRss(e){
-        $.ajax({url:'http://json2jsonp.com/?url='+discourseUrl+'latest.json',
+        $.ajax({url:'https://json2jsonp.com/?url='+discourseUrl+'latest.json',
             dataType: 'jsonp',
             success:function(data){
                 data = data.topic_list.topics.slice(0, 10);
