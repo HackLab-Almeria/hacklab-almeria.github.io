@@ -12,7 +12,7 @@ place: "Youtube de Hacklab Almeria"
 street: Online"
 locality: "Almería"
 postalCode: "04006"
-map: https://www.youtube.com/channel/UCrzZ7vmCw2HuY8EuwWlM1GQ
+map: https://youtu.be/gWZ_-CPWtQ4
 category: actividades
 #Redes sociales. Máximo 90 carácteres para el texto
 social:
@@ -40,7 +40,7 @@ El Jueves 28 de Enero a las 18:00, en Youtube.
 
 No es necesaria instalación ninguna ni inscripción previa; solo abre el navegador que más te guste y abre el siguiente enlace:
 
-[Canal de Youtube de HackLab Almería](https://www.youtube.com/channel/UCrzZ7vmCw2HuY8EuwWlM1GQ)
+[Canal de Youtube de HackLab Almería](https://youtu.be/gWZ_-CPWtQ4)
 
 ---
 
