@@ -42,6 +42,6 @@ No es necesaria instalación ninguna ni inscripción previa; solo abre el navega
 
 ### QUIEN HABLA
 
-Esta charla será impartida por nuestro compañero [Juanjo Salvador(https://twitter.com/Linuxneitor)]; que nos hablará sobre como los atacantes sin necesidad de conocimientos de programación, podrían llegar a obtener datos personales; por lo que veremos como prevernirlo.
+Esta charla será impartida por nuestro compañero [Juanjo Salvador](https://twitter.com/Linuxneitor); que nos hablará sobre como los atacantes sin necesidad de conocimientos de programación, podrían llegar a obtener datos personales; por lo que veremos como prevernirlo.
 
 ---
