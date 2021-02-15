@@ -32,7 +32,7 @@ Un correo electrónico sospechoso puede ser el desencadenante de una fuga de inf
 
 ### DONDE Y CUANDO
 
-El Viernes 26 de Enero a las 18:30, en Youtube.
+El Viernes 26 de Febrero a las 18:30, en Youtube.
 
 No es necesaria instalación ninguna ni inscripción previa; solo abre el navegador que más te guste y abre el siguiente enlace:
 
