@@ -36,7 +36,7 @@ sin embargo, con la complejidad que están obteniendo las nuevas webs, esta deja
 Para solventar el problema (en parte) llega GraphQL, un sistema dónde el cliente (app móvil, front-end...) podrá solicitar
 solo los datos que desee y en la forma que desee, sin necesidad de modificar nada el backend.
 
-Únete a esta charla/streaming desfendado sin apenas preparación previa para ver que nos ofrece GraphQL junto con Spring Boot.
+Únete a esta charla/streaming desfendado sin apenas preparación previa para ver que nos ofrece GraphQL junto con Spring Boot; y usando el lenguaje Kotlin.
 
 ---
 
