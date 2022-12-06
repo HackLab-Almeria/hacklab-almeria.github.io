@@ -36,6 +36,6 @@ El taller tiene una duracion de 1h, y se plantea en modalidad mixta, presencial 
 <li>verificacion, sin tester: link, trafico...</li>
 </ul>
 
-<img src="/recursos/varios/Diagram_Alarm-Daisychain-T568BCrimp.jpg">
+<img src="https://lajaqueria.org/recursos/varios/Diagram_Alarm-Daisychain-T568BCrimp.jpg">
 
 
