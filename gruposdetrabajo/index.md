@@ -28,18 +28,6 @@ Programadores. Desarrolladores. Administradores de sistemas. DevOps. Profesional
 
 ---
 
-### Comunidad de desarrolladores Android de Almería
-
-* [Web en G+][3]
-
-Lo que comenzó como una [comunidad de G+][3] para conocernos todos los desarrolladores Android de Almería ha crecido a un gran colectivo
-de desarrolladores que buscan **aprender y compartir conocimiento**.
-
-Para ello, realizamos distintas actividades sobre el desarrollo Android con distintos niveles y enfoques, desde charlas
-magistrales hasta talleres puramente prácticos.
-
----
-
 ### Grupo de estudio de seguridad informática
 
 * Twitter: [@GESI_AL][4]
@@ -47,12 +35,6 @@ magistrales hasta talleres puramente prácticos.
 
 Colectivo enfocado en la seguridad informática con charlas regulares dónde encontrarás formación sobre como
 detectar vulnerabilidades en sistemas informáticos y como evitar ser víctima de los distintos ataques.
-
----
-
-### Periodismo de datos: Al-Dato
-
-* Web: [aldato.es][5]
 
 ---
 
