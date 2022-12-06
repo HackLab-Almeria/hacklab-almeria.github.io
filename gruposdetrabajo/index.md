@@ -21,7 +21,7 @@ Nuestra especialidad son **[Arduino][1]** y **[Raspberry Pi][2]**, pero siempre 
 
 ### SW Almería
 
-* Web: [SW Almería](http://foro.hacklabalmeria.net/c/sw-almeria)
+* Web: [SW Almería](https://foro.hacklabalmeria.net/c/sw-almeria)
 
 Programadores. Desarrolladores. Administradores de sistemas. DevOps. Profesionales. Estudiantes. Aficionados. Todos nos encontramos aquí principalmente para organizar actividades presenciales: conferencias, talleres, etc.
 
@@ -31,7 +31,7 @@ Programadores. Desarrolladores. Administradores de sistemas. DevOps. Profesional
 ### Grupo de estudio de seguridad informática
 
 * Twitter: [@GESI_AL][4]
-* Web: [foro](http://foro.hacklabalmeria.net/c/gesial)
+* Web: [foro](https://foro.hacklabalmeria.net/c/gesial)
 
 Colectivo enfocado en la seguridad informática con charlas regulares dónde encontrarás formación sobre como
 detectar vulnerabilidades en sistemas informáticos y como evitar ser víctima de los distintos ataques.
@@ -41,9 +41,9 @@ detectar vulnerabilidades en sistemas informáticos y como evitar ser víctima d
 ### GeoinquietosALM
 
 * Twitter: [@GeoinquietosALM][6]
-* web: [foro](http://foro.hacklabalmeria.net/c/geoinquietosalm)
+* web: [foro](https://foro.hacklabalmeria.net/c/geoinquietosalm)
 
-Somos los [#geoinquietos](https://twitter.com/hashtag/geoinquietos?src=hash) de Almería. #GenteQueHaceCosas con mapas, [Open Street Map](http://www.openstreetmap.org/relation/348997#map=9/36.9323/-2.3840), etc.        
+Somos los [#geoinquietos](https://twitter.com/hashtag/geoinquietos?src=hash) de Almería. #GenteQueHaceCosas con mapas, [Open Street Map](https://www.openstreetmap.org/relation/348997#map=9/36.9323/-2.3840), etc.        
 
 
 
@@ -53,7 +53,7 @@ Somos los [#geoinquietos](https://twitter.com/hashtag/geoinquietos?src=hash) de 
 
 Víctimas del síndrome del ansia viva:
 
-* En el foro del hacklab [http://foro.hacklabalmeria.net/c/hardware/impresoras-3d](http://foro.hacklabalmeria.net/c/hardware/impresoras-3d)
+* En el foro del hacklab [https://foro.hacklabalmeria.net/c/hardware/impresoras-3d](https://foro.hacklabalmeria.net/c/hardware/impresoras-3d)
 * [En G+](https://plus.google.com/communities/113744444592349758317)
 
 
@@ -61,7 +61,7 @@ Víctimas del síndrome del ansia viva:
 
 ### Grupo de estudio de OpenERP / Odoo
 
- * Web: [foro](http://foro.hacklabalmeria.net/c/odoo) 
+ * Web: [foro](https://foro.hacklabalmeria.net/c/odoo) 
 
 Juntos aprendemos a usar y extender Odoo.
 
@@ -69,7 +69,7 @@ Juntos aprendemos a usar y extender Odoo.
 
 ### Abre tu Aula
 
- * Web: [foro](http://foro.hacklabalmeria.net/c/abre-tu-aula)
+ * Web: [foro](https://foro.hacklabalmeria.net/c/abre-tu-aula)
  * En Facebook: colectivo [Jornadas de Escuela Moderna](https://www.facebook.com/groups/713373022026285/920740294622889/)
 
 Somos profesores inquietos. Una comunidad que explora las posibilidades de la pedagogía moderna. Abrimos nuestras aulas para compartir nuestras experiencias con nuestros compañeros, alumnos, sus familias y el resto de la sociedad.
@@ -102,10 +102,10 @@ Más info en la web de **[La Jaquería][7]**
 ---
 
 
-[1]: http://www.arduino.cc
-[2]: http://www.raspberrypi.org
+[1]: https://www.arduino.cc
+[2]: https://www.raspberrypi.org
 [3]: https://plus.google.com/u/0/communities/105420979515011141876
 [4]: https://twitter.com/GESI_AL
-[5]: http://www.aldato.es
+[5]: https://www.aldato.es
 [6]: https://twitter.com/GeoinquietosALM
 [7]: https://lajaqueria.org
