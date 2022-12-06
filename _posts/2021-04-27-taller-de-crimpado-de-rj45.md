@@ -1,5 +1,5 @@
 ---
-layout: actividad
+layout: post-jsonld
 #Datos del post
 title: "Taller de crimpado de latiguillos de red (RJ45)"
 

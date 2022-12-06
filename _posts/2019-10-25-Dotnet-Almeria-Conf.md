@@ -1,5 +1,5 @@
 ---
-layout: actividad
+layout: post-jsonld
 
 #Datos del Evento
 title: "DotNet Almería Conf"

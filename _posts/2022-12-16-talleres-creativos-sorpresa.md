@@ -1,5 +1,5 @@
 ---
-layout: actividad
+layout: post-jsonld
 
 #Datos del Evento
 title: "Talleres Creativos Sorpresa - Hermanas, primos y cuñados !!"

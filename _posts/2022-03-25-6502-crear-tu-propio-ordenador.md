@@ -1,5 +1,5 @@
 ---
-layout: actividad
+layout: post-jsonld
 
 #Datos del Evento
 title: "6502: Como crear tu propio Ordenador"

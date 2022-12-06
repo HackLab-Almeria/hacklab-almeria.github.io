@@ -1,5 +1,5 @@
 ---
-layout: actividad
+layout: post-jsonld
 
 #Datos del Evento
 title: "Club de desarrollo Retro: Basic"

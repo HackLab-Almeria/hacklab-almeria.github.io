@@ -1,5 +1,5 @@
 ---
-layout: actividad
+layout: post-jsonld
 
 #Datos del Evento
 title: "AWS Associate Solutions Architect Certification (primera sesion)"
