@@ -85,9 +85,6 @@ Nuestro objetivo es fomentar la presencia y las vocaciones femeninas en el mundo
 
 ---
 
-### Club de Python de Almería
-
----
 ### La Jaquería
 
 * Web: [portada](https://lajaqueria.org)
