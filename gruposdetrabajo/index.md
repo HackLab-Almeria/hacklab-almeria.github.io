@@ -106,6 +106,13 @@ Nuestro objetivo es fomentar la presencia y las vocaciones femeninas en el mundo
 ### Club de Python de Almería
 
 ---
+### La Jaquería
+
+La Jaquería es una organización de naturaleza asociativa sin ánimo de lucro, con fines culturales, situada en Almería. Sus principales finalidades son, resumiendo, promover la experimentación y el conocimiento tecnológico, científico, y artístico a través de la colaboración y educación social sirviendo de punto de difusión de la llamada cultura maker, o conjunto de prácticas basadas en el “hágalo por si mismo” herederas de la ética hacker y la experimentación en los procesos de creación y fabricación digital (diseño global, fabricación local), acercando la Ciencia y la Tecnología a la ciudadanía para fomentar la cultura científica y el racionalismo.
+Todo ello estimulando lo colectivo tanto como lo personal, la cercanía entre iguales, los afectos, los proyectos, ideas o sueños. Esperamos ser un espacio de colaboración que solucione problemas reales de la sociedad tanto como divertirnos debatiendo, haciendo o compartiendo; queremos ser lugar y grupo de cooperación, difusión y divulgación científico humanística a partes iguales.
+Más info en la web de **[[La Jaquería][7]**
+
+---
 
 
 [1]: http://www.arduino.cc
@@ -114,3 +121,4 @@ Nuestro objetivo es fomentar la presencia y las vocaciones femeninas en el mundo
 [4]: https://twitter.com/GESI_AL
 [5]: http://www.aldato.es
 [6]: https://twitter.com/GeoinquietosALM
+[7]: https://lajaqueria.org
