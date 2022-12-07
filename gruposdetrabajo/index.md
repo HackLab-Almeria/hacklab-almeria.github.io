@@ -8,6 +8,8 @@ Esta página pretende refenciar no solo los grupos de trabajo que han aparecido 
 
 El histórico de grupos de trabajo puede encontrarse **[aqui][1]**
 
+Estos son los grupos de trabajo activos a dia de hoy:
+
 
 ---
 
