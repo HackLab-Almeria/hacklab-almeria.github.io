@@ -7,7 +7,7 @@ title: Aviso Legal
 La denominacion social del titular de la web es Asociación La Jaquería, CIF: G-04884573, con domicilio en la Calle de la Vega, 44, bajo, 04007, Almería, que figura inscrita en el registro de asociaciones con el número 06687. El correo de contacto del titular de la web es lajaqueria@gmail.com
 
 #### Responsabilidad legal por el contenido
-Las opiniones e informaciones expresadas en las publicaciones de los usuarios no reflejan necesariamente los puntos de vista del titular de la web. La información.
+Las opiniones e informaciones expresadas en las publicaciones de los usuarios no reflejan necesariamente los puntos de vista del titular de la web. 
 En el caso de que un usuario o un tercero consideren que se ha producido una violación de sus legítimos derechos de propiedad intelectual por la introducción de un determinado contenido en el foro, deberá notificar dicha circunstancia al titular de la web.
 
 #### Condiciones de uso
